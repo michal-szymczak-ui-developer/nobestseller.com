@@ -1,0 +1,946 @@
+{
+  "nazwa": "Kubrick",
+  "opis": "Filmy polecane przez Stanleya Kubricka.",
+  "pozycje": [
+    {
+      "tytuł": "Furman śmierci",
+      "tytuł_oryginalny": "Körkarlen",
+      "reżyser": "Victor Sjöström",
+      "rok": "1921",
+      "kraj": "Szwecja",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "12+",
+      "opis": "W sylwestrową noc Dawid Holm, pijak i brutal, spotyka Woźnicę Śmierci, który pokazuje mu konsekwencje jego czynów. Film jest przypowieścią o winie i odkupieniu."
+    },
+    {
+      "tytuł": "Metropolis",
+      "tytuł_oryginalny": "Metropolis",
+      "reżyser": "Fritz Lang",
+      "rok": "1927",
+      "kraj": "Niemcy",
+      "gatunek": "Science fiction",
+      "kategoria_wiekowa": "12+",
+      "opis": "W futurystycznym mieście robotnicy pracują pod ziemią, podczas gdy elita żyje w luksusie na powierzchni. Syn władcy miasta wpada w wir konfliktu klas."
+    },
+    {
+      "tytuł": "Napoleon",
+      "tytuł_oryginalny": "Napoléon vu par Abel Gance",
+      "reżyser": "Abel Gance",
+      "rok": "1927",
+      "kraj": "Francja",
+      "gatunek": "Biograficzny",
+      "kategoria_wiekowa": "12+",
+      "opis": "Film opowiada o młodości i początkach kariery Napoleona Bonapartego, od lat szkolnych po kampanię włoską. Kubrick nazywał go arcydziełem filmowej inwencji."
+    },
+    {
+      "tytuł": "Anioły piekieł",
+      "tytuł_oryginalny": "Hell's Angels",
+      "reżyser": "Howard Hughes",
+      "rok": "1930",
+      "kraj": "USA",
+      "gatunek": "Wojenny",
+      "kategoria_wiekowa": "12+",
+      "opis": "Dwaj bracia, piloci w I wojnie światowej, rywalizują o tę samą kobietę i stają przed trudnymi wyborami w powietrznych bitwach. Kubrick umieścił go na liście dziesięciu filmów przesłanej w 1963 roku magazynowi „Cinema” (miejsce 10)."
+    },
+    {
+      "tytuł": "Błękitny anioł",
+      "tytuł_oryginalny": "Der blaue Engel",
+      "reżyser": "Josef von Sternberg",
+      "rok": "1930",
+      "kraj": "Niemcy",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "16+",
+      "opis": "Statecznego profesora gimnazjalnego zwodzi śpiewaczka kabaretowa Lola Lola, co prowadzi go do upadku. Film uczynił Marlene Dietrich gwiazdą światowego formatu."
+    },
+    {
+      "tytuł": "Światła wielkiego miasta",
+      "tytuł_oryginalny": "City Lights",
+      "reżyser": "Charles Chaplin",
+      "rok": "1931",
+      "kraj": "USA",
+      "gatunek": "Komedia",
+      "kategoria_wiekowa": "6+",
+      "opis": "Włóczęga Charlot zakochuje się w niewidomej kwiaciarce i próbuje zdobyć pieniądze na operację przywracającą jej wzrok. Kubrick umieścił go na liście dziesięciu filmów przesłanej w 1963 roku magazynowi „Cinema” (miejsce 5)."
+    },
+    {
+      "tytuł": "Bohaterska kermesa",
+      "tytuł_oryginalny": "La Kermesse héroïque",
+      "reżyser": "Jacques Feyder",
+      "rok": "1935",
+      "kraj": "Francja",
+      "gatunek": "Komedia",
+      "kategoria_wiekowa": "12+",
+      "opis": "W XVII-wiecznym flamandzkim miasteczku mężczyźni udają zmarłych, by uniknąć najazdu Hiszpanów, a żony postanawiają rozmówić się z najeźdźcami. Film jest pełną wdzięku komedią o sprycie kobiet."
+    },
+    {
+      "tytuł": "Aleksander Newski",
+      "tytuł_oryginalny": "Aleksandr Nevskiy",
+      "reżyser": "Siergiej Eisenstein",
+      "rok": "1938",
+      "kraj": "ZSRR",
+      "gatunek": "Wojenny",
+      "kategoria_wiekowa": "12+",
+      "opis": "Książę nowogrodzki Aleksander odpiera najazd rycerzy Zakonu Kawalerów Mieczowych w bitwie na jeziorze Pejpus. Film słynie z monumentalnej sekwencji bitwy i muzyki Prokofiewa."
+    },
+    {
+      "tytuł": "The Bank Dick",
+      "tytuł_oryginalny": "The Bank Dick",
+      "reżyser": "Edward F. Cline",
+      "rok": "1940",
+      "kraj": "USA",
+      "gatunek": "Komedia",
+      "kategoria_wiekowa": "12+",
+      "opis": "Egbert Souse, leniwy mieszkaniec miasteczka, przez przypadek zostaje bohaterem i dostaje pracę ochroniarza w banku. Kubrick umieścił go na liście dziesięciu filmów przesłanej w 1963 roku magazynowi „Cinema” (miejsce 8)."
+    },
+    {
+      "tytuł": "Obywatel Kane",
+      "tytuł_oryginalny": "Citizen Kane",
+      "reżyser": "Orson Welles",
+      "rok": "1941",
+      "kraj": "USA",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "12+",
+      "opis": "Po śmierci magnata prasowego Charlesa Fostera Kane'a reporter próbuje rozwiązać zagadkę jego ostatniego słowa „Rosebud”. Kubrick umieścił go na liście dziesięciu filmów przesłanej w 1963 roku magazynowi „Cinema” (miejsce 3)."
+    },
+    {
+      "tytuł": "Roxie Hart",
+      "tytuł_oryginalny": "Roxie Hart",
+      "reżyser": "William A. Wellman",
+      "rok": "1942",
+      "kraj": "USA",
+      "gatunek": "Komedia",
+      "kategoria_wiekowa": "12+",
+      "opis": "Pewna siebie tancerka Roxie przyznaje się do zabójstwa kochanka, by zyskać sławę i odzyskać zainteresowanie mediów. Kubrick umieścił go na liście dziesięciu filmów przesłanej w 1963 roku magazynowi „Cinema” (miejsce 9)."
+    },
+    {
+      "tytuł": "Henryk V",
+      "tytuł_oryginalny": "Henry V",
+      "reżyser": "Laurence Olivier",
+      "rok": "1944",
+      "kraj": "Wielka Brytania",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "12+",
+      "opis": "Młody król Anglii prowadzi wojnę we Francji i zwycięża pod Azincourt. Kubrick umieścił go na liście dziesięciu filmów przesłanej w 1963 roku magazynowi „Cinema” (miejsce 6)."
+    },
+    {
+      "tytuł": "Dzieci raju",
+      "tytuł_oryginalny": "Les enfants du paradis",
+      "reżyser": "Marcel Carné",
+      "rok": "1945",
+      "kraj": "Francja",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "12+",
+      "opis": "W paryskim teatrze XIX wieku mim Baptiste i Garance są uwikłani w niespełnioną miłość i intrygi towarzyskie. Film powstał w czasie okupacji i uchodzi za jeden z głównych tytułów kina francuskiego tamtej epoki."
+    },
+    {
+      "tytuł": "Piękna i Bestia",
+      "tytuł_oryginalny": "La belle et la bête",
+      "reżyser": "Jean Cocteau",
+      "rok": "1946",
+      "kraj": "Francja",
+      "gatunek": "Fantasy",
+      "kategoria_wiekowa": "6+",
+      "opis": "Kupiecka córka Piękna ratuje ojca, zamieszkując w zamku tajemniczej Bestii. Cocteau tworzy poetycki, sennie piękny świat pełen wizualnej magii."
+    },
+    {
+      "tytuł": "Skarb Sierra Madre",
+      "tytuł_oryginalny": "The Treasure of the Sierra Madre",
+      "reżyser": "John Huston",
+      "rok": "1948",
+      "kraj": "USA",
+      "gatunek": "Przygodowy",
+      "kategoria_wiekowa": "12+",
+      "opis": "Trzech amerykańskich poszukiwaczy złota w Meksyku odkrywa bogatą żyłę, a chciwość stopniowo ich niszczy. Kubrick umieścił go na liście dziesięciu filmów przesłanej w 1963 roku magazynowi „Cinema” (miejsce 4)."
+    },
+    {
+      "tytuł": "Pacific 231",
+      "tytuł_oryginalny": "Pacific 231",
+      "reżyser": "Jean Mitry",
+      "rok": "1949",
+      "kraj": "Francja",
+      "gatunek": "Dokumentalny",
+      "kategoria_wiekowa": "6+",
+      "opis": "Krótki film pokazuje pracę parowozu na rytm muzyki Arthura Honeggera. Montaż, dźwięk i ruch tworzą symfonię maszyny."
+    },
+    {
+      "tytuł": "Krąg miłości",
+      "tytuł_oryginalny": "La ronde",
+      "reżyser": "Max Ophüls",
+      "rok": "1950",
+      "kraj": "Francja",
+      "gatunek": "Romans",
+      "kategoria_wiekowa": "16+",
+      "opis": "W Wiedniu na przełomie wieków łańcuch romansów łączy ludzi z różnych warstw społecznych w jeden krąg. Film prowadzi go narrator, który bawi się losem bohaterów."
+    },
+    {
+      "tytuł": "Rashomon",
+      "tytuł_oryginalny": "Rashōmon",
+      "reżyser": "Akira Kurosawa",
+      "rok": "1950",
+      "kraj": "Japonia",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "12+",
+      "opis": "Cztery osoby przedstawiają sprzeczne wersje tego samego zabójstwa i gwałtu. Film pokazuje względność prawdy i zawodność ludzkiej pamięci."
+    },
+    {
+      "tytuł": "Panna Julia",
+      "tytuł_oryginalny": "Fröken Julie",
+      "reżyser": "Alf Sjöberg",
+      "rok": "1951",
+      "kraj": "Szwecja",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "16+",
+      "opis": "Córka hrabiego i służący Jean spędzają noc świętojańską, która odmienia ich relację i życie. Film według sztuki Strindberga pokazuje konflikt płci i klas."
+    },
+    {
+      "tytuł": "Édouard i Caroline",
+      "tytuł_oryginalny": "Édouard et Caroline",
+      "reżyser": "Jacques Becker",
+      "rok": "1951",
+      "kraj": "Francja",
+      "gatunek": "Komedia",
+      "kategoria_wiekowa": "12+",
+      "opis": "Podczas przygotowań do przyjęcia młode małżeństwo kłóci się o pianistyczny występ męża i zazdrość. Lekka komedia z celną obserwacją relacji między małżonkami."
+    },
+    {
+      "tytuł": "Rozkosz",
+      "tytuł_oryginalny": "Le plaisir",
+      "reżyser": "Max Ophüls",
+      "rok": "1952",
+      "kraj": "Francja",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "16+",
+      "opis": "Trzy opowiadania Maupassanta pokazują różne oblicza rozkoszy: radość, miłość i jej cenę. Ophüls łączy ironię z melancholią w płynnych ujęciach."
+    },
+    {
+      "tytuł": "Złoty Hełm",
+      "tytuł_oryginalny": "Casque d'Or",
+      "reżyser": "Jacques Becker",
+      "rok": "1952",
+      "kraj": "Francja",
+      "gatunek": "Romans",
+      "kategoria_wiekowa": "12+",
+      "opis": "W paryskim półświatku belle époque piękna Marie wiąże się z cieślą Manda, co wywołuje konflikt z gangsterami. Film łączy melodramat z gorzką historią o miłości i zemście."
+    },
+    {
+      "tytuł": "Hultaje",
+      "tytuł_oryginalny": "I vitelloni",
+      "reżyser": "Federico Fellini",
+      "rok": "1953",
+      "kraj": "Włochy",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "12+",
+      "opis": "Piątka przyjaciół w prowincjonalnym nadmorskim miasteczku zabija czas, marząc o ucieczce i lepszym życiu. Kubrick umieścił go na liście dziesięciu filmów przesłanej w 1963 roku magazynowi „Cinema” (miejsce 1)."
+    },
+    {
+      "tytuł": "Kolczyki pani de...",
+      "tytuł_oryginalny": "Madame de...",
+      "reżyser": "Max Ophüls",
+      "rok": "1953",
+      "kraj": "Francja",
+      "gatunek": "Romans",
+      "kategoria_wiekowa": "12+",
+      "opis": "Arystokratka sprzedaje kolczyki podarowane przez męża, by spłacić długi, a one wracają do niej w nieoczekiwany sposób. Film jest elegancką opowieścią o próżności i prawdziwej miłości."
+    },
+    {
+      "tytuł": "La strada",
+      "tytuł_oryginalny": "La strada",
+      "reżyser": "Federico Fellini",
+      "rok": "1954",
+      "kraj": "Włochy",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "12+",
+      "opis": "Naiwna dziewczyna Gelsomina zostaje sprzedana siłaczowi Zampanò i wędruje z nim po Włoszech jako cyrkowa artystka. Film mówi o samotności, okrucieństwie i nieoczekiwanej czułości."
+    },
+    {
+      "tytuł": "Siedmiu samurajów",
+      "tytuł_oryginalny": "Shichinin no samurai",
+      "reżyser": "Akira Kurosawa",
+      "rok": "1954",
+      "kraj": "Japonia",
+      "gatunek": "Przygodowy",
+      "kategoria_wiekowa": "12+",
+      "opis": "Wioska chłopska, nękana przez bandytów, wynajmuje siedmiu samurajów do obrony. Film łączy epicką akcję z refleksją o honorze i podziałach klasowych."
+    },
+    {
+      "tytuł": "Uśmiechy letniej nocy",
+      "tytuł_oryginalny": "Sommarnattens leende",
+      "reżyser": "Ingmar Bergman",
+      "rok": "1955",
+      "kraj": "Szwecja",
+      "gatunek": "Komedia",
+      "kategoria_wiekowa": "12+",
+      "opis": "Podczas weekendu w wiejskiej posiadłości splatają się losy kilku par, pełne zazdrości i nieporozumień. Film łączy lekkość z melancholią i przypomina komedię pomyłek."
+    },
+    {
+      "tytuł": "Bob hazardzista",
+      "tytuł_oryginalny": "Bob le flambeur",
+      "reżyser": "Jean-Pierre Melville",
+      "rok": "1956",
+      "kraj": "Francja",
+      "gatunek": "Kryminał",
+      "kategoria_wiekowa": "12+",
+      "opis": "Stary hazardzista Bob planuje ostatni wielki skok na kasyno w Deauville. Film jest pełnym stylu hołdem dla paryskiego półświatka."
+    },
+    {
+      "tytuł": "Tam, gdzie rosną poziomki",
+      "tytuł_oryginalny": "Smultronstället",
+      "reżyser": "Ingmar Bergman",
+      "rok": "1957",
+      "kraj": "Szwecja",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "12+",
+      "opis": "Starszy profesor Isak Borg jedzie samochodem na uroczystość nadania mu tytułu i w drodze wraca do wspomnień. Kubrick umieścił go na liście dziesięciu filmów przesłanej w 1963 roku magazynowi „Cinema” (miejsce 2)."
+    },
+    {
+      "tytuł": "Tron we krwi",
+      "tytuł_oryginalny": "Kumonosu-jō",
+      "reżyser": "Akira Kurosawa",
+      "rok": "1957",
+      "kraj": "Japonia",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "16+",
+      "opis": "Samuraj Washizu pod wpływem przepowiedni i ambitnej żony morduje swego pana, by zdobyć władzę. Film przenosi „Makbeta” do feudalnej Japonii, w mglistej, grozy pełnej atmosferze."
+    },
+    {
+      "tytuł": "Noc",
+      "tytuł_oryginalny": "La notte",
+      "reżyser": "Michelangelo Antonioni",
+      "rok": "1961",
+      "kraj": "Włochy",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "16+",
+      "opis": "Pisarz Giovanni i jego żona Lidia spędzają dzień i noc w Mediolanie, odkrywając wypalenie swojego małżeństwa. Kubrick umieścił go na liście dziesięciu filmów przesłanej w 1963 roku magazynowi „Cinema” (miejsce 7)."
+    },
+    {
+      "tytuł": "Very Nice, Very Nice",
+      "tytuł_oryginalny": "Very Nice, Very Nice",
+      "reżyser": "Arthur Lipsett",
+      "rok": "1961",
+      "kraj": "Kanada",
+      "gatunek": "Animacja",
+      "kategoria_wiekowa": "12+",
+      "opis": "Siedmiominutowy kolaż złożony z fotografii i fragmentów dźwięków tworzy ironiczny obraz współczesnej cywilizacji. Film jest pionierskim dziełem montażu dźwięku i obrazu."
+    },
+    {
+      "tytuł": "Mary Poppins",
+      "tytuł_oryginalny": "Mary Poppins",
+      "reżyser": "Robert Stevenson",
+      "rok": "1964",
+      "kraj": "USA",
+      "gatunek": "Familijny",
+      "kategoria_wiekowa": "6+",
+      "opis": "Magiczna niania przybywa do londyńskiego domu rodziny Banksów i uczy dzieci oraz dorosłych radości życia. Film jest pełen muzyki, animacji i ciepła."
+    },
+    {
+      "tytuł": "The Siege of Manchester",
+      "tytuł_oryginalny": "The Siege of Manchester",
+      "reżyser": "Herbert Wise",
+      "rok": "1965",
+      "kraj": "Wielka Brytania",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "12+",
+      "opis": "Telewizyjny dramat przedstawia oblężenie Manchesteru w czasie angielskiej wojny domowej. Spektakl pokazuje mechanizmy lokalnego konfliktu w obliczu wielkiej polityki."
+    },
+    {
+      "tytuł": "Bitwa o Algier",
+      "tytuł_oryginalny": "La battaglia di Algeri",
+      "reżyser": "Gillo Pontecorvo",
+      "rok": "1966",
+      "kraj": "Włochy",
+      "gatunek": "Wojenny",
+      "kategoria_wiekowa": "16+",
+      "opis": "Film odtwarza walkę algierskiego ruchu niepodległościowego z francuskimi siłami kolonialnymi w latach pięćdziesiątych. Realistyczny styl dokumentalny pokazuje przemoc po obu stronach."
+    },
+    {
+      "tytuł": "Pociągi pod specjalnym nadzorem",
+      "tytuł_oryginalny": "Ostře sledované vlaky",
+      "reżyser": "Jiří Menzel",
+      "rok": "1966",
+      "kraj": "Czechosłowacja",
+      "gatunek": "Komedia",
+      "kategoria_wiekowa": "16+",
+      "opis": "Młody kolejarz Miloš w czasie okupacji niemieckiej zmaga się ze swoją niedojrzałością i pierwszymi doświadczeniami seksualnymi. Film z humorem i smutkiem łączy życie codzienne z wojennym dramatem."
+    },
+    {
+      "tytuł": "Bal pożarników",
+      "tytuł_oryginalny": "Hoří, má panenko",
+      "reżyser": "Miloš Forman",
+      "rok": "1967",
+      "kraj": "Czechosłowacja",
+      "gatunek": "Komedia",
+      "kategoria_wiekowa": "12+",
+      "opis": "Podczas balu strażaków w małym miasteczku konkurs piękności i loteria kończą się serią absurdalnych kradzieży i pożarem. Satyra na biurokrację i bylejakość w socjalistycznej Czechosłowacji."
+    },
+    {
+      "tytuł": "Peppermint Frappé",
+      "tytuł_oryginalny": "Peppermint frappé",
+      "reżyser": "Carlos Saura",
+      "rok": "1967",
+      "kraj": "Hiszpania",
+      "gatunek": "Thriller",
+      "kategoria_wiekowa": "16+",
+      "opis": "Prowincjonalny lekarz zaczyna obsesyjnie przeobrażać swoją pielęgniarkę w obraz kobiety, którą widział w mieście. Film krytykuje represje i obsesje kontroli."
+    },
+    {
+      "tytuł": "The Anderson Platoon",
+      "tytuł_oryginalny": "La section Anderson",
+      "reżyser": "Pierre Schoendoerffer",
+      "rok": "1967",
+      "kraj": "Francja",
+      "gatunek": "Dokumentalny",
+      "kategoria_wiekowa": "16+",
+      "opis": "Francuski reżyser towarzyszy amerykańskiemu plutonowi w Wietnamie i dokumentuje codzienność żołnierzy. Film pokazuje wojnę bez komentarza politycznego."
+    },
+    {
+      "tytuł": "Dziecko Rosemary",
+      "tytuł_oryginalny": "Rosemary's Baby",
+      "reżyser": "Roman Polanski",
+      "rok": "1968",
+      "kraj": "USA",
+      "gatunek": "Horror",
+      "kategoria_wiekowa": "18+",
+      "opis": "Młoda kobieta zachodzi w ciążę i zaczyna podejrzewać, że sąsiedzi chcą wykorzystać jej dziecko w satanistycznych celach. Film buduje niepokój stopniowo, bez efektów specjalnych."
+    },
+    {
+      "tytuł": "Jeśli....",
+      "tytuł_oryginalny": "If....",
+      "reżyser": "Lindsay Anderson",
+      "rok": "1968",
+      "kraj": "Wielka Brytania",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "16+",
+      "opis": "Trzej uczniowie angielskiej szkoły z internatem buntują się przeciwko hierarchii i opresyjnym zasadom. Film przechodzi od realizmu do fantazji, kończąc się gwałtownym buntem."
+    },
+    {
+      "tytuł": "Pewnego razu na Dzikim Zachodzie",
+      "tytuł_oryginalny": "C'era una volta il West",
+      "reżyser": "Sergio Leone",
+      "rok": "1968",
+      "kraj": "Włochy",
+      "gatunek": "Przygodowy",
+      "kategoria_wiekowa": "16+",
+      "opis": "Tajemniczy rewolwerowiec z harmonijką pomaga wdowie w walce o ziemię z bezwzględnym najemnikiem. Epicki western słynie z długich ujęć i muzyki Ennio Morricone."
+    },
+    {
+      "tytuł": "Ådalen 31",
+      "tytuł_oryginalny": "Ådalen 31",
+      "reżyser": "Bo Widerberg",
+      "rok": "1969",
+      "kraj": "Szwecja",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "12+",
+      "opis": "W 1931 roku strajk robotników w szwedzkiej miejscowości kończy się starciem z wojskiem. Film łączy historię polityczną z osobistą opowieścią o dojrzewaniu."
+    },
+    {
+      "tytuł": "Tora! Tora! Tora!",
+      "tytuł_oryginalny": "Tora! Tora! Tora!",
+      "reżyser": "Richard Fleischer",
+      "rok": "1970",
+      "kraj": "USA",
+      "gatunek": "Wojenny",
+      "kategoria_wiekowa": "12+",
+      "opis": "Film przedstawia wydarzenia poprzedzające japoński atak na Pearl Harbor z perspektywy amerykańskiej i japońskiej. Dokumentalna rekonstrukcja pokazuje błędy dowodzenia i zaskoczenie atakiem."
+    },
+    {
+      "tytuł": "Dopadnij Cartera",
+      "tytuł_oryginalny": "Get Carter",
+      "reżyser": "Mike Hodges",
+      "rok": "1971",
+      "kraj": "Wielka Brytania",
+      "gatunek": "Kryminał",
+      "kategoria_wiekowa": "18+",
+      "opis": "Londyński gangster Jack Carter wraca do rodzinnego miasta, by wyjaśnić śmierć brata. Brutalny film stawia na surowy realizm i zimną zemstę."
+    },
+    {
+      "tytuł": "Emigranci",
+      "tytuł_oryginalny": "Utvandrarna",
+      "reżyser": "Jan Troell",
+      "rok": "1971",
+      "kraj": "Szwecja",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "12+",
+      "opis": "W XIX wieku szwedzka rodzina rolników opuszcza ubogą ojczyznę i wyrusza do Ameryki. Film pokazuje trud podróży i nadzieję na nowe życie."
+    },
+    {
+      "tytuł": "Harold i Maude",
+      "tytuł_oryginalny": "Harold and Maude",
+      "reżyser": "Hal Ashby",
+      "rok": "1971",
+      "kraj": "USA",
+      "gatunek": "Komedia",
+      "kategoria_wiekowa": "16+",
+      "opis": "Obsesjonowany śmiercią młody Harold zaprzyjaźnia się z żywiołową osiemdziesięciolatką Maude. Film w niekonwencjonalny sposób opowiada o radości życia i granicach miłości."
+    },
+    {
+      "tytuł": "McCabe i pani Miller",
+      "tytuł_oryginalny": "McCabe & Mrs. Miller",
+      "reżyser": "Robert Altman",
+      "rok": "1971",
+      "kraj": "USA",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "16+",
+      "opis": "Hazardzista McCabe zakłada z doświadczoną Panią Miller dom publiczny w górniczej osadzie, co przyciąga uwagę potężnej korporacji. Altman tworzy mglisty, antyromantyczny obraz Dzikiego Zachodu."
+    },
+    {
+      "tytuł": "Kabaret",
+      "tytuł_oryginalny": "Cabaret",
+      "reżyser": "Bob Fosse",
+      "rok": "1972",
+      "kraj": "USA",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "16+",
+      "opis": "W Berlinie początku lat trzydziestych śpiewaczka Sally Bowles żyje beztrosko w kabarecie, podczas gdy w tle rośnie nazizm. Film łączy błyskotliwe numery muzyczne z mroczną historią."
+    },
+    {
+      "tytuł": "Ojciec chrzestny",
+      "tytuł_oryginalny": "The Godfather",
+      "reżyser": "Francis Ford Coppola",
+      "rok": "1972",
+      "kraj": "USA",
+      "gatunek": "Kryminał",
+      "kategoria_wiekowa": "16+",
+      "opis": "Michael Corleone, syn mafijnego bossa, stopniowo przejmuje rodzinny interes po zamachu na ojca. Film opowiada o władzy, rodzinie i utracie niewinności."
+    },
+    {
+      "tytuł": "Solaris",
+      "tytuł_oryginalny": "Solyaris",
+      "reżyser": "Andriej Tarkowski",
+      "rok": "1972",
+      "kraj": "ZSRR",
+      "gatunek": "Science fiction",
+      "kategoria_wiekowa": "12+",
+      "opis": "Psycholog Kris Kelvin przybywa na stację badającą tajemniczą planetę, która materializuje ludzkie wspomnienia. Film według powieści Lema jest refleksją nad pamięcią i granicami poznania."
+    },
+    {
+      "tytuł": "Szepty i krzyki",
+      "tytuł_oryginalny": "Viskningar och rop",
+      "reżyser": "Ingmar Bergman",
+      "rok": "1972",
+      "kraj": "Szwecja",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "16+",
+      "opis": "Trzy siostry i służąca czuwają w XIX-wiecznym dworze przy umierającej Agnes. Intensywnie czerwone wnętrza podkreślają emocje, cierpienie i niemożność bliskości."
+    },
+    {
+      "tytuł": "Uwolnienie",
+      "tytuł_oryginalny": "Deliverance",
+      "reżyser": "John Boorman",
+      "rok": "1972",
+      "kraj": "USA",
+      "gatunek": "Thriller",
+      "kategoria_wiekowa": "18+",
+      "opis": "Czterech mieszkańców miasta wyrusza na spływ rzeką w dzikiej Georgii, gdzie wpadają w śmiertelną pułapkę. Film pokazuje kruchość cywilizacji w starciu z naturą i przemocą."
+    },
+    {
+      "tytuł": "Amerykańskie graffiti",
+      "tytuł_oryginalny": "American Graffiti",
+      "reżyser": "George Lucas",
+      "rok": "1973",
+      "kraj": "USA",
+      "gatunek": "Komedia",
+      "kategoria_wiekowa": "12+",
+      "opis": "Jedna noc w kalifornijskim miasteczku w 1962 roku, podczas której grupa nastolatków przeżywa ostatnie chwile przed dorosłością. Film jest nostalgicznym obrazem końca młodzieńczej niewinności."
+    },
+    {
+      "tytuł": "Dobry rok",
+      "tytuł_oryginalny": "La bonne année",
+      "reżyser": "Claude Lelouch",
+      "rok": "1973",
+      "kraj": "Francja",
+      "gatunek": "Komedia",
+      "kategoria_wiekowa": "12+",
+      "opis": "Złodziej-dżentelmen, wychodząc z więzienia, planuje skok na jubilera i zakochuje się w sprzedawczyni antyków. Lekka komedia o miłości i przypadku."
+    },
+    {
+      "tytuł": "Duch ula",
+      "tytuł_oryginalny": "El espíritu de la colmena",
+      "reżyser": "Víctor Erice",
+      "rok": "1973",
+      "kraj": "Hiszpania",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "12+",
+      "opis": "Mała Ana, zafascynowana projekcją „Frankensteina”, szuka ducha potwora we wsi w powojennej Hiszpanii. Film w poetycki sposób ukazuje świat dziecięcej wyobraźni i ciszę epoki Franco."
+    },
+    {
+      "tytuł": "Egzorcysta",
+      "tytuł_oryginalny": "The Exorcist",
+      "reżyser": "William Friedkin",
+      "rok": "1973",
+      "kraj": "USA",
+      "gatunek": "Horror",
+      "kategoria_wiekowa": "18+",
+      "opis": "Matka próbuje ratować córkę, w którą wstąpiła demoniczna siła, i wzywa księży egzorcystów. Film uchodzi za jeden z najstraszniejszych w historii kina."
+    },
+    {
+      "tytuł": "Samochody, które zjadły Paryż",
+      "tytuł_oryginalny": "The Cars That Ate Paris",
+      "reżyser": "Peter Weir",
+      "rok": "1974",
+      "kraj": "Australia",
+      "gatunek": "Horror",
+      "kategoria_wiekowa": "16+",
+      "opis": "Mieszkańcy australijskiej mieściny celowo prowokują wypadki samochodowe i żyją z łupów. Pierwszy film Weira to groteskowa satyra na konsumpcjonizm."
+    },
+    {
+      "tytuł": "Teksańska masakra piłą mechaniczną",
+      "tytuł_oryginalny": "The Texas Chainsaw Massacre",
+      "reżyser": "Tobe Hooper",
+      "rok": "1974",
+      "kraj": "USA",
+      "gatunek": "Horror",
+      "kategoria_wiekowa": "18+",
+      "opis": "Grupa młodych ludzi trafia na odludziu do domu rodziny kanibali pod wodzą Leatherfacea. Film budzi grozę surowym realizmem i atmosferą bezradności."
+    },
+    {
+      "tytuł": "The Terminal Man",
+      "tytuł_oryginalny": "The Terminal Man",
+      "reżyser": "Mike Hodges",
+      "rok": "1974",
+      "kraj": "USA",
+      "gatunek": "Science fiction",
+      "kategoria_wiekowa": "16+",
+      "opis": "Naukowiec poddany operacji wszczepienia elektrod do mózgu zaczyna wykazywać agresywne zachowania i ucieka z kliniki. Film bada niebezpieczeństwa medycyny i technologii."
+    },
+    {
+      "tytuł": "Lot nad kukułczym gniazdem",
+      "tytuł_oryginalny": "One Flew Over the Cuckoo's Nest",
+      "reżyser": "Miloš Forman",
+      "rok": "1975",
+      "kraj": "USA",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "16+",
+      "opis": "Buntownik McMurphy trafia do szpitala psychiatrycznego i wchodzi w konflikt z autorytarną siostrą Ratched. Film jest krytyką instytucji, które łamią indywidualność."
+    },
+    {
+      "tytuł": "Pieskie popołudnie",
+      "tytuł_oryginalny": "Dog Day Afternoon",
+      "reżyser": "Sidney Lumet",
+      "rok": "1975",
+      "kraj": "USA",
+      "gatunek": "Kryminał",
+      "kategoria_wiekowa": "16+",
+      "opis": "Nieudany napad na bank na Brooklynie zamienia się w wielogodzinne oblężenie, a napastnik Sonny staje się medialnym bohaterem. Film opiera się na prawdziwej historii."
+    },
+    {
+      "tytuł": "Piknik pod Wiszącą Skałą",
+      "tytuł_oryginalny": "Picnic at Hanging Rock",
+      "reżyser": "Peter Weir",
+      "rok": "1975",
+      "kraj": "Australia",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "12+",
+      "opis": "W 1900 roku podczas pikniku w Walentynki kilka uczennic i nauczycielka znikają bez śladu w pobliżu skalnej formacji. Film pozostawia widza z atmosferą niepokoju i niewyjaśnionej tajemnicy."
+    },
+    {
+      "tytuł": "Cría Cuervos",
+      "tytuł_oryginalny": "Cría cuervos",
+      "reżyser": "Carlos Saura",
+      "rok": "1976",
+      "kraj": "Hiszpania",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "16+",
+      "opis": "Mała Ana, osierocona przez rodziców, wspomina matkę i wierzy, że ma moc zabijania. Film w symboliczny sposób ukazuje świat dziecięcej traumy w czasach Franco."
+    },
+    {
+      "tytuł": "Annie Hall",
+      "tytuł_oryginalny": "Annie Hall",
+      "reżyser": "Woody Allen",
+      "rok": "1977",
+      "kraj": "USA",
+      "gatunek": "Komedia",
+      "kategoria_wiekowa": "16+",
+      "opis": "Komik Alvy Singer wspomina swój związek z kapryśną Annie, analizując, dlaczego się rozpadł. Film z humorem i autoironią opowiada o miłości, neurozach i życiu w Nowym Jorku."
+    },
+    {
+      "tytuł": "Bliskie spotkania trzeciego stopnia",
+      "tytuł_oryginalny": "Close Encounters of the Third Kind",
+      "reżyser": "Steven Spielberg",
+      "rok": "1977",
+      "kraj": "USA",
+      "gatunek": "Science fiction",
+      "kategoria_wiekowa": "12+",
+      "opis": "Zwykły elektryk Roy Neary doświadcza spotkania z UFO i staje się obsesyjnie przekonany, że musi dotrzeć do miejsca kontaktu. Film pełen jest wizualnego zachwytu i ciekawości kosmosu."
+    },
+    {
+      "tytuł": "Głowa do wycierania",
+      "tytuł_oryginalny": "Eraserhead",
+      "reżyser": "David Lynch",
+      "rok": "1977",
+      "kraj": "USA",
+      "gatunek": "Horror",
+      "kategoria_wiekowa": "18+",
+      "opis": "Henry opiekuje się dziwacznym dzieckiem w industrialnym, koszmarnym świecie. Czarno-biały film Lyncha jest hipnotyczną wizją lęku przed ojcostwem."
+    },
+    {
+      "tytuł": "Przyjęcie Abigail",
+      "tytuł_oryginalny": "Abigail's Party",
+      "reżyser": "Mike Leigh",
+      "rok": "1977",
+      "kraj": "Wielka Brytania",
+      "gatunek": "Komedia",
+      "kategoria_wiekowa": "16+",
+      "opis": "Podczas przyjęcia w angielskim domu na przedmieściach pełne napięć pary prowadzą coraz bardziej niezręczne rozmowy. Film jest ostrą satyrą na aspiracje i obyczaje klasy średniej."
+    },
+    {
+      "tytuł": "Girl Friends",
+      "tytuł_oryginalny": "Girlfriends",
+      "reżyser": "Claudia Weill",
+      "rok": "1978",
+      "kraj": "USA",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "16+",
+      "opis": "Młoda fotografka Susan z Nowego Jorku musi odnaleźć się samodzielnie, gdy jej współlokatorka wychodzi za mąż. Film z delikatnym humorem opowiada o przyjaźni i dorosłości."
+    },
+    {
+      "tytuł": "Czas apokalipsy",
+      "tytuł_oryginalny": "Apocalypse Now",
+      "reżyser": "Francis Ford Coppola",
+      "rok": "1979",
+      "kraj": "USA",
+      "gatunek": "Wojenny",
+      "kategoria_wiekowa": "18+",
+      "opis": "Kapitan Willard płynie rzeką w głąb dżungli, by wyeliminować zbuntowanego pułkownika Kurtza. Film jest halucynacyjną podróżą w głąb szaleństwa wojny w Wietnamie."
+    },
+    {
+      "tytuł": "Manhattan",
+      "tytuł_oryginalny": "Manhattan",
+      "reżyser": "Woody Allen",
+      "rok": "1979",
+      "kraj": "USA",
+      "gatunek": "Komedia",
+      "kategoria_wiekowa": "16+",
+      "opis": "Czterdziestoletni scenarzysta telewizyjny miota się między nastoletnią kochanką a romansem z przyjaciółką swojego przyjaciela. Czarno-biały Nowy Jork jest tłem refleksji o miłości i moralności."
+    },
+    {
+      "tytuł": "Obcy – ósmy pasażer Nostromo",
+      "tytuł_oryginalny": "Alien",
+      "reżyser": "Ridley Scott",
+      "rok": "1979",
+      "kraj": "Wielka Brytania",
+      "gatunek": "Horror",
+      "kategoria_wiekowa": "18+",
+      "opis": "Załoga statku kosmicznego Nostromo zostaje zaatakowana przez tajemniczą formę życia, która wkrada się na pokład. Film łączy klaustrofobiczny horror z ponurą wizją przyszłości."
+    },
+    {
+      "tytuł": "Amerykański wilkołak w Londynie",
+      "tytuł_oryginalny": "An American Werewolf in London",
+      "reżyser": "John Landis",
+      "rok": "1981",
+      "kraj": "Wielka Brytania",
+      "gatunek": "Horror",
+      "kategoria_wiekowa": "18+",
+      "opis": "Dwaj amerykańscy turyści zostają zaatakowani na angielskich wrzosowiskach, a jeden z nich zaczyna zmieniać się w wilkołaka. Film łączy makabrę z czarnym humorem."
+    },
+    {
+      "tytuł": "Krwawe wesele",
+      "tytuł_oryginalny": "Bodas de sangre",
+      "reżyser": "Carlos Saura",
+      "rok": "1981",
+      "kraj": "Hiszpania",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "12+",
+      "opis": "Zespół tancerzy próbuje i wystawia balet oparty na dramacie Lorki o namiętności i zemście. Flamenco wyraża emocje bohaterów bez słów."
+    },
+    {
+      "tytuł": "Modern Romance",
+      "tytuł_oryginalny": "Modern Romance",
+      "reżyser": "Albert Brooks",
+      "rok": "1981",
+      "kraj": "USA",
+      "gatunek": "Komedia",
+      "kategoria_wiekowa": "16+",
+      "opis": "Montażysta filmowy Robert zrywa ze swoją dziewczyną i natychmiast tego żałuje, po czym próbuje ją odzyskać. Komedia z ironią obnaża niepewność i obsesje współczesnych związków."
+    },
+    {
+      "tytuł": "E.T.",
+      "tytuł_oryginalny": "E.T. the Extra-Terrestrial",
+      "reżyser": "Steven Spielberg",
+      "rok": "1982",
+      "kraj": "USA",
+      "gatunek": "Familijny",
+      "kategoria_wiekowa": "6+",
+      "opis": "Chłopiec Elliott zaprzyjaźnia się z kosmitą pozostawionym na Ziemi i pomaga mu wrócić do domu. Film jest wzruszającą opowieścią o przyjaźni i samotności."
+    },
+    {
+      "tytuł": "Danton",
+      "tytuł_oryginalny": "Danton",
+      "reżyser": "Andrzej Wajda",
+      "rok": "1983",
+      "kraj": "Francja",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "12+",
+      "opis": "Rewolucja francuska 1794: Danton i Robespierre stają naprzeciw siebie w sporze o kierunek rewolucji. Film jest analizą mechanizmów władzy i terroru."
+    },
+    {
+      "tytuł": "Heimat",
+      "tytuł_oryginalny": "Heimat",
+      "reżyser": "Edgar Reitz",
+      "rok": "1984",
+      "kraj": "Niemcy",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "16+",
+      "opis": "Jedenastoodcinkowa saga śledzi losy mieszkańców wsi w Hunsrück od 1919 do 1982 roku. Film jest panoramą niemieckiej historii z perspektywy zwykłych ludzi."
+    },
+    {
+      "tytuł": "Ofiarowanie",
+      "tytuł_oryginalny": "Offret",
+      "reżyser": "Andriej Tarkowski",
+      "rok": "1986",
+      "kraj": "Szwecja",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "12+",
+      "opis": "W obliczu zbliżającej się wojny atomowej Alexander składa Bogu tajemnicze ślubowanie w zamian za ocalenie świata. Ostatni film Tarkowskiego jest medytacją o wierze i poświęceniu."
+    },
+    {
+      "tytuł": "Pluton",
+      "tytuł_oryginalny": "Platoon",
+      "reżyser": "Oliver Stone",
+      "rok": "1986",
+      "kraj": "USA",
+      "gatunek": "Wojenny",
+      "kategoria_wiekowa": "18+",
+      "opis": "Młody ochotnik Chris Taylor trafia do Wietnamu i obserwuje moralny konflikt między dwoma sierżantami. Film pokazuje wojnę jako doświadczenie, które niszczy niewinność."
+    },
+    {
+      "tytuł": "Dom gry",
+      "tytuł_oryginalny": "House of Games",
+      "reżyser": "David Mamet",
+      "rok": "1987",
+      "kraj": "USA",
+      "gatunek": "Thriller",
+      "kategoria_wiekowa": "16+",
+      "opis": "Psycholożka Margaret Ford wchodzi w świat oszustów i staje się częścią skomplikowanej gry. Film mistrzowsko bawi się zaufaniem i manipulacją."
+    },
+    {
+      "tytuł": "Pelle Zdobywca",
+      "tytuł_oryginalny": "Pelle erobreren",
+      "reżyser": "Bille August",
+      "rok": "1987",
+      "kraj": "Dania",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "16+",
+      "opis": "Szwedzki chłopiec Pelle i jego ojciec emigrują do Danii, gdzie pracują na folwarku u surowego gospodarza. Film jest wzruszającą opowieścią o biedzie, godności i marzeniach o lepszym życiu."
+    },
+    {
+      "tytuł": "Uczta Babette",
+      "tytuł_oryginalny": "Babettes gæstebud",
+      "reżyser": "Gabriel Axel",
+      "rok": "1987",
+      "kraj": "Dania",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "12+",
+      "opis": "Francuska uchodźczyni Babette przygotowuje wystawny obiad dla surowych mieszkańców duńskiej wioski. Film opowiada o sztuce, łasce i łagodzeniu surowych obyczajów."
+    },
+    {
+      "tytuł": "Złote lata radia",
+      "tytuł_oryginalny": "Radio Days",
+      "reżyser": "Woody Allen",
+      "rok": "1987",
+      "kraj": "USA",
+      "gatunek": "Komedia",
+      "kategoria_wiekowa": "12+",
+      "opis": "Narrator wspomina dzieciństwo w nowojorskiej rodzinie w latach czterdziestych i rolę radia w życiu jej członków. Film składa się z anegdot pełnych humoru i melancholii."
+    },
+    {
+      "tytuł": "Zniknięcie",
+      "tytuł_oryginalny": "Spoorloos",
+      "reżyser": "George Sluizer",
+      "rok": "1988",
+      "kraj": "Holandia",
+      "gatunek": "Thriller",
+      "kategoria_wiekowa": "16+",
+      "opis": "Mężczyzna przez lata szuka swojej zaginionej dziewczyny i w końcu staje twarzą w twarz z jej porywaczem. Film kończy się jednym z najbardziej niepokojących finałów kina."
+    },
+    {
+      "tytuł": "Dekalog",
+      "tytuł_oryginalny": "Dekalog",
+      "reżyser": "Krzysztof Kieślowski",
+      "rok": "1989",
+      "kraj": "Polska",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "16+",
+      "opis": "Dziesięć współczesnych opowieści z warszawskiego bloku odnosi się do kolejnych przykazań dekalogu. Kieślowski ukazuje moralne dylematy zwykłych ludzi."
+    },
+    {
+      "tytuł": "Henryk V",
+      "tytuł_oryginalny": "Henry V",
+      "reżyser": "Kenneth Branagh",
+      "rok": "1989",
+      "kraj": "Wielka Brytania",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "12+",
+      "opis": "Młody król Anglii prowadzi wojnę we Francji i zwycięża pod Azincourt. Branagh daje surowy, realistyczny obraz wojny i odpowiedzialności władcy."
+    },
+    {
+      "tytuł": "Roger i ja",
+      "tytuł_oryginalny": "Roger & Me",
+      "reżyser": "Michael Moore",
+      "rok": "1989",
+      "kraj": "USA",
+      "gatunek": "Dokumentalny",
+      "kategoria_wiekowa": "12+",
+      "opis": "Michael Moore próbuje spotkać szefa General Motors, by zapytać go o skutki zamknięcia fabryk w Flint. Dokument z humorem i goryczą pokazuje upadek przemysłowego miasta."
+    },
+    {
+      "tytuł": "Milczenie owiec",
+      "tytuł_oryginalny": "The Silence of the Lambs",
+      "reżyser": "Jonathan Demme",
+      "rok": "1991",
+      "kraj": "USA",
+      "gatunek": "Thriller",
+      "kategoria_wiekowa": "18+",
+      "opis": "Młoda agentka FBI Clarice Starling prosi o pomoc więzionego psychiatrę-kanibala Hannibala Lectera w tropieniu seryjnego mordercy. Film łączy mroczne napięcie ze starciem inteligencji."
+    },
+    {
+      "tytuł": "Biali nie potrafią skakać",
+      "tytuł_oryginalny": "White Men Can't Jump",
+      "reżyser": "Ron Shelton",
+      "rok": "1992",
+      "kraj": "USA",
+      "gatunek": "Komedia",
+      "kategoria_wiekowa": "16+",
+      "opis": "Dwaj hazardziści, biały i czarny, grają ulicznego koszykarskiego hustla w Los Angeles. Film łączy humor, słowne potyczki i spojrzenie na rasowe stereotypy."
+    },
+    {
+      "tytuł": "Mężowie i żony",
+      "tytuł_oryginalny": "Husbands and Wives",
+      "reżyser": "Woody Allen",
+      "rok": "1992",
+      "kraj": "USA",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "16+",
+      "opis": "Rozpad małżeństwa przyjaciół wywołuje kryzys w związku Gaba i Judy Rosenów. Film w stylu pseudodokumentalnym pokazuje niepewność i zdrady w relacjach."
+    },
+    {
+      "tytuł": "Czerwona wiewiórka",
+      "tytuł_oryginalny": "La ardilla roja",
+      "reżyser": "Julio Medem",
+      "rok": "1993",
+      "kraj": "Hiszpania",
+      "gatunek": "Thriller",
+      "kategoria_wiekowa": "16+",
+      "opis": "Muzyk Jota ratuje kobietę po rzekomej próbie samobójstwa i udaje jej partnera, który stracił pamięć. Film łączy romans z intrygą i grą tożsamości."
+    },
+    {
+      "tytuł": "Pulp Fiction",
+      "tytuł_oryginalny": "Pulp Fiction",
+      "reżyser": "Quentin Tarantino",
+      "rok": "1994",
+      "kraj": "USA",
+      "gatunek": "Kryminał",
+      "kategoria_wiekowa": "18+",
+      "opis": "Przeplatające się historie gangsterów, boksera i ich żon rozgrywają się w Los Angeles w nieliniowej narracji. Film słynie z błyskotliwych dialogów i przewrotnego humoru."
+    },
+    {
+      "tytuł": "Boogie Nights",
+      "tytuł_oryginalny": "Boogie Nights",
+      "reżyser": "Paul Thomas Anderson",
+      "rok": "1997",
+      "kraj": "USA",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "18+",
+      "opis": "Młody Eddie Adams staje się gwiazdą kalifornijskiego przemysłu pornograficznego lat siedemdziesiątych. Film opowiada o rodzinie wybranej, ambicji i upadku złotej epoki."
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "nazwa": "Scorsese",
+  "pozycje": [
+    {
+      "tytuł": "Metropolis",
+      "tytuł_oryginalny": "Metropolis",
+      "reżyser": "Fritz Lang",
+      "rok": "1927",
+      "kraj": "Niemcy",
+      "gatunek": "Science fiction",
+      "kategoria_wiekowa": "12+",
+      "opis": "W futurystycznym mieście robotnicy pracują pod ziemią, podczas gdy elita żyje w luksusie na powierzchni. Syn władcy miasta wpada w wir konfliktu klas, a film do dziś inspiruje obrazem przyszłości."
+    },
+    {
+      "tytuł": "Nosferatu – symfonia grozy",
+      "tytuł_oryginalny": "Nosferatu, eine Symphonie des Grauens",
+      "reżyser": "F. W. Murnau",
+      "rok": "1922",
+      "kraj": "Niemcy",
+      "gatunek": "Horror",
+      "kategoria_wiekowa": "12+",
+      "opis": "Młody agent nieruchomości odwiedza w Karpatach hrabiego Orloka, który okazuje się wampirem i podąża za nim do miasta. To nieoficjalna adaptacja „Drakuli” i kamień milowy kina grozy."
+    },
+    {
+      "tytuł": "Doktor Mabuse – gracz",
+      "tytuł_oryginalny": "Dr. Mabuse, der Spieler",
+      "reżyser": "Fritz Lang",
+      "rok": "1922",
+      "kraj": "Niemcy",
+      "gatunek": "Thriller",
+      "kategoria_wiekowa": "12+",
+      "opis": "Genialny przestępca Mabuse, mistrz hipnozy i przebrań, manipuluje światem finansów i hazardu w powojennym Berlinie. Prokurator von Wenk próbuje go powstrzymać."
+    },
+    {
+      "tytuł": "Napoleon",
+      "tytuł_oryginalny": "Napoléon vu par Abel Gance",
+      "reżyser": "Abel Gance",
+      "rok": "1927",
+      "kraj": "Francja",
+      "gatunek": "Biograficzny",
+      "kategoria_wiekowa": "12+",
+      "opis": "Monumentalna opowieść o młodości i wczesnej karierze Napoleona Bonaparte, od szkolnych lat po kampanię włoską. Film słynie z nowatorskich zdjęć i montażu oraz finałowego tryptyku."
+    },
+    {
+      "tytuł": "Wielka iluzja",
+      "tytuł_oryginalny": "La grande illusion",
+      "reżyser": "Jean Renoir",
+      "rok": "1937",
+      "kraj": "Francja",
+      "gatunek": "Wojenny",
+      "kategoria_wiekowa": "12+",
+      "opis": "Francuscy jeńcy z I wojny światowej planują ucieczkę z niemieckich obozów i nawiązują nietypową więź z komendantem. Film ukazuje, że ludzkie więzi bywają silniejsze niż granice i klasy."
+    },
+    {
+      "tytuł": "Reguła gry",
+      "tytuł_oryginalny": "La règle du jeu",
+      "reżyser": "Jean Renoir",
+      "rok": "1939",
+      "kraj": "Francja",
+      "gatunek": "Komedia",
+      "kategoria_wiekowa": "12+",
+      "opis": "Podczas weekendu w wiejskiej posiadłości arystokraci i służba splatają się w sieć romansów i intryg. Film z humorem i goryczą ukazuje zepsucie francuskiej elity tuż przed wojną."
+    },
+    {
+      "tytuł": "Dzieci raju",
+      "tytuł_oryginalny": "Les enfants du paradis",
+      "reżyser": "Marcel Carné",
+      "rok": "1945",
+      "kraj": "Francja",
+      "gatunek": "Romans",
+      "kategoria_wiekowa": "12+",
+      "opis": "W paryskim teatrze XIX wieku mim Baptiste i piękna Garance są uwikłani w niespełnioną miłość i towarzyskie intrygi. Film, nakręcony w czasie okupacji, uchodzi za jedno z najwspanialszych dzieł kina francuskiego."
+    },
+    {
+      "tytuł": "Rzym, miasto otwarte",
+      "tytuł_oryginalny": "Roma città aperta",
+      "reżyser": "Roberto Rossellini",
+      "rok": "1945",
+      "kraj": "Włochy",
+      "gatunek": "Wojenny",
+      "kategoria_wiekowa": "16+",
+      "opis": "Rzym pod niemiecką okupacją: członek ruchu oporu i ksiądz ukrywają się przed gestapo. Film nakręcony tuż po wojnie jest manifestem włoskiego neorealizmu."
+    },
+    {
+      "tytuł": "Paisà",
+      "tytuł_oryginalny": "Paisà",
+      "reżyser": "Roberto Rossellini",
+      "rok": "1946",
+      "kraj": "Włochy",
+      "gatunek": "Wojenny",
+      "kategoria_wiekowa": "16+",
+      "opis": "Sześć epizodów opowiada o losach Włochów i amerykańskich żołnierzy w czasie wyzwolenia Włoch od Sycylii po deltę Padu. Rossellini w dokumentalnym stylu ukazuje wojenną rzeczywistość i ludzką bezradność."
+    },
+    {
+      "tytuł": "Ziemia drży",
+      "tytuł_oryginalny": "La terra trema",
+      "reżyser": "Luchino Visconti",
+      "rok": "1948",
+      "kraj": "Włochy",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "12+",
+      "opis": "Rodzina sycylijskich rybaków próbuje uwolnić się od wyzysku pośredników, lecz ponosi dotkliwą klęskę. Film kręcono z udziałem amatorów w prawdziwych wnętrzach i naturalnym dialekcie."
+    },
+    {
+      "tytuł": "Złodzieje rowerów",
+      "tytuł_oryginalny": "Ladri di biciclette",
+      "reżyser": "Vittorio De Sica",
+      "rok": "1948",
+      "kraj": "Włochy",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "12+",
+      "opis": "Bezrobotny ojciec w powojennym Rzymie traci rower niezbędny do pracy i wraz z synem przemierza miasto w poszukiwaniu złodzieja. Film jest wzruszającym obrazem biedy i godności."
+    },
+    {
+      "tytuł": "Umberto D.",
+      "tytuł_oryginalny": "Umberto D.",
+      "reżyser": "Vittorio De Sica",
+      "rok": "1952",
+      "kraj": "Włochy",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "12+",
+      "opis": "Samotny emeryt Umberto walczy z biedą i groźbą eksmisji, a jedynym towarzyszem jest jego pies Flike. Spokojny, poruszający film mówi o osamotnieniu i obojętności społeczeństwa."
+    },
+    {
+      "tytuł": "Piękna i Bestia",
+      "tytuł_oryginalny": "La belle et la bête",
+      "reżyser": "Jean Cocteau",
+      "rok": "1946",
+      "kraj": "Francja",
+      "gatunek": "Fantasy",
+      "kategoria_wiekowa": "6+",
+      "opis": "Kupiecka córka Piękna ratuje ojca, zamieszkując w zamku tajemniczej Bestii. Cocteau tworzy poetycki, sennie piękny świat pełen wizualnej magii."
+    },
+    {
+      "tytuł": "Podróż do Tokio",
+      "tytuł_oryginalny": "Tôkyô monogatari",
+      "reżyser": "Yasujirō Ozu",
+      "rok": "1953",
+      "kraj": "Japonia",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "12+",
+      "opis": "Starsze małżeństwo odwiedza dorosłe dzieci w Tokio i odkrywa, że nie mają dla nich czasu. Ozu w spokojny, kontemplacyjny sposób opowiada o przemijaniu i relacjach między pokoleniami."
+    },
+    {
+      "tytuł": "Żyć",
+      "tytuł_oryginalny": "Ikiru",
+      "reżyser": "Akira Kurosawa",
+      "rok": "1952",
+      "kraj": "Japonia",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "12+",
+      "opis": "Urzędnik Watanabe, dowiedziawszy się o śmiertelnej chorobie, zaczyna szukać sensu życia i próbuje zrobić coś pożytecznego. Film mówi o godności i o tym, jak wykorzystać czas, który nam pozostał."
+    },
+    {
+      "tytuł": "Siedmiu samurajów",
+      "tytuł_oryginalny": "Shichinin no samurai",
+      "reżyser": "Akira Kurosawa",
+      "rok": "1954",
+      "kraj": "Japonia",
+      "gatunek": "Przygodowy",
+      "kategoria_wiekowa": "12+",
+      "opis": "Wioska chłopska, nękana przez bandytów, wynajmuje siedmiu samurajów do obrony. Film łączy epicką akcję z refleksją o honorze i podziałach klasowych."
+    },
+    {
+      "tytuł": "Opowieści księżycowe",
+      "tytuł_oryginalny": "Ugetsu monogatari",
+      "reżyser": "Kenji Mizoguchi",
+      "rok": "1953",
+      "kraj": "Japonia",
+      "gatunek": "Fantasy",
+      "kategoria_wiekowa": "12+",
+      "opis": "W czasach wojen domowych dwaj wieśniacy porzucają rodziny w pogoni za bogactwem i sławą, a ich losy splatają się z duchami. Film jest poetycką przypowieścią o ambicji i stracie."
+    },
+    {
+      "tytuł": "Zarządca Sansho",
+      "tytuł_oryginalny": "Sanshô dayû",
+      "reżyser": "Kenji Mizoguchi",
+      "rok": "1954",
+      "kraj": "Japonia",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "12+",
+      "opis": "Rodzeństwo zostaje sprzedane w niewolę okrutnemu zarządcy Sansho, a jedyną nadzieją jest obietnica ojca o współczuciu dla innych. Film porusza temat godności, rodziny i sprawiedliwości."
+    },
+    {
+      "tytuł": "Niebo i piekło",
+      "tytuł_oryginalny": "Tengoku to jigoku",
+      "reżyser": "Akira Kurosawa",
+      "rok": "1963",
+      "kraj": "Japonia",
+      "gatunek": "Kryminał",
+      "kategoria_wiekowa": "12+",
+      "opis": "Bogaty przemysłowiec staje przed dylematem moralnym, gdy porywacz żąda okupu za dziecko jego szofera. Film dzieli się na dwie części: napięty dramat w domu i policyjne śledztwo w mieście."
+    },
+    {
+      "tytuł": "Zwykli nieznajomi",
+      "tytuł_oryginalny": "I soliti ignoti",
+      "reżyser": "Mario Monicelli",
+      "rok": "1958",
+      "kraj": "Włochy",
+      "gatunek": "Komedia",
+      "kategoria_wiekowa": "12+",
+      "opis": "Grupa niezbyt zdolnych rzezimieszków planuje włamanie do lombardu, lecz wszystko idzie po ich myśli tylko w teorii. Komedia z goryczą pokazuje życie biedoty w powojennych Włoszech."
+    },
+    {
+      "tytuł": "Rocco i jego bracia",
+      "tytuł_oryginalny": "Rocco e i suoi fratelli",
+      "reżyser": "Luchino Visconti",
+      "rok": "1960",
+      "kraj": "Włochy",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "16+",
+      "opis": "Rodzina z południa Włoch przenosi się do Mediolanu, gdzie bracia mierzą się z biedą, miłością i rywalizacją. Film jest tragiczną opowieścią o rozpadzie więzi i zderzeniu światów."
+    },
+    {
+      "tytuł": "400 batów",
+      "tytuł_oryginalny": "Les quatre cents coups",
+      "reżyser": "François Truffaut",
+      "rok": "1959",
+      "kraj": "Francja",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "12+",
+      "opis": "Zaniedbywany przez rodziców 13-letni Antoine Doinel wagaruje, kłamie i wpada w konflikt z prawem. Półautobiograficzny film otworzył francuską nową falę."
+    },
+    {
+      "tytuł": "Strzelajcie do pianisty",
+      "tytuł_oryginalny": "Tirez sur le pianiste",
+      "reżyser": "François Truffaut",
+      "rok": "1960",
+      "kraj": "Francja",
+      "gatunek": "Kryminał",
+      "kategoria_wiekowa": "12+",
+      "opis": "Pianista barowy Charlie próbuje zapomnieć o przeszłości, lecz wciąga go brat i jego gangsterscy znajomi. Truffaut miesza kryminał, komedię i melodramat."
+    },
+    {
+      "tytuł": "Do utraty tchu",
+      "tytuł_oryginalny": "À bout de souffle",
+      "reżyser": "Jean-Luc Godard",
+      "rok": "1960",
+      "kraj": "Francja",
+      "gatunek": "Kryminał",
+      "kategoria_wiekowa": "16+",
+      "opis": "Drobny przestępca Michel zabija policjanta i ucieka, a w Paryżu odwiedza amerykańską dziewczynę Patricię. Rewolucyjny montaż i swobodna narracja odmieniły język kina."
+    },
+    {
+      "tytuł": "Bande à part",
+      "tytuł_oryginalny": "Bande à part",
+      "reżyser": "Jean-Luc Godard",
+      "rok": "1964",
+      "kraj": "Francja",
+      "gatunek": "Kryminał",
+      "kategoria_wiekowa": "16+",
+      "opis": "Dwóch kolegów i młoda dziewczyna planują napad na dom jej ciotki, lecz ich plan komplikuje się przez uczucia i niepowodzenia. Film pełen jest swobodnej zabawy i kinowych odniesień."
+    },
+    {
+      "tytuł": "Il sorpasso",
+      "tytuł_oryginalny": "Il sorpasso",
+      "reżyser": "Dino Risi",
+      "rok": "1962",
+      "kraj": "Włochy",
+      "gatunek": "Komedia",
+      "kategoria_wiekowa": "12+",
+      "opis": "W upalny dzień w Rzymie beztroski Bruno zabiera nieśmiałego studenta Roberta na szaloną przejażdżkę wzdłuż wybrzeża. Wesoły początek przeradza się w gorzką refleksję o pędzie i bezmyślności."
+    },
+    {
+      "tytuł": "Przygoda",
+      "tytuł_oryginalny": "L'avventura",
+      "reżyser": "Michelangelo Antonioni",
+      "rok": "1960",
+      "kraj": "Włochy",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "16+",
+      "opis": "Podczas rejsu po Morzu Śródziemnym znika kobieta, a jej narzeczony i przyjaciółka rozpoczynają poszukiwania, które prowadzą do nowego uczucia. Film opowiada o pustce emocjonalnej współczesnych ludzi."
+    },
+    {
+      "tytuł": "Powiększenie",
+      "tytuł_oryginalny": "Blow-Up",
+      "reżyser": "Michelangelo Antonioni",
+      "rok": "1966",
+      "kraj": "Wielka Brytania / Włochy",
+      "gatunek": "Thriller",
+      "kategoria_wiekowa": "16+",
+      "opis": "Fotograf modowy z Londynu odkrywa na powiększonych zdjęciach z parku ślad zbrodni. Film stawia pytania o prawdę, obraz i percepcję rzeczywistości."
+    },
+    {
+      "tytuł": "Przed rewolucją",
+      "tytuł_oryginalny": "Prima della rivoluzione",
+      "reżyser": "Bernardo Bertolucci",
+      "rok": "1964",
+      "kraj": "Włochy",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "16+",
+      "opis": "Młody mieszczanin z Parmy rozdarty jest między marksistowskimi ideałami a komfortem rodzinnego świata i romansem z ciotką. Film jest portretem pokolenia zagubionego w polityce i uczuciach."
+    },
+    {
+      "tytuł": "Rzeźnik",
+      "tytuł_oryginalny": "Le boucher",
+      "reżyser": "Claude Chabrol",
+      "rok": "1970",
+      "kraj": "Francja",
+      "gatunek": "Thriller",
+      "kategoria_wiekowa": "16+",
+      "opis": "W małej wiosce nauczycielka Hélène zaprzyjaźnia się z miejscowym rzeźnikiem, w czasie gdy ktoś morduje młode kobiety. Film subtelnie buduje napięcie i niepokojąco bada ludzkie lęki."
+    },
+    {
+      "tytuł": "Weekend",
+      "tytuł_oryginalny": "Week End",
+      "reżyser": "Jean-Luc Godard",
+      "rok": "1967",
+      "kraj": "Francja",
+      "gatunek": "Komedia",
+      "kategoria_wiekowa": "18+",
+      "opis": "Małżeństwo mieszczan wyrusza na weekendową podróż w celu zdobycia spadku, a droga staje się piekłem pełnym wypadków i przemocy. Godard sarkastycznie ukazuje konsumpcjonizm i kryzys cywilizacji."
+    },
+    {
+      "tytuł": "Powieszenie",
+      "tytuł_oryginalny": "Kôshikei",
+      "reżyser": "Nagisa Ōshima",
+      "rok": "1968",
+      "kraj": "Japonia",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "18+",
+      "opis": "Koreańczyk skazany na śmierć przeżywa nieudane powieszenie i traci pamięć, więc urzędnicy próbują go „przywrócić” do świadomości, by wykonać wyrok. Film jest absurdalną krytyką kary śmierci i rasizmu."
+    },
+    {
+      "tytuł": "Kupiec czterech pór roku",
+      "tytuł_oryginalny": "Händler der vier Jahreszeiten",
+      "reżyser": "Rainer Werner Fassbinder",
+      "rok": "1972",
+      "kraj": "Niemcy",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "16+",
+      "opis": "Handlarz owoców Hans Epp, upokarzany przez rodzinę, stopniowo popada w rozpacz i alkoholizm. Fassbinder z surową czułością portretuje życie zwykłego człowieka."
+    },
+    {
+      "tytuł": "Strach zżera duszę",
+      "tytuł_oryginalny": "Angst essen Seele auf",
+      "reżyser": "Rainer Werner Fassbinder",
+      "rok": "1974",
+      "kraj": "Niemcy",
+      "gatunek": "Romans",
+      "kategoria_wiekowa": "16+",
+      "opis": "Starsza niemiecka sprzątaczka Emmi wiąże się z młodszym marokańskim robotnikiem Alim, wywołując wrogość otoczenia. Film mówi o rasizmie, samotności i sile uczucia."
+    },
+    {
+      "tytuł": "Małżeństwo Marii Braun",
+      "tytuł_oryginalny": "Die Ehe der Maria Braun",
+      "reżyser": "Rainer Werner Fassbinder",
+      "rok": "1979",
+      "kraj": "Niemcy",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "16+",
+      "opis": "Podczas wojny Maria wychodzi za mąż, a po zaginięciu męża w powojennych Niemczech buduje karierę i fortunę. Film opowiada o ambicji, miłości i kondycji kraju odbudowującego się po wojnie."
+    },
+    {
+      "tytuł": "W biegu czasu",
+      "tytuł_oryginalny": "Im Lauf der Zeit",
+      "reżyser": "Wim Wenders",
+      "rok": "1976",
+      "kraj": "Niemcy",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "16+",
+      "opis": "Dwaj samotni mężczyźni podróżują po zachodnioniemieckiej prowincji ciężarówką, naprawiając projektory w podupadających kinach. Film w kontemplacyjny sposób mówi o przyjaźni i zmierzchu starego kina."
+    },
+    {
+      "tytuł": "Amerykański przyjaciel",
+      "tytuł_oryginalny": "Der amerikanische Freund",
+      "reżyser": "Wim Wenders",
+      "rok": "1977",
+      "kraj": "Niemcy",
+      "gatunek": "Thriller",
+      "kategoria_wiekowa": "16+",
+      "opis": "Hamburski rzemieślnik z ciężką chorobą zostaje wciągnięty przez amerykańskiego oszusta Toma Ripleya w pracę płatnego zabójcy. Wenders buduje klimatyczny thriller o przyjaźni, zdradzie i śmierci."
+    },
+    {
+      "tytuł": "Kaspar Hauser – Każdy sam i Bóg przeciwko wszystkim",
+      "tytuł_oryginalny": "Jeder für sich und Gott gegen alle",
+      "reżyser": "Werner Herzog",
+      "rok": "1974",
+      "kraj": "Niemcy",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "16+",
+      "opis": "Młody człowiek wychowany w całkowitej izolacji pojawia się na ulicach Norymbergi i uczy się życia wśród ludzi. Film jest przejmującą opowieścią o niewinności i okrucieństwie społeczeństwa."
+    },
+    {
+      "tytuł": "Aguirre, gniew boży",
+      "tytuł_oryginalny": "Aguirre, der Zorn Gottes",
+      "reżyser": "Werner Herzog",
+      "rok": "1972",
+      "kraj": "Niemcy",
+      "gatunek": "Przygodowy",
+      "kategoria_wiekowa": "16+",
+      "opis": "Hiszpańska wyprawa konkwistadorów szuka legendarnego Eldorado w peruwiańskiej dżungli, a Aguirre staje się opętany władzą. Film w hipnotyczny sposób pokazuje szaleństwo ambicji."
+    }
+  ]
+}

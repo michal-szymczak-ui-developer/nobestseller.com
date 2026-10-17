@@ -1,0 +1,606 @@
+{
+  "nazwa": "Nolan",
+  "opis": "Filmy polecane przez Christophera Nolana.",
+  "pozycje": [
+    {
+      "tytuł": "Doktor Mabuse – gracz",
+      "tytuł_oryginalny": "Dr. Mabuse, der Spieler",
+      "reżyser": "Fritz Lang",
+      "rok": "1922",
+      "kraj": "Niemcy",
+      "gatunek": "Kryminał",
+      "kategoria_wiekowa": "12+",
+      "opis": "Genialny przestępca i hipnotyzer Mabuse manipuluje giełdą, hazardem i ludźmi w powojennym Berlinie, a prokurator próbuje go powstrzymać."
+    },
+    {
+      "tytuł": "Chciwość",
+      "tytuł_oryginalny": "Greed",
+      "reżyser": "Erich von Stroheim",
+      "rok": "1924",
+      "kraj": "USA",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "12+",
+      "opis": "Wygrana na loterii wyzwala zazdrość i obsesję pieniędzy, które niszczą małżeństwo i przyjaźń trojga bohaterów."
+    },
+    {
+      "tytuł": "Metropolis",
+      "tytuł_oryginalny": "Metropolis",
+      "reżyser": "Fritz Lang",
+      "rok": "1927",
+      "kraj": "Niemcy",
+      "gatunek": "Science fiction",
+      "kategoria_wiekowa": "12+",
+      "opis": "W futurystycznym mieście robotnicy pracują pod ziemią, a elita żyje w luksusie na powierzchni."
+    },
+    {
+      "tytuł": "Wschód słońca",
+      "tytuł_oryginalny": "Sunrise: A Song of Two Humans",
+      "reżyser": "Friedrich Wilhelm Murnau",
+      "rok": "1927",
+      "kraj": "USA",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "12+",
+      "opis": "Wieśniak ulega pokusie miejskiej kochanki i rozważa zabicie żony, po czym dochodzi między nimi do pojednania."
+    },
+    {
+      "tytuł": "Na Zachodzie bez zmian",
+      "tytuł_oryginalny": "All Quiet on the Western Front",
+      "reżyser": "Lewis Milestone",
+      "rok": "1930",
+      "kraj": "USA",
+      "gatunek": "Wojenny",
+      "kategoria_wiekowa": "12+",
+      "opis": "Niemieccy uczniowie zgłaszają się na ochotnika na front I wojny światowej i szybko tracą złudzenia."
+    },
+    {
+      "tytuł": "Testament doktora Mabuse",
+      "tytuł_oryginalny": "Das Testament des Dr. Mabuse",
+      "reżyser": "Fritz Lang",
+      "rok": "1933",
+      "kraj": "Niemcy",
+      "gatunek": "Thriller",
+      "kategoria_wiekowa": "12+",
+      "opis": "Z zamkniętego zakładu psychiatrycznego Mabuse kieruje przestępczą siatką, a policja próbuje ustalić, kto wykonuje jego polecenia."
+    },
+    {
+      "tytuł": "Korespondent zagraniczny",
+      "tytuł_oryginalny": "Foreign Correspondent",
+      "reżyser": "Alfred Hitchcock",
+      "rok": "1940",
+      "kraj": "USA",
+      "gatunek": "Thriller",
+      "kategoria_wiekowa": "12+",
+      "opis": "Amerykański reporter wysłany do Europy w przededniu II wojny światowej odkrywa siatkę szpiegowską."
+    },
+    {
+      "tytuł": "Obywatel Kane",
+      "tytuł_oryginalny": "Citizen Kane",
+      "reżyser": "Orson Welles",
+      "rok": "1941",
+      "kraj": "USA",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "12+",
+      "opis": "Po śmierci magnata prasowego reporter próbuje ustalić znaczenie jego ostatniego słowa „Rosebud”."
+    },
+    {
+      "tytuł": "Cena strachu",
+      "tytuł_oryginalny": "Le salaire de la peur",
+      "reżyser": "Henri-Georges Clouzot",
+      "rok": "1953",
+      "kraj": "Francja",
+      "gatunek": "Thriller",
+      "kategoria_wiekowa": "16+",
+      "opis": "Czterech mężczyzn w południowoamerykańskiej dziurze podejmuje się przewiezienia ciężarówkami nitrogliceryny przez niebezpieczne drogi."
+    },
+    {
+      "tytuł": "Mr. Arkadin",
+      "tytuł_oryginalny": "Mr. Arkadin",
+      "reżyser": "Orson Welles",
+      "rok": "1955",
+      "kraj": "Francja",
+      "gatunek": "Thriller",
+      "kategoria_wiekowa": "12+",
+      "opis": "Awanturnik zostaje zatrudniony przez milionera, by zbadać jego zatartą przeszłość, i wpada w niebezpieczną grę."
+    },
+    {
+      "tytuł": "Pather Panchali",
+      "tytuł_oryginalny": "Pather Panchali",
+      "reżyser": "Satyajit Ray",
+      "rok": "1955",
+      "kraj": "Indie",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "12+",
+      "opis": "Film przedstawia dzieciństwo chłopca Apu w ubogiej bengalskiej wsi i codzienność jego rodziny."
+    },
+    {
+      "tytuł": "Dwunastu gniewnych ludzi",
+      "tytuł_oryginalny": "12 Angry Men",
+      "reżyser": "Sidney Lumet",
+      "rok": "1957",
+      "kraj": "USA",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "12+",
+      "opis": "Dwunastu przysięgłych w jednym pokoju decyduje o losie młodego oskarżonego, a jeden z nich podaje w wątpliwość pozorną pewność reszty."
+    },
+    {
+      "tytuł": "Lawrence z Arabii",
+      "tytuł_oryginalny": "Lawrence of Arabia",
+      "reżyser": "David Lean",
+      "rok": "1962",
+      "kraj": "Wielka Brytania",
+      "gatunek": "Przygodowy",
+      "kategoria_wiekowa": "12+",
+      "opis": "Brytyjski oficer T. E. Lawrence jednoczy plemiona arabskie w walce z Turkami w czasie I wojny światowej."
+    },
+    {
+      "tytuł": "Doktor Strangelove, czyli jak przestałem się martwić i pokochałem bombę",
+      "tytuł_oryginalny": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "reżyser": "Stanley Kubrick",
+      "rok": "1964",
+      "kraj": "Wielka Brytania",
+      "gatunek": "Komedia",
+      "kategoria_wiekowa": "12+",
+      "opis": "Szalony generał rozkazuje atak nuklearny na ZSRR, a politycy i wojskowi próbują zapobiec katastrofie."
+    },
+    {
+      "tytuł": "Topkapi",
+      "tytuł_oryginalny": "Topkapi",
+      "reżyser": "Jules Dassin",
+      "rok": "1964",
+      "kraj": "USA",
+      "gatunek": "Kryminał",
+      "kategoria_wiekowa": "12+",
+      "opis": "Grupa złodziei planuje kradzież sztyletu ze stambulskiego muzeum."
+    },
+    {
+      "tytuł": "Zabójcy",
+      "tytuł_oryginalny": "The Killers",
+      "reżyser": "Don Siegel",
+      "rok": "1964",
+      "kraj": "USA",
+      "gatunek": "Kryminał",
+      "kategoria_wiekowa": "16+",
+      "opis": "Dwaj płatni mordercy dochodzą do przyczyn, dla których ich ofiara przyjęła śmierć bez oporu."
+    },
+    {
+      "tytuł": "Wzgórze",
+      "tytuł_oryginalny": "The Hill",
+      "reżyser": "Sidney Lumet",
+      "rok": "1965",
+      "kraj": "Wielka Brytania",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "16+",
+      "opis": "W brytyjskim więzieniu wojskowym w Afryce Północnej skazani żołnierze są poddawani brutalnym karom, aż jeden z nich umiera."
+    },
+    {
+      "tytuł": "Bitwa o Algier",
+      "tytuł_oryginalny": "La battaglia di Algeri",
+      "reżyser": "Gillo Pontecorvo",
+      "rok": "1966",
+      "kraj": "Włochy",
+      "gatunek": "Wojenny",
+      "kategoria_wiekowa": "16+",
+      "opis": "Film w stylu quasi-dokumentalnym odtwarza walkę algierskiego ruchu niepodległościowego z francuskimi siłami kolonialnymi."
+    },
+    {
+      "tytuł": "2001: Odyseja kosmiczna",
+      "tytuł_oryginalny": "2001: A Space Odyssey",
+      "reżyser": "Stanley Kubrick",
+      "rok": "1968",
+      "kraj": "Wielka Brytania",
+      "gatunek": "Science fiction",
+      "kategoria_wiekowa": "12+",
+      "opis": "Od prehistorycznych małp po podróż w kosmosie film śledzi ewolucję ludzkości, w której ważną rolę odgrywa tajemniczy monolit i komputer HAL 9000."
+    },
+    {
+      "tytuł": "Córka Ryana",
+      "tytuł_oryginalny": "Ryan's Daughter",
+      "reżyser": "David Lean",
+      "rok": "1970",
+      "kraj": "Wielka Brytania",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "16+",
+      "opis": "Młoda mężatka w irlandzkiej wsi w czasie I wojny światowej wdaje się w romans z brytyjskim oficerem, co wywołuje społeczny ostracyzm."
+    },
+    {
+      "tytuł": "The Offence",
+      "tytuł_oryginalny": "The Offence",
+      "reżyser": "Sidney Lumet",
+      "rok": "1973",
+      "kraj": "Wielka Brytania",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "16+",
+      "opis": "Doświadczony policjant po przesłuchaniu podejrzanego o pedofilię traci panowanie nad sobą."
+    },
+    {
+      "tytuł": "Człowiek, który chciał być królem",
+      "tytuł_oryginalny": "The Man Who Would Be King",
+      "reżyser": "John Huston",
+      "rok": "1975",
+      "kraj": "Wielka Brytania",
+      "gatunek": "Przygodowy",
+      "kategoria_wiekowa": "12+",
+      "opis": "Dwaj brytyjscy awanturnicy w XIX wieku wyruszają do Kafiristanu, aby zostać tam królami."
+    },
+    {
+      "tytuł": "Bliskie spotkania trzeciego stopnia",
+      "tytuł_oryginalny": "Close Encounters of the Third Kind",
+      "reżyser": "Steven Spielberg",
+      "rok": "1977",
+      "kraj": "USA",
+      "gatunek": "Science fiction",
+      "kategoria_wiekowa": "12+",
+      "opis": "Zwykły elektryk doświadcza spotkania z UFO i staje się obsesyjnie przekonany, że musi dotrzeć do miejsca kontaktu."
+    },
+    {
+      "tytuł": "Gwiezdne wojny: Część IV – Nowa nadzieja",
+      "tytuł_oryginalny": "Star Wars",
+      "reżyser": "George Lucas",
+      "rok": "1977",
+      "kraj": "USA",
+      "gatunek": "Science fiction",
+      "kategoria_wiekowa": "6+",
+      "opis": "Młody Luke Skywalker dołącza do rebeliantów walczących z Imperium Galaktycznym."
+    },
+    {
+      "tytuł": "Sorcerer",
+      "tytuł_oryginalny": "Sorcerer",
+      "reżyser": "William Friedkin",
+      "rok": "1977",
+      "kraj": "USA",
+      "gatunek": "Thriller",
+      "kategoria_wiekowa": "16+",
+      "opis": "Czterech zbiegłych przestępców przewozi ciężarówkami nitroglicerynę przez dżunglę Ameryki Południowej."
+    },
+    {
+      "tytuł": "Szpieg, który mnie kochał",
+      "tytuł_oryginalny": "The Spy Who Loved Me",
+      "reżyser": "Lewis Gilbert",
+      "rok": "1977",
+      "kraj": "Wielka Brytania",
+      "gatunek": "Akcja",
+      "kategoria_wiekowa": "12+",
+      "opis": "James Bond wspólnie z radziecką agentką próbuje powstrzymać magnata, który chce wywołać wojnę atomową."
+    },
+    {
+      "tytuł": "Superman",
+      "tytuł_oryginalny": "Superman",
+      "reżyser": "Richard Donner",
+      "rok": "1978",
+      "kraj": "USA",
+      "gatunek": "Akcja",
+      "kategoria_wiekowa": "6+",
+      "opis": "Kryptończyk wychowany na amerykańskiej farmie staje się obrońcą ludzkości i walczy z Lexem Luthorem."
+    },
+    {
+      "tytuł": "Czarna dziura",
+      "tytuł_oryginalny": "The Black Hole",
+      "reżyser": "Gary Nelson",
+      "rok": "1979",
+      "kraj": "USA",
+      "gatunek": "Science fiction",
+      "kategoria_wiekowa": "6+",
+      "opis": "Załoga statku badawczego odkrywa opuszczony okręt krążący przy czarnej dziurze, a jego dowódca skrywa niebezpieczny plan."
+    },
+    {
+      "tytuł": "Czarny rumak",
+      "tytuł_oryginalny": "The Black Stallion",
+      "reżyser": "Carroll Ballard",
+      "rok": "1979",
+      "kraj": "USA",
+      "gatunek": "Familijny",
+      "kategoria_wiekowa": "6+",
+      "opis": "Chłopiec ocalały z katastrofy statku zaprzyjaźnia się z dzikim koniem arabskim, a potem szkoli go do wyścigów."
+    },
+    {
+      "tytuł": "Obcy – ósmy pasażer Nostromo",
+      "tytuł_oryginalny": "Alien",
+      "reżyser": "Ridley Scott",
+      "rok": "1979",
+      "kraj": "Wielka Brytania",
+      "gatunek": "Horror",
+      "kategoria_wiekowa": "18+",
+      "opis": "Załoga statku kosmicznego zostaje zaatakowana przez śmiertelną formę życia, która dostała się na pokład."
+    },
+    {
+      "tytuł": "Bad Timing",
+      "tytuł_oryginalny": "Bad Timing",
+      "reżyser": "Nicolas Roeg",
+      "rok": "1980",
+      "kraj": "Wielka Brytania",
+      "gatunek": "Thriller",
+      "kategoria_wiekowa": "18+",
+      "opis": "Po próbie samobójstwa młodej kobiety wiedeński inspektor bada jej burzliwy związek z psychoanalitykiem."
+    },
+    {
+      "tytuł": "Rydwany ognia",
+      "tytuł_oryginalny": "Chariots of Fire",
+      "reżyser": "Hugh Hudson",
+      "rok": "1981",
+      "kraj": "Wielka Brytania",
+      "gatunek": "Biograficzny",
+      "kategoria_wiekowa": "6+",
+      "opis": "Dwóch brytyjskich biegaczy, Żyd Harold Abrahams i chrześcijanin Eric Liddell, przygotowuje się do igrzysk w Paryżu w 1924 roku."
+    },
+    {
+      "tytuł": "Koyaanisqatsi",
+      "tytuł_oryginalny": "Koyaanisqatsi",
+      "reżyser": "Godfrey Reggio",
+      "rok": "1982",
+      "kraj": "USA",
+      "gatunek": "Dokumentalny",
+      "kategoria_wiekowa": "6+",
+      "opis": "Film bez dialogów zestawia obrazy natury i miasta z muzyką Philipa Glassa, pokazując relację człowieka z technologią."
+    },
+    {
+      "tytuł": "Łowca androidów",
+      "tytuł_oryginalny": "Blade Runner",
+      "reżyser": "Ridley Scott",
+      "rok": "1982",
+      "kraj": "USA",
+      "gatunek": "Science fiction",
+      "kategoria_wiekowa": "16+",
+      "opis": "Były policjant Rick Deckard ściga w futurystycznym Los Angeles zbuntowane androidy."
+    },
+    {
+      "tytuł": "The Right Stuff",
+      "tytuł_oryginalny": "The Right Stuff",
+      "reżyser": "Philip Kaufman",
+      "rok": "1983",
+      "kraj": "USA",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "12+",
+      "opis": "Film opowiada o pilotach doświadczalnych i pierwszych astronautach amerykańskiego programu Mercury."
+    },
+    {
+      "tytuł": "Wesołych świąt, panie Lawrence",
+      "tytuł_oryginalny": "Merry Christmas, Mr. Lawrence",
+      "reżyser": "Nagisa Ōshima",
+      "rok": "1983",
+      "kraj": "Japonia",
+      "gatunek": "Wojenny",
+      "kategoria_wiekowa": "16+",
+      "opis": "W japońskim obozie jenieckim na Jawie dochodzi do napięcia między brytyjskim oficerem a japońskim komendantem."
+    },
+    {
+      "tytuł": "Amadeusz",
+      "tytuł_oryginalny": "Amadeus",
+      "reżyser": "Miloš Forman",
+      "rok": "1984",
+      "kraj": "USA",
+      "gatunek": "Biograficzny",
+      "kategoria_wiekowa": "16+",
+      "opis": "Kompozytor Salieri opowiada o rywalizacji z Mozartem, któremu zazdrości talentu."
+    },
+    {
+      "tytuł": "The Hit",
+      "tytuł_oryginalny": "The Hit",
+      "reżyser": "Stephen Frears",
+      "rok": "1984",
+      "kraj": "Wielka Brytania",
+      "gatunek": "Thriller",
+      "kategoria_wiekowa": "16+",
+      "opis": "Dwaj płatni zabójcy wiozą przez Hiszpanię informatora, który ma zginąć za zeznania przeciw mafii."
+    },
+    {
+      "tytuł": "Autostopowicz",
+      "tytuł_oryginalny": "The Hitcher",
+      "reżyser": "Robert Harmon",
+      "rok": "1986",
+      "kraj": "USA",
+      "gatunek": "Thriller",
+      "kategoria_wiekowa": "18+",
+      "opis": "Młody kierowca podwozi autostopowicza, który okazuje się psychopatą, i staje się przedmiotem jego pościgu."
+    },
+    {
+      "tytuł": "Ulica Krokodyli",
+      "tytuł_oryginalny": "Street of Crocodiles",
+      "reżyser": "Stephen Quay, Timothy Quay",
+      "rok": "1986",
+      "kraj": "Wielka Brytania",
+      "gatunek": "Animacja",
+      "kategoria_wiekowa": "12+",
+      "opis": "Krótkometrażowa animacja lalkowa, inspirowana prozą Brunona Schulza, pokazuje tajemniczy świat ożywających przedmiotów."
+    },
+    {
+      "tytuł": "For All Mankind",
+      "tytuł_oryginalny": "For All Mankind",
+      "reżyser": "Al Reinert",
+      "rok": "1989",
+      "kraj": "USA",
+      "gatunek": "Dokumentalny",
+      "kategoria_wiekowa": "6+",
+      "opis": "Dokument zmontowany z oryginalnych materiałów z misji Apollo, z komentarzem samych astronautów."
+    },
+    {
+      "tytuł": "JFK",
+      "tytuł_oryginalny": "JFK",
+      "reżyser": "Oliver Stone",
+      "rok": "1991",
+      "kraj": "USA",
+      "gatunek": "Thriller",
+      "kategoria_wiekowa": "16+",
+      "opis": "Prokurator Jim Garrison prowadzi śledztwo w sprawie zamachu na prezydenta Kennedy'ego."
+    },
+    {
+      "tytuł": "Gracz",
+      "tytuł_oryginalny": "The Player",
+      "reżyser": "Robert Altman",
+      "rok": "1992",
+      "kraj": "USA",
+      "gatunek": "Komedia",
+      "kategoria_wiekowa": "16+",
+      "opis": "Producent hollywoodzki zostaje podejrzany o zabójstwo scenarzysty, który mu groził. Film jest satyrą na przemysł filmowy."
+    },
+    {
+      "tytuł": "Malcolm X",
+      "tytuł_oryginalny": "Malcolm X",
+      "reżyser": "Spike Lee",
+      "rok": "1992",
+      "kraj": "USA",
+      "gatunek": "Biograficzny",
+      "kategoria_wiekowa": "16+",
+      "opis": "Film śledzi drogę Malcolma X od przestępcy do przywódcy Narodu Islamu i aktywisty."
+    },
+    {
+      "tytuł": "One False Move",
+      "tytuł_oryginalny": "One False Move",
+      "reżyser": "Carl Franklin",
+      "rok": "1992",
+      "kraj": "USA",
+      "gatunek": "Kryminał",
+      "kategoria_wiekowa": "18+",
+      "opis": "Troje przestępców ucieka z Los Angeles do Arkansas, a lokalny szeryf zaczyna się z nimi mierzyć."
+    },
+    {
+      "tytuł": "W imię ojca",
+      "tytuł_oryginalny": "In the Name of the Father",
+      "reżyser": "Jim Sheridan",
+      "rok": "1993",
+      "kraj": "Irlandia",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "16+",
+      "opis": "Młody Irlandczyk Gerry Conlon zostaje niesłusznie skazany za zamach terrorystyczny i odkrywa prawdę razem z ojcem w więzieniu."
+    },
+    {
+      "tytuł": "Gorączka",
+      "tytuł_oryginalny": "Heat",
+      "reżyser": "Michael Mann",
+      "rok": "1995",
+      "kraj": "USA",
+      "gatunek": "Kryminał",
+      "kategoria_wiekowa": "16+",
+      "opis": "Detektyw policji w Los Angeles ściga zawodowego złodzieja, a obaj mężczyźni okazują się do siebie podobni."
+    },
+    {
+      "tytuł": "Nienawiść",
+      "tytuł_oryginalny": "La haine",
+      "reżyser": "Mathieu Kassovitz",
+      "rok": "1995",
+      "kraj": "Francja",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "16+",
+      "opis": "Trzej młodzi mieszkańcy paryskiego blokowiska spędzają dobę po zamieszkach wywołanych pobiciem kolegi przez policję."
+    },
+    {
+      "tytuł": "Zagubiona autostrada",
+      "tytuł_oryginalny": "Lost Highway",
+      "reżyser": "David Lynch",
+      "rok": "1997",
+      "kraj": "USA",
+      "gatunek": "Thriller",
+      "kategoria_wiekowa": "18+",
+      "opis": "Saksofonista, oskarżony o zabójstwo żony, w celi zmienia się w innego człowieka."
+    },
+    {
+      "tytuł": "Cienka czerwona linia",
+      "tytuł_oryginalny": "The Thin Red Line",
+      "reżyser": "Terrence Malick",
+      "rok": "1998",
+      "kraj": "USA",
+      "gatunek": "Wojenny",
+      "kategoria_wiekowa": "16+",
+      "opis": "Amerykańscy żołnierze walczą o wyspę Guadalcanal w czasie II wojny światowej, a film skupia się na ich myślach i naturze."
+    },
+    {
+      "tytuł": "Szeregowiec Ryan",
+      "tytuł_oryginalny": "Saving Private Ryan",
+      "reżyser": "Steven Spielberg",
+      "rok": "1998",
+      "kraj": "USA",
+      "gatunek": "Wojenny",
+      "kategoria_wiekowa": "16+",
+      "opis": "Po lądowaniu w Normandii oddział amerykańskich żołnierzy wyrusza za linię frontu, by odnaleźć szeregowca, którego bracia zginęli."
+    },
+    {
+      "tytuł": "Aż poleje się krew",
+      "tytuł_oryginalny": "There Will Be Blood",
+      "reżyser": "Paul Thomas Anderson",
+      "rok": "2007",
+      "kraj": "USA",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "16+",
+      "opis": "Poszukiwacz ropy Daniel Plainview buduje na początku XX wieku majątek, kosztem relacji z synem i rywalem, kaznodzieją."
+    },
+    {
+      "tytuł": "Drzewo życia",
+      "tytuł_oryginalny": "The Tree of Life",
+      "reżyser": "Terrence Malick",
+      "rok": "2011",
+      "kraj": "USA",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "12+",
+      "opis": "Film opowiada o dorastaniu chłopca w teksańskiej rodzinie w latach pięćdziesiątych, przeplatając wspomnienia z obrazami stworzenia świata."
+    },
+    {
+      "tytuł": "Boyhood",
+      "tytuł_oryginalny": "Boyhood",
+      "reżyser": "Richard Linklater",
+      "rok": "2014",
+      "kraj": "USA",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "12+",
+      "opis": "Film, kręcony przez dwanaście lat z tymi samymi aktorami, śledzi dorastanie Masona od dzieciństwa do początku studiów."
+    },
+    {
+      "tytuł": "Nienawistna ósemka",
+      "tytuł_oryginalny": "The Hateful Eight",
+      "reżyser": "Quentin Tarantino",
+      "rok": "2015",
+      "kraj": "USA",
+      "gatunek": "Thriller",
+      "kategoria_wiekowa": "18+",
+      "opis": "Łowca nagród i kilku nieznajomych utkwiło w odciętej od świata chacie podczas zamieci w Wyoming, a napięcie rośnie."
+    },
+    {
+      "tytuł": "Blade Runner 2049",
+      "tytuł_oryginalny": "Blade Runner 2049",
+      "reżyser": "Denis Villeneuve",
+      "rok": "2017",
+      "kraj": "USA",
+      "gatunek": "Science fiction",
+      "kategoria_wiekowa": "16+",
+      "opis": "Młody łowca androidów odkrywa tajemnicę, która może zmienić porządek społeczny, i szuka zaginionego Ricka Deckarda."
+    },
+    {
+      "tytuł": "Pierwszy człowiek",
+      "tytuł_oryginalny": "First Man",
+      "reżyser": "Damien Chazelle",
+      "rok": "2018",
+      "kraj": "USA",
+      "gatunek": "Biograficzny",
+      "kategoria_wiekowa": "12+",
+      "opis": "Film pokazuje drogę Neila Armstronga do lądowania na Księżycu, z naciskiem na koszt osobisty."
+    },
+    {
+      "tytuł": "Aftersun",
+      "tytuł_oryginalny": "Aftersun",
+      "reżyser": "Charlotte Wells",
+      "rok": "2022",
+      "kraj": "Wielka Brytania",
+      "gatunek": "Dramat",
+      "kategoria_wiekowa": "12+",
+      "opis": "Dorosła kobieta wspomina wakacje w Turcji spędzone jako jedenastolatka z ojcem."
+    },
+    {
+      "tytuł": "Past Lives",
+      "tytuł_oryginalny": "Past Lives",
+      "reżyser": "Celine Song",
+      "rok": "2023",
+      "kraj": "USA",
+      "gatunek": "Romans",
+      "kategoria_wiekowa": "12+",
+      "opis": "Dwoje przyjaciół z dzieciństwa w Korei spotyka się po dwudziestu latach w Nowym Jorku i konfrontuje z tym, co mogło się wydarzyć."
+    },
+    {
+      "tytuł": "Gladiator II",
+      "tytuł_oryginalny": "Gladiator II",
+      "reżyser": "Ridley Scott",
+      "rok": "2024",
+      "kraj": "USA",
+      "gatunek": "Akcja",
+      "kategoria_wiekowa": "16+",
+      "opis": "Młody Lucjusz trafia jako jeniec do Rzymu i zostaje gladiatorem, mierząc się z władzą cesarzy."
+    }
+  ]
+}

@@ -1,0 +1,341 @@
+{
+  "nazwa": "Rzeczpospolita",
+  "pozycje": [
+    {
+      "tytuł": "Mistrz i Małgorzata",
+      "autor": "Michaił Bułhakow",
+      "rok": "1928–1940",
+      "gatunek": "Fantastyka (fantasy i science fiction)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Diabeł Woland odwiedza stalinowską Moskwę, wprowadzając chaos wśród jej mieszkańców, a równolegle toczy się historia Piłata i Jeszui. Powieść łączy satyrę, fantastykę i opowieść o miłości."
+    },
+    {
+      "tytuł": "Dżuma",
+      "autor": "Albert Camus",
+      "rok": "1947",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "W algierskim mieście Oran wybucha epidemia dżumy, a doktor Rieux podejmuje beznadziejną walkę z chorobą. Powieść jest alegorią zła, solidarności i godności w obliczu absurdu."
+    },
+    {
+      "tytuł": "Gra w klasy",
+      "autor": "Julio Cortázar",
+      "rok": "1963",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Argentyńczyk Horacio Oliveira błąka się między Paryżem a Buenos Aires w poszukiwaniu sensu i miłości. Powieść można czytać w kilku kolejnościach, co zmienia jej znaczenie."
+    },
+    {
+      "tytuł": "Imię róży",
+      "autor": "Umberto Eco",
+      "rok": "1980",
+      "gatunek": "Kryminał, sensacja, thriller",
+      "kategoria_wiekowa": "16+",
+      "opis": "W XIV-wiecznym opactwie franciszkanin Wilhelm z Baskerville wyjaśnia serię tajemniczych zgonów mnichów. Powieść łączy intrygę kryminalną z rozważaniami o wiedzy, wierze i władzy."
+    },
+    {
+      "tytuł": "Ferdydurke",
+      "autor": "Witold Gombrowicz",
+      "rok": "1937",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Trzydziestoletni Józio zostaje cudownie „uczniowany” i trafia do szkoły, a potem na wieś ziemiańską, gdzie wszędzie narzucana jest mu gęba. Powieść z humorem kpi z formy, konwenansów i dojrzałości."
+    },
+    {
+      "tytuł": "Blaszany bębenek",
+      "autor": "Günter Grass",
+      "rok": "1959",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Oskar Matzerath postanawia w wieku trzech lat przestać rosnąć i z bębenkiem w ręku obserwuje narodziny nazizmu w Gdańsku. Powieść jest groteskowym obrazem Niemiec w czasie wojny."
+    },
+    {
+      "tytuł": "Przygody dobrego wojaka Szwejka",
+      "autor": "Jaroslav Hašek",
+      "rok": "1921–1923",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Pozornie naiwny Szwejk przeżywa pierwszą wojnę światową, wprawiając w osłupienie przełożonych swoimi anegdotami i nadgorliwością. Powieść z humorem demaskuje absurd militaryzmu i biurokracji."
+    },
+    {
+      "tytuł": "Paragraf 22",
+      "autor": "Joseph Heller",
+      "rok": "1961",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Amerykański lotnik Yossarian próbuje uniknąć kolejnych misji bojowych, lecz więzi go paradoksalny przepis wojskowy. Powieść pokazuje absurd wojny i biurokracji."
+    },
+    {
+      "tytuł": "Komu bije dzwon",
+      "autor": "Ernest Hemingway",
+      "rok": "1940",
+      "gatunek": "Powieść historyczna",
+      "kategoria_wiekowa": "16+",
+      "opis": "Amerykański ochotnik Robert Jordan ma wysadzić most w czasie hiszpańskiej wojny domowej. W ciągu kilku dni przeżywa miłość i konfrontuje się z perspektywą śmierci."
+    },
+    {
+      "tytuł": "89 wierszy",
+      "autor": "Zbigniew Herbert",
+      "rok": "1998",
+      "gatunek": "Poezja i dramat",
+      "kategoria_wiekowa": "16+",
+      "opis": "Wybór wierszy autora, w którym pojawiają się m.in. pan Cogito i refleksje nad historią, moralnością i kulturą. Poezja Herberta łączy klasyczną formę z ironią i etyczną powagą."
+    },
+    {
+      "tytuł": "Inny świat",
+      "autor": "Gustaw Herling-Grudziński",
+      "rok": "1951",
+      "gatunek": "Biografie, autobiografie i wspomnienia",
+      "kategoria_wiekowa": "18+",
+      "opis": "Autor opisuje swoje doświadczenia w sowieckim obozie pracy w Jercewie, gdzie trafił po aresztowaniu w 1940 roku. To świadectwo odczłowieczenia i walki o zachowanie godności."
+    },
+    {
+      "tytuł": "Ulisses",
+      "autor": "James Joyce",
+      "rok": "1914–1921",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Jeden dzień z życia Leopolda Blooma w Dublinie, 16 czerwca 1904 roku, odwołuje się do struktury „Odysei”. Powieść eksperymentuje z językiem i formą narracji."
+    },
+    {
+      "tytuł": "Proces",
+      "autor": "Franz Kafka",
+      "rok": "1925",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Józef K. zostaje aresztowany i oskarżony, choć nie zna swojej winy ani zarzutów. Powieść przedstawia bezduszną biurokrację i bezsilność jednostki wobec systemu."
+    },
+    {
+      "tytuł": "Czarodziejska góra",
+      "autor": "Thomas Mann",
+      "rok": "1924",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Młody inżynier Hans Castorp przyjeżdża do sanatorium w Davos na trzy tygodnie, a zostaje siedem lat. Wśród pacjentów toczą się dyskusje o chorobie, czasie i losie Europy."
+    },
+    {
+      "tytuł": "Sto lat samotności",
+      "autor": "Gabriel García Márquez",
+      "rok": "1967",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Saga rodu Buendíów z wymyślonego miasteczka Macondo obejmuje siedem pokoleń. Realizm miesza się z magią, a historia rodziny odzwierciedla losy Ameryki Łacińskiej."
+    },
+    {
+      "tytuł": "Kubuś Puchatek",
+      "autor": "A. A. Milne",
+      "rok": "1926",
+      "gatunek": "Literatura dziecięca i młodzieżowa",
+      "kategoria_wiekowa": "6+",
+      "opis": "Miś o bardzo małym rozumku przeżywa przygody w Stumilowym Lesie ze swoimi przyjaciółmi Prosiaczkiem, Tygryskiem i Kłapouchym. Książka jest pełna ciepła, humoru i prostej mądrości."
+    },
+    {
+      "tytuł": "Chatka Puchatka",
+      "autor": "A. A. Milne",
+      "rok": "1928",
+      "gatunek": "Literatura dziecięca i młodzieżowa",
+      "kategoria_wiekowa": "6+",
+      "opis": "Kubuś i jego przyjaciele spotykają nowych mieszkańców lasu, w tym Tygryska, i przeżywają kolejne zabawne przygody. Książka mówi o przyjaźni, dorastaniu i pożegnaniu z dzieciństwem."
+    },
+    {
+      "tytuł": "Folwark zwierzęcy",
+      "autor": "George Orwell",
+      "rok": "1945",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Zwierzęta z farmy buntują się przeciw ludziom, ale rządy obejmują świnie, które stopniowo stają się tyranami. Powieść jest alegorią rewolucji rosyjskiej i stalinizmu."
+    },
+    {
+      "tytuł": "Rok 1984",
+      "autor": "George Orwell",
+      "rok": "1949",
+      "gatunek": "Fantastyka (fantasy i science fiction)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Winston Smith żyje w totalitarnym państwie, w którym Wielki Brat kontroluje myśli i historię. Jego bunt przeciw systemowi kończy się tragicznie."
+    },
+    {
+      "tytuł": "Doktor Żywago",
+      "autor": "Boris Pasternak",
+      "rok": "1948–1955",
+      "gatunek": "Powieść historyczna",
+      "kategoria_wiekowa": "16+",
+      "opis": "Lekarz i poeta Jurij Żywago przeżywa rewolucję i wojnę domową w Rosji, rozdarty między żoną a ukochaną Larą. Powieść jest obrazem losów inteligencji w wirze historii."
+    },
+    {
+      "tytuł": "W poszukiwaniu straconego czasu",
+      "autor": "Marcel Proust",
+      "rok": "1913–1927",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Narrator przywołuje wspomnienia z dzieciństwa i młodości, pokazując paryskie salony przełomu wieków. Siedmiotomowe dzieło bada pamięć, czas, miłość i sztukę."
+    },
+    {
+      "tytuł": "Mały Książę",
+      "autor": "Antoine de Saint-Exupéry",
+      "rok": "1943",
+      "gatunek": "Literatura dziecięca i młodzieżowa",
+      "kategoria_wiekowa": "6+",
+      "opis": "Pilot rozbity na Saharze spotyka chłopca z maleńkiej planety, który opowiada o swoich podróżach. Książka mówi o przyjaźni, miłości i tym, co w życiu naprawdę ważne."
+    },
+    {
+      "tytuł": "Sklepy cynamonowe",
+      "autor": "Bruno Schulz",
+      "rok": "1933",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Narrator wspomina dzieciństwo w prowincjonalnym miasteczku, w którym codzienność miesza się z mitem i fantazją. Schulz tworzy sensualny, barwny świat, w którym postaci ojca i miasta nabierają symbolicznych znaczeń."
+    },
+    {
+      "tytuł": "Sanatorium pod Klepsydrą",
+      "autor": "Bruno Schulz",
+      "rok": "1937",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Józef przyjeżdża do osobliwego sanatorium, w którym czas biegnie inaczej, by odwiedzić chorego ojca. Opowiadania łączą wspomnienie, sen i groteskę."
+    },
+    {
+      "tytuł": "Archipelag GUŁag",
+      "autor": "Aleksandr Sołżenicyn",
+      "rok": "1973",
+      "gatunek": "Reportaż",
+      "kategoria_wiekowa": "18+",
+      "opis": "Autor opisuje system radzieckich obozów pracy na podstawie własnych doświadczeń i relacji setek więźniów. Książka obnażyła skalę stalinowskich represji i wstrząsnęła światową opinią."
+    },
+    {
+      "tytuł": "Cichy Don",
+      "autor": "Michaił Szołochow",
+      "rok": "1928–1940",
+      "gatunek": "Powieść historyczna",
+      "kategoria_wiekowa": "16+",
+      "opis": "Losy kozackiej rodziny Mielechowów w czasie I wojny światowej, rewolucji i wojny domowej. Powieść ukazuje dramat zwykłych ludzi wciągniętych w historyczny wir."
+    },
+    {
+      "tytuł": "Władca Pierścieni",
+      "autor": "J.R.R. Tolkien",
+      "rok": "1954–1955",
+      "gatunek": "Fantastyka (fantasy i science fiction)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Hobbit Frodo wyrusza z drużyną, aby zniszczyć Jedyny Pierścień w ogniu Góry Przeznaczenia. Epicka wyprawa to walka dobra ze złem w świecie Śródziemia."
+    },
+    {
+      "tytuł": "Dramaty",
+      "autor": "Samuel Beckett",
+      "rok": "od 1952",
+      "gatunek": "Poezja i dramat",
+      "kategoria_wiekowa": "16+",
+      "opis": "Zbiór sztuk, w tym „Czekając na Godota”, ukazuje bohaterów uwięzionych w bezsensownym, powtarzalnym świecie. Beckett redukuje akcję i język do minimum, badając samotność i lęk."
+    },
+    {
+      "tytuł": "Lord Jim",
+      "autor": "Joseph Conrad",
+      "rok": "1900",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Młody oficer marynarki Jim w chwili próby okazuje tchórzostwo i resztę życia próbuje odzyskać honor. Conrad bada poczucie winy i odkupienie."
+    },
+    {
+      "tytuł": "Wściekłość i wrzask",
+      "autor": "William Faulkner",
+      "rok": "1929",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Upadek południowej rodziny Compsonów opowiedziany jest z czterech perspektyw, w tym przez upośledzonego Benjy'ego. Powieść znana jest ze skomplikowanej narracji i strumienia świadomości."
+    },
+    {
+      "tytuł": "Wstęp do psychoanalizy",
+      "autor": "Sigmund Freud",
+      "rok": "1916–1917",
+      "gatunek": "Nauka i popularnonaukowe",
+      "kategoria_wiekowa": "18+",
+      "opis": "Zapis wykładów, w których Freud przystępnie przedstawia podstawy psychoanalizy: marzenia senne, pomyłki i teorię nerwic. Książka jest klasyczną introdukcją do jego koncepcji."
+    },
+    {
+      "tytuł": "Wilk stepowy",
+      "autor": "Hermann Hesse",
+      "rok": "1927",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Harry Haller, samotny intelektualista, czuje się rozdarty między cywilizowaną naturą a dziką duszą wilka. Powieść jest opowieścią o kryzysie tożsamości i poszukiwaniu siebie."
+    },
+    {
+      "tytuł": "Nowy wspaniały świat",
+      "autor": "Aldous Huxley",
+      "rok": "1932",
+      "gatunek": "Fantastyka (fantasy i science fiction)",
+      "kategoria_wiekowa": "16+",
+      "opis": "W przyszłości ludzie są hodowani w laboratoriach i pozbawieni uczuć przez narkotyk i rozrywkę. Powieść ostrzega przed społeczeństwem, które za szczęście płaci wolnością."
+    },
+    {
+      "tytuł": "Lot nad kukułczym gniazdem",
+      "autor": "Ken Kesey",
+      "rok": "1962",
+      "gatunek": "Literatura obyczajowa",
+      "kategoria_wiekowa": "16+",
+      "opis": "Buntownik McMurphy trafia do szpitala psychiatrycznego i wchodzi w konflikt z autorytarną siostrą Ratched. Powieść jest krytyką instytucji, które łamią indywidualność."
+    },
+    {
+      "tytuł": "Nieznośna lekkość bytu",
+      "autor": "Milan Kundera",
+      "rok": "1984",
+      "gatunek": "Literatura obyczajowa",
+      "kategoria_wiekowa": "18+",
+      "opis": "Losy czeskiego lekarza Tomasza i jego kochanek rozgrywają się na tle praskiej wiosny i radzieckiej inwazji. Powieść zestawia lekkość i ciężar, wolność i odpowiedzialność."
+    },
+    {
+      "tytuł": "Lampart",
+      "autor": "Giuseppe Tomasi di Lampedusa",
+      "rok": "1958",
+      "gatunek": "Powieść historyczna",
+      "kategoria_wiekowa": "16+",
+      "opis": "Sycylijski książę Fabrizio Salina obserwuje, jak jego arystokratyczny świat ustępuje miejsca nowej Italii po zjednoczeniu. Powieść jest elegijnym obrazem przemijania."
+    },
+    {
+      "tytuł": "Rozmowa w „Katedrze”",
+      "autor": "Mario Vargas Llosa",
+      "rok": "1969",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Podczas rozmowy w barze „Katedra” dwaj mężczyźni wspominają Peru rządzone przez dyktaturę generała Odrii. Powieść maluje obraz korupcji i zniszczonych biografii."
+    },
+    {
+      "tytuł": "Doktor Faustus",
+      "autor": "Thomas Mann",
+      "rok": "1947",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Kompozytor Adrian Leverkühn zawiera pakt z diabłem, by zyskać geniusz, a narrator opisuje jego życie na tle upadku Niemiec. Powieść jest alegorią niemieckiej kultury i nazizmu."
+    },
+    {
+      "tytuł": "Człowiek bez właściwości",
+      "autor": "Robert Musil",
+      "rok": "1930–1942",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "W schyłkowej Austrii przed I wojną światową Ulrich poszukuje własnej drogi, nie chcąc ulec żadnej konwencji. Rozbudowana powieść ironicznie opisuje kryzys epoki."
+    },
+    {
+      "tytuł": "Na Zachodzie bez zmian",
+      "autor": "Erich Maria Remarque",
+      "rok": "1929",
+      "gatunek": "Powieść historyczna",
+      "kategoria_wiekowa": "16+",
+      "opis": "Młody Paul Bäumer wraz z kolegami z klasy ochotniczo idzie na front I wojny światowej i przeżywa okrucieństwo okopów. Powieść stała się symbolem sprzeciwu wobec wojny."
+    },
+    {
+      "tytuł": "Sztukmistrz z Lublina",
+      "autor": "Isaac Bashevis Singer",
+      "rok": "1960",
+      "gatunek": "Literatura obyczajowa",
+      "kategoria_wiekowa": "16+",
+      "opis": "Żydowski iluzjonista Jasza Mazur wędruje po Polsce, dzieląc życie między żonę i kochanki, aż dochodzi do duchowego przełomu. Powieść ukazuje zanikający świat polskich Żydów."
+    },
+    {
+      "tytuł": "Grona gniewu",
+      "autor": "John Steinbeck",
+      "rok": "1939",
+      "gatunek": "Literatura obyczajowa",
+      "kategoria_wiekowa": "16+",
+      "opis": "Rodzina Joadów traci farmę w Oklahomie w czasie Wielkiego Kryzysu i rusza do Kalifornii w poszukiwaniu pracy. Powieść ukazuje nędzę, wyzysk i siłę ludzkiej solidarności."
+    }
+  ]
+}

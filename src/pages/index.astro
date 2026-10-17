@@ -1,0 +1,9 @@
+---
+import Base from '../layouts/Base.astro';
+import Catalog from '../components/Catalog.astro';
+import { loadAll } from '../lib/data';
+const { items, lists } = loadAll();
+---
+<Base>
+  <Catalog items={items} lists={lists} />
+</Base>

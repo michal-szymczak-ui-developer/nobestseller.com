@@ -1,0 +1,671 @@
+{
+  "nazwa": "Watykan",
+  "pozycje": [
+    {
+      "tytuł": "Andriej Rublow",
+      "tytuł_oryginalny": "Andrei Rublev",
+      "reżyser": "Andriej Tarkowski",
+      "rok": "1966",
+      "kraj": "ZSRR",
+      "gatunek": "Biograficzny",
+      "kategoria_watykańska": "Religia",
+      "wartości_chrześcijańskie": [
+        "wiara",
+        "twórczość jako służba",
+        "cierpienie i odkupienie"
+      ],
+      "kategoria_wiekowa": "16+",
+      "opis": "Film opowiada o XV-wiecznym mnichu i malarzu ikon, który pośród okrucieństwa najazdów tatarskich szuka sensu sztuki i wiary. Tarkowski w epizodycznej formie ukazuje kryzys duchowy artysty i odrodzenie nadziei."
+    },
+    {
+      "tytuł": "Ben Hur",
+      "tytuł_oryginalny": "Ben-Hur",
+      "reżyser": "William Wyler",
+      "rok": "1959",
+      "kraj": "USA",
+      "gatunek": "Przygodowy",
+      "kategoria_watykańska": "Religia",
+      "wartości_chrześcijańskie": [
+        "przebaczenie",
+        "nawrócenie",
+        "miłosierdzie"
+      ],
+      "kategoria_wiekowa": "12+",
+      "opis": "Żydowski książę Judah Ben-Hur zostaje niesłusznie skazany na galery i po latach wraca, by zemścić się na rzymskim przyjacielu. Równolegle losy bohatera zostają splecione z życiem i śmiercią Jezusa, co prowadzi go do przebaczenia."
+    },
+    {
+      "tytuł": "Uczta Babette",
+      "tytuł_oryginalny": "Babettes gæstebud",
+      "reżyser": "Gabriel Axel",
+      "rok": "1987",
+      "kraj": "Dania",
+      "gatunek": "Dramat",
+      "kategoria_watykańska": "Religia",
+      "wartości_chrześcijańskie": [
+        "łaska",
+        "wdzięczność",
+        "hojność",
+        "pojednanie"
+      ],
+      "kategoria_wiekowa": "12+",
+      "opis": "Francuska uchodźczyni Babette przygotowuje wystawny obiad dla surowych mieszkańców duńskiej wioski. Film opowiada o łasce, sztuce i łagodzeniu surowych obyczajów."
+    },
+    {
+      "tytuł": "Kwiaty świętego Franciszka",
+      "tytuł_oryginalny": "Francesco, giullare di Dio",
+      "reżyser": "Roberto Rossellini",
+      "rok": "1950",
+      "kraj": "Włochy",
+      "gatunek": "Biograficzny",
+      "kategoria_watykańska": "Religia",
+      "wartości_chrześcijańskie": [
+        "ubóstwo",
+        "prostota",
+        "radość",
+        "braterstwo"
+      ],
+      "kategoria_wiekowa": "6+",
+      "opis": "Epizody z życia świętego Franciszka i jego braci pokazują ich radosne ubóstwo i pokorę. Rossellini używa nieprofesjonalnych aktorów i prostego stylu, by oddać ducha franciszkańskiego."
+    },
+    {
+      "tytuł": "Franciszek",
+      "tytuł_oryginalny": "Francesco",
+      "reżyser": "Liliana Cavani",
+      "rok": "1989",
+      "kraj": "Włochy / Niemcy",
+      "gatunek": "Biograficzny",
+      "kategoria_watykańska": "Religia",
+      "wartości_chrześcijańskie": [
+        "ubóstwo",
+        "naśladowanie Chrystusa",
+        "pokora"
+      ],
+      "kategoria_wiekowa": "12+",
+      "opis": "Film przedstawia drogę Franciszka z Asyżu, który porzuca bogactwo i zakłada wspólnotę wzorowaną na ewangelicznym ubóstwie. Cavani pokazuje konflikt między ideałem a instytucją Kościoła."
+    },
+    {
+      "tytuł": "Ewangelia według św. Mateusza",
+      "tytuł_oryginalny": "Il vangelo secondo Matteo",
+      "reżyser": "Pier Paolo Pasolini",
+      "rok": "1964",
+      "kraj": "Włochy / Francja",
+      "gatunek": "Dramat",
+      "kategoria_watykańska": "Religia",
+      "wartości_chrześcijańskie": [
+        "miłość bliźniego",
+        "miłosierdzie",
+        "prawda Ewangelii"
+      ],
+      "kategoria_wiekowa": "12+",
+      "opis": "Pasolini wiernie ekranizuje Ewangelię Mateusza, przedstawiając Jezusa jako surowego, gniewnego proroka. Film kręcony z nieprofesjonalnymi aktorami w południowych Włoszech ma surowy, dokumentalny charakter."
+    },
+    {
+      "tytuł": "Człowiek na każdą porę roku",
+      "tytuł_oryginalny": "A Man for All Seasons",
+      "reżyser": "Fred Zinnemann",
+      "rok": "1966",
+      "kraj": "Wielka Brytania",
+      "gatunek": "Biograficzny",
+      "kategoria_watykańska": "Religia",
+      "wartości_chrześcijańskie": [
+        "wierność sumieniu",
+        "prawda",
+        "męstwo"
+      ],
+      "kategoria_wiekowa": "12+",
+      "opis": "Kanclerz Anglii Tomasz More odmawia poparcia rozwodu Henryka VIII i wyrzeczenia się władzy papieża, ryzykując życie. Film jest przejmującym portretem człowieka wiernego sumieniu."
+    },
+    {
+      "tytuł": "Misja",
+      "tytuł_oryginalny": "The Mission",
+      "reżyser": "Roland Joffé",
+      "rok": "1986",
+      "kraj": "Wielka Brytania",
+      "gatunek": "Dramat",
+      "kategoria_watykańska": "Religia",
+      "wartości_chrześcijańskie": [
+        "poświęcenie",
+        "pokuta",
+        "obrona ubogich",
+        "sprawiedliwość"
+      ],
+      "kategoria_wiekowa": "16+",
+      "opis": "XVIII-wieczni jezuici zakładają misję wśród Indian Guarani w Ameryce Południowej i próbują ją obronić przed polityką kolonialną. Film ukazuje konflikt między ewangeliczną wiernością a interesami władzy."
+    },
+    {
+      "tytuł": "Monsieur Vincent",
+      "tytuł_oryginalny": "Monsieur Vincent",
+      "reżyser": "Maurice Cloche",
+      "rok": "1947",
+      "kraj": "Francja",
+      "gatunek": "Biograficzny",
+      "kategoria_watykańska": "Religia",
+      "wartości_chrześcijańskie": [
+        "miłosierdzie",
+        "służba ubogim",
+        "poświęcenie"
+      ],
+      "kategoria_wiekowa": "12+",
+      "opis": "Film opowiada o św. Wincentym à Paulo, który w XVII-wiecznej Francji poświęca życie służbie biednym i chorym. Pokazuje jego walkę z obojętnością możnych i organizację dzieł miłosierdzia."
+    },
+    {
+      "tytuł": "Nazarín",
+      "tytuł_oryginalny": "Nazarín",
+      "reżyser": "Luis Buñuel",
+      "rok": "1959",
+      "kraj": "Meksyk",
+      "gatunek": "Dramat",
+      "kategoria_watykańska": "Religia",
+      "wartości_chrześcijańskie": [
+        "miłosierdzie",
+        "ubóstwo",
+        "ewangeliczny radykalizm"
+      ],
+      "kategoria_wiekowa": "16+",
+      "opis": "Ksiądz Nazario stara się żyć według Ewangelii wśród biedoty i prostytutek, lecz jego dobroć wywołuje skutki odwrotne do zamierzonych. Buñuel w ironiczny sposób pyta o sens czystego chrześcijaństwa."
+    },
+    {
+      "tytuł": "Słowo",
+      "tytuł_oryginalny": "Ordet",
+      "reżyser": "Carl Theodor Dreyer",
+      "rok": "1955",
+      "kraj": "Dania",
+      "gatunek": "Dramat",
+      "kategoria_watykańska": "Religia",
+      "wartości_chrześcijańskie": [
+        "wiara",
+        "cud",
+        "miłość",
+        "pojednanie"
+      ],
+      "kategoria_wiekowa": "12+",
+      "opis": "W rodzinie duńskich farmerów jeden z synów uważa się za Jezusa, a konflikty religijne dzielą sąsiadów. Dreyer w powolnym tempie prowadzi do cudownego finału, który wzmacnia wiarę."
+    },
+    {
+      "tytuł": "Męka Joanny d'Arc",
+      "tytuł_oryginalny": "La passion de Jeanne d'Arc",
+      "reżyser": "Carl Theodor Dreyer",
+      "rok": "1928",
+      "kraj": "Francja",
+      "gatunek": "Biograficzny",
+      "kategoria_watykańska": "Religia",
+      "wartości_chrześcijańskie": [
+        "męstwo",
+        "wiara",
+        "męczeństwo"
+      ],
+      "kategoria_wiekowa": "12+",
+      "opis": "Film w zbliżeniach pokazuje proces i śmierć Joanny d'Arc, która odmawia wyrzeczenia się swoich wizji. Dreyer opiera się na protokołach rzeczywistego procesu."
+    },
+    {
+      "tytuł": "Ofiarowanie",
+      "tytuł_oryginalny": "Offret",
+      "reżyser": "Andriej Tarkowski",
+      "rok": "1986",
+      "kraj": "Szwecja / Francja",
+      "gatunek": "Dramat",
+      "kategoria_watykańska": "Religia",
+      "wartości_chrześcijańskie": [
+        "ofiara",
+        "wiara",
+        "modlitwa"
+      ],
+      "kategoria_wiekowa": "12+",
+      "opis": "W obliczu zbliżającej się wojny atomowej Alexander składa Bogu tajemnicze ślubowanie w zamian za ocalenie świata. Ostatni film Tarkowskiego jest medytacją o wierze i poświęceniu."
+    },
+    {
+      "tytuł": "Thérèse",
+      "tytuł_oryginalny": "Thérèse",
+      "reżyser": "Alain Cavalier",
+      "rok": "1986",
+      "kraj": "Francja",
+      "gatunek": "Biograficzny",
+      "kategoria_watykańska": "Religia",
+      "wartości_chrześcijańskie": [
+        "modlitwa",
+        "ufność",
+        "mała droga świętości"
+      ],
+      "kategoria_wiekowa": "12+",
+      "opis": "Film opowiada o życiu św. Teresy z Lisieux, która wstępuje do karmelu i znajduje świętość w prostych, codziennych czynach. Cavalier ukazuje jej drogę z kameralną powściągliwością."
+    },
+    {
+      "tytuł": "Życie i Męka Chrystusa",
+      "tytuł_oryginalny": "Vie et Passion du Christ",
+      "reżyser": "Ferdinand Zecca, Lucien Nonguet",
+      "rok": "1903",
+      "kraj": "Francja",
+      "gatunek": "Dramat",
+      "kategoria_watykańska": "Religia",
+      "wartości_chrześcijańskie": [
+        "Ewangelia",
+        "męka i zmartwychwstanie"
+      ],
+      "kategoria_wiekowa": "6+",
+      "opis": "Wczesny film niemy ukazuje najważniejsze sceny z życia Jezusa, od narodzin po ukrzyżowanie, w formie barwionych obrazów. Jest jednym z pierwszych filmów o tematyce biblijnej."
+    },
+    {
+      "tytuł": "Żegnajcie, dzieci",
+      "tytuł_oryginalny": "Au revoir les enfants",
+      "reżyser": "Louis Malle",
+      "rok": "1987",
+      "kraj": "Francja",
+      "gatunek": "Wojenny",
+      "kategoria_watykańska": "Wartości",
+      "wartości_chrześcijańskie": [
+        "przyjaźń",
+        "odwaga",
+        "wierność",
+        "sumienie"
+      ],
+      "kategoria_wiekowa": "12+",
+      "opis": "W czasie okupacji niemieckiej katolicki internat ukrywa żydowskich chłopców, a dwaj koledzy nawiązują przyjaźń. Film oparty na wspomnieniach reżysera pokazuje cenę zdrady i niewinności."
+    },
+    {
+      "tytuł": "Birmańska harfa",
+      "tytuł_oryginalny": "Biruma no tategoto",
+      "reżyser": "Kon Ichikawa",
+      "rok": "1956",
+      "kraj": "Japonia",
+      "gatunek": "Wojenny",
+      "kategoria_watykańska": "Wartości",
+      "wartości_chrześcijańskie": [
+        "współczucie",
+        "pokuta",
+        "szacunek dla zmarłych"
+      ],
+      "kategoria_wiekowa": "12+",
+      "opis": "Japoński żołnierz Mizushima w Birmie postanawia zostać buddyjskim mnichem i grzebać poległych. Film jest głębokim zapisem żałoby i sprzeciwu wobec wojny."
+    },
+    {
+      "tytuł": "Złodzieje rowerów",
+      "tytuł_oryginalny": "Ladri di biciclette",
+      "reżyser": "Vittorio De Sica",
+      "rok": "1948",
+      "kraj": "Włochy",
+      "gatunek": "Dramat",
+      "kategoria_watykańska": "Wartości",
+      "wartości_chrześcijańskie": [
+        "godność pracy",
+        "ojcostwo",
+        "solidarność z ubogimi"
+      ],
+      "kategoria_wiekowa": "12+",
+      "opis": "Bezrobotny ojciec w powojennym Rzymie traci rower niezbędny do pracy i wraz z synem przemierza miasto w poszukiwaniu złodzieja. Film jest wzruszającym obrazem biedy i godności."
+    },
+    {
+      "tytuł": "Rydwany ognia",
+      "tytuł_oryginalny": "Chariots of Fire",
+      "reżyser": "Hugh Hudson",
+      "rok": "1981",
+      "kraj": "Wielka Brytania",
+      "gatunek": "Biograficzny",
+      "kategoria_watykańska": "Wartości",
+      "wartości_chrześcijańskie": [
+        "wierność przekonaniom",
+        "uczciwość",
+        "dar talentu"
+      ],
+      "kategoria_wiekowa": "6+",
+      "opis": "Dwóch brytyjskich biegaczy, Żyd Harold Abrahams i chrześcijanin Eric Liddell, przygotowuje się do igrzysk w Paryżu w 1924 roku. Film mówi o ambicji, wierze i wierności zasadom."
+    },
+    {
+      "tytuł": "Dekalog",
+      "tytuł_oryginalny": "Dekalog",
+      "reżyser": "Krzysztof Kieślowski",
+      "rok": "1989",
+      "kraj": "Polska",
+      "gatunek": "Dramat",
+      "kategoria_watykańska": "Wartości",
+      "wartości_chrześcijańskie": [
+        "przykazania",
+        "sumienie",
+        "odpowiedzialność za drugiego człowieka"
+      ],
+      "kategoria_wiekowa": "16+",
+      "opis": "Dziesięć współczesnych opowieści z warszawskiego bloku odnosi się do kolejnych przykazań dekalogu. Kieślowski ukazuje moralne dylematy zwykłych ludzi."
+    },
+    {
+      "tytuł": "Dersu Uzala",
+      "tytuł_oryginalny": "Dersu Uzala",
+      "reżyser": "Akira Kurosawa",
+      "rok": "1975",
+      "kraj": "ZSRR / Japonia",
+      "gatunek": "Przygodowy",
+      "kategoria_watykańska": "Wartości",
+      "wartości_chrześcijańskie": [
+        "szacunek dla stworzenia",
+        "przyjaźń",
+        "pokora"
+      ],
+      "kategoria_wiekowa": "6+",
+      "opis": "Rosyjski kartograf przemierza syberyjską tajgę z mądrym myśliwym Dersu Uzałą, z którym łączy go głęboka przyjaźń. Film jest hymnem na cześć natury i prostej ludzkiej mądrości."
+    },
+    {
+      "tytuł": "Gandhi",
+      "tytuł_oryginalny": "Gandhi",
+      "reżyser": "Richard Attenborough",
+      "rok": "1982",
+      "kraj": "Wielka Brytania / Indie",
+      "gatunek": "Biograficzny",
+      "kategoria_watykańska": "Wartości",
+      "wartości_chrześcijańskie": [
+        "niestosowanie przemocy",
+        "pokój",
+        "sprawiedliwość"
+      ],
+      "kategoria_wiekowa": "12+",
+      "opis": "Film przedstawia życie Mohandasa Gandhiego, który niestosowaniem przemocy doprowadza Indie do niepodległości. Epicka opowieść pokazuje siłę moralnego oporu."
+    },
+    {
+      "tytuł": "Nietolerancja",
+      "tytuł_oryginalny": "Intolerance",
+      "reżyser": "D. W. Griffith",
+      "rok": "1916",
+      "kraj": "USA",
+      "gatunek": "Dramat",
+      "kategoria_watykańska": "Wartości",
+      "wartości_chrześcijańskie": [
+        "miłosierdzie",
+        "sprawiedliwość",
+        "potępienie nienawiści"
+      ],
+      "kategoria_wiekowa": "12+",
+      "opis": "Cztery równoległe opowieści z różnych epok ukazują skutki nietolerancji i fanatyzmu, od Babilonu po współczesną Amerykę. Film słynie z monumentalnych dekoracji i nowatorskiego montażu."
+    },
+    {
+      "tytuł": "To wspaniałe życie",
+      "tytuł_oryginalny": "It's a Wonderful Life",
+      "reżyser": "Frank Capra",
+      "rok": "1946",
+      "kraj": "USA",
+      "gatunek": "Fantasy",
+      "kategoria_watykańska": "Wartości",
+      "wartości_chrześcijańskie": [
+        "bezinteresowność",
+        "nadzieja",
+        "wartość życia",
+        "wspólnota"
+      ],
+      "kategoria_wiekowa": "6+",
+      "opis": "George Bailey, rozpaczający po stracie majątku, zostaje odwiedzony przez anioła, który pokazuje mu świat bez jego istnienia. Film opowiada o znaczeniu zwykłych dobrych uczynków."
+    },
+    {
+      "tytuł": "Na nabrzeżach",
+      "tytuł_oryginalny": "On the Waterfront",
+      "reżyser": "Elia Kazan",
+      "rok": "1954",
+      "kraj": "USA",
+      "gatunek": "Kryminał",
+      "kategoria_watykańska": "Wartości",
+      "wartości_chrześcijańskie": [
+        "prawda",
+        "odwaga cywilna",
+        "sumienie"
+      ],
+      "kategoria_wiekowa": "12+",
+      "opis": "Były bokser Terry Malloy zmaga się z lojalnością wobec skorumpowanych związkowców, a przemoc na nabrzeżu prowadzi go do świadectwa. Film mówi o sumieniu i odwadze mówienia prawdy."
+    },
+    {
+      "tytuł": "Rzym, miasto otwarte",
+      "tytuł_oryginalny": "Roma città aperta",
+      "reżyser": "Roberto Rossellini",
+      "rok": "1945",
+      "kraj": "Włochy",
+      "gatunek": "Wojenny",
+      "kategoria_watykańska": "Wartości",
+      "wartości_chrześcijańskie": [
+        "męstwo",
+        "poświęcenie",
+        "solidarność",
+        "męczeństwo"
+      ],
+      "kategoria_wiekowa": "16+",
+      "opis": "Rzym pod niemiecką okupacją: członek ruchu oporu i ksiądz ukrywają się przed gestapo. Film nakręcony tuż po wojnie jest manifestem włoskiego neorealizmu."
+    },
+    {
+      "tytuł": "Lista Schindlera",
+      "tytuł_oryginalny": "Schindler's List",
+      "reżyser": "Steven Spielberg",
+      "rok": "1993",
+      "kraj": "USA",
+      "gatunek": "Wojenny",
+      "kategoria_watykańska": "Wartości",
+      "wartości_chrześcijańskie": [
+        "ratowanie życia",
+        "odkupienie",
+        "godność człowieka"
+      ],
+      "kategoria_wiekowa": "16+",
+      "opis": "Niemiecki przedsiębiorca Oskar Schindler ratuje ponad tysiąc Żydów, zatrudniając ich w swojej fabryce. Film ukazuje przemianę człowieka na tle zagłady."
+    },
+    {
+      "tytuł": "Siódma pieczęć",
+      "tytuł_oryginalny": "Det sjunde inseglet",
+      "reżyser": "Ingmar Bergman",
+      "rok": "1957",
+      "kraj": "Szwecja",
+      "gatunek": "Dramat",
+      "kategoria_watykańska": "Wartości",
+      "wartości_chrześcijańskie": [
+        "poszukiwanie Boga",
+        "pytanie o sens śmierci",
+        "nadzieja"
+      ],
+      "kategoria_wiekowa": "12+",
+      "opis": "Średniowieczny rycerz wraca z krucjaty i gra ze Śmiercią w szachy, szukając odpowiedzi na pytania o Boga. Film jest alegorią lęku, wiary i sensu istnienia."
+    },
+    {
+      "tytuł": "Drzewo na saboty",
+      "tytuł_oryginalny": "L'albero degli zoccoli",
+      "reżyser": "Ermanno Olmi",
+      "rok": "1978",
+      "kraj": "Włochy",
+      "gatunek": "Dramat",
+      "kategoria_watykańska": "Wartości",
+      "wartości_chrześcijańskie": [
+        "prostota",
+        "godność pracy",
+        "wiara prostych ludzi"
+      ],
+      "kategoria_wiekowa": "12+",
+      "opis": "Rodziny chłopskie w lombardzkiej wsi przełomu XIX i XX wieku żyją w ciężkiej pracy i głębokiej religijności. Olmi z delikatnością ukazuje ich codzienność i drobne tragedie."
+    },
+    {
+      "tytuł": "Tam, gdzie rosną poziomki",
+      "tytuł_oryginalny": "Smultronstället",
+      "reżyser": "Ingmar Bergman",
+      "rok": "1957",
+      "kraj": "Szwecja",
+      "gatunek": "Dramat",
+      "kategoria_watykańska": "Wartości",
+      "wartości_chrześcijańskie": [
+        "pojednanie",
+        "przebaczenie",
+        "refleksja nad życiem"
+      ],
+      "kategoria_wiekowa": "12+",
+      "opis": "Starszy profesor Isak Borg jedzie samochodem na uroczystość nadania mu tytułu i w drodze wraca do wspomnień. Film jest refleksją nad starością, samotnością i przebaczeniem."
+    },
+    {
+      "tytuł": "2001: Odyseja kosmiczna",
+      "tytuł_oryginalny": "2001: A Space Odyssey",
+      "reżyser": "Stanley Kubrick",
+      "rok": "1968",
+      "kraj": "Wielka Brytania / USA",
+      "gatunek": "Science fiction",
+      "kategoria_watykańska": "Sztuka",
+      "wartości_chrześcijańskie": [],
+      "kategoria_wiekowa": "12+",
+      "opis": "Od prehistorycznych małp po podróż w kosmosie film śledzi ewolucję ludzkości, w której ważną rolę odgrywa tajemniczy monolit i komputer HAL 9000. Kubrick tworzy filozoficzną wizję miejsca człowieka we wszechświecie."
+    },
+    {
+      "tytuł": "Osiem i pół",
+      "tytuł_oryginalny": "8½",
+      "reżyser": "Federico Fellini",
+      "rok": "1963",
+      "kraj": "Włochy",
+      "gatunek": "Dramat",
+      "kategoria_watykańska": "Sztuka",
+      "wartości_chrześcijańskie": [],
+      "kategoria_wiekowa": "16+",
+      "opis": "Reżyser Guido, nękany kryzysem twórczym, ucieka w wspomnienia i fantazje, podczas gdy producenci i kochanki wywierają na niego presję. Fellini tworzy surrealistyczny portret artysty w kryzysie."
+    },
+    {
+      "tytuł": "Obywatel Kane",
+      "tytuł_oryginalny": "Citizen Kane",
+      "reżyser": "Orson Welles",
+      "rok": "1941",
+      "kraj": "USA",
+      "gatunek": "Dramat",
+      "kategoria_watykańska": "Sztuka",
+      "wartości_chrześcijańskie": [],
+      "kategoria_wiekowa": "12+",
+      "opis": "Po śmierci magnata prasowego Charlesa Fostera Kane'a reporter próbuje rozwiązać zagadkę jego ostatniego słowa „Rosebud”. Film jest portretem władzy i samotności, nowatorskim w formie."
+    },
+    {
+      "tytuł": "Fantazja",
+      "tytuł_oryginalny": "Fantasia",
+      "reżyser": "Ben Sharpsteen (prod. Walt Disney)",
+      "rok": "1940",
+      "kraj": "USA",
+      "gatunek": "Animacja",
+      "kategoria_watykańska": "Sztuka",
+      "wartości_chrześcijańskie": [],
+      "kategoria_wiekowa": "6+",
+      "opis": "Animowane sekwencje ilustrują utwory muzyki klasycznej, w tym „Uczeń czarnoksiężnika” z Myszką Miki. Film jest widowiskowym połączeniem muzyki i obrazu."
+    },
+    {
+      "tytuł": "Wielka iluzja",
+      "tytuł_oryginalny": "La grande illusion",
+      "reżyser": "Jean Renoir",
+      "rok": "1937",
+      "kraj": "Francja",
+      "gatunek": "Wojenny",
+      "kategoria_watykańska": "Sztuka",
+      "wartości_chrześcijańskie": [],
+      "kategoria_wiekowa": "12+",
+      "opis": "Francuscy jeńcy z I wojny światowej planują ucieczkę z niemieckich obozów i nawiązują nietypową więź z komendantem. Film ukazuje, że ludzkie więzi bywają silniejsze niż granice i klasy."
+    },
+    {
+      "tytuł": "Banda z Lavender Hill",
+      "tytuł_oryginalny": "The Lavender Hill Mob",
+      "reżyser": "Charles Crichton",
+      "rok": "1951",
+      "kraj": "Wielka Brytania",
+      "gatunek": "Komedia",
+      "kategoria_watykańska": "Sztuka",
+      "wartości_chrześcijańskie": [],
+      "kategoria_wiekowa": "6+",
+      "opis": "Nieśmiały urzędnik bankowy planuje wraz z rzeźbiarzem skok na złoto, które mają przetopić na figurki Wieży Eiffla. Lekka komedia o nietypowym napadzie z błyskotliwym humorem."
+    },
+    {
+      "tytuł": "Lampart",
+      "tytuł_oryginalny": "Il Gattopardo",
+      "reżyser": "Luchino Visconti",
+      "rok": "1963",
+      "kraj": "Włochy / Francja",
+      "gatunek": "Dramat",
+      "kategoria_watykańska": "Sztuka",
+      "wartości_chrześcijańskie": [],
+      "kategoria_wiekowa": "12+",
+      "opis": "Sycylijski książę Salina obserwuje, jak jego arystokratyczny świat ustępuje miejsca nowej Italii po zjednoczeniu. Film jest elegijnym obrazem przemijania."
+    },
+    {
+      "tytuł": "Małe kobietki",
+      "tytuł_oryginalny": "Little Women",
+      "reżyser": "George Cukor",
+      "rok": "1933",
+      "kraj": "USA",
+      "gatunek": "Familijny",
+      "kategoria_watykańska": "Sztuka",
+      "wartości_chrześcijańskie": [],
+      "kategoria_wiekowa": "6+",
+      "opis": "Cztery siostry March dorastają w czasie wojny secesyjnej, uczą się miłości, poświęcenia i odnajdywania swojej drogi. Ekranizacja klasycznej powieści jest ciepłym portretem rodziny."
+    },
+    {
+      "tytuł": "Metropolis",
+      "tytuł_oryginalny": "Metropolis",
+      "reżyser": "Fritz Lang",
+      "rok": "1927",
+      "kraj": "Niemcy",
+      "gatunek": "Science fiction",
+      "kategoria_watykańska": "Sztuka",
+      "wartości_chrześcijańskie": [],
+      "kategoria_wiekowa": "12+",
+      "opis": "W futurystycznym mieście robotnicy pracują pod ziemią, podczas gdy elita żyje w luksusie na powierzchni. Syn władcy miasta wpada w wir konfliktu klas."
+    },
+    {
+      "tytuł": "Dzisiejsze czasy",
+      "tytuł_oryginalny": "Modern Times",
+      "reżyser": "Charles Chaplin",
+      "rok": "1936",
+      "kraj": "USA",
+      "gatunek": "Komedia",
+      "kategoria_watykańska": "Sztuka",
+      "wartości_chrześcijańskie": [],
+      "kategoria_wiekowa": "6+",
+      "opis": "Charlot, zatrudniony w fabryce, zostaje wchłonięty przez maszynę, a potem walczy o przetrwanie w świecie kryzysu. Film jest satyrą na uprzemysłowienie i odczłowieczenie pracy."
+    },
+    {
+      "tytuł": "Napoleon",
+      "tytuł_oryginalny": "Napoléon vu par Abel Gance",
+      "reżyser": "Abel Gance",
+      "rok": "1927",
+      "kraj": "Francja",
+      "gatunek": "Biograficzny",
+      "kategoria_watykańska": "Sztuka",
+      "wartości_chrześcijańskie": [],
+      "kategoria_wiekowa": "12+",
+      "opis": "Monumentalna opowieść o młodości i wczesnej karierze Napoleona Bonaparte, od szkolnych lat po kampanię włoską. Film słynie z nowatorskich zdjęć i montażu."
+    },
+    {
+      "tytuł": "Nosferatu – symfonia grozy",
+      "tytuł_oryginalny": "Nosferatu, eine Symphonie des Grauens",
+      "reżyser": "F. W. Murnau",
+      "rok": "1922",
+      "kraj": "Niemcy",
+      "gatunek": "Horror",
+      "kategoria_watykańska": "Sztuka",
+      "wartości_chrześcijańskie": [],
+      "kategoria_wiekowa": "12+",
+      "opis": "Młody agent nieruchomości odwiedza w Karpatach hrabiego Orloka, który okazuje się wampirem i podąża za nim do miasta. To nieoficjalna adaptacja „Drakuli” i kamień milowy kina grozy."
+    },
+    {
+      "tytuł": "Dyliżans",
+      "tytuł_oryginalny": "Stagecoach",
+      "reżyser": "John Ford",
+      "rok": "1939",
+      "kraj": "USA",
+      "gatunek": "Przygodowy",
+      "kategoria_watykańska": "Sztuka",
+      "wartości_chrześcijańskie": [],
+      "kategoria_wiekowa": "12+",
+      "opis": "Grupa różnych pasażerów podróżuje dyliżansem przez terytorium Apaczów, a każdy z nich skrywa swoje sekrety. Film uczynił z westernu poważny gatunek i wypromował Johna Wayne'a."
+    },
+    {
+      "tytuł": "La strada",
+      "tytuł_oryginalny": "La strada",
+      "reżyser": "Federico Fellini",
+      "rok": "1954",
+      "kraj": "Włochy",
+      "gatunek": "Dramat",
+      "kategoria_watykańska": "Sztuka",
+      "wartości_chrześcijańskie": [],
+      "kategoria_wiekowa": "12+",
+      "opis": "Naiwna dziewczyna Gelsomina zostaje sprzedana siłaczowi Zampanò i wędruje z nim po Włoszech jako cyrkowa artystka. Film mówi o samotności, okrucieństwie i nieoczekiwanej czułości."
+    },
+    {
+      "tytuł": "Czarnoksiężnik z krainy Oz",
+      "tytuł_oryginalny": "The Wizard of Oz",
+      "reżyser": "Victor Fleming",
+      "rok": "1939",
+      "kraj": "USA",
+      "gatunek": "Familijny",
+      "kategoria_watykańska": "Sztuka",
+      "wartości_chrześcijańskie": [],
+      "kategoria_wiekowa": "6+",
+      "opis": "Dorothy zostaje porwana przez tornado do magicznej krainy Oz i wyrusza do Szmaragdowego Miasta, by wrócić do domu. Film jest barwną baśnią o odwadze, przyjaźni i tęsknocie za domem."
+    }
+  ]
+}

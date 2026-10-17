@@ -1,0 +1,805 @@
+{
+  "nazwa": "Norweski Klub Książki",
+  "pozycje": [
+    {
+      "tytuł": "Wszystko rozpada się",
+      "autor": "Chinua Achebe",
+      "rok": "1958",
+      "gatunek": "Powieść historyczna",
+      "kategoria_wiekowa": "16+",
+      "opis": "Okonkwo, szanowany wojownik z wioski Igbo w Nigerii, widzi, jak jego świat rozpada się pod wpływem kolonializmu i misjonarzy. Powieść ukazuje zderzenie tradycyjnej kultury afrykańskiej z kolonialną Europą."
+    },
+    {
+      "tytuł": "Baśnie",
+      "autor": "Hans Christian Andersen",
+      "rok": "1835–1837",
+      "gatunek": "Literatura dziecięca i młodzieżowa",
+      "kategoria_wiekowa": "6+",
+      "opis": "Zbiór baśni, w tym „Brzydkie kaczątko”, „Mała syrenka” i „Cesarskie nowe szaty”, łączy fantazję z gorzką refleksją o życiu. Opowieści uczą empatii, odwagi i dostrzegania prawdziwej wartości człowieka."
+    },
+    {
+      "tytuł": "Boska Komedia",
+      "autor": "Dante Alighieri",
+      "rok": "1308–1321",
+      "gatunek": "Poezja i dramat",
+      "kategoria_wiekowa": "16+",
+      "opis": "Poeta wędruje przez Piekło i Czyściec, a potem przez Raj, prowadzony przez Wergiliusza i Beatrycze. Dzieło jest alegorią drogi duszy ku Bogu i obrazem średniowiecznego świata."
+    },
+    {
+      "tytuł": "Epos o Gilgameszu",
+      "autor": "Nieznany",
+      "rok": "XVIII–XVII w. p.n.e.",
+      "gatunek": "Poezja i dramat",
+      "kategoria_wiekowa": "12+",
+      "opis": "Król Uruk Gilgamesz wyrusza z przyjacielem Enkiduem na wyprawy pełne przygód, a po jego śmierci szuka sekretu nieśmiertelności. To jeden z najstarszych zachowanych utworów literackich świata."
+    },
+    {
+      "tytuł": "Księga Hioba",
+      "autor": "Nieznany",
+      "rok": "VII–IV w. p.n.e.",
+      "gatunek": "Poezja i dramat",
+      "kategoria_wiekowa": "16+",
+      "opis": "Sprawiedliwy Hiob traci majątek, dzieci i zdrowie, a jego przyjaciele próbują wytłumaczyć mu sens cierpienia. Księga stawia pytanie o niezawinione cierpienie i sprawiedliwość Boga."
+    },
+    {
+      "tytuł": "Tysiąc i jedna noc",
+      "autor": "Różni autorzy",
+      "rok": "700–1500",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Szeherezada ratuje życie, opowiadając sułtanowi co noc kolejne historie bez zakończenia. W zbiorze znajdują się m.in. opowieści o Aladynie, Alibabie i Sindbadzie żeglarzu."
+    },
+    {
+      "tytuł": "Saga o Njalu",
+      "autor": "Nieznany",
+      "rok": "XIII w.",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Przyjaźń Njala i Gunnara oraz spirala zemsty między rodami prowadzą do tragicznych wydarzeń w średniowiecznej Islandii. Saga ukazuje honor, prawo i nieuchronność losu."
+    },
+    {
+      "tytuł": "Duma i uprzedzenie",
+      "autor": "Jane Austen",
+      "rok": "1813",
+      "gatunek": "Romans",
+      "kategoria_wiekowa": "12+",
+      "opis": "Elizabeth Bennet i dumny pan Darcy muszą przezwyciężyć wzajemne uprzedzenia, by odnaleźć miłość. Powieść z ironią opisuje angielskie społeczeństwo początku XIX wieku."
+    },
+    {
+      "tytuł": "Ojciec Goriot",
+      "autor": "Honoré de Balzac",
+      "rok": "1835",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Stary Goriot poświęca cały majątek córkom, które w zamian się go wstydzą, a młody Rastignac uczy się bezwzględnych reguł paryskiego towarzystwa. Powieść ukazuje siłę pieniądza i ambicji."
+    },
+    {
+      "tytuł": "Trylogia: Molloy, Malone umiera, Nienazywalne",
+      "autor": "Samuel Beckett",
+      "rok": "1951–1953",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Trzy powiązane powieści prowadzą narratorów coraz głębiej w samotność, chorobę i rozpad własnej tożsamości. Beckett redukuje fabułę i język do minimum, badając granice ludzkiej egzystencji."
+    },
+    {
+      "tytuł": "Dekameron",
+      "autor": "Giovanni Boccaccio",
+      "rok": "1349–1353",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Dziesięcioro młodych Florentczyków ucieka przed dżumą na wieś i opowiada sobie sto historii o miłości, sprycie i ludzkich przywarach. Dzieło zapoczątkowało nowożytną prozę europejską."
+    },
+    {
+      "tytuł": "Fikcje",
+      "autor": "Jorge Luis Borges",
+      "rok": "1944–1956",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Zbiór opowiadań o bibliotekach, labiryntach i nieskończoności łączy fantastykę z metafizyką. Borges bawi się wiedzą, tożsamością i naturą rzeczywistości."
+    },
+    {
+      "tytuł": "Wichrowe Wzgórza",
+      "autor": "Emily Brontë",
+      "rok": "1847",
+      "gatunek": "Romans",
+      "kategoria_wiekowa": "16+",
+      "opis": "Nieokiełznana miłość Heathcliffa i Katarzyny Earnshaw na surowych wrzosowiskach Yorkshire prowadzi do zemsty i zniszczenia kolejnych pokoleń. Powieść jest mroczną opowieścią o namiętności i pochodzeniu."
+    },
+    {
+      "tytuł": "Obcy",
+      "autor": "Albert Camus",
+      "rok": "1942",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Meursault, obojętny urzędnik w Algierze, zabija człowieka na plaży i staje przed sądem. Powieść pokazuje absurd istnienia i obcość jednostki wobec społecznych konwenansów."
+    },
+    {
+      "tytuł": "Poezje",
+      "autor": "Paul Celan",
+      "rok": "1952",
+      "gatunek": "Poezja i dramat",
+      "kategoria_wiekowa": "18+",
+      "opis": "Celan w hermetycznym, muzycznym języku opisuje doświadczenie Holokaustu i utratę bliskich. „Fuga śmierci” należy do najważniejszych wierszy o Zagładzie."
+    },
+    {
+      "tytuł": "Podróż do kresu nocy",
+      "autor": "Louis-Ferdinand Céline",
+      "rok": "1932",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Ferdinand Bardamu przechodzi przez I wojnę światową, kolonie w Afryce, Amerykę i nędzę paryskich przedmieść. To brutalna, cyniczna opowieść o absurdzie wojny i ludzkiej kondycji."
+    },
+    {
+      "tytuł": "Don Kichot",
+      "autor": "Miguel de Cervantes",
+      "rok": "1605–1615",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Zubożały szlachcic, naczytany romansów rycerskich, wyrusza jako błędny rycerz ze swoim giermkiem Sanczo Pansą. Powieść z humorem zderza ideały z rzeczywistością."
+    },
+    {
+      "tytuł": "Opowieści kanterberyjskie",
+      "autor": "Geoffrey Chaucer",
+      "rok": "1380–1400",
+      "gatunek": "Poezja i dramat",
+      "kategoria_wiekowa": "16+",
+      "opis": "Pielgrzymi w drodze do Canterbury opowiadają sobie historie, które odsłaniają różne warstwy średniowiecznego społeczeństwa. Utwór łączy humor, satyrę i refleksję moralną."
+    },
+    {
+      "tytuł": "Opowiadania",
+      "autor": "Anton Czechow",
+      "rok": "1886",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Krótkie utwory ukazują zwyczajne losy rosyjskich urzędników, lekarzy i chłopów z delikatną ironią. Czechow mistrzowsko oddaje samotność i niespełnione pragnienia bohaterów."
+    },
+    {
+      "tytuł": "Nostromo",
+      "autor": "Joseph Conrad",
+      "rok": "1904",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "W fikcyjnym południowoamerykańskim kraju Costaguana walka o kopalnię srebra wyzwala chciwość i polityczne intrygi. Conrad bada korupcję idei przez pieniądze i władzę."
+    },
+    {
+      "tytuł": "Wielkie nadzieje",
+      "autor": "Charles Dickens",
+      "rok": "1861",
+      "gatunek": "Literatura obyczajowa",
+      "kategoria_wiekowa": "12+",
+      "opis": "Sierota Pip dostaje tajemniczy spadek i wyrusza do Londynu, by zostać dżentelmenem. Powieść opowiada o dojrzewaniu, wdzięczności i prawdziwej wartości człowieka."
+    },
+    {
+      "tytuł": "Kubuś Fatalista i jego pan",
+      "autor": "Denis Diderot",
+      "rok": "1796",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Kubuś i jego pan wędrują i rozmawiają o miłości, losie i wolnej woli, wplatając dygresje i anegdoty. Diderot żartobliwie zrywa z konwencjami narracji."
+    },
+    {
+      "tytuł": "Berlin Alexanderplatz",
+      "autor": "Alfred Döblin",
+      "rok": "1929",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Franz Biberkopf, świeżo zwolniony z więzienia, próbuje uczciwie żyć w ogarniętym kryzysem Berlinie. Powieść stosuje montaż, cytaty i strumień świadomości, by oddać pulsujące miasto."
+    },
+    {
+      "tytuł": "Zbrodnia i kara",
+      "autor": "Fiodor Dostojewski",
+      "rok": "1866",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Student Raskolnikow morduje lichwiarkę, przekonany, że jest wyjątkowym człowiekiem, lecz dręczy go sumienie. Powieść analizuje winę, odkupienie i granice moralności."
+    },
+    {
+      "tytuł": "Idiota",
+      "autor": "Fiodor Dostojewski",
+      "rok": "1869",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Książę Myszkin, szczery i dobry człowiek, wraca do Petersburga i wplątuje się w miłosne intrygi. Jego niewinność zderza się z cynizmem otoczenia."
+    },
+    {
+      "tytuł": "Biesy",
+      "autor": "Fiodor Dostojewski",
+      "rok": "1872",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Rewolucyjna grupa w rosyjskiej prowincji pod wodzą Piotra Wierchowieńskiego dąży do zniszczenia ładu społecznego. Powieść jest ostrzeżeniem przed nihilizmem i fanatyzmem."
+    },
+    {
+      "tytuł": "Bracia Karamazow",
+      "autor": "Fiodor Dostojewski",
+      "rok": "1880",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Zabójstwo ojca Karamazowa ujawnia konflikty między jego trzema synami i skłania do pytań o wiarę, wolną wolę i winę. To ostatnie, monumentalne dzieło Dostojewskiego."
+    },
+    {
+      "tytuł": "Middlemarch",
+      "autor": "George Eliot",
+      "rok": "1871",
+      "gatunek": "Literatura obyczajowa",
+      "kategoria_wiekowa": "16+",
+      "opis": "Powieść śledzi losy kilku mieszkańców prowincjonalnego miasteczka, w tym idealistki Dorothei Brooke. Eliot z psychologiczną głębią opisuje małżeństwo, ambicje i reformy społeczne."
+    },
+    {
+      "tytuł": "Niewidzialny człowiek",
+      "autor": "Ralph Ellison",
+      "rok": "1952",
+      "gatunek": "Literatura obyczajowa",
+      "kategoria_wiekowa": "16+",
+      "opis": "Młody czarnoskóry narrator opowiada o swoich doświadczeniach w Ameryce, w której nikt nie dostrzega jego prawdziwej tożsamości. Powieść porusza temat rasizmu i poszukiwania własnego ja."
+    },
+    {
+      "tytuł": "Medea",
+      "autor": "Eurypides",
+      "rok": "431 p.n.e.",
+      "gatunek": "Poezja i dramat",
+      "kategoria_wiekowa": "16+",
+      "opis": "Porzucona przez Jazona Medea mści się na nim, zabijając własne dzieci. Tragedia ukazuje destrukcyjną siłę zazdrości i zranionej dumy."
+    },
+    {
+      "tytuł": "Absalomie, Absalomie!",
+      "autor": "William Faulkner",
+      "rok": "1936",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Historia Thomasa Sutpena i jego rodu na amerykańskim Południu jest odtwarzana przez kolejnych narratorów. Powieść bada dziedzictwo niewolnictwa, rasy i pamięci."
+    },
+    {
+      "tytuł": "Wściekłość i wrzask",
+      "autor": "William Faulkner",
+      "rok": "1929",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Upadek południowej rodziny Compsonów opowiedziany jest z czterech perspektyw, w tym przez upośledzonego Benjy'ego. Powieść znana jest ze skomplikowanej narracji i strumienia świadomości."
+    },
+    {
+      "tytuł": "Pani Bovary",
+      "autor": "Gustave Flaubert",
+      "rok": "1857",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Emma Bovary, znudzona prowincjonalnym małżeństwem, szuka namiętności w romansach i luksusie, co prowadzi ją do upadku. Flaubert z precyzją ukazuje marzenia i rozczarowania mieszczaństwa."
+    },
+    {
+      "tytuł": "Szkoła uczuć",
+      "autor": "Gustave Flaubert",
+      "rok": "1869",
+      "gatunek": "Literatura obyczajowa",
+      "kategoria_wiekowa": "16+",
+      "opis": "Młody Frédéric Moreau całe życie kocha niedostępną panią Arnoux, a jego ideały gasną w obliczu rewolucji 1848 roku. Powieść jest portretem straconych złudzeń pokolenia."
+    },
+    {
+      "tytuł": "Romancero cygańskie",
+      "autor": "Federico García Lorca",
+      "rok": "1928",
+      "gatunek": "Poezja i dramat",
+      "kategoria_wiekowa": "16+",
+      "opis": "Zbiór poetyckich ballad o Cyganach, Andaluzji, miłości i śmierci. Wiersze łączą ludowy folklor z awangardowymi metaforami."
+    },
+    {
+      "tytuł": "Sto lat samotności",
+      "autor": "Gabriel García Márquez",
+      "rok": "1967",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Saga rodu Buendíów z wymyślonego miasteczka Macondo obejmuje siedem pokoleń. Realizm miesza się z magią, a historia rodziny odzwierciedla losy Ameryki Łacińskiej."
+    },
+    {
+      "tytuł": "Miłość w czasach zarazy",
+      "autor": "Gabriel García Márquez",
+      "rok": "1985",
+      "gatunek": "Romans",
+      "kategoria_wiekowa": "16+",
+      "opis": "Florentino Ariza kocha Ferminę Dazę przez ponad pięćdziesiąt lat, czekając, aż będzie wolna. Powieść pokazuje miłość jako cierpliwość, obsesję i siłę życia."
+    },
+    {
+      "tytuł": "Faust",
+      "autor": "Johann Wolfgang von Goethe",
+      "rok": "1832",
+      "gatunek": "Poezja i dramat",
+      "kategoria_wiekowa": "16+",
+      "opis": "Doktor Faust zawiera pakt z diabłem Mefistofelesem, by poznać wszystkie tajemnice życia i świata. Dzieło stawia pytania o dążenie człowieka do wiedzy, grzech i odkupienie."
+    },
+    {
+      "tytuł": "Martwe dusze",
+      "autor": "Mikołaj Gogol",
+      "rok": "1842",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Czyczikow objeżdża rosyjską prowincję, skupując „martwe dusze”, czyli zmarłych chłopów figurujących jeszcze w spisach. Powieść z ironią przedstawia galerię ziemiańskich dziwaków i korupcję."
+    },
+    {
+      "tytuł": "Blaszany bębenek",
+      "autor": "Günter Grass",
+      "rok": "1959",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Oskar Matzerath postanawia w wieku trzech lat przestać rosnąć i z bębenkiem w ręku obserwuje narodziny nazizmu w Gdańsku. Powieść jest groteskowym obrazem Niemiec w czasie wojny."
+    },
+    {
+      "tytuł": "Wielki Sertão",
+      "autor": "João Guimarães Rosa",
+      "rok": "1956",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Były rozbójnik Riobaldo opowiada o życiu wśród jagunços na brazylijskim pustkowiu Sertão i o paktach z diabłem. Eksperymentalny język łączy mit, miłość i filozofię."
+    },
+    {
+      "tytuł": "Głód",
+      "autor": "Knut Hamsun",
+      "rok": "1890",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Młody pisarz w Christianii głoduje i balansuje na granicy obłędu, próbując utrzymać się z pisania. Powieść jest pionierskim studium strumienia świadomości."
+    },
+    {
+      "tytuł": "Stary człowiek i morze",
+      "autor": "Ernest Hemingway",
+      "rok": "1952",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Kubański rybak Santiago przez trzy dni walczy na pełnym morzu z ogromnym marlinem. Opowieść mówi o wytrwałości, godności i godzeniu się z porażką."
+    },
+    {
+      "tytuł": "Iliada",
+      "autor": "Homer",
+      "rok": "760–710 p.n.e.",
+      "gatunek": "Poezja i dramat",
+      "kategoria_wiekowa": "16+",
+      "opis": "Opowieść o gniewie Achillesa w dziesiątym roku wojny trojańskiej. Epos opisuje bohaterstwo, honor, przyjaźń i cenę wojny."
+    },
+    {
+      "tytuł": "Odyseja",
+      "autor": "Homer",
+      "rok": "VIII w. p.n.e.",
+      "gatunek": "Poezja i dramat",
+      "kategoria_wiekowa": "12+",
+      "opis": "Odyseusz przez dziesięć lat wraca z wojny trojańskiej do Itaki, mierząc się z potworami i gniewem bogów. Epos opowiada o sprycie, tęsknocie za domem i wierności."
+    },
+    {
+      "tytuł": "Dom lalki",
+      "autor": "Henrik Ibsen",
+      "rok": "1879",
+      "gatunek": "Poezja i dramat",
+      "kategoria_wiekowa": "16+",
+      "opis": "Nora Helmer, traktowana przez męża jak lalka, odkrywa jego egoizm i opuszcza dom. Sztuka stała się manifestem emancypacji kobiet."
+    },
+    {
+      "tytuł": "Ulisses",
+      "autor": "James Joyce",
+      "rok": "1922",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Jeden dzień z życia Leopolda Blooma w Dublinie, 16 czerwca 1904 roku, odwołuje się do struktury „Odysei”. Powieść eksperymentuje z językiem i formą narracji."
+    },
+    {
+      "tytuł": "Opowiadania",
+      "autor": "Franz Kafka",
+      "rok": "1924",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "W opowiadaniach, w tym „Przemianie”, bohaterowie zmagają się z absurdalnymi i niepojętymi siłami. Kafka tworzy niepokojący obraz alienacji i lęku człowieka współczesnego."
+    },
+    {
+      "tytuł": "Proces",
+      "autor": "Franz Kafka",
+      "rok": "1925",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Józef K. zostaje aresztowany i oskarżony, choć nie zna swojej winy ani zarzutów. Powieść przedstawia bezduszną biurokrację i bezsilność jednostki wobec systemu."
+    },
+    {
+      "tytuł": "Zamek",
+      "autor": "Franz Kafka",
+      "rok": "1926",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Geometra K. bezskutecznie próbuje dotrzeć do tajemniczych władz zamku i uzyskać uznanie we wsi. Powieść jest alegorią niedostępności władzy i sensu."
+    },
+    {
+      "tytuł": "Śakuntala",
+      "autor": "Kalidasa",
+      "rok": "I w. p.n.e. – IV w. n.e.",
+      "gatunek": "Poezja i dramat",
+      "kategoria_wiekowa": "12+",
+      "opis": "Król Duszjanta zakochuje się w pustelniczej dziewczynie Śakuntali, lecz klątwa sprawia, że o niej zapomina. Sztuka jest jedną z najpiękniejszych historii miłosnych indyjskiej literatury."
+    },
+    {
+      "tytuł": "Dźwięk góry",
+      "autor": "Yasunari Kawabata",
+      "rok": "1954",
+      "gatunek": "Literatura obyczajowa",
+      "kategoria_wiekowa": "16+",
+      "opis": "Starzejący się Shingo obserwuje rozpad małżeństwa syna i swoje coraz bardziej wyczulone zmysły. Subtelna powieść mówi o przemijaniu, samotności i niewypowiedzianych uczuciach."
+    },
+    {
+      "tytuł": "Grek Zorba",
+      "autor": "Nikos Kazandzakis",
+      "rok": "1946",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Intelektualista zatrudnia na Krecie wesołego i żywiołowego Zorbę do prowadzenia kopalni. Powieść opiewa radość życia, wolność i pogodzenie z losem."
+    },
+    {
+      "tytuł": "Synowie i kochankowie",
+      "autor": "D. H. Lawrence",
+      "rok": "1913",
+      "gatunek": "Literatura obyczajowa",
+      "kategoria_wiekowa": "16+",
+      "opis": "Paul Morel dorasta w górniczej rodzinie, rozdarty między zaborczą matką a kolejnymi kobietami. Powieść opisuje trudną drogę do dojrzałości i niezależności."
+    },
+    {
+      "tytuł": "Niezależni ludzie",
+      "autor": "Halldór Laxness",
+      "rok": "1934–1935",
+      "gatunek": "Literatura obyczajowa",
+      "kategoria_wiekowa": "16+",
+      "opis": "Islandzki chłop Bjartur walczy o niezależność, nie zważając na cierpienie swojej rodziny. Powieść ukazuje surowe życie na wsi i cenę dumy."
+    },
+    {
+      "tytuł": "Pieśni wszystkie",
+      "autor": "Giacomo Leopardi",
+      "rok": "1818–1835",
+      "gatunek": "Poezja i dramat",
+      "kategoria_wiekowa": "16+",
+      "opis": "Zbiór wierszy pełnych melancholii, refleksji nad przemijaniem i tęsknoty za nieosiągalnym szczęściem. Leopardi jest uznawany za jednego z największych poetów włoskich."
+    },
+    {
+      "tytuł": "Złoty notatnik",
+      "autor": "Doris Lessing",
+      "rok": "1962",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Pisarka Anna Wulf prowadzi cztery notatniki, próbując uporządkować swoje życie, politykę i związki. Powieść jest wnikliwym obrazem emancypacji kobiet w XX wieku."
+    },
+    {
+      "tytuł": "Pippi Pończoszanka",
+      "autor": "Astrid Lindgren",
+      "rok": "1945",
+      "gatunek": "Literatura dziecięca i młodzieżowa",
+      "kategoria_wiekowa": "6+",
+      "opis": "Najsilniejsza dziewczynka świata, Pippi, mieszka sama w willi Kurkowo ze swoim koniem i małpką. Opowieść pełna jest humoru, wolności i nieposkromionej wyobraźni."
+    },
+    {
+      "tytuł": "Dziennik szaleńca i inne opowiadania",
+      "autor": "Lu Xun",
+      "rok": "1918",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Tytułowy narrator, owładnięty paranoją, widzi w tradycji chińskiej kanibalizm. Opowiadania krytykują konserwatyzm i ciemnotę ówczesnych Chin."
+    },
+    {
+      "tytuł": "Dzieci naszej dzielnicy",
+      "autor": "Nadżib Mahfuz",
+      "rok": "1959",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Dzieje kairskiej dzielnicy i rodu Gebelawiego są alegorią historii religii i ludzkości. Powieść wywołała kontrowersje i cenzurę w świecie arabskim."
+    },
+    {
+      "tytuł": "Buddenbrookowie",
+      "autor": "Thomas Mann",
+      "rok": "1901",
+      "gatunek": "Literatura obyczajowa",
+      "kategoria_wiekowa": "16+",
+      "opis": "Powieść śledzi cztery pokolenia zamożnej kupieckiej rodziny z Lubeki, której majątek i siła stopniowo słabną. To portret schyłku mieszczaństwa."
+    },
+    {
+      "tytuł": "Czarodziejska góra",
+      "autor": "Thomas Mann",
+      "rok": "1924",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Młody inżynier Hans Castorp przyjeżdża do sanatorium w Davos na trzy tygodnie, a zostaje siedem lat. Wśród pacjentów toczą się dyskusje o chorobie, czasie i losie Europy."
+    },
+    {
+      "tytuł": "Moby Dick",
+      "autor": "Herman Melville",
+      "rok": "1851",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Kapitan Ahab prowadzi swoją załogę w obsesyjnym pościgu za białym wielorybem. Powieść łączy przygodę morską z rozważaniami o losie, zemście i naturze."
+    },
+    {
+      "tytuł": "Próby",
+      "autor": "Michel de Montaigne",
+      "rok": "1595",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Montaigne w osobistych esejach rozważa życie, śmierć, przyjaźń i naturę człowieka, odwołując się do własnych doświadczeń. Dzieło zapoczątkowało gatunek eseju."
+    },
+    {
+      "tytuł": "Historia",
+      "autor": "Elsa Morante",
+      "rok": "1974",
+      "gatunek": "Powieść historyczna",
+      "kategoria_wiekowa": "16+",
+      "opis": "Nauczycielka Ida Ramundo przeżywa z synami wojnę i okupację w Rzymie. Powieść ukazuje los zwykłych ludzi w obliczu historii."
+    },
+    {
+      "tytuł": "Umiłowana",
+      "autor": "Toni Morrison",
+      "rok": "1987",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Była niewolnica Sethe jest nawiedzana przez ducha córki, którą zabiła, by uchronić ją przed niewolą. Powieść mierzy się z traumą niewolnictwa."
+    },
+    {
+      "tytuł": "Opowieść o Genji",
+      "autor": "Murasaki Shikibu",
+      "rok": "1000–1012",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Książę Genji przeżywa miłosne związki na cesarskim dworze w okresie Heian. Uznawana za pierwszą powieść świata, ukazuje piękno i przemijanie."
+    },
+    {
+      "tytuł": "Człowiek bez właściwości",
+      "autor": "Robert Musil",
+      "rok": "1930–1932",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "W schyłkowej Austrii przed I wojną światową Ulrich poszukuje własnej drogi, nie chcąc ulec żadnej konwencji. Rozbudowana powieść ironicznie opisuje kryzys epoki."
+    },
+    {
+      "tytuł": "Lolita",
+      "autor": "Vladimir Nabokov",
+      "rok": "1955",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Narrator Humbert Humbert opowiada o swojej obsesji na punkcie dwunastoletniej dziewczynki. Powieść jest mistrzowsko napisaną, niepokojącą analizą manipulacji i samooszukiwania."
+    },
+    {
+      "tytuł": "Rok 1984",
+      "autor": "George Orwell",
+      "rok": "1949",
+      "gatunek": "Fantastyka (fantasy i science fiction)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Winston Smith żyje w totalitarnym państwie, w którym Wielki Brat kontroluje myśli i historię. Jego bunt przeciw systemowi kończy się tragicznie."
+    },
+    {
+      "tytuł": "Metamorfozy",
+      "autor": "Owidiusz",
+      "rok": "I w. n.e.",
+      "gatunek": "Poezja i dramat",
+      "kategoria_wiekowa": "16+",
+      "opis": "Poemat opowiada o przemianach bogów i śmiertelników, od stworzenia świata po czasy Cezara. Owidiusz zebrał w nim największe mity antyku."
+    },
+    {
+      "tytuł": "Księga niepokoju",
+      "autor": "Fernando Pessoa",
+      "rok": "1928",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Pomocnik księgowego Bernardo Soares notuje w fragmentach myśli o życiu, śnie i samotności. Książka jest portretem tożsamości rozbitej na wiele głosów."
+    },
+    {
+      "tytuł": "Opowieści",
+      "autor": "Edgar Allan Poe",
+      "rok": "1832–1849",
+      "gatunek": "Horror",
+      "kategoria_wiekowa": "16+",
+      "opis": "Poe w opowiadaniach, takich jak „Zagłada domu Usherów” i „Kruk”, wprowadza w świat obłędu, lęku i śmierci. Zapoczątkował też literaturę detektywistyczną."
+    },
+    {
+      "tytuł": "W poszukiwaniu straconego czasu",
+      "autor": "Marcel Proust",
+      "rok": "1913–1927",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Narrator przywołuje wspomnienia z dzieciństwa i młodości, pokazując paryskie salony przełomu wieków. Siedmiotomowe dzieło bada pamięć, czas, miłość i sztukę."
+    },
+    {
+      "tytuł": "Gargantua i Pantagruel",
+      "autor": "François Rabelais",
+      "rok": "1532–1534",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Przygody dwóch olbrzymów, Gargantui i jego syna Pantagruela, pełne są obżarstwa, rubasznego humoru i erudycji. Rabelais kpi z autorytetów i głosi ideały humanizmu."
+    },
+    {
+      "tytuł": "Pedro Páramo",
+      "autor": "Juan Rulfo",
+      "rok": "1955",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Juan Preciado przybywa do wioski Comala, by odnaleźć ojca, i odkrywa, że mieszkają w niej tylko duchy. Powieść łączy świat żywych i umarłych w fragmentarycznej opowieści."
+    },
+    {
+      "tytuł": "Masnawi",
+      "autor": "Rumi",
+      "rok": "1258–1273",
+      "gatunek": "Poezja i dramat",
+      "kategoria_wiekowa": "16+",
+      "opis": "Ogromny poemat składa się z opowieści i przypowieści o drodze duszy ku zjednoczeniu z Bogiem. Jest jednym z kamieni węgielnych sufizmu i literatury perskiej."
+    },
+    {
+      "tytuł": "Dzieci północy",
+      "autor": "Salman Rushdie",
+      "rok": "1981",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Saleem Sinai, urodzony o północy w dniu niepodległości Indii, ma telepatyczne zdolności i związek z losami kraju. Powieść łączy historię Indii z baśniową narracją."
+    },
+    {
+      "tytuł": "Bostan",
+      "autor": "Saadi",
+      "rok": "1257",
+      "gatunek": "Poezja i dramat",
+      "kategoria_wiekowa": "12+",
+      "opis": "Zbiór opowieści wierszem poucza o sprawiedliwości, dobroczynności i pokorze. Dzieło jest klasyką perskiej literatury moralistycznej."
+    },
+    {
+      "tytuł": "Sezon wędrówki na północ",
+      "autor": "Tayeb Salih",
+      "rok": "1966",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Narrator wraca do sudańskiej wioski i poznaje Mustafę Saida, który studiował w Londynie i zostawił za sobą tragiczne związki. Powieść bada zderzenie Wschodu z Zachodem."
+    },
+    {
+      "tytuł": "Miasto ślepców",
+      "autor": "José Saramago",
+      "rok": "1995",
+      "gatunek": "Fantastyka (fantasy i science fiction)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Nagła epidemia ślepoty ogarnia miasto, a zarażonych zamyka się w zakładzie, gdzie szybko upada porządek. Powieść jest alegorią ludzkiej natury w obliczu katastrofy."
+    },
+    {
+      "tytuł": "Hamlet",
+      "autor": "William Shakespeare",
+      "rok": "1603",
+      "gatunek": "Poezja i dramat",
+      "kategoria_wiekowa": "16+",
+      "opis": "Książę Hamlet, nakłoniony przez ducha ojca do zemsty na stryju-zabójcy, waha się między działaniem a refleksją. Tragedia mówi o władzy, szaleństwie i moralnym dylemacie."
+    },
+    {
+      "tytuł": "Król Lear",
+      "autor": "William Shakespeare",
+      "rok": "1608",
+      "gatunek": "Poezja i dramat",
+      "kategoria_wiekowa": "16+",
+      "opis": "Stary król dzieli królestwo między córki w zależności od ich deklaracji miłości i zostaje zdradzony przez dwie z nich. Tragedia opowiada o ślepocie, pysze i cierpieniu."
+    },
+    {
+      "tytuł": "Otello",
+      "autor": "William Shakespeare",
+      "rok": "1609",
+      "gatunek": "Poezja i dramat",
+      "kategoria_wiekowa": "16+",
+      "opis": "Intrygant Jago przekonuje maurytańskiego generała Otella, że jego żona Desdemona go zdradza. Zazdrość doprowadza do tragedii."
+    },
+    {
+      "tytuł": "Król Edyp",
+      "autor": "Sofokles",
+      "rok": "430 p.n.e.",
+      "gatunek": "Poezja i dramat",
+      "kategoria_wiekowa": "16+",
+      "opis": "Edyp szuka mordercy poprzedniego króla Teb i odkrywa, że to on sam, a także że poślubił własną matkę. Tragedia mówi o przeznaczeniu i poznaniu prawdy."
+    },
+    {
+      "tytuł": "Czerwone i czarne",
+      "autor": "Stendhal",
+      "rok": "1830",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Ambitny Julien Sorel, syn cieśli, próbuje zrobić karierę dzięki sprytowi i romansom, co prowadzi go do tragedii. Powieść ostro krytykuje hipokryzję Francji po Napoleonie."
+    },
+    {
+      "tytuł": "Tristram Shandy",
+      "autor": "Laurence Sterne",
+      "rok": "1760",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Narrator próbuje opowiedzieć swoje życie, ale ciągłymi dygresjami nie potrafi nawet przejść do własnych narodzin. Powieść jest zabawną zabawą z formą narracji."
+    },
+    {
+      "tytuł": "Świadomość Zena",
+      "autor": "Italo Svevo",
+      "rok": "1923",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Zeno Cosini spisuje na polecenie psychoanalityka swoje wspomnienia, próbując rzucić palenie i zrozumieć siebie. Powieść łączy ironię i humor z analizą nieuleczalnej niepewności."
+    },
+    {
+      "tytuł": "Podróże Guliwera",
+      "autor": "Jonathan Swift",
+      "rok": "1726",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Okrętowy lekarz Guliwer trafia do krain Liliputów, olbrzymów i innych dziwacznych społeczeństw. Książka ostro satyrycznie ukazuje ludzkie wady i politykę."
+    },
+    {
+      "tytuł": "Wojna i pokój",
+      "autor": "Lew Tołstoj",
+      "rok": "1865–1869",
+      "gatunek": "Powieść historyczna",
+      "kategoria_wiekowa": "16+",
+      "opis": "Powieść ukazuje losy kilku rosyjskich rodzin w czasie wojen napoleońskich. Tołstoj łączy sceny bitew i salonów z rozważaniami o historii i sensie życia."
+    },
+    {
+      "tytuł": "Anna Karenina",
+      "autor": "Lew Tołstoj",
+      "rok": "1877",
+      "gatunek": "Literatura obyczajowa",
+      "kategoria_wiekowa": "16+",
+      "opis": "Zamężna Anna zakochuje się w oficerze Wrońskim i łamie społeczne konwenanse, płacąc za to tragiczną cenę. Obok toczy się historia Lewina, który szuka sensu życia."
+    },
+    {
+      "tytuł": "Śmierć Iwana Iljicza i inne opowiadania",
+      "autor": "Lew Tołstoj",
+      "rok": "1886",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Urzędnik Iwan Iljicz, umierając, uświadamia sobie, że przeżył życie pozbawione prawdziwej treści. Nowela jest przejmującym studium śmierci i samotności."
+    },
+    {
+      "tytuł": "Przygody Hucka Finna",
+      "autor": "Mark Twain",
+      "rok": "1884",
+      "gatunek": "Literatura dziecięca i młodzieżowa",
+      "kategoria_wiekowa": "12+",
+      "opis": "Huck ucieka od despotycznego ojca i płynie tratwą po Missisipi ze zbiegłym niewolnikiem Jimem. Powieść z humorem krytykuje rasizm i hipokryzję Południa."
+    },
+    {
+      "tytuł": "Ramajana",
+      "autor": "Walmiki",
+      "rok": "V–IV w. p.n.e.",
+      "gatunek": "Poezja i dramat",
+      "kategoria_wiekowa": "12+",
+      "opis": "Książę Rama zostaje zesłany do lasu i musi odzyskać żonę Sitę uprowadzoną przez demona Rawanę. Epos opowiada o obowiązku, wierności i zwycięstwie dobra."
+    },
+    {
+      "tytuł": "Eneida",
+      "autor": "Wergiliusz",
+      "rok": "29–19 p.n.e.",
+      "gatunek": "Poezja i dramat",
+      "kategoria_wiekowa": "16+",
+      "opis": "Trojańczyk Eneasz po upadku Troi wędruje do Italii i zakłada początki Rzymu. Epos opowiada o obowiązku wobec bogów i państwa."
+    },
+    {
+      "tytuł": "Mahabharata",
+      "autor": "Wjasa",
+      "rok": "IX–V w. p.n.e.",
+      "gatunek": "Poezja i dramat",
+      "kategoria_wiekowa": "12+",
+      "opis": "Opowieść o wojnie dwóch rodów, Pandawów i Kaurawów, zawiera także słynną Bhagawadgitę. Epos podejmuje pytania o obowiązek, moralność i los."
+    },
+    {
+      "tytuł": "Źdźbła trawy",
+      "autor": "Walt Whitman",
+      "rok": "1855",
+      "gatunek": "Poezja i dramat",
+      "kategoria_wiekowa": "16+",
+      "opis": "Zbiór wolnych wierszy sławi indywidualizm, demokrację, ciało i przyrodę. Whitman otworzył nowy rozdział w poezji amerykańskiej."
+    },
+    {
+      "tytuł": "Pani Dalloway",
+      "autor": "Virginia Woolf",
+      "rok": "1925",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Jeden czerwcowy dzień w Londynie, podczas którego Clarissa Dalloway przygotowuje przyjęcie, a jej myśli krążą wokół przeszłości. Równolegle śledzimy los weterana wojennego Septimusa."
+    },
+    {
+      "tytuł": "Na latarnię morską",
+      "autor": "Virginia Woolf",
+      "rok": "1927",
+      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Rodzina Ramsayów planuje wyprawę do latarni morskiej, a po latach wraca do domu naznaczonego wojną i stratą. Powieść bada czas, pamięć i ulotność życia."
+    },
+    {
+      "tytuł": "Pamiętniki Hadriana",
+      "autor": "Marguerite Yourcenar",
+      "rok": "1951",
+      "gatunek": "Powieść historyczna",
+      "kategoria_wiekowa": "16+",
+      "opis": "Cesarz Hadrian w liście do następcy wspomina swoje życie, rządy i miłość do Antinousa. Powieść jest refleksją nad władzą, sztuką i przemijaniem."
+    }
+  ]
+}
