@@ -23,6 +23,10 @@ Dane → jedna funkcja ładująca → jedna strona:
 - `src/lib/data.ts` — `loadAll()` czyta wszystkie pliki w czasie buildu (`fs`, ścieżka `data/` względem cwd), normalizuje pozycje do `Item` i **deduplikuje** pozycje między listami po `id = kind-slug(tytuł)-slug(twórca)`; ta sama pozycja z wielu list dostaje wiele wpisów w `lists`. Wylicza też `yearNum` (`parseYear` obsługuje m.in. "1913–1927", "od 1952", rzymskie wieki "VIII w. p.n.e."), `era` (przedziały w `ERAS`), główny gatunek (część przed nawiasem, wielka litera) i `ageNum`.
 - `src/pages/index.astro` — jedyna strona; wywołuje `loadAll()` i przekazuje wynik do `src/components/Catalog.astro` (filtrowanie/UI katalogu), osadzonego w `src/layouts/Base.astro`.
 
+### Ulubione i synchronizacja
+
+Ulubione (zakładka przy tytule) trzymane są w `localStorage` (`favorites`, lista `Item.id`). Opcjonalnie synchronizowane przez Supabase po zalogowaniu Google: `src/lib/cloud.ts`, schemat i polityki RLS w `supabase/favorites.sql`. Bez `PUBLIC_SUPABASE_URL`/`PUBLIC_SUPABASE_ANON_KEY` (`.env`, w CI zmienne repozytorium `vars.*`) przycisk logowania jest ukryty i działa tylko localStorage.
+
 ### Format pozycji w JSON
 
 Pola: `tytuł`, `rok` (tekst), `gatunek`, `kategoria_wiekowa` (`"6+"|"12+"|"16+"|"18+"`), `opis`; twórca w `autor` (książki) lub `reżyser` (filmy); filmy dodatkowo `tytuł_oryginalny`, `kraj`. Walidator wymaga: `tytuł`, `gatunek`, `kategoria_wiekowa`, `opis` oraz `autor`/`reżyser`. Loader akceptuje też warianty bez polskich znaków (`tytul`, `rezyser`) i BOM na początku pliku.
