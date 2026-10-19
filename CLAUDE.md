@@ -25,7 +25,7 @@ Dane → jedna funkcja ładująca → jedna strona:
 
 ### Ulubione i synchronizacja
 
-Ulubione (zakładka przy tytule) i „Zaliczone” (przeczytane/obejrzane, tylko dla ulubionych) trzymane są w `localStorage` (`favorites`, `favorites-done` — listy `Item.id`). Logika stanu, kliknięć i logowania: `src/lib/favorites.ts`; opcjonalna synchronizacja przez Supabase po zalogowaniu Google: `src/lib/cloud.ts`, schemat (kolumna `done`) i polityki RLS w `supabase/favorites.sql`. Karta pozycji to `ItemRow.astro`, wspólny pasek górny `Topbar.astro`; widok ulubionych to osobna strona `src/pages/ulubione.astro` (sekcje Książki i Filmy). Bez `PUBLIC_SUPABASE_URL`/`PUBLIC_SUPABASE_ANON_KEY` (`.env`, w CI zmienne repozytorium `vars.*`) przycisk logowania jest ukryty i działa tylko localStorage.
+Ulubione (zakładka przy tytule) i „Zaliczone” (przeczytane/obejrzane, tylko dla ulubionych) trzymane są w `localStorage` (`favorites`, `favorites-done` — listy `Item.id`). Logika stanu, kliknięć i logowania: `src/lib/favorites.ts`; opcjonalna synchronizacja przez Supabase po zalogowaniu Google: `src/lib/cloud.ts`, schemat (kolumna `done`) i polityki RLS w `supabase/favorites.sql`. Karty pozycji nie są renderowane w HTML: dane trafiają do strony jako JSON (`payloadJson` w `src/lib/row.ts`), a karty (`rowHtml`, style w `src/styles/row.css`) buduje przeglądarka — w katalogu po 100 sztuk (leniwe ładowanie, przycisk „Pokaż więcej” + IntersectionObserver). Wspólny pasek górny to `Topbar.astro`; widok ulubionych to osobna strona `src/pages/ulubione.astro` (sekcje Książki i Filmy). Bez `PUBLIC_SUPABASE_URL`/`PUBLIC_SUPABASE_ANON_KEY` (`.env`, w CI zmienne repozytorium `vars.*`) przycisk logowania jest ukryty i działa tylko localStorage.
 
 ### Format pozycji w JSON
 

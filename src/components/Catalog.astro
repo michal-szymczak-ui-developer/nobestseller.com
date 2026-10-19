@@ -1,7 +1,7 @@
 ---
-import ItemRow from './ItemRow.astro';
 import Topbar from './Topbar.astro';
 import { ERAS, type Item, type Kind, type ListInfo } from '../lib/data';
+import { payloadJson } from '../lib/row';
 interface Props { items: Item[]; lists: ListInfo[]; }
 const { items, lists } = Astro.props;
 
@@ -43,8 +43,9 @@ function groupsFor(kind: Kind, ageLabel: string): Group[] {
   ].filter((g) => g.options.length > 1);
 }
 
-const sorted = [...items].sort((a, b) => b.lists.length - a.lists.length || a.title.localeCompare(b.title, 'pl'));
+const dataJson = payloadJson(items);
 ---
+<script is:inline type="application/json" id="catalog-data" set:html={dataJson} />
 <Topbar current="catalog">
   <div class="switch" slot="center" role="tablist" aria-label="Rodzaj">
     {KINDS.map(({ kind, label }) => (
@@ -128,9 +129,10 @@ const sorted = [...items].sort((a, b) => b.lists.length - a.lists.length || a.ti
       </div>
     </div>
 
-    <ul class="rows" id="rows">
-      {sorted.map((i) => <ItemRow item={i} />)}
-    </ul>
+    <div class="chips" id="chips" aria-label="Aktywne filtry" hidden></div>
+
+    <ul class="rows" id="rows"></ul>
+    <div class="more-wrap"><button type="button" class="more-btn" id="more" hidden>Pokaż więcej</button></div>
     <div class="empty" id="empty" hidden><p>Brak wyników dla wybranych filtrów.</p></div>
   </main>
 </div>
@@ -219,7 +221,35 @@ const sorted = [...items].sort((a, b) => b.lists.length - a.lists.length || a.ti
     font-size: 12px; border: 1px solid var(--rule); padding: 4px 8px; border-radius: 0;
     background: var(--bg); cursor: pointer;
   }
+  /* aktywne filtry nad listą – małe badge z możliwością usunięcia */
+  .chips {
+    display: flex; flex-wrap: wrap; align-items: center; gap: 6px; padding: 12px 36px;
+    border-bottom: 1px solid var(--rule);
+  }
+  .chips[hidden] { display: none; }
+  /* elementy tworzone w JS nie mają atrybutu zakresu Astro, stąd :global */
+  .chips :global(.chip) {
+    display: inline-flex; align-items: center; gap: 6px; max-width: 100%; padding: 2px 4px 2px 10px;
+    font-size: 12px; color: var(--ink); background: var(--hover); border: 1px solid var(--rule-strong); cursor: pointer;
+  }
+  .chips :global(.chip:hover) { border-color: var(--ink); }
+  .chips :global(.chip-key) { color: var(--ink-faint); }
+  .chips :global(.chip-text) { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .chips :global(.chip-x) { display: grid; place-items: center; width: 16px; height: 16px; color: var(--ink-mid); font-size: 14px; line-height: 1; }
+  .chips :global(.chip:hover .chip-x) { color: var(--ink); }
+  .chips :global(.chips-clear) {
+    background: none; border: 0; padding: 2px 6px; font-size: 12px; color: var(--ink-faint);
+    text-decoration: underline; cursor: pointer;
+  }
+  .chips :global(.chips-clear:hover) { color: var(--ink); }
+  .chips :global(button:focus-visible) { outline: 2px solid var(--ink); outline-offset: 2px; }
   .rows { list-style: none; }
+  .more-wrap { padding: 28px 36px 40px; text-align: center; }
+  .more-btn {
+    padding: 9px 22px; font-size: 13px; background: none; border: 1px solid var(--ink); color: var(--ink); cursor: pointer;
+  }
+  .more-btn:hover { background: var(--ink); color: var(--bg); }
+  .more-btn[hidden] { display: none; }
   .empty { padding: 80px 36px; text-align: center; color: var(--ink-faint); }
 
   /* elementy drawera – na desktopie niewidoczne */
@@ -272,6 +302,7 @@ const sorted = [...items].sort((a, b) => b.lists.length - a.lists.length || a.ti
     .filters-n[hidden] { display: none; }
     :global(html.drawer-open) { overflow: hidden; }
 
+    .chips { padding: 10px 16px; }
     .list-header { padding: 20px 16px 16px; align-items: center; }
     .list-header > div:first-child { flex: 1 1 100%; }
   }
@@ -285,15 +316,21 @@ const sorted = [...items].sort((a, b) => b.lists.length - a.lists.length || a.ti
 
 <script>
   import { bindRows, subscribe, syncRow } from '../lib/favorites';
+  import { rowHtml, searchText, type DataPayload, type RowItem } from '../lib/row';
 
   type Kind = 'books' | 'movies';
+  const PAGE = 100; // tyle kart doładowuje się naraz (leniwe ładowanie)
   const GROUPS = ['list', 'genre', 'era', 'age', 'pts'] as const;
   const URL_KIND: Record<Kind, string> = { books: 'ksiazki', movies: 'filmy' };
   const KIND_TITLE: Record<Kind, string> = { books: 'Rekomendowane książki', movies: 'Rekomendowane filmy' };
 
   const $ = <T extends HTMLElement>(id: string) => document.getElementById(id) as T;
   const rowsEl = $('rows');
-  const rows = [...rowsEl.querySelectorAll<HTMLElement>('.row')];
+  const moreEl = $<HTMLButtonElement>('more');
+  const { items, titles } = JSON.parse($('catalog-data').textContent!) as DataPayload;
+  const texts = new Map(items.map((i) => [i.id, searchText(i)]));
+  const totals: Record<Kind, number> = { books: 0, movies: 0 };
+  items.forEach((i) => { totals[i.kind]++; });
   const qEl = $<HTMLInputElement>('q');
   const sortEl = $<HTMLSelectElement>('sort');
   const tabs = [...document.querySelectorAll<HTMLButtonElement>('[data-kind-btn]')];
@@ -317,14 +354,74 @@ const sorted = [...items].sort((a, b) => b.lists.length - a.lists.length || a.ti
   });
 
   const pl = (a: string, b: string) => a.localeCompare(b, 'pl');
-  const num = (el: HTMLElement, k: string) => Number(el.dataset[k]);
-  const cmp: Record<string, (a: HTMLElement, b: HTMLElement) => number> = {
-    pop: (a, b) => num(b, 'pts') - num(a, 'pts') || pl(a.dataset.title!, b.dataset.title!),
-    'year-asc': (a, b) => num(a, 'year') - num(b, 'year'),
-    'year-desc': (a, b) => num(b, 'year') - num(a, 'year'),
-    title: (a, b) => pl(a.dataset.title!, b.dataset.title!),
-    age: (a, b) => num(a, 'age') - num(b, 'age') || pl(a.dataset.title!, b.dataset.title!),
+  const cmp: Record<string, (a: RowItem, b: RowItem) => number> = {
+    pop: (a, b) => b.lists.length - a.lists.length || pl(a.title, b.title),
+    'year-asc': (a, b) => a.yearNum - b.yearNum,
+    'year-desc': (a, b) => b.yearNum - a.yearNum,
+    title: (a, b) => pl(a.title, b.title),
+    age: (a, b) => a.ageNum - b.ageNum || pl(a.title, b.title),
   };
+
+  // ─── Leniwe ładowanie: w DOM są tylko karty z bieżącej strony wyników (po PAGE sztuk) ───
+  let matched: RowItem[] = [];
+  let painted = 0;
+  function paint(reset: boolean) {
+    if (reset) { rowsEl.textContent = ''; painted = 0; }
+    const chunk = matched.slice(painted, painted + PAGE);
+    if (chunk.length) {
+      rowsEl.insertAdjacentHTML('beforeend', chunk.map((i) => rowHtml(i, titles)).join(''));
+      [...rowsEl.children].slice(-chunk.length).forEach((r) => syncRow(r as HTMLElement));
+    }
+    painted += chunk.length;
+    const left = matched.length - painted;
+    moreEl.hidden = left <= 0;
+    moreEl.textContent = `Pokaż więcej (${Math.min(PAGE, left)} z ${left})`;
+  }
+  moreEl.addEventListener('click', () => paint(false));
+  // doładowanie przy dojechaniu do końca listy
+  new IntersectionObserver((es) => { if (es.some((e) => e.isIntersecting) && !moreEl.hidden) paint(false); }, { rootMargin: '600px' })
+    .observe(moreEl);
+
+  // ─── Aktywne filtry jako badge nad listą ───
+  const chipsEl = $('chips');
+  function chip(key: string, text: string, attrs: Record<string, string>) {
+    const b = document.createElement('button');
+    b.type = 'button';
+    b.className = 'chip';
+    b.title = 'Usuń filtr';
+    Object.entries(attrs).forEach(([k, v]) => { b.dataset[k] = v; });
+    const k = document.createElement('span'); k.className = 'chip-key'; k.textContent = key ? `${key}:` : '';
+    const t = document.createElement('span'); t.className = 'chip-text'; t.textContent = text;
+    const x = document.createElement('span'); x.className = 'chip-x'; x.textContent = '×'; x.setAttribute('aria-label', 'Usuń');
+    b.append(...(key ? [k] : []), t, x);
+    return b;
+  }
+  function renderChips(sel: Record<(typeof GROUPS)[number], string[]>, q: string) {
+    const nodes: HTMLElement[] = [];
+    if (q) nodes.push(chip('Szukaj', qEl.value.trim(), { chip: 'q' }));
+    for (const g of GROUPS) {
+      const label = panels[kind].querySelector(`[data-group="${g}"] .sidebar-label`)?.textContent?.trim() ?? g;
+      for (const box of boxes(kind, g).filter((b) => b.checked)) {
+        nodes.push(chip(label, box.parentElement!.textContent!.trim(), { chip: 'box', group: g, value: box.value }));
+      }
+    }
+    if (nodes.length > 1) {
+      const all = document.createElement('button');
+      all.type = 'button'; all.className = 'chips-clear'; all.dataset.chip = 'all'; all.textContent = 'Wyczyść wszystko';
+      nodes.push(all);
+    }
+    chipsEl.replaceChildren(...nodes);
+    chipsEl.hidden = nodes.length === 0;
+  }
+  chipsEl.addEventListener('click', (e) => {
+    const b = (e.target as HTMLElement).closest<HTMLElement>('[data-chip]');
+    if (!b) return;
+    const type = b.dataset.chip;
+    if (type === 'q' || type === 'all') qEl.value = '';
+    if (type === 'all') GROUPS.forEach((g) => boxes(kind, g).forEach((c) => { c.checked = false; }));
+    if (type === 'box') boxes(kind, b.dataset.group!).filter((c) => c.value === b.dataset.value).forEach((c) => { c.checked = false; });
+    apply();
+  });
 
   function apply() {
     const q = qEl.value.trim().toLowerCase();
@@ -343,27 +440,22 @@ const sorted = [...items].sort((a, b) => b.lists.length - a.lists.length || a.ti
       text.title = names.join('\n');
     });
 
-    let shown = 0, total = 0;
-    const visible: HTMLElement[] = [];
-    for (const r of rows) {
-      const d = r.dataset;
-      if (d.kind !== kind) { r.hidden = true; continue; }
-      total++;
-      const ok =
-        (!q || d.text!.includes(q)) &&
-        (!sel.genre.length || sel.genre.includes(d.genre!)) &&
-        (!sel.era.length || sel.era.includes(d.era!)) &&
-        (!sel.age.length || sel.age.includes(d.age!)) &&
-        (!sel.pts.length || sel.pts.includes(d.pts!)) &&
-        (!sel.list.length || d.lists!.split(' ').some((s) => sel.list.includes(s)));
-      r.hidden = !ok;
-      if (ok) { shown++; visible.push(r); }
-    }
-    visible.sort(cmp[sortEl.value] ?? cmp.pop);
-    visible.forEach((r) => rowsEl.appendChild(r));
+    matched = items
+      .filter((i) =>
+        i.kind === kind &&
+        (!q || texts.get(i.id)!.includes(q)) &&
+        (!sel.genre.length || sel.genre.includes(i.genre)) &&
+        (!sel.era.length || sel.era.includes(i.era)) &&
+        (!sel.age.length || sel.age.includes(String(i.ageNum))) &&
+        (!sel.pts.length || sel.pts.includes(String(i.lists.length))) &&
+        (!sel.list.length || i.lists.some((s) => sel.list.includes(s))))
+      .sort(cmp[sortEl.value] ?? cmp.pop);
+    const shown = matched.length;
+    paint(true);
+    renderChips(sel, q);
 
     $('title').textContent = KIND_TITLE[kind];
-    $('sub').textContent = `Wyświetlono ${shown} z ${total} pozycji`;
+    $('sub').textContent = `Wyświetlono ${shown} z ${totals[kind]} pozycji`;
     const active = GROUPS.reduce((n, g) => n + sel[g].length, 0);
     const nEl = $('filters-n');
     nEl.textContent = String(active);
@@ -391,8 +483,7 @@ const sorted = [...items].sort((a, b) => b.lists.length - a.lists.length || a.ti
   }));
 
   // Ulubione i „Zaliczone”: stan przycisków na kartach
-  rows.forEach(syncRow);
-  subscribe(() => rows.forEach(syncRow));
+  subscribe(() => rowsEl.querySelectorAll<HTMLElement>('.row').forEach(syncRow));
   bindRows(rowsEl);
 
   // Klik w nazwę listy na karcie – pokaż tylko tę listę

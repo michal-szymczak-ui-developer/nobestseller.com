@@ -1,11 +1,11 @@
 ---
 import Base from '../layouts/Base.astro';
 import Topbar from '../components/Topbar.astro';
-import ItemRow from '../components/ItemRow.astro';
 import { loadAll, type Kind } from '../lib/data';
+import { payloadJson } from '../lib/row';
 
 const { items } = loadAll();
-const byTitle = [...items].sort((a, b) => a.title.localeCompare(b.title, 'pl'));
+const dataJson = payloadJson(items);
 const SECTIONS: { kind: Kind; label: string; empty: string }[] = [
   { kind: 'books', label: 'Książki', empty: 'Brak książek w ulubionych.' },
   { kind: 'movies', label: 'Filmy', empty: 'Brak filmów w ulubionych.' },
@@ -39,13 +39,12 @@ const FILTERS = [
     {SECTIONS.map(({ kind, label, empty }) => (
       <section class="block" data-section={kind}>
         <h2 class="block-title">{label} <span class="block-count" data-count={kind}></span></h2>
-        <ul class="rows" data-rows={kind}>
-          {byTitle.filter((i) => i.kind === kind).map((i) => <ItemRow item={i} />)}
-        </ul>
+        <ul class="rows" data-rows={kind}></ul>
         <p class="block-empty" data-empty={kind} hidden>{empty}</p>
       </section>
     ))}
   </main>
+  <script is:inline type="application/json" id="catalog-data" set:html={dataJson} />
 </Base>
 
 <style>
@@ -88,6 +87,7 @@ const FILTERS = [
 
 <script>
   import { bindRows, done, favs, subscribe, syncRow } from '../lib/favorites';
+  import { rowHtml, type DataPayload } from '../lib/row';
 
   type Kind = 'books' | 'movies';
   type Status = 'all' | 'todo' | 'done';
@@ -95,7 +95,8 @@ const FILTERS = [
   const URL_KIND: Record<Kind, string> = { books: 'ksiazki', movies: 'filmy' };
 
   const q = <T extends HTMLElement>(sel: string) => document.querySelector<T>(sel)!;
-  const rows = [...document.querySelectorAll<HTMLElement>('.row')];
+  const { items, titles } = JSON.parse(q('#catalog-data').textContent!) as DataPayload;
+  const byTitle = [...items].sort((a, b) => a.title.localeCompare(b.title, 'pl'));
   const seg = [...document.querySelectorAll<HTMLButtonElement>('[data-status]')];
 
   const params = new URLSearchParams(location.search);
@@ -105,20 +106,16 @@ const FILTERS = [
     seg.forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.status === status)));
     let all = 0;
     for (const kind of KINDS) {
-      const mine = rows.filter((r) => r.dataset.kind === kind && favs.has(r.dataset.id!));
-      const doneN = mine.filter((r) => done.has(r.dataset.id!)).length;
-      let shown = 0;
-      for (const r of rows.filter((x) => x.dataset.kind === kind)) {
-        const isFav = favs.has(r.dataset.id!);
-        const ok = isFav && (status === 'all' || (status === 'done') === done.has(r.dataset.id!));
-        r.hidden = !ok;
-        if (ok) shown++;
-        syncRow(r);
-      }
+      const mine = byTitle.filter((i) => i.kind === kind && favs.has(i.id));
+      const doneN = mine.filter((i) => done.has(i.id)).length;
+      const visible = mine.filter((i) => status === 'all' || (status === 'done') === done.has(i.id));
+      const ul = q(`[data-rows="${kind}"]`);
+      ul.innerHTML = visible.map((i) => rowHtml(i, titles)).join('');
+      ul.querySelectorAll<HTMLElement>('.row').forEach(syncRow);
       all += mine.length;
       q(`[data-count="${kind}"]`).textContent = mine.length ? `${mine.length} · zaliczone ${doneN}` : '';
-      q(`[data-empty="${kind}"]`).hidden = shown > 0;
-      q(`[data-rows="${kind}"]`).hidden = shown === 0;
+      q(`[data-empty="${kind}"]`).hidden = visible.length > 0;
+      ul.hidden = visible.length === 0;
     }
     q('#intro').hidden = all > 0;
     document.querySelectorAll<HTMLElement>('[data-section]').forEach((s) => { s.hidden = all === 0; });
