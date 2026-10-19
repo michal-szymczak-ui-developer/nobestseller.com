@@ -1,4 +1,6 @@
 ---
+import ItemRow from './ItemRow.astro';
+import Topbar from './Topbar.astro';
 import { ERAS, type Item, type Kind, type ListInfo } from '../lib/data';
 interface Props { items: Item[]; lists: ListInfo[]; }
 const { items, lists } = Astro.props;
@@ -41,36 +43,16 @@ function groupsFor(kind: Kind, ageLabel: string): Group[] {
   ].filter((g) => g.options.length > 1);
 }
 
-const hue = (s: string) => {
-  let h = 5381;
-  for (const c of s) h = ((h << 5) + h + c.charCodeAt(0)) >>> 0;
-  return h % 360;
-};
-const listsWord = (n: number) => (n < 5 ? 'listy' : 'list');
-const lastName = (s: string) => s.split(/[,;]/)[0].trim().split(' ').pop() ?? '';
-
 const sorted = [...items].sort((a, b) => b.lists.length - a.lists.length || a.title.localeCompare(b.title, 'pl'));
 ---
-<nav class="topbar">
-  <a href="/" class="wordmark">nobestseller</a>
-  <div class="switch" role="tablist" aria-label="Rodzaj">
+<Topbar current="catalog">
+  <div class="switch" slot="center" role="tablist" aria-label="Rodzaj">
     {KINDS.map(({ kind, label }) => (
       <button type="button" role="tab" data-kind-btn={kind} aria-selected="false">{label}</button>
     ))}
   </div>
-  <div class="topbar-right">
-    <span class="topbar-count" id="topbar-count"></span>
-    <button type="button" class="fav-toggle" id="fav-toggle" aria-pressed="false" title="Pokaż tylko ulubione">
-      <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"><path d="M6 3h12v18l-6-4.5L6 21Z"/></svg>
-      Ulubione <span id="fav-count">0</span>
-    </button>
-    <button type="button" class="auth-btn" id="auth-btn" hidden>Zaloguj się</button>
-    <button type="button" class="theme-btn" id="theme" aria-label="Przełącz motyw jasny/ciemny" title="Motyw">
-      <svg class="i-moon" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M20 14.5A8 8 0 0 1 9.5 4 8 8 0 1 0 20 14.5Z"/></svg>
-      <svg class="i-sun" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M2 12h2M20 12h2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>
-    </button>
-  </div>
-</nav>
+  <span class="topbar-count" slot="right" id="topbar-count"></span>
+</Topbar>
 
 <div class="shell">
   <div class="backdrop" id="backdrop" hidden></div>
@@ -131,64 +113,13 @@ const sorted = [...items].sort((a, b) => b.lists.length - a.lists.length || a.ti
     </div>
 
     <ul class="rows" id="rows">
-      {sorted.map((i) => (
-        <li class="row" hidden data-id={i.id} data-kind={i.kind} data-genre={i.genre} data-era={i.era} data-age={i.ageNum}
-            data-pts={i.lists.length} data-lists={i.lists.map((l) => l.slug).join(' ')}
-            data-title={i.title} data-year={i.yearNum}
-            data-text={`${i.title} ${i.originalTitle} ${i.creator} ${i.country} ${i.description}`.toLowerCase()}>
-          <div class="cover" style={`--h:${hue(i.title + i.creator)}`} aria-hidden="true">
-            <span class="c-title">{i.title}</span>
-            <span class="c-by">{lastName(i.creator)}</span>
-          </div>
-          <div class="info">
-            <div class="title-row">
-              <h2 class="item-title">{i.title}</h2>
-              <button type="button" class="fav-btn" aria-pressed="false" aria-label="Dodaj do ulubionych" title="Dodaj do ulubionych">
-                <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"><path d="M6 3h12v18l-6-4.5L6 21Z"/></svg>
-              </button>
-            </div>
-            <div class="by">{i.creator}{i.originalTitle && <><span>·</span><em>{i.originalTitle}</em></>}</div>
-            <p class="desc">{i.description}</p>
-            <div class="tags">
-              {i.lists.length === 1 && (
-                <button type="button" class="src-badge src-tag" data-list={i.lists[0].slug} title="Pokaż tylko tę listę">{i.lists[0].title}</button>
-              )}
-              {i.lists.length > 1 && (
-                <span class="tip-wrap">
-                  <span class="points-badge" tabindex="0" aria-haspopup="true">{i.lists.length} {listsWord(i.lists.length)}</span>
-                  <span class="tip" role="tooltip">
-                    <span class="tip-box">
-                      {i.lists.map((l) => <button type="button" class="src-badge" data-list={l.slug} title="Pokaż tylko tę listę">{l.title}</button>)}
-                    </span>
-                  </span>
-                </span>
-              )}
-              <span class="tag">{i.genre}</span>
-              {i.country && <span class="tag">{i.country}</span>}
-              {i.age && <span class="tag">{i.age}</span>}
-            </div>
-          </div>
-          <div class="side">
-            <span class="year">{i.year}</span>
-          </div>
-        </li>
-      ))}
+      {sorted.map((i) => <ItemRow item={i} />)}
     </ul>
-    <div class="empty" id="empty" hidden><p id="empty-msg">Brak wyników dla wybranych filtrów.</p></div>
+    <div class="empty" id="empty" hidden><p>Brak wyników dla wybranych filtrów.</p></div>
   </main>
 </div>
 
 <style>
-  /* ─── Pasek górny ───────────────────────────────────── */
-  .topbar {
-    display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;
-    padding: 0 40px; height: 52px; border-bottom: 1px solid var(--rule);
-    position: sticky; top: 0; background: var(--bg); z-index: 200;
-  }
-  .wordmark {
-    font-family: 'Playfair Display Variable', serif; font-size: 18px; font-weight: 700;
-    letter-spacing: -0.5px; color: var(--ink); text-decoration: none; justify-self: start;
-  }
   .switch { display: flex; border: 1px solid var(--rule); }
   .switch button {
     background: none; border: 0; padding: 6px 22px; font-size: 13px; color: var(--ink-mid);
@@ -197,39 +128,8 @@ const sorted = [...items].sort((a, b) => b.lists.length - a.lists.length || a.ti
   .switch button + button { border-left: 1px solid var(--rule); }
   .switch button[aria-selected='true'] { background: var(--ink); color: var(--bg); }
   .switch button:hover:not([aria-selected='true']) { background: var(--hover); color: var(--ink); }
-  .topbar-right { display: flex; align-items: center; gap: 16px; justify-self: end; }
   .topbar-count { font-size: 12px; color: var(--ink-faint); }
-  .theme-btn {
-    width: 32px; height: 32px; display: grid; place-items: center; background: none;
-    border: 1px solid var(--rule); color: var(--ink-mid); cursor: pointer;
-  }
-  .theme-btn:hover { border-color: var(--ink); color: var(--ink); }
-  .fav-toggle {
-    display: inline-flex; align-items: center; gap: 6px; height: 32px; padding: 0 12px; font-size: 12px;
-    background: none; border: 1px solid var(--rule); color: var(--ink-mid); cursor: pointer;
-  }
-  .auth-btn {
-    height: 32px; padding: 0 12px; font-size: 12px; background: none; border: 1px solid var(--rule);
-    color: var(--ink-mid); cursor: pointer; white-space: nowrap;
-  }
-  .auth-btn:hover { border-color: var(--ink); color: var(--ink); }
-  .auth-btn[hidden] { display: none; }
-  .fav-toggle:hover { border-color: var(--ink); color: var(--ink); }
-  .fav-toggle[aria-pressed='true'] { background: var(--ink); border-color: var(--ink); color: var(--bg); }
-  .fav-toggle[aria-pressed='true'] svg { fill: currentColor; }
-  .title-row { display: flex; align-items: flex-start; gap: 4px; margin-bottom: 3px; }
-  .title-row .item-title { margin-bottom: 0; }
-  .fav-btn {
-    display: inline-grid; place-items: center; width: 28px; height: 28px; flex-shrink: 0; margin-top: -2px;
-    background: none; border: 0; color: var(--ink-faint); cursor: pointer;
-  }
-  .fav-btn:hover { color: var(--ink); }
-  .fav-btn[aria-pressed='true'] { color: var(--ink); }
-  .fav-btn[aria-pressed='true'] svg { fill: currentColor; }
-  .theme-btn .i-sun { display: none; }
-  :global(:root[data-theme='dark']) .theme-btn .i-sun { display: block; }
-  :global(:root[data-theme='dark']) .theme-btn .i-moon { display: none; }
-  button:focus-visible, select:focus-visible, input:focus-visible, a:focus-visible { outline: 2px solid var(--ink); outline-offset: 2px; }
+  button:focus-visible, select:focus-visible, input:focus-visible { outline: 2px solid var(--ink); outline-offset: 2px; }
 
   /* ─── Układ ─────────────────────────────────────────── */
   .shell { display: grid; grid-template-columns: 360px 1fr; min-height: calc(100vh - 52px); }
@@ -246,7 +146,7 @@ const sorted = [...items].sort((a, b) => b.lists.length - a.lists.length || a.ti
   }
   .search-input::placeholder { color: var(--ink-faint); }
   .search-input:focus { border-color: var(--ink); background: var(--bg); }
-  .panel[hidden], .row[hidden], .empty[hidden] { display: none; }
+  .panel[hidden], .empty[hidden] { display: none; }
 
   .sidebar-section { padding: 24px 24px 0; margin-bottom: 4px; border-top: 1px solid var(--rule); }
   .sidebar-label {
@@ -290,67 +190,6 @@ const sorted = [...items].sort((a, b) => b.lists.length - a.lists.length || a.ti
     background: var(--bg); cursor: pointer;
   }
   .rows { list-style: none; }
-  .row {
-    display: grid; grid-template-columns: 88px 1fr auto; align-items: start; gap: 0 20px;
-    padding: 24px 36px; border-bottom: 1px solid var(--rule); transition: background .1s;
-  }
-  .row:hover { background: var(--hover); }
-
-  /* płaska okładka generowana z tytułu */
-  .cover {
-    width: 88px; height: 132px; display: flex; flex-direction: column; justify-content: space-between;
-    padding: 10px 8px 8px; overflow: hidden; color: #fff;
-    background: hsl(var(--h) var(--cover-s) var(--cover-l));
-  }
-  .c-title {
-    font-family: 'Playfair Display Variable', serif; font-weight: 700; font-size: 12px; line-height: 1.2;
-    display: -webkit-box; -webkit-line-clamp: 5; -webkit-box-orient: vertical; overflow: hidden; hyphens: auto;
-  }
-  .c-by { font-size: 8px; letter-spacing: .1em; text-transform: uppercase; opacity: .85; border-top: 1px solid rgba(255,255,255,.4); padding-top: 5px; }
-
-  .info { padding-top: 2px; min-width: 0; }
-
-  /* tooltip z listami przy pozycjach polecanych w kilku źródłach – pozycjonowany względem plakietki */
-  .tip-wrap { position: relative; display: inline-flex; }
-  .points-badge { cursor: default; }
-  .tip {
-    position: absolute; left: 0; bottom: 100%; padding-bottom: 6px; z-index: 50;
-    visibility: hidden; opacity: 0; transition: opacity .12s, visibility .12s;
-  }
-  .tip-wrap:hover .tip, .tip-wrap:focus-within .tip { visibility: visible; opacity: 1; }
-  .tip-box {
-    display: flex; flex-direction: column; align-items: flex-start; gap: 4px; white-space: nowrap;
-    background: var(--ink); color: var(--bg); padding: 8px 12px;
-  }
-  .tip .src-badge { color: var(--bg); opacity: .85; }
-  .tip .src-badge:hover { color: var(--bg); opacity: 1; }
-  .src-badge {
-    background: none; border: 0; padding: 0; font-size: 10px; font-weight: 500; letter-spacing: .06em;
-    color: var(--ink-faint); text-transform: uppercase; cursor: pointer;
-  }
-  .src-badge:hover { color: var(--ink); text-decoration: underline; }
-  /* nazwa jedynej listy – na miejscu plakietki „N listy”, w jej wymiarach (obrys zamiast wypełnienia) */
-  .src-tag {
-    font-size: 11px; font-weight: 600; text-transform: none; letter-spacing: .04em; line-height: inherit;
-    color: var(--ink); border: 1px solid var(--ink); padding: 2px 8px;
-  }
-  .src-tag:hover { background: var(--ink); color: var(--bg); text-decoration: none; }
-  .points-badge { font-size: 11px; font-weight: 600; background: var(--ink); color: var(--bg); border: 1px solid var(--ink); padding: 2px 8px; letter-spacing: .04em; }
-  .item-title {
-    font-family: 'Playfair Display Variable', serif; font-size: 19px; font-weight: 700;
-    line-height: 1.25; letter-spacing: -.3px; margin-bottom: 3px;
-  }
-  .by { font-size: 13px; color: var(--ink-mid); margin-bottom: 10px; }
-  .by span { color: var(--ink-faint); margin: 0 6px; }
-  .by em { color: var(--ink-faint); }
-  .desc {
-    font-size: 13px; color: var(--ink-mid); line-height: 1.6; max-width: 600px;
-    display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
-  }
-  .tags { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; margin-top: 10px; }
-  .tag { font-size: 11px; color: var(--ink-faint); border: 1px solid var(--rule); padding: 2px 8px; }
-  .side { padding-top: 4px; text-align: right; }
-  .year { font-size: 12px; color: var(--ink-faint); font-variant-numeric: tabular-nums; white-space: nowrap; }
   .empty { padding: 80px 36px; text-align: center; color: var(--ink-faint); }
 
   /* elementy drawera – na desktopie niewidoczne */
@@ -358,7 +197,6 @@ const sorted = [...items].sort((a, b) => b.lists.length - a.lists.length || a.ti
   .backdrop[hidden] { display: none; }
 
   @media (max-width: 860px) {
-    .topbar { padding: 0 16px; }
     .topbar-count { display: none; }
     .shell { grid-template-columns: 1fr; }
 
@@ -407,29 +245,17 @@ const sorted = [...items].sort((a, b) => b.lists.length - a.lists.length || a.ti
 
     .list-header { padding: 20px 16px 16px; align-items: center; }
     .list-header > div:first-child { flex: 1 1 100%; }
-    .row { grid-template-columns: 88px 1fr; padding: 20px 16px; gap: 0 16px; }
-    .side { display: none; }
-    .fav-toggle { padding: 0 8px; }
   }
 
   @media (max-width: 560px) {
-    .topbar { grid-template-columns: auto 1fr; gap: 8px; }
-    .wordmark { display: none; }
-    .switch { justify-self: start; }
     .switch button { padding: 6px 14px; }
-    .topbar-right { gap: 6px; }
-    .auth-btn { padding: 0 8px; }
     .list-title { font-size: 19px; }
-    .row { grid-template-columns: 64px 1fr; gap: 0 12px; }
-    .cover { width: 64px; height: 96px; padding: 7px 6px 6px; }
-    .c-title { font-size: 9px; -webkit-line-clamp: 4; }
-    .c-by { font-size: 6px; padding-top: 3px; }
     .sort-wrap { margin-left: auto; }
   }
 </style>
 
 <script>
-  import { addFavs, cloudEnabled, fetchFavs, onUser, removeFav, signInWithGoogle, signOut } from '../lib/cloud';
+  import { bindRows, subscribe, syncRow } from '../lib/favorites';
 
   type Kind = 'books' | 'movies';
   const GROUPS = ['list', 'genre', 'era', 'age', 'pts'] as const;
@@ -461,17 +287,6 @@ const sorted = [...items].sort((a, b) => b.lists.length - a.lists.length || a.ti
     boxes(kind, g).forEach((b) => { b.checked = sel.includes(b.value); });
   });
 
-  // ─── Ulubione: zapisane w localStorage jako lista id pozycji ───
-  const FAV_KEY = 'favorites';
-  const favs = new Set<string>();
-  try {
-    const raw = JSON.parse(localStorage.getItem(FAV_KEY) ?? '[]');
-    if (Array.isArray(raw)) raw.forEach((x) => typeof x === 'string' && favs.add(x));
-  } catch {}
-  const saveFavs = () => { try { localStorage.setItem(FAV_KEY, JSON.stringify([...favs])); } catch {} };
-  let onlyFavs = params.get('fav') === '1';
-  const favToggle = $<HTMLButtonElement>('fav-toggle');
-
   const pl = (a: string, b: string) => a.localeCompare(b, 'pl');
   const num = (el: HTMLElement, k: string) => Number(el.dataset[k]);
   const cmp: Record<string, (a: HTMLElement, b: HTMLElement) => number> = {
@@ -492,9 +307,6 @@ const sorted = [...items].sort((a, b) => b.lists.length - a.lists.length || a.ti
       panels[kind].querySelector<HTMLElement>(`[data-clear="${g}"]`)?.classList.toggle('visible', sel[g].length > 0);
     });
 
-    favToggle.setAttribute('aria-pressed', String(onlyFavs));
-    $('fav-count').textContent = String(favs.size);
-
     let shown = 0, total = 0, multi = 0;
     const visible: HTMLElement[] = [];
     for (const r of rows) {
@@ -503,7 +315,6 @@ const sorted = [...items].sort((a, b) => b.lists.length - a.lists.length || a.ti
       total++;
       if (Number(d.pts) > 1) multi++;
       const ok =
-        (!onlyFavs || favs.has(d.id!)) &&
         (!q || d.text!.includes(q)) &&
         (!sel.genre.length || sel.genre.includes(d.genre!)) &&
         (!sel.era.length || sel.era.includes(d.era!)) &&
@@ -525,16 +336,12 @@ const sorted = [...items].sort((a, b) => b.lists.length - a.lists.length || a.ti
     nEl.hidden = active === 0;
     $('drawer-apply').textContent = `Pokaż wyniki (${shown})`;
     $('empty').hidden = shown > 0;
-    $('empty-msg').textContent = onlyFavs && !favs.size
-      ? 'Brak ulubionych. Kliknij ikonę zakładki przy pozycji, aby ją dodać.'
-      : 'Brak wyników dla wybranych filtrów.';
     document.title = `${kind === 'books' ? 'Książki' : 'Filmy'} · nobestseller.com`;
 
     const next = new URLSearchParams();
     next.set('t', URL_KIND[kind]);
     if (q) next.set('q', qEl.value.trim());
     if (sortEl.value !== 'pop') next.set('sort', sortEl.value);
-    if (onlyFavs) next.set('fav', '1');
     GROUPS.forEach((g) => sel[g].forEach((v) => next.append(g, v)));
     history.replaceState(null, '', `?${next}`);
   }
@@ -548,79 +355,12 @@ const sorted = [...items].sort((a, b) => b.lists.length - a.lists.length || a.ti
     boxes(kind, btn.dataset.clear!).forEach((b) => { b.checked = false; });
     apply();
   }));
-  const syncFavBtn = (row: HTMLElement) => {
-    const on = favs.has(row.dataset.id!);
-    const btn = row.querySelector<HTMLButtonElement>('.fav-btn')!;
-    const label = on ? 'Usuń z ulubionych' : 'Dodaj do ulubionych';
-    btn.setAttribute('aria-pressed', String(on));
-    btn.setAttribute('aria-label', label);
-    btn.title = label;
-  };
-  rows.forEach(syncFavBtn);
-  favToggle.addEventListener('click', () => { onlyFavs = !onlyFavs; apply(); });
-  // synchronizacja między kartami przeglądarki
-  addEventListener('storage', (e) => {
-    if (e.key !== FAV_KEY) return;
-    favs.clear();
-    try { (JSON.parse(e.newValue ?? '[]') as string[]).forEach((x) => favs.add(x)); } catch {}
-    rows.forEach(syncFavBtn);
-    apply();
-  });
 
-  // ─── Logowanie Google + synchronizacja z Supabase (opcjonalna) ───
-  let userId: string | null = null;
-  const authBtn = $<HTMLButtonElement>('auth-btn');
-  if (cloudEnabled) {
-    authBtn.hidden = false;
-    authBtn.addEventListener('click', async () => {
-      if (!userId) { signInWithGoogle(); return; }
-      await signOut();
-      favs.clear(); // na wspólnym urządzeniu nie zostawiamy cudzych ulubionych
-      saveFavs();
-      rows.forEach(syncFavBtn);
-      apply();
-    });
-    onUser(async (user) => {
-      const id = user?.id ?? null;
-      if (id === userId) return; // np. odświeżenie tokenu
-      userId = id;
-      authBtn.textContent = user ? 'Wyloguj' : 'Zaloguj się';
-      authBtn.title = user ? `Zalogowano: ${user.email ?? ''}` : 'Zaloguj się kontem Google, aby synchronizować ulubione';
-      if (!user) return;
-      try {
-        const remote = await fetchFavs();
-        const known = new Set(remote);
-        await addFavs([...favs].filter((x) => !known.has(x))); // scal lokalne z kontem
-        remote.forEach((x) => favs.add(x));
-        saveFavs();
-        rows.forEach(syncFavBtn);
-        apply();
-      } catch (err) {
-        console.warn('Nie udało się zsynchronizować ulubionych', err);
-      }
-    });
-  }
+  // Ulubione i „Zaliczone”: stan przycisków na kartach
+  rows.forEach(syncRow);
+  subscribe(() => rows.forEach(syncRow));
+  bindRows(rowsEl);
 
-  rowsEl.addEventListener('click', (e) => {
-    const f = (e.target as HTMLElement).closest<HTMLElement>('.fav-btn');
-    if (!f) return;
-    const row = f.closest<HTMLElement>('.row')!;
-    const id = row.dataset.id!;
-    const adding = !favs.has(id);
-    const set = (on: boolean) => {
-      if (on) favs.add(id); else favs.delete(id);
-      saveFavs();
-      syncFavBtn(row);
-      apply();
-    };
-    set(adding);
-    if (userId) {
-      (adding ? addFavs([id]) : removeFav(id)).catch((err) => {
-        console.warn('Nie udało się zapisać ulubionych', err);
-        set(!adding);
-      });
-    }
-  });
   // Klik w nazwę listy na karcie – pokaż tylko tę listę
   rowsEl.addEventListener('click', (e) => {
     const b = (e.target as HTMLElement).closest<HTMLElement>('.src-badge');
@@ -646,12 +386,6 @@ const sorted = [...items].sort((a, b) => b.lists.length - a.lists.length || a.ti
   backdrop.addEventListener('click', () => setDrawer(false));
   addEventListener('keydown', (e) => { if (e.key === 'Escape' && sidebar.classList.contains('open')) setDrawer(false); });
   matchMedia('(min-width: 861px)').addEventListener('change', (e) => { if (e.matches) setDrawer(false); });
-
-  $('theme').addEventListener('click', () => {
-    const next = document.documentElement.dataset.theme === 'dark' ? 'light' : 'dark';
-    document.documentElement.dataset.theme = next;
-    try { localStorage.setItem('theme', next); } catch {}
-  });
 
   apply();
 </script>

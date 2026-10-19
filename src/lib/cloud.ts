@@ -8,6 +8,8 @@ export const cloudEnabled = Boolean(url && key);
 
 const client: SupabaseClient | null = cloudEnabled ? createClient(url!, key!) : null;
 
+export interface FavRow { id: string; done: boolean; }
+
 export const signInWithGoogle = () =>
   client?.auth.signInWithOAuth({
     provider: 'google',
@@ -21,17 +23,23 @@ export function onUser(cb: (user: User | null) => void) {
   client?.auth.onAuthStateChange((_e, session) => cb(session?.user ?? null));
 }
 
-export async function fetchFavs(): Promise<string[]> {
-  const { data, error } = await client!.from('favorites').select('item_id');
+export async function fetchFavs(): Promise<FavRow[]> {
+  const { data, error } = await client!.from('favorites').select('item_id, done');
   if (error) throw error;
-  return data.map((r) => r.item_id as string);
+  return data.map((r) => ({ id: r.item_id as string, done: Boolean(r.done) }));
 }
 
-export async function addFavs(ids: string[]) {
-  if (!ids.length) return;
+/** Dodaje lub aktualizuje (id + flaga „zaliczone”). */
+export async function upsertFavs(rows: FavRow[]) {
+  if (!rows.length) return;
   const { error } = await client!
     .from('favorites')
-    .upsert(ids.map((item_id) => ({ item_id })), { onConflict: 'user_id,item_id', ignoreDuplicates: true });
+    .upsert(rows.map((r) => ({ item_id: r.id, done: r.done })), { onConflict: 'user_id,item_id' });
+  if (error) throw error;
+}
+
+export async function setDone(id: string, done: boolean) {
+  const { error } = await client!.from('favorites').update({ done }).eq('item_id', id);
   if (error) throw error;
 }
 

@@ -1,0 +1,145 @@
+---
+import Base from '../layouts/Base.astro';
+import Topbar from '../components/Topbar.astro';
+import ItemRow from '../components/ItemRow.astro';
+import { loadAll, type Kind } from '../lib/data';
+
+const { items } = loadAll();
+const byTitle = [...items].sort((a, b) => a.title.localeCompare(b.title, 'pl'));
+const SECTIONS: { kind: Kind; label: string; empty: string }[] = [
+  { kind: 'books', label: 'Książki', empty: 'Brak książek w ulubionych.' },
+  { kind: 'movies', label: 'Filmy', empty: 'Brak filmów w ulubionych.' },
+];
+const FILTERS = [
+  { value: 'all', label: 'Wszystkie' },
+  { value: 'todo', label: 'Do zaliczenia' },
+  { value: 'done', label: 'Zaliczone' },
+];
+---
+<Base title="Ulubione">
+  <Topbar current="favorites">
+    <a slot="center" class="back" href="/">← Katalog</a>
+  </Topbar>
+
+  <main class="page">
+    <div class="page-head">
+      <div>
+        <h1 class="page-title">Ulubione</h1>
+        <div class="page-sub" id="sub" aria-live="polite"></div>
+      </div>
+      <div class="seg" role="group" aria-label="Pokaż">
+        {FILTERS.map((f) => <button type="button" data-status={f.value} aria-pressed="false">{f.label}</button>)}
+      </div>
+    </div>
+
+    <p class="intro" id="intro" hidden>
+      Nie masz jeszcze ulubionych. Kliknij ikonę zakładki przy książce lub filmie w <a href="/">katalogu</a>, aby je tu zobaczyć.
+    </p>
+
+    {SECTIONS.map(({ kind, label, empty }) => (
+      <section class="block" data-section={kind}>
+        <h2 class="block-title">{label} <span class="block-count" data-count={kind}></span></h2>
+        <ul class="rows" data-rows={kind}>
+          {byTitle.filter((i) => i.kind === kind).map((i) => <ItemRow item={i} />)}
+        </ul>
+        <p class="block-empty" data-empty={kind} hidden>{empty}</p>
+      </section>
+    ))}
+  </main>
+</Base>
+
+<style>
+  .back { font-size: 13px; color: var(--ink-mid); text-decoration: none; justify-self: start; }
+  .back:hover { color: var(--ink); text-decoration: underline; }
+  .page { max-width: 1100px; margin: 0 auto; }
+  .page-head {
+    display: flex; align-items: baseline; justify-content: space-between; gap: 16px; flex-wrap: wrap;
+    padding: 28px 36px 20px; border-bottom: 1px solid var(--rule);
+  }
+  .page-title { font-family: 'Playfair Display Variable', serif; font-size: 22px; font-weight: 700; letter-spacing: -.4px; }
+  .page-sub { font-size: 12px; color: var(--ink-faint); }
+  .seg { display: flex; border: 1px solid var(--rule); }
+  .seg button {
+    background: none; border: 0; padding: 6px 14px; font-size: 12px; color: var(--ink-mid); cursor: pointer;
+    transition: background .1s, color .1s;
+  }
+  .seg button + button { border-left: 1px solid var(--rule); }
+  .seg button[aria-pressed='true'] { background: var(--ink); color: var(--bg); }
+  .seg button:hover:not([aria-pressed='true']) { background: var(--hover); color: var(--ink); }
+  .seg button:focus-visible { outline: 2px solid var(--ink); outline-offset: -2px; }
+  .intro { padding: 60px 36px; text-align: center; color: var(--ink-faint); }
+  .intro a { color: var(--ink); }
+  .intro[hidden], .block[hidden], .block-empty[hidden] { display: none; }
+  .block-title {
+    font-family: 'Playfair Display Variable', serif; font-size: 18px; font-weight: 700; letter-spacing: -.3px;
+    padding: 28px 36px 12px; border-bottom: 1px solid var(--rule);
+  }
+  .block-count { font-family: 'Inter Variable', system-ui, sans-serif; font-size: 12px; font-weight: 400; color: var(--ink-faint); letter-spacing: 0; margin-left: 6px; }
+  .rows { list-style: none; }
+  .block-empty { padding: 28px 36px; font-size: 13px; color: var(--ink-faint); border-bottom: 1px solid var(--rule); }
+
+  @media (max-width: 860px) {
+    .page-head { padding: 20px 16px 16px; align-items: center; }
+    .block-title { padding: 24px 16px 10px; }
+    .block-empty { padding: 20px 16px; }
+    .intro { padding: 40px 16px; }
+  }
+</style>
+
+<script>
+  import { bindRows, done, favs, subscribe, syncRow } from '../lib/favorites';
+
+  type Kind = 'books' | 'movies';
+  type Status = 'all' | 'todo' | 'done';
+  const KINDS: Kind[] = ['books', 'movies'];
+  const URL_KIND: Record<Kind, string> = { books: 'ksiazki', movies: 'filmy' };
+
+  const q = <T extends HTMLElement>(sel: string) => document.querySelector<T>(sel)!;
+  const rows = [...document.querySelectorAll<HTMLElement>('.row')];
+  const seg = [...document.querySelectorAll<HTMLButtonElement>('[data-status]')];
+
+  const params = new URLSearchParams(location.search);
+  let status: Status = (['todo', 'done'] as const).find((s) => s === params.get('status')) ?? 'all';
+
+  function render() {
+    seg.forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.status === status)));
+    let all = 0;
+    for (const kind of KINDS) {
+      const mine = rows.filter((r) => r.dataset.kind === kind && favs.has(r.dataset.id!));
+      const doneN = mine.filter((r) => done.has(r.dataset.id!)).length;
+      let shown = 0;
+      for (const r of rows.filter((x) => x.dataset.kind === kind)) {
+        const isFav = favs.has(r.dataset.id!);
+        const ok = isFav && (status === 'all' || (status === 'done') === done.has(r.dataset.id!));
+        r.hidden = !ok;
+        if (ok) shown++;
+        syncRow(r);
+      }
+      all += mine.length;
+      q(`[data-count="${kind}"]`).textContent = mine.length ? `${mine.length} · zaliczone ${doneN}` : '';
+      q(`[data-empty="${kind}"]`).hidden = shown > 0;
+      q(`[data-rows="${kind}"]`).hidden = shown === 0;
+    }
+    q('#intro').hidden = all > 0;
+    document.querySelectorAll<HTMLElement>('[data-section]').forEach((s) => { s.hidden = all === 0; });
+    q('.seg').hidden = all === 0;
+    q('#sub').textContent = all ? `${all} pozycji, w tym ${done.size} zaliczonych` : '';
+
+    const next = new URLSearchParams();
+    if (status !== 'all') next.set('status', status);
+    history.replaceState(null, '', next.size ? `?${next}` : location.pathname);
+  }
+
+  seg.forEach((b) => b.addEventListener('click', () => { status = b.dataset.status as Status; render(); }));
+  subscribe(render);
+  document.querySelectorAll<HTMLElement>('[data-rows]').forEach(bindRows);
+  // klik w nazwę listy → katalog przefiltrowany do tej listy
+  document.addEventListener('click', (e) => {
+    const b = (e.target as HTMLElement).closest<HTMLElement>('.src-badge');
+    if (!b) return;
+    const kind = b.closest<HTMLElement>('.row')!.dataset.kind as Kind;
+    location.href = `/?t=${URL_KIND[kind]}&list=${encodeURIComponent(b.dataset.list!)}`;
+  });
+
+  render();
+</script>
