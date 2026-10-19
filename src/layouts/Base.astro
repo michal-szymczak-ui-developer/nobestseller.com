@@ -28,6 +28,9 @@ const full = title ? `${title} · nobestseller.com` : 'nobestseller.com – reko
   </head>
   <body>
     <slot />
+    <footer class="site-footer">
+      <a href="/o-nas/">O nas</a> · <a href="mailto:kontakt@michalszymczak.com">Kontakt</a>
+    </footer>
   </body>
 </html>
 <style is:global>
@@ -48,4 +51,6 @@ const full = title ? `${title} · nobestseller.com` : 'nobestseller.com – reko
     font-size: 14px; line-height: 1.5;
   }
   button, select, input { font: inherit; color: inherit; }
+  .site-footer { padding: 20px 24px; border-top: 1px solid var(--rule); font-size: 12px; color: var(--ink-faint); text-align: center; }
+  .site-footer a { color: var(--ink-mid); }
 </style>

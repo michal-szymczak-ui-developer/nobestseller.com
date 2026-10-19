@@ -1,0 +1,42 @@
+---
+import Base from '../layouts/Base.astro';
+import Topbar from '../components/Topbar.astro';
+---
+<Base title="O nas" description="Dla kogo i po co powstało nobestseller.com – katalog książek i filmów wartych uwagi.">
+  <Topbar>
+    <a slot="center" class="back" href="/">← Katalog</a>
+  </Topbar>
+
+  <main class="about">
+    <h1>O nas</h1>
+    <h2>Dla kogo i po co</h2>
+    <p>
+      Masz czasem problem ze znalezieniem wartościowej książki lub filmu: dla siebie, na wieczór we dwoje albo na niedzielny seans rodzinny?
+    </p>
+    <p>
+      Księgarnie i platformy streamingowe są dziś nastawione na zysk i promowanie bestsellerów, które wcale nie muszą być dobre.
+    </p>
+    <p>
+      W tym miejscu zbieramy książki i filmy, które są warte Twojej uwagi i Twojego czasu. Zapraszamy do zgłaszania własnych propozycji oraz do korzystania z rekomendacji innych.
+    </p>
+
+    <h2>Kontakt</h2>
+    <p><a href="mailto:kontakt@michalszymczak.com">kontakt@michalszymczak.com</a></p>
+  </main>
+</Base>
+
+<style>
+  .back { font-size: 13px; color: var(--ink-mid); text-decoration: none; justify-self: start; }
+  .back:hover { color: var(--ink); text-decoration: underline; }
+  .about { max-width: 640px; margin: 0 auto; padding: 56px 24px 80px; }
+  .about h1 {
+    font-family: 'Playfair Display Variable', serif; font-size: 30px; font-weight: 700;
+    letter-spacing: -.5px; margin-bottom: 28px;
+  }
+  .about h2 {
+    font-family: 'Playfair Display Variable', serif; font-size: 19px; font-weight: 700;
+    letter-spacing: -.3px; margin: 32px 0 12px;
+  }
+  .about p { font-size: 15px; line-height: 1.7; color: var(--ink-mid); margin-bottom: 14px; }
+  .about a { color: var(--ink); }
+</style>
