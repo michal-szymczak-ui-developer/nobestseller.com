@@ -71,14 +71,31 @@ const sorted = [...items].sort((a, b) => b.lists.length - a.lists.length || a.ti
         {groupsFor(kind, ageLabel).map((g) => (
           <div class="sidebar-section" data-group={g.key}>
             <span class="sidebar-label">{g.label}</span>
-            <ul class="filter-list">
-              {g.options.map((o) => (
-                <li class="filter-item">
-                  <label><input type="checkbox" value={o.value} /> {o.label}</label>
-                  <span class="filter-count">{o.count}</span>
-                </li>
-              ))}
-            </ul>
+            {g.key === 'list' ? (
+              <div class="msel">
+                <button type="button" class="msel-btn" aria-haspopup="true" aria-expanded="false">
+                  <span class="msel-text">Wszystkie listy</span>
+                  <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9l6 6 6-6"/></svg>
+                </button>
+                <ul class="filter-list msel-menu" hidden>
+                  {g.options.map((o) => (
+                    <li class="filter-item">
+                      <label><input type="checkbox" value={o.value} /> {o.label}</label>
+                      <span class="filter-count">{o.count}</span>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            ) : (
+              <ul class="filter-list">
+                {g.options.map((o) => (
+                  <li class="filter-item">
+                    <label><input type="checkbox" value={o.value} /> {o.label}</label>
+                    <span class="filter-count">{o.count}</span>
+                  </li>
+                ))}
+              </ul>
+            )}
             <button type="button" class="clear-btn" data-clear={g.key}>Wyczyść</button>
           </div>
         ))}
@@ -166,6 +183,22 @@ const sorted = [...items].sort((a, b) => b.lists.length - a.lists.length || a.ti
     content: ''; position: absolute; top: 1px; left: 4px; width: 4px; height: 7px;
     border: solid var(--bg); border-width: 0 1.5px 1.5px 0; transform: rotate(45deg);
   }
+  /* „Źródło listy”: rozwijany select wielokrotnego wyboru zamiast długiej listy checkboxów */
+  .msel { position: relative; }
+  .msel-btn {
+    width: 100%; display: flex; align-items: center; justify-content: space-between; gap: 8px; text-align: left;
+    padding: 8px 10px; font-size: 13px; background: var(--bg); border: 1px solid var(--rule); border-radius: 0;
+    color: var(--ink); cursor: pointer;
+  }
+  .msel-btn:hover, .msel-btn[aria-expanded='true'] { border-color: var(--ink); }
+  .msel-text { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .msel-btn svg { flex-shrink: 0; transition: transform .12s; }
+  .msel-btn[aria-expanded='true'] svg { transform: rotate(180deg); }
+  .msel-menu {
+    position: absolute; left: 0; right: 0; top: 100%; z-index: 20; margin-top: 2px; padding: 6px 10px;
+    max-height: 280px; overflow-y: auto; background: var(--bg); border: 1px solid var(--ink);
+  }
+  .msel-menu[hidden] { display: none; }
   .filter-count { font-size: 11px; color: var(--ink-faint); font-variant-numeric: tabular-nums; }
   .clear-btn {
     display: none; background: none; border: 0; font-size: 12px; color: var(--ink-faint);
@@ -303,6 +336,13 @@ const sorted = [...items].sort((a, b) => b.lists.length - a.lists.length || a.ti
       panels[kind].querySelector<HTMLElement>(`[data-clear="${g}"]`)?.classList.toggle('visible', sel[g].length > 0);
     });
 
+    panels[kind].querySelectorAll<HTMLElement>('.msel').forEach((m) => {
+      const names = [...m.querySelectorAll<HTMLInputElement>('input:checked')].map((b) => b.parentElement!.textContent!.trim());
+      const text = m.querySelector<HTMLElement>('.msel-text')!;
+      text.textContent = names.length === 0 ? 'Wszystkie listy' : names.length === 1 ? names[0] : `Wybrane listy: ${names.length}`;
+      text.title = names.join('\n');
+    });
+
     let shown = 0, total = 0;
     const visible: HTMLElement[] = [];
     for (const r of rows) {
@@ -362,6 +402,22 @@ const sorted = [...items].sort((a, b) => b.lists.length - a.lists.length || a.ti
     boxes(kind, 'list').forEach((c) => { c.checked = c.value === b.dataset.list; });
     apply();
   });
+
+  // ─── Select wielokrotnego wyboru („Źródło listy”) ───
+  const menus = [...document.querySelectorAll<HTMLElement>('.msel')];
+  const setMenu = (m: HTMLElement, open: boolean) => {
+    m.querySelector<HTMLElement>('.msel-menu')!.hidden = !open;
+    m.querySelector('.msel-btn')!.setAttribute('aria-expanded', String(open));
+  };
+  menus.forEach((m) => m.querySelector('.msel-btn')!.addEventListener('click', () => {
+    const open = m.querySelector<HTMLElement>('.msel-menu')!.hidden;
+    menus.forEach((x) => setMenu(x, false));
+    setMenu(m, open);
+  }));
+  document.addEventListener('click', (e) => {
+    if (!(e.target as HTMLElement).closest('.msel')) menus.forEach((x) => setMenu(x, false));
+  });
+  addEventListener('keydown', (e) => { if (e.key === 'Escape') menus.forEach((x) => setMenu(x, false)); });
 
   // ─── Drawer z filtrami (tablet/telefon) ───
   const sidebar = $('sidebar');
