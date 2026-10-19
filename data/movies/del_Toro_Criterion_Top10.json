@@ -1,0 +1,217 @@
+{
+ "nazwa": "Guillermo del Toro – Criterion Top 10 (2010)",
+ "opis": "Dziesięć „parowań tematycznych”, czyli 21 filmów. Lista z Criterion nie zawiera jego wyborów z Closet Picks (2010).",
+ "źródło": "https://www.criterion.com/current/top-10-lists/125-guillermo-del-toro-s-top-10",
+ "pozycje": [
+  {
+   "tytuł": "Häxan",
+   "tytuł_oryginalny": "Häxan",
+   "reżyser": "Benjamin Christensen",
+   "rok": "1922",
+   "kraj": "Szwecja",
+   "gatunek": "Dokumentalny",
+   "kategoria_wiekowa": "16+",
+   "opis": "Dokument fabularyzowany o historii czarownic i polowań na nie w średniowiecznej Europie. Niemy film z ilustracjami."
+  },
+  {
+   "tytuł": "Vampyr",
+   "tytuł_oryginalny": "Vampyr",
+   "reżyser": "Carl Theodor Dreyer",
+   "rok": "1932",
+   "kraj": "Francja",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "12+",
+   "opis": "Młody badacz okultyzmu trafia do wioski nawiedzonej przez wampirzycę. Poetycki horror Dreyera."
+  },
+  {
+   "tytuł": "Podróże Sullivana",
+   "tytuł_oryginalny": "Sullivan's Travels",
+   "reżyser": "Preston Sturges",
+   "rok": "1941",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "6+",
+   "opis": "Reżyser komedii wędruje po kraju jako włóczęga, by poznać prawdziwą biedę. Film łączy humor z refleksją o roli rozrywki."
+  },
+  {
+   "tytuł": "Piękna i Bestia",
+   "tytuł_oryginalny": "La belle et la bête",
+   "reżyser": "Jean Cocteau",
+   "rok": "1946",
+   "kraj": "Francja",
+   "gatunek": "Fantasy",
+   "kategoria_wiekowa": "6+",
+   "opis": "Kupiecka córka Piękna ratuje ojca, zamieszkując w zamku tajemniczej Bestii. Cocteau tworzy poetycki, sennie piękny świat pełen wizualnej magii."
+  },
+  {
+   "tytuł": "Wielkie nadzieje",
+   "tytuł_oryginalny": "Great Expectations",
+   "reżyser": "David Lean",
+   "rok": "1946",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Sierota Pip dostaje od nieznanego dobroczyńcy fundusze na nowe życie i wkracza do wyższych sfer. Adaptacja Dickensa."
+  },
+  {
+   "tytuł": "Niewierny",
+   "tytuł_oryginalny": "Unfaithfully Yours",
+   "reżyser": "Preston Sturges",
+   "rok": "1948",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "12+",
+   "opis": "Dyrygent podejrzewa żonę o zdradę i wyobraża sobie trzy sposoby zemsty podczas koncertu. Czarna komedia."
+  },
+  {
+   "tytuł": "Oliver Twist",
+   "tytuł_oryginalny": "Oliver Twist",
+   "reżyser": "David Lean",
+   "rok": "1948",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Sierota ucieka z przytułku do Londynu i wpada w ręce Fagina i jego bandy złodziei. Adaptacja Dickensa."
+  },
+  {
+   "tytuł": "Noc myśliwego",
+   "tytuł_oryginalny": "The Night of the Hunter",
+   "reżyser": "Charles Laughton",
+   "rok": "1955",
+   "kraj": "USA",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "12+",
+   "opis": "Fałszywy kaznodzieja ściga dwójkę dzieci, które znają miejsce ukrycia skradzionych pieniędzy. Jedyny film reżyserski Charlesa Laughtona."
+  },
+  {
+   "tytuł": "Siódma pieczęć",
+   "tytuł_oryginalny": "Det sjunde inseglet",
+   "reżyser": "Ingmar Bergman",
+   "rok": "1957",
+   "kraj": "Szwecja",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Średniowieczny rycerz wraca z krucjaty i gra ze Śmiercią w szachy, szukając odpowiedzi na pytania o Boga. Film jest alegorią lęku, wiary i sensu istnienia."
+  },
+  {
+   "tytuł": "Tron we krwi",
+   "tytuł_oryginalny": "Kumonosu-jō",
+   "reżyser": "Akira Kurosawa",
+   "rok": "1957",
+   "kraj": "Japonia",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "Samuraj Washizu pod wpływem przepowiedni i ambitnej żony morduje swego pana, by zdobyć władzę. Film przenosi „Makbeta” do feudalnej Japonii, w mglistej, grozy pełnej atmosferze."
+  },
+  {
+   "tytuł": "Ścieżki chwały",
+   "tytuł_oryginalny": "Paths of Glory",
+   "reżyser": "Stanley Kubrick",
+   "rok": "1957",
+   "kraj": "USA",
+   "gatunek": "Wojenny",
+   "kategoria_wiekowa": "12+",
+   "opis": "W 1916 roku francuscy dowódcy wydają rozkaz ataku bez szans powodzenia, a potem stawiają żołnierzy przed sądem polowym za tchórzostwo. Film jest oskarżeniem militarnego fanatyzmu."
+  },
+  {
+   "tytuł": "Oczy bez twarzy",
+   "tytuł_oryginalny": "Les yeux sans visage",
+   "reżyser": "Georges Franju",
+   "rok": "1960",
+   "kraj": "Francja",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "16+",
+   "opis": "Chirurg próbuje przeszczepić twarz córce, która została oszpecona w wypadku. Francuski horror poetycki."
+  },
+  {
+   "tytuł": "Spartakus",
+   "tytuł_oryginalny": "Spartacus",
+   "reżyser": "Stanley Kubrick",
+   "rok": "1960",
+   "kraj": "USA",
+   "gatunek": "Przygodowy",
+   "kategoria_wiekowa": "12+",
+   "opis": "Niewolnik Spartakus wznieca bunt gladiatorów przeciw Rzymowi. Epicki film z Kirkiem Douglasem."
+  },
+  {
+   "tytuł": "Niebo i piekło",
+   "tytuł_oryginalny": "Tengoku to jigoku",
+   "reżyser": "Akira Kurosawa",
+   "rok": "1963",
+   "kraj": "Japonia",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "12+",
+   "opis": "Bogaty przemysłowiec staje przed dylematem moralnym, gdy porywacz żąda okupu za dziecko jego szofera. Film dzieli się na dwie części: napięty dramat w domu i policyjne śledztwo w mieście."
+  },
+  {
+   "tytuł": "Onibaba",
+   "tytuł_oryginalny": "Onibaba",
+   "reżyser": "Kaneto Shindo",
+   "rok": "1964",
+   "kraj": "Japonia",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "16+",
+   "opis": "Dwie kobiety w czasach wojen domowych zabijają zbłąkanych żołnierzy i sprzedają ich zbroje. Horror z maską demona."
+  },
+  {
+   "tytuł": "Kuroneko",
+   "tytuł_oryginalny": "Yabu no naka no kuroneko",
+   "reżyser": "Kaneto Shindo",
+   "rok": "1968",
+   "kraj": "Japonia",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "16+",
+   "opis": "Zamordowane matka i synowa wracają jako duchy, by zemścić się na samurajach. Japoński horror."
+  },
+  {
+   "tytuł": "Duch ula",
+   "tytuł_oryginalny": "El espíritu de la colmena",
+   "reżyser": "Víctor Erice",
+   "rok": "1973",
+   "kraj": "Hiszpania",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Mała Ana, zafascynowana projekcją „Frankensteina”, szuka ducha potwora we wsi w powojennej Hiszpanii. Film w poetycki sposób ukazuje świat dziecięcej wyobraźni i ciszę epoki Franco."
+  },
+  {
+   "tytuł": "Bandyci czasu",
+   "tytuł_oryginalny": "Time Bandits",
+   "reżyser": "Terry Gilliam",
+   "rok": "1981",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Fantasy",
+   "kategoria_wiekowa": "12+",
+   "opis": "Chłopiec dołącza do gromadki krasnali, która kradnie mapę czasu, i podróżuje przez epoki historii. Fantastyczna przygoda."
+  },
+  {
+   "tytuł": "Fanny i Aleksander",
+   "tytuł_oryginalny": "Fanny och Alexander",
+   "reżyser": "Ingmar Bergman",
+   "rok": "1982",
+   "kraj": "Szwecja",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Dwoje dzieci z bogatego rodu po śmierci ojca trafia do domu surowego biskupa-ojczyma. Epicki obraz dzieciństwa."
+  },
+  {
+   "tytuł": "Brazil",
+   "tytuł_oryginalny": "Brazil",
+   "reżyser": "Terry Gilliam",
+   "rok": "1985",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Science fiction",
+   "kategoria_wiekowa": "16+",
+   "opis": "Urzędnik w totalitarnym państwie, pogrążony w marzeniach, wpada w pułapkę biurokracji. Czarna komedia science fiction."
+  },
+  {
+   "tytuł": "Ran",
+   "tytuł_oryginalny": "Ran",
+   "reżyser": "Akira Kurosawa",
+   "rok": "1985",
+   "kraj": "Japonia",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "Stary feudał dzieli władzę między synów, co prowadzi do wojny. Film jest japońską adaptacją „Króla Leara”."
+  }
+ ]
+}
