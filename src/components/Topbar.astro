@@ -4,13 +4,19 @@ const { current = 'catalog' } = Astro.props;
 ---
 <nav class="topbar">
   <a href="/" class="wordmark">nobestseller</a>
-  <div class="center"><slot name="center" /></div>
-  <div class="topbar-right">
-    <slot name="right" />
+  <div class="center">
+    <slot name="center" />
     <a href="/ulubione/" class="fav-link" id="fav-link" aria-current={current === 'favorites' ? 'page' : undefined} title="Twoje ulubione">
       <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"><path d="M6 3h12v18l-6-4.5L6 21Z"/></svg>
-      Ulubione <span id="fav-count">0</span>
+      <span class="fav-label">Ulubione</span> <span id="fav-count">0</span>
     </a>
+  </div>
+  <div class="topbar-right">
+    <slot name="right" />
+    <span class="info-links">
+      <a href="/o-nas/">O nas</a>
+      <a href="/listy/">Listy</a>
+    </span>
     <button type="button" class="auth-btn" id="auth-btn" hidden>Zaloguj się</button>
     <button type="button" class="theme-btn" id="theme" aria-label="Przełącz motyw jasny/ciemny" title="Motyw">
       <svg class="i-moon" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M20 14.5A8 8 0 0 1 9.5 4 8 8 0 1 0 20 14.5Z"/></svg>
@@ -29,7 +35,12 @@ const { current = 'catalog' } = Astro.props;
     font-family: 'Playfair Display Variable', serif; font-size: 18px; font-weight: 700;
     letter-spacing: -0.5px; color: var(--ink); text-decoration: none; justify-self: start;
   }
+  /* wszystkie elementy środkowej grupy (przełącznik, Ulubione) mają tę samą wysokość */
+  .center { display: flex; align-items: stretch; gap: 4px; height: 32px; }
   .topbar-right { display: flex; align-items: center; gap: 16px; justify-self: end; }
+  .info-links { display: flex; align-items: center; gap: 14px; }
+  .info-links a { font-size: 12px; color: var(--ink-mid); text-decoration: none; white-space: nowrap; }
+  .info-links a:hover { color: var(--ink); text-decoration: underline; }
   .fav-link {
     display: inline-flex; align-items: center; gap: 6px; height: 32px; padding: 0 12px; font-size: 12px;
     border: 1px solid var(--rule); color: var(--ink-mid); text-decoration: none; white-space: nowrap;
@@ -60,6 +71,8 @@ const { current = 'catalog' } = Astro.props;
     .topbar { grid-template-columns: auto 1fr; gap: 8px; }
     .wordmark { display: none; }
     .topbar-right { gap: 6px; }
+    .info-links { display: none; } /* na telefonie linki są w stopce */
+    .fav-label { display: none; }
     .fav-link { padding: 0 8px; }
     .auth-btn { padding: 0 8px; }
   }

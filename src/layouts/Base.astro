@@ -29,7 +29,7 @@ const full = title ? `${title} · nobestseller.com` : 'nobestseller.com – reko
   <body>
     <slot />
     <footer class="site-footer">
-      <a href="/o-nas/">O nas</a> · <a href="mailto:kontakt@michalszymczak.com">Kontakt</a>
+      <a href="/o-nas/">O nas</a> · <a href="/listy/">Listy</a>
     </footer>
   </body>
 </html>
@@ -51,6 +51,8 @@ const full = title ? `${title} · nobestseller.com` : 'nobestseller.com – reko
     font-size: 14px; line-height: 1.5;
   }
   button, select, input { font: inherit; color: inherit; }
-  .site-footer { padding: 20px 24px; border-top: 1px solid var(--rule); font-size: 12px; color: var(--ink-faint); text-align: center; }
+  /* stopka tylko na telefonie – na większych ekranach linki „O nas” i „Listy” są w pasku górnym */
+  .site-footer { display: none; padding: 20px 24px; border-top: 1px solid var(--rule); font-size: 12px; color: var(--ink-faint); text-align: center; }
+  @media (max-width: 560px) { .site-footer { display: block; } }
   .site-footer a { color: var(--ink-mid); }
 </style>

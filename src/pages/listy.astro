@@ -1,0 +1,60 @@
+---
+import Base from '../layouts/Base.astro';
+import Topbar from '../components/Topbar.astro';
+
+const SOURCES = [
+  {
+    heading: 'Książki',
+    links: [
+      { title: '100 książek XX wieku według Le Monde', url: 'https://pl.wikipedia.org/wiki/100_ksi%C4%85%C5%BCek_XX_wieku_wed%C5%82ug_Le_Monde' },
+      { title: '100 najlepszych książek Norweskiego Klubu Książki', url: 'https://pl.wikipedia.org/wiki/100_najlepszych_ksi%C4%85%C5%BCek_Norweskiego_Klubu_Ksi%C4%85%C5%BCki' },
+      { title: 'Kanon na koniec wieku („Rzeczpospolita”)', url: 'https://pl.wikipedia.org/wiki/Kanon_na_koniec_wieku' },
+    ],
+  },
+  {
+    heading: 'Filmy',
+    links: [
+      { title: 'Watykańska lista 45 filmów', url: 'https://pl.wikipedia.org/wiki/Watyka%C5%84ska_lista_45_film%C3%B3w' },
+    ],
+  },
+];
+---
+<Base title="Listy" description="Listy rekomendacji, na podstawie których powstał katalog nobestseller.com.">
+  <Topbar>
+    <a slot="center" class="back" href="/">← Katalog</a>
+  </Topbar>
+
+  <main class="page">
+    <h1>Listy</h1>
+    <p class="lead">Katalog powstał na podstawie poniższych list rekomendacji.</p>
+
+    {SOURCES.map((s) => (
+      <section>
+        <h2>{s.heading}</h2>
+        <ul>
+          {s.links.map((l) => (
+            <li><a href={l.url} target="_blank" rel="noopener noreferrer">{l.title}</a></li>
+          ))}
+        </ul>
+      </section>
+    ))}
+  </main>
+</Base>
+
+<style>
+  .back { font-size: 13px; color: var(--ink-mid); text-decoration: none; align-self: center; }
+  .back:hover { color: var(--ink); text-decoration: underline; }
+  .page { max-width: 640px; margin: 0 auto; padding: 56px 24px 80px; }
+  h1 {
+    font-family: 'Playfair Display Variable', serif; font-size: 30px; font-weight: 700;
+    letter-spacing: -.5px; margin-bottom: 12px;
+  }
+  .lead { font-size: 15px; line-height: 1.7; color: var(--ink-mid); }
+  h2 {
+    font-family: 'Playfair Display Variable', serif; font-size: 19px; font-weight: 700;
+    letter-spacing: -.3px; margin: 32px 0 12px;
+  }
+  ul { list-style: none; border-top: 1px solid var(--rule); }
+  li { padding: 12px 0; border-bottom: 1px solid var(--rule); font-size: 15px; }
+  li a { color: var(--ink); }
+</style>
