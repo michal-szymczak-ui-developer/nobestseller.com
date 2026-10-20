@@ -1,0 +1,905 @@
+{
+  "nazwa": "Goodreads",
+  "pozycje": [
+    {
+      "tytuł": "Zabić drozda",
+      "autor": "Harper Lee",
+      "rok": "1960",
+      "gatunek": "Literatura obyczajowa (powieść społeczna, sądowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Mała Scout Finch obserwuje, jak jej ojciec adwokat broni czarnoskórego mężczyznę niesłusznie oskarżonego o gwałt. Powieść o rasizmie i sprawiedliwości.",
+      "miejsce_w_rankingu": 1
+    },
+    {
+      "tytuł": "Duma i uprzedzenie",
+      "autor": "Jane Austen",
+      "rok": "1813",
+      "gatunek": "Literatura obyczajowa (romantyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Elizabeth Bennet i bogaty Darcy walczą z własnymi uprzedzeniami i konwenansami społecznymi. Jedna z najpopularniejszych powieści angielskich.",
+      "miejsce_w_rankingu": 2
+    },
+    {
+      "tytuł": "Rok 1984",
+      "autor": "George Orwell",
+      "rok": "1949",
+      "gatunek": "Science fiction (antyutopia)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Winston Smith w totalitarnym państwie Wielkiego Brata buntuje się przeciwko kontroli myśli. Klasyczna antyutopia.",
+      "miejsce_w_rankingu": 3
+    },
+    {
+      "tytuł": "Władca Pierścieni",
+      "autor": "J.R.R. Tolkien",
+      "rok": "1954",
+      "gatunek": "Fantasy (epicka)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Hobbit Frodo wyrusza z drużyną, by zniszczyć Jedyny Pierścień i pokonać Saurona. Fundamentalne dzieło współczesnej fantasy.",
+      "miejsce_w_rankingu": 4
+    },
+    {
+      "tytuł": "Wielki Gatsby",
+      "autor": "F. Scott Fitzgerald",
+      "rok": "1925",
+      "gatunek": "Literatura obyczajowa (tragiczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Narrator Nick Carraway opowiada o tajemniczym milionerze Gatsbym, który urządza wystawne przyjęcia, by odzyskać dawną miłość. Powieść o marzeniu i klęsce.",
+      "miejsce_w_rankingu": 5
+    },
+    {
+      "tytuł": "Dziwne losy Jane Eyre",
+      "autor": "Charlotte Brontë",
+      "rok": "1847",
+      "gatunek": "Literatura obyczajowa (romantyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Sierota Jane zostaje guwernantką w Thornfield Hall i zakochuje się w tajemniczym panu Rochesterze. Klasyczna opowieść o niezależności i miłości.",
+      "miejsce_w_rankingu": 6
+    },
+    {
+      "tytuł": "Folwark zwierzęcy",
+      "autor": "George Orwell",
+      "rok": "1945",
+      "gatunek": "Literatura obyczajowa (powieść alegoryczna, polityczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Zwierzęta wyganiają ludzi z farmy, a rządzące nimi świnie stopniowo przejmują władzę. Satyra na stalinizm.",
+      "miejsce_w_rankingu": 7
+    },
+    {
+      "tytuł": "Hobbit, czyli tam i z powrotem",
+      "autor": "J.R.R. Tolkien",
+      "rok": "1937",
+      "gatunek": "Fantasy (przygodowa)",
+      "kategoria_wiekowa": "6+",
+      "opis": "Hobbit Bilbo Baggins wyrusza z grupą krasnoludów, by odzyskać skarb strzeżony przez smoka Smauga. Przygodowa opowieść poprzedzająca „Władcę Pierścieni”.",
+      "miejsce_w_rankingu": 8
+    },
+    {
+      "tytuł": "Mały Książę",
+      "autor": "Antoine de Saint-Exupéry",
+      "rok": "1943",
+      "gatunek": "Literatura dziecięca (baśń filozoficzna)",
+      "kategoria_wiekowa": "6+",
+      "opis": "Pilot rozbity na pustyni spotyka chłopca z maleńkiej planety, który opowiada o swoich podróżach i miłości do róży. Alegoryczna opowieść o przyjaźni i dorosłości.",
+      "miejsce_w_rankingu": 9
+    },
+    {
+      "tytuł": "Buszujący w zbożu",
+      "autor": "J. D. Salinger",
+      "rok": "1951",
+      "gatunek": "Literatura młodzieżowa (psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Szesnastoletni Holden Caulfield po wyrzuceniu ze szkoły wędruje przez Nowy Jork i opowiada o swoich rozczarowaniach. Kultowa powieść o dorastaniu.",
+      "miejsce_w_rankingu": 10
+    },
+    {
+      "tytuł": "Portret Doriana Graya",
+      "autor": "Oscar Wilde",
+      "rok": "1891",
+      "gatunek": "Literatura obyczajowa (powieść filozoficzna, gotycka)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Młody piękny Dorian nie starzeje się, a jego portret ukazuje skutki rozpusty i występków. Powieść o próżności i moralności.",
+      "miejsce_w_rankingu": 11
+    },
+    {
+      "tytuł": "Władca much",
+      "autor": "William Golding",
+      "rok": "1954",
+      "gatunek": "Literatura obyczajowa (powieść alegoryczna, przygodowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Grupa chłopców rozbitych na bezludnej wyspie tworzy własne społeczeństwo, które stopniowo ulega okrucieństwu. Alegoria natury człowieka.",
+      "miejsce_w_rankingu": 12
+    },
+    {
+      "tytuł": "Wichrowe Wzgórza",
+      "autor": "Emily Brontë",
+      "rok": "1847",
+      "gatunek": "Romans (powieść romantyczna, gotycka)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Namiętna i destrukcyjna miłość Heathcliffa i Catherine Earnshaw rozgrywa się na wrzosowiskach Yorkshire i niszczy kolejne pokolenia. Mroczna opowieść o zemście.",
+      "miejsce_w_rankingu": 13
+    },
+    {
+      "tytuł": "Małe kobietki",
+      "autor": "Louisa May Alcott",
+      "rok": "1868",
+      "gatunek": "Literatura obyczajowa (młodzieżowa)",
+      "kategoria_wiekowa": "6+",
+      "opis": "Cztery siostry March dorastają w czasach wojny secesyjnej, uczą się cnót i szukają własnych dróg. Klasyczna powieść o rodzinie.",
+      "miejsce_w_rankingu": 14
+    },
+    {
+      "tytuł": "Autostopem przez Galaktykę",
+      "autor": "Douglas Adams",
+      "rok": "1979",
+      "gatunek": "Science fiction (humorystyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Arthur Dent wyrusza w kosmiczną podróż po zniszczeniu Ziemi przez Wogonów. Komedia o sensie życia.",
+      "miejsce_w_rankingu": 15
+    },
+    {
+      "tytuł": "O myszach i ludziach",
+      "autor": "John Steinbeck",
+      "rok": "1937",
+      "gatunek": "Literatura obyczajowa (powieść społeczna, nowela)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Dwaj wędrowni robotnicy, George i silny, lecz niedorozwinięty Lennie, marzą o własnym kawałku ziemi w czasie Wielkiego Kryzysu. Krótka, tragiczna opowieść o przyjaźni.",
+      "miejsce_w_rankingu": 16
+    },
+    {
+      "tytuł": "Nowy wspaniały świat",
+      "autor": "Aldous Huxley",
+      "rok": "1932",
+      "gatunek": "Science fiction (antyutopia)",
+      "kategoria_wiekowa": "16+",
+      "opis": "W przyszłym państwie światowym ludzie są sztucznie hodowani i kontrolowani przez rozrywkę oraz narkotyk soma. Antyutopia o szczęściu bez wolności.",
+      "miejsce_w_rankingu": 17
+    },
+    {
+      "tytuł": "Hrabia Monte Christo",
+      "autor": "Alexandre Dumas",
+      "rok": "1844",
+      "gatunek": "Powieść historyczna (powieść przygodowa, historyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Niesłusznie uwięziony marynarz Edmond Dantès ucieka z twierdzy If, wchodzi w posiadanie skarbu i mści się na wrogach. Klasyk powieści przygodowej.",
+      "miejsce_w_rankingu": 18
+    },
+    {
+      "tytuł": "Przeminęło z wiatrem",
+      "autor": "Margaret Mitchell",
+      "rok": "1936",
+      "gatunek": "powieść historyczna (romantyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Scarlett O'Hara walczy o przetrwanie i miłość w czasach wojny secesyjnej i odbudowy Południa. Powieść epicka.",
+      "miejsce_w_rankingu": 19
+    },
+    {
+      "tytuł": "Zbrodnia i kara",
+      "autor": "Fiodor Dostojewski",
+      "rok": "1866",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, filozoficzna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Student Raskolnikow zabija lichwiarkę, by sprawdzić swoją teorię, i zmaga się z poczuciem winy. Powieść o moralności i odkupieniu.",
+      "miejsce_w_rankingu": 20
+    },
+    {
+      "tytuł": "Frankenstein",
+      "autor": "Mary Shelley",
+      "rok": "1818",
+      "gatunek": "Horror (science fiction)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Student Victor Frankenstein tworzy żywą istotę, a potem ucieka przed odpowiedzialnością za nią. Powieść o ambicji naukowej, samotności i winie.",
+      "miejsce_w_rankingu": 21
+    },
+    {
+      "tytuł": "Sto lat samotności",
+      "autor": "Gabriel García Márquez",
+      "rok": "1967",
+      "gatunek": "Literatura obyczajowa (powieść realizmu magicznego, rodzinna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Saga rodu Buendíów z wymyślonego miasteczka Macondo, obejmująca siedem pokoleń. Arcydzieło realizmu magicznego.",
+      "miejsce_w_rankingu": 22
+    },
+    {
+      "tytuł": "Opowieść podręcznej",
+      "autor": "Margaret Atwood",
+      "rok": "1985",
+      "gatunek": "Science fiction (antyutopia)",
+      "kategoria_wiekowa": "16+",
+      "opis": "W teokratycznym państwie Gilead kobiety zostają pozbawione praw, a Fredowa jest zmuszona rodzić dzieci elicie. Antyutopia.",
+      "miejsce_w_rankingu": 23
+    },
+    {
+      "tytuł": "Nędznicy",
+      "autor": "Victor Hugo",
+      "rok": "1862",
+      "gatunek": "powieść historyczna (społeczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Jean Valjean, były skazaniec, próbuje wieść uczciwe życie, ścigany przez inspektora Javerta w XIX-wiecznej Francji. Epicka powieść o sprawiedliwości.",
+      "miejsce_w_rankingu": 24
+    },
+    {
+      "tytuł": "Dracula",
+      "autor": "Bram Stoker",
+      "rok": "1897",
+      "gatunek": "Horror (epistolarna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Hrabia Dracula przybywa z Transylwanii do Anglii, a grupa ludzi pod wodzą Van Helsinga próbuje go powstrzymać. Fundamentalna powieść o wampirach.",
+      "miejsce_w_rankingu": 25
+    },
+    {
+      "tytuł": "Anna Karenina",
+      "autor": "Lew Tołstoj",
+      "rok": "1877",
+      "gatunek": "Literatura obyczajowa (psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Zamężna Anna wiąże się z oficerem Wrońskim i poświęca dla niego reputację, a równolegle toczy się historia Lewina. Powieść o miłości i społeczeństwie.",
+      "miejsce_w_rankingu": 26
+    },
+    {
+      "tytuł": "Wyznania gejszy",
+      "autor": "Arthur Golden",
+      "rok": "1997",
+      "gatunek": "powieść historyczna (obyczajowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Młoda Chiyo zostaje sprzedana do domu gejsz w Kioto i dojrzewa do roli słynnej Sayuri. Powieść o losach kobiety w dawnej Japonii.",
+      "miejsce_w_rankingu": 27
+    },
+    {
+      "tytuł": "Grona gniewu",
+      "autor": "John Steinbeck",
+      "rok": "1939",
+      "gatunek": "Literatura obyczajowa (powieść społeczna, realistyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Rodzina Joadów traci farmę w czasie Wielkiego Kryzysu i rusza do Kalifornii w poszukiwaniu pracy. Powieść o nędzy i solidarności.",
+      "miejsce_w_rankingu": 28
+    },
+    {
+      "tytuł": "Przygody Hucka Finna",
+      "autor": "Mark Twain",
+      "rok": "1884",
+      "gatunek": "Literatura obyczajowa (powieść przygodowa, społeczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Huck ucieka z domu i płynie tratwą po Missisipi z zbiegłym niewolnikiem Jimem. Powieść o wolności i rasizmie na amerykańskim Południu.",
+      "miejsce_w_rankingu": 29
+    },
+    {
+      "tytuł": "Rzeźnia numer pięć",
+      "autor": "Kurt Vonnegut",
+      "rok": "1969",
+      "gatunek": "Science fiction (antywojenna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Billy Pilgrim, żołnierz ocalały z bombardowania Drezna, przeskakuje w czasie i trafia na planetę Tralfamadore. Satyra na wojnę i los.",
+      "miejsce_w_rankingu": 30
+    },
+    {
+      "tytuł": "Wielkie nadzieje",
+      "autor": "Charles Dickens",
+      "rok": "1861",
+      "gatunek": "Literatura obyczajowa (rozwojowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Sierota Pip dostaje od nieznanego dobroczyńcy fundusze na nowe życie i wkracza do wyższych sfer. Powieść o ambicji i lojalności.",
+      "miejsce_w_rankingu": 31
+    },
+    {
+      "tytuł": "Rozważna i romantyczna",
+      "autor": "Jane Austen",
+      "rok": "1811",
+      "gatunek": "Literatura obyczajowa (romantyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Siostry Elinor i Marianne Dashwood szukają miłości i stabilności po utracie majątku. Pierwsza opublikowana powieść Austen.",
+      "miejsce_w_rankingu": 32
+    },
+    {
+      "tytuł": "Rebeka",
+      "autor": "Daphne du Maurier",
+      "rok": "1938",
+      "gatunek": "Horror (psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Młoda żona zamieszkuje w posiadłości Manderley i czuje cień pierwszej żony męża. Klasyka literatury grozy.",
+      "miejsce_w_rankingu": 33
+    },
+    {
+      "tytuł": "Dziwny przypadek psa nocną porą",
+      "autor": "Mark Haddon",
+      "rok": "2003",
+      "gatunek": "Literatura obyczajowa (kryminalna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Piętnastoletni autystyczny Christopher próbuje rozwiązać zagadkę zabójstwa sąsiedzkiego psa i odkrywa rodzinne sekrety. Powieść narracji pierwszoosobowej.",
+      "miejsce_w_rankingu": 34
+    },
+    {
+      "tytuł": "Życie Pi",
+      "autor": "Yann Martel",
+      "rok": "2001",
+      "gatunek": "Literatura obyczajowa (powieść przygodowa, filozoficzna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Indyjski chłopiec Pi przeżywa katastrofę morską i dryfuje po Pacyfiku na łodzi ratunkowej z tygrysem bengalskim. Powieść o wierze i opowiadaniu historii.",
+      "miejsce_w_rankingu": 35
+    },
+    {
+      "tytuł": "Przygody Sherlocka Holmesa",
+      "autor": "Arthur Conan Doyle",
+      "rok": "1892",
+      "gatunek": "Kryminał (zbiór opowiadań, kryminalnych)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Dwanaście opowiadań o londyńskim detektywie Sherlocku Holmesie i jego przyjacielu doktorze Watsonie. Klasyka powieści detektywistycznej.",
+      "miejsce_w_rankingu": 36
+    },
+    {
+      "tytuł": "Szklany klosz",
+      "autor": "Sylvia Plath",
+      "rok": "1963",
+      "gatunek": "Literatura obyczajowa (powieść autobiograficzna, psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Młoda poetka Esther Greenwood popada w depresję w Nowym Jorku lat pięćdziesiątych i trafia do szpitala psychiatrycznego. Jedyna powieść Plath.",
+      "miejsce_w_rankingu": 37
+    },
+    {
+      "tytuł": "Lolita",
+      "autor": "Vladimir Nabokov",
+      "rok": "1955",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, kontrowersyjna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Humbert Humbert, sam narrator, opisuje swoją obsesję na punkcie dwunastoletniej Dolores. Mistrzowsko napisana, lecz moralnie niepokojąca powieść.",
+      "miejsce_w_rankingu": 38
+    },
+    {
+      "tytuł": "Stary człowiek i morze",
+      "autor": "Ernest Hemingway",
+      "rok": "1952",
+      "gatunek": "Literatura obyczajowa (powieść przygodowa, nowela)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Stary kubański rybak Santiago zmaga się ze ogromnym marlinem przez trzy dni na otwartym morzu. Krótka opowieść o godności i wytrwałości.",
+      "miejsce_w_rankingu": 39
+    },
+    {
+      "tytuł": "Paragraf 22",
+      "autor": "Joseph Heller",
+      "rok": "1961",
+      "gatunek": "Literatura obyczajowa (powieść satyryczna, wojenna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Pilot Yossarian próbuje uciec z wojny, lecz pułapka biurokracji uniemożliwia mu wszystko. Czarna komedia o absurdzie wojny.",
+      "miejsce_w_rankingu": 40
+    },
+    {
+      "tytuł": "Wojna i pokój",
+      "autor": "Lew Tołstoj",
+      "rok": "1869",
+      "gatunek": "powieść historyczna (epicka)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Losy kilku rosyjskich rodzin arystokratycznych w czasie wojen napoleońskich splatają się z opisem historii. Monumentalna epopeja.",
+      "miejsce_w_rankingu": 41
+    },
+    {
+      "tytuł": "Lot nad kukułczym gniazdem",
+      "autor": "Ken Kesey",
+      "rok": "1962",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, społeczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Buntownik McMurphy trafia do szpitala psychiatrycznego i zderza się z oschłą siostrą Ratched. Powieść o wolności jednostki.",
+      "miejsce_w_rankingu": 42
+    },
+    {
+      "tytuł": "Kolor purpury",
+      "autor": "Alice Walker",
+      "rok": "1982",
+      "gatunek": "Literatura obyczajowa (powieść epistolarna, społeczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Celie, czarnoskóra dziewczyna z amerykańskiego Południa, w listach opowiada o przemocy i odzyskiwaniu siły. Powieść o kobiecej solidarności.",
+      "miejsce_w_rankingu": 43
+    },
+    {
+      "tytuł": "Szkarłatna litera",
+      "autor": "Nathaniel Hawthorne",
+      "rok": "1850",
+      "gatunek": "powieść historyczna (psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "W purytańskim Bostonie Hester Prynne musi nosić literę A za cudzołóstwo i ukrywa imię ojca dziecka. Powieść o grzechu, winie i hipokryzji.",
+      "miejsce_w_rankingu": 44
+    },
+    {
+      "tytuł": "Opowieść wigilijna",
+      "autor": "Charles Dickens",
+      "rok": "1843",
+      "gatunek": "Literatura obyczajowa (opowiadanie, świąteczne)",
+      "kategoria_wiekowa": "6+",
+      "opis": "Skąpiec Ebenezer Scrooge w Wigilię odwiedzają trzy duchy, które pokazują mu jego przeszłość, teraźniejszość i przyszłość. Opowieść o przemianie.",
+      "miejsce_w_rankingu": 45
+    },
+    {
+      "tytuł": "Emma",
+      "autor": "Jane Austen",
+      "rok": "1816",
+      "gatunek": "Literatura obyczajowa (komedia romantyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Młoda, pewna siebie Emma Woodhouse bawi się w swatkę i popełnia serię towarzyskich błędów. Ironiczny portret prowincjonalnego życia w Anglii.",
+      "miejsce_w_rankingu": 46
+    },
+    {
+      "tytuł": "Siddhartha",
+      "autor": "Hermann Hesse",
+      "rok": "1922",
+      "gatunek": "Literatura obyczajowa (powieść filozoficzna, duchowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Młody Hindus Siddhartha opuszcza dom i szuka oświecenia przez ascezę, miłość i bogactwo. Alegoria drogi duchowej.",
+      "miejsce_w_rankingu": 47
+    },
+    {
+      "tytuł": "Obcy",
+      "autor": "Albert Camus",
+      "rok": "1942",
+      "gatunek": "Literatura obyczajowa (powieść filozoficzna, egzystencjalizm)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Meursault, obojętny urzędnik w Algierze, zabija człowieka na plaży i staje przed sądem. Powieść pokazuje absurd istnienia.",
+      "miejsce_w_rankingu": 48
+    },
+    {
+      "tytuł": "Mechaniczna pomarańcza",
+      "autor": "Anthony Burgess",
+      "rok": "1962",
+      "gatunek": "Science fiction (antyutopia)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Nastoletni przywódca bandy Alex popełnia brutalne zbrodnie i zostaje poddany eksperymentalnej terapii. Powieść o wolnej woli.",
+      "miejsce_w_rankingu": 49
+    },
+    {
+      "tytuł": "Wywiad z wampirem",
+      "autor": "Anne Rice",
+      "rok": "1976",
+      "gatunek": "Horror (gotycka)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Wampir Louis opowiada dziennikarzowi o swoim życiu, o towarzyszu Lestacie i o wiecznej pustce. Pierwsza część Kronik wampirów.",
+      "miejsce_w_rankingu": 50
+    },
+    {
+      "tytuł": "Pachnidło",
+      "autor": "Patrick Süskind",
+      "rok": "1985",
+      "gatunek": "powieść historyczna (kryminalna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Obdarzony niezwykłym węchem Jean-Baptiste Grenouille w XVIII-wiecznej Francji zabija dziewczyny, by stworzyć doskonały zapach. Mroczna opowieść o obsesji.",
+      "miejsce_w_rankingu": 51
+    },
+    {
+      "tytuł": "Wyspa skarbów",
+      "autor": "Robert Louis Stevenson",
+      "rok": "1883",
+      "gatunek": "Literatura młodzieżowa (powieść przygodowa, piracka)",
+      "kategoria_wiekowa": "6+",
+      "opis": "Młody Jim Hawkins wyrusza w poszukiwaniu skarbu piratów i konfrontuje się z kucharzem Long Johnem Silverem. Klasyka powieści przygodowej.",
+      "miejsce_w_rankingu": 52
+    },
+    {
+      "tytuł": "Lśnienie",
+      "autor": "Stephen King",
+      "rok": "1977",
+      "gatunek": "Horror (psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Jack Torrance zostaje zimowym stróżem odciętego od świata hotelu Overlook, który stopniowo zwodzi go do szaleństwa. Horror o rodzinie i nałogu.",
+      "miejsce_w_rankingu": 53
+    },
+    {
+      "tytuł": "Na Zachodzie bez zmian",
+      "autor": "Erich Maria Remarque",
+      "rok": "1929",
+      "gatunek": "Powieść historyczna (powieść wojenna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Młody niemiecki żołnierz Paul Bäumer opisuje okrucieństwo okopów I wojny światowej i utratę złudzeń. Klasyk literatury antywojennej.",
+      "miejsce_w_rankingu": 54
+    },
+    {
+      "tytuł": "Nie opuszczaj mnie",
+      "autor": "Kazuo Ishiguro",
+      "rok": "2005",
+      "gatunek": "Science fiction (psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Kathy opowiada o dzieciństwie w szkole Hailsham i przeznaczeniu, które czeka jej przyjaciół. Cicha antyutopia o człowieczeństwie.",
+      "miejsce_w_rankingu": 55
+    },
+    {
+      "tytuł": "Doktor Jekyll i pan Hyde",
+      "autor": "Robert Louis Stevenson",
+      "rok": "1886",
+      "gatunek": "Horror (nowela grozy, psychologiczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Londyński lekarz Jekyll tworzy miksturę, która uwalnia jego mroczną naturę w postaci Hyde'a. Opowieść o podwójnej naturze człowieka.",
+      "miejsce_w_rankingu": 56
+    },
+    {
+      "tytuł": "Perswazje",
+      "autor": "Jane Austen",
+      "rok": "1817",
+      "gatunek": "Literatura obyczajowa (romantyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Anne Elliot po ośmiu latach spotyka dawnego narzeczonego, którego odrzuciła pod wpływem namów. Ostatnia ukończona powieść Austen.",
+      "miejsce_w_rankingu": 57
+    },
+    {
+      "tytuł": "Z zimną krwią",
+      "autor": "Truman Capote",
+      "rok": "1966",
+      "gatunek": "Reportaż (powieść non-fiction, kryminalna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Reportaż o morderstwie rodziny Clutterów w Kansas, o schwytaniu i egzekucji zabójców. Pionierskie dzieło literatury faktu.",
+      "miejsce_w_rankingu": 58
+    },
+    {
+      "tytuł": "Opowieść o dwóch miastach",
+      "autor": "Charles Dickens",
+      "rok": "1859",
+      "gatunek": "powieść historyczna",
+      "kategoria_wiekowa": "12+",
+      "opis": "Losy bohaterów splatają się w Londynie i Paryżu w czasach rewolucji francuskiej. Powieść o poświęceniu i odkupieniu.",
+      "miejsce_w_rankingu": 59
+    },
+    {
+      "tytuł": "Biblia jadowitego drzewa",
+      "autor": "Barbara Kingsolver",
+      "rok": "1998",
+      "gatunek": "powieść historyczna (rodzinna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Rodzina amerykańskiego misjonarza przenosi się w 1959 roku do Konga, a narratorkami są żona i cztery córki. Powieść o kolonializmie i winie.",
+      "miejsce_w_rankingu": 60
+    },
+    {
+      "tytuł": "Pies Baskerville'ów",
+      "autor": "Arthur Conan Doyle",
+      "rok": "1902",
+      "gatunek": "Kryminał (detektywistyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Holmes i Watson badają legendę o monstrualnym psie nękającym rodzinę Baskerville'ów na mrocznych wrzosowiskach. Najsłynniejsza powieść o Holmesie.",
+      "miejsce_w_rankingu": 61
+    },
+    {
+      "tytuł": "Moby Dick",
+      "autor": "Herman Melville",
+      "rok": "1851",
+      "gatunek": "Literatura obyczajowa (powieść przygodowa, filozoficzna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Kapitan Ahab prowadzi statek wielorybniczy w obsesyjnym pościgu za białym kaszalotem. Epicka powieść o szaleństwie i naturze.",
+      "miejsce_w_rankingu": 62
+    },
+    {
+      "tytuł": "Bracia Karamazow",
+      "autor": "Fiodor Dostojewski",
+      "rok": "1880",
+      "gatunek": "Literatura obyczajowa (powieść filozoficzna, psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Trzej bracia i ich ojciec toczą spory o wiarę, wolną wolę i winę w sprawie zabójstwa. Ostatnia powieść Dostojewskiego.",
+      "miejsce_w_rankingu": 63
+    },
+    {
+      "tytuł": "Mistrz i Małgorzata",
+      "autor": "Michaił Bułhakow",
+      "rok": "1967",
+      "gatunek": "Fantasy (satyra)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Diabeł Woland odwiedza stalinowską Moskwę, wprowadzając chaos wśród jej mieszkańców, a równolegle toczy się historia Piłata i Jeszui. Powieść łączy satyrę i fantastykę.",
+      "miejsce_w_rankingu": 64
+    },
+    {
+      "tytuł": "Imię róży",
+      "autor": "Umberto Eco",
+      "rok": "1980",
+      "gatunek": "powieść historyczna (kryminalna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "W średniowiecznym opactwie franciszkanin William z Baskerville bada serię tajemniczych śmierci wokół zakazanej księgi. Powieść o wiedzy i władzy.",
+      "miejsce_w_rankingu": 65
+    },
+    {
+      "tytuł": "Wehikuł czasu",
+      "autor": "H. G. Wells",
+      "rok": "1895",
+      "gatunek": "Science fiction",
+      "kategoria_wiekowa": "12+",
+      "opis": "Wynalazca podróżuje do roku 802 701 i odkrywa podzieloną ludzkość: łagodnych Elojów i mrocznych Morlocków. Klasyk science fiction.",
+      "miejsce_w_rankingu": 66
+    },
+    {
+      "tytuł": "Pani Bovary",
+      "autor": "Gustave Flaubert",
+      "rok": "1856",
+      "gatunek": "Literatura obyczajowa (powieść realistyczna, psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Znudzona prowincjonalna żona lekarza Emma Bovary szuka ucieczki w romansach i długach. Arcydzieło realizmu.",
+      "miejsce_w_rankingu": 67
+    },
+    {
+      "tytuł": "Modlitwa za Owena Meany",
+      "autor": "John Irving",
+      "rok": "1989",
+      "gatunek": "Literatura obyczajowa (psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Narrator wspomina niezwykłego przyjaciela z dzieciństwa, który wierzył, że jest narzędziem Boga. Powieść o wierze i przeznaczeniu.",
+      "miejsce_w_rankingu": 68
+    },
+    {
+      "tytuł": "Po drugiej stronie lustra",
+      "autor": "Lewis Carroll",
+      "rok": "1871",
+      "gatunek": "Literatura dziecięca (dla dzieci)",
+      "kategoria_wiekowa": "6+",
+      "opis": "Alicja przechodzi przez lustro do świata szachownicy, gdzie spotyka m.in. Humpty Dumpty'ego i Białą Królową. Kontynuacja „Alicji w Krainie Czarów”.",
+      "miejsce_w_rankingu": 69
+    },
+    {
+      "tytuł": "Pokuta",
+      "autor": "Ian McEwan",
+      "rok": "2001",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, historyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Trzynastoletnia Briony fałszywie oskarża Robbiego o gwałt i przez życie próbuje to odkupić. Powieść o winie i pisaniu.",
+      "miejsce_w_rankingu": 70
+    },
+    {
+      "tytuł": "Ojciec chrzestny",
+      "autor": "Mario Puzo",
+      "rok": "1969",
+      "gatunek": "Kryminał (gangsterska)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Saga rodziny mafijnej Corleone z Nowego Jorku, jej przywódcy Vito i jego syna Michaela. Powieść o władzy i lojalności.",
+      "miejsce_w_rankingu": 71
+    },
+    {
+      "tytuł": "Śniadanie u Tiffany'ego",
+      "autor": "Truman Capote",
+      "rok": "1958",
+      "gatunek": "Literatura obyczajowa (nowela)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Narrator wspomina ekscentryczną sąsiadkę Holly Golightly, młodą nowojorską uczestniczkę wielkomiejskiego życia. Zbiór nowelek z tytułową historią.",
+      "miejsce_w_rankingu": 72
+    },
+    {
+      "tytuł": "Oliver Twist",
+      "autor": "Charles Dickens",
+      "rok": "1838",
+      "gatunek": "Literatura obyczajowa (powieść społeczna, obyczajowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Sierota Oliver ucieka z przytułku do Londynu i wpada w ręce Fagina i jego bandy złodziei. Powieść o nędzy w wiktoriańskiej Anglii.",
+      "miejsce_w_rankingu": 73
+    },
+    {
+      "tytuł": "Trzej muszkieterowie",
+      "autor": "Alexandre Dumas",
+      "rok": "1844",
+      "gatunek": "Powieść historyczna (powieść przygodowa, historyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Młody D'Artagnan przybywa do Paryża i zostaje przyjacielem muszkieterów Atosa, Portosa i Aramisa w walce z intrygami kardynała Richelieu. Klasyka powieści płaszcza i szpady.",
+      "miejsce_w_rankingu": 74
+    },
+    {
+      "tytuł": "Middlesex",
+      "autor": "Jeffrey Eugenides",
+      "rok": "2002",
+      "gatunek": "Literatura obyczajowa (rodzinna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Cal opowiada o swojej grecko-amerykańskiej rodzinie i o odkryciu, że jest interseksualny. Powieść nagrodzona Pulitzerem.",
+      "miejsce_w_rankingu": 75
+    },
+    {
+      "tytuł": "Nieznośna lekkość bytu",
+      "autor": "Milan Kundera",
+      "rok": "1984",
+      "gatunek": "Literatura obyczajowa (powieść filozoficzna, obyczajowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Losy praskich kochanków Tomasza i Teresy w czasie inwazji sowieckiej łączą się z rozważaniami o lekkości i ciężarze życia. Powieść o miłości i wolności.",
+      "miejsce_w_rankingu": 76
+    },
+    {
+      "tytuł": "Robinson Crusoe",
+      "autor": "Daniel Defoe",
+      "rok": "1719",
+      "gatunek": "Literatura młodzieżowa (powieść przygodowa)",
+      "kategoria_wiekowa": "6+",
+      "opis": "Rozbitek spędza dwadzieścia osiem lat na bezludnej wyspie, uczy się przetrwać i spotyka Piętaszka. Uważana za jedną z pierwszych angielskich powieści.",
+      "miejsce_w_rankingu": 77
+    },
+    {
+      "tytuł": "Don Kichot",
+      "autor": "Miguel de Cervantes",
+      "rok": "1605",
+      "gatunek": "Literatura obyczajowa (powieść przygodowa, satyryczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Zubożały szlachcic uwierzył, że jest rycerzem, i wraz ze swoim giermkiem Sancho Pansą wyrusza w świat. Pierwsza nowoczesna powieść europejska.",
+      "miejsce_w_rankingu": 78
+    },
+    {
+      "tytuł": "Podróże Guliwera",
+      "autor": "Jonathan Swift",
+      "rok": "1726",
+      "gatunek": "Fantasy (powieść satyryczna, fantastyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Lekarz okrętowy Gulliver trafia do krain liliputów, olbrzymów, latającej wyspy i rozumnych koni. Satyra na ludzkie wady i ustroje polityczne.",
+      "miejsce_w_rankingu": 79
+    },
+    {
+      "tytuł": "Strażnicy",
+      "autor": "Alan Moore",
+      "rok": "1986",
+      "gatunek": "Komiks (komiks superbohaterski, polityczny)",
+      "kategoria_wiekowa": "16+",
+      "opis": "W alternatywnym roku 1985 emerytowani bohaterowie badają zabójstwo kolegi i odkrywają spisek. Przełomowa powieść graficzna.",
+      "miejsce_w_rankingu": 80
+    },
+    {
+      "tytuł": "Proces",
+      "autor": "Franz Kafka",
+      "rok": "1925",
+      "gatunek": "Literatura obyczajowa (powieść filozoficzna, absurdalna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Urzędnik Józef K. zostaje aresztowany i sądzony za nieznane przestępstwo przez nieprzeniknioną instytucję. Alegoria biurokracji i winy.",
+      "miejsce_w_rankingu": 81
+    },
+    {
+      "tytuł": "Dom duchów",
+      "autor": "Isabel Allende",
+      "rok": "1982",
+      "gatunek": "Literatura obyczajowa (powieść realizmu magicznego, rodzinna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Saga rodziny Trueba w Chile obejmuje trzy pokolenia kobiet i przemiany polityczne kraju. Powieść o miłości i władzy.",
+      "miejsce_w_rankingu": 82
+    },
+    {
+      "tytuł": "Pippi Pończoszanka",
+      "autor": "Astrid Lindgren",
+      "rok": "1945",
+      "gatunek": "Literatura dziecięca (humorystyczna)",
+      "kategoria_wiekowa": "6+",
+      "opis": "Silna i niezależna Pippi mieszka sama w Willi Śmiesznotce z koniem i małpką i przeżywa przygody z przyjaciółmi. Klasyka literatury dziecięcej.",
+      "miejsce_w_rankingu": 83
+    },
+    {
+      "tytuł": "W drodze",
+      "autor": "Jack Kerouac",
+      "rok": "1957",
+      "gatunek": "Literatura obyczajowa (powieść drogi, autobiograficzna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Sal Paradise i Dean Moriarty przemierzają Stany Zjednoczone w poszukiwaniu wolności i wrażeń. Manifest pokolenia beatników.",
+      "miejsce_w_rankingu": 84
+    },
+    {
+      "tytuł": "Chata wuja Toma",
+      "autor": "Harriet Beecher Stowe",
+      "rok": "1852",
+      "gatunek": "Literatura obyczajowa (powieść społeczna, historyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Los czarnoskórego niewolnika Toma, sprzedawanego z jednej plantacji na drugą, ukazuje okrucieństwo niewolnictwa. Powieść, która wpłynęła na opinię publiczną w USA.",
+      "miejsce_w_rankingu": 85
+    },
+    {
+      "tytuł": "Miłość w czasach zarazy",
+      "autor": "Gabriel García Márquez",
+      "rok": "1985",
+      "gatunek": "Literatura obyczajowa (romantyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Florentino Ariza czeka pięćdziesiąt lat, by znów być z kobietą, którą kochał w młodości. Powieść o wiernej miłości.",
+      "miejsce_w_rankingu": 86
+    },
+    {
+      "tytuł": "Zew krwi",
+      "autor": "Jack London",
+      "rok": "1903",
+      "gatunek": "Literatura obyczajowa (powieść przygodowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Pies Buck zostaje porwany i sprzedany do zaprzęgu w czasie gorączki złota na Alasce, i wraca do dzikości. Powieść o instynkcie i przetrwaniu.",
+      "miejsce_w_rankingu": 87
+    },
+    {
+      "tytuł": "Słońce też wschodzi",
+      "autor": "Ernest Hemingway",
+      "rok": "1926",
+      "gatunek": "Literatura obyczajowa (modernistyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Grupa emigrantów z Paryża jedzie na korridę do Pampeluny, a ranny na wojnie Jake kocha Brett. Obraz straconego pokolenia.",
+      "miejsce_w_rankingu": 88
+    },
+    {
+      "tytuł": "Katedra Marii Panny w Paryżu",
+      "autor": "Victor Hugo",
+      "rok": "1831",
+      "gatunek": "powieść historyczna (romantyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Garbus Quasimodo i cygańska tancerka Esmeralda zostają uwikłani w intrygi paryskiej katedry w XV wieku. Powieść o odrzuceniu i piękności.",
+      "miejsce_w_rankingu": 89
+    },
+    {
+      "tytuł": "Świat według Garpa",
+      "autor": "John Irving",
+      "rok": "1978",
+      "gatunek": "Literatura obyczajowa (satyryczna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Pisarz T.S. Garp i jego matka feministka, w świecie pełnym przemocy i nieszczęśliwych wypadków. Komiczno-tragiczna saga.",
+      "miejsce_w_rankingu": 90
+    },
+    {
+      "tytuł": "Kandyd, czyli optymizm",
+      "autor": "Voltaire",
+      "rok": "1759",
+      "gatunek": "Literatura obyczajowa (powieść filozoficzna, satyryczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Młody Kandyd, wychowany w przekonaniu, że żyje w najlepszym ze światów, przechodzi serię nieszczęść. Satyra na optymizm Leibniza.",
+      "miejsce_w_rankingu": 91
+    },
+    {
+      "tytuł": "Lektor",
+      "autor": "Bernhard Schlink",
+      "rok": "1995",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, historyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Piętnastoletni Michael nawiązuje romans ze starszą Hanną, a po latach spotyka ją jako oskarżoną o zbrodnie nazistowskie. Powieść o winie i milczeniu.",
+      "miejsce_w_rankingu": 92
+    },
+    {
+      "tytuł": "Doktor Żywago",
+      "autor": "Boris Pasternak",
+      "rok": "1957",
+      "gatunek": "powieść historyczna (romantyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Lekarz i poeta Jurij Żywago przeżywa rosyjską rewolucję i wojnę domową oraz miłość do Lary. Powieść zakazana w ZSRR.",
+      "miejsce_w_rankingu": 93
+    },
+    {
+      "tytuł": "Księga tysiąca i jednej nocy",
+      "autor": "Anonim",
+      "rok": "1704",
+      "gatunek": "Fantasy (zbiór opowieści, baśnie)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Szeherezada ratuje życie, opowiadając sułtanowi co noc kolejną opowieść z bajkami o Aladynie i Sindbadzie. Zbiór baśni orientalnych.",
+      "miejsce_w_rankingu": 94
+    },
+    {
+      "tytuł": "Idiota",
+      "autor": "Fiodor Dostojewski",
+      "rok": "1869",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, filozoficzna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Dobry i naiwny książę Myszkin wraca do Rosji i wikła się w trójkąt miłosny w petersburskim towarzystwie. Powieść o dobroci i zepsuciu.",
+      "miejsce_w_rankingu": 95
+    },
+    {
+      "tytuł": "Dżuma",
+      "autor": "Albert Camus",
+      "rok": "1947",
+      "gatunek": "Literatura obyczajowa (powieść filozoficzna, alegoria)",
+      "kategoria_wiekowa": "16+",
+      "opis": "W algierskim mieście Oran wybucha epidemia dżumy, a doktor Rieux podejmuje beznadziejną walkę z chorobą. Powieść jest alegorią zła i solidarności.",
+      "miejsce_w_rankingu": 96
+    },
+    {
+      "tytuł": "Mansfield Park",
+      "autor": "Jane Austen",
+      "rok": "1814",
+      "gatunek": "Literatura obyczajowa (romantyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Uboga Fanny Price wychowuje się u bogatych krewnych i próbuje zachować zasady wśród dworu pokus. Powieść o moralności.",
+      "miejsce_w_rankingu": 97
+    },
+    {
+      "tytuł": "The Things They Carried",
+      "autor": "Tim O'Brien",
+      "rok": "1990",
+      "gatunek": "Powieść historyczna (powieść wojenna, opowiadania)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Cykl połączonych opowiadań o amerykańskich żołnierzach w Wietnamie i o tym, co nosili: przedmiotach i wspomnieniach. Powieść o pamięci i prawdzie.",
+      "miejsce_w_rankingu": 98
+    },
+    {
+      "tytuł": "Przekleństwo dziewic",
+      "autor": "Jeffrey Eugenides",
+      "rok": "1993",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, obyczajowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Grupa chłopców po latach próbuje zrozumieć samobójstwo pięciu sióstr Lisbon z przedmieścia Detroit w latach siedemdziesiątych. Powieść o tajemnicy i młodości.",
+      "miejsce_w_rankingu": 99
+    },
+    {
+      "tytuł": "Wszystko rozpada się",
+      "autor": "Chinua Achebe",
+      "rok": "1958",
+      "gatunek": "powieść historyczna (społeczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Okonkwo, silny przywódca w wiosce Igbo w Nigerii, widzi rozpad swojej społeczności po przybyciu misjonarzy i kolonizatorów. Klasyka literatury afrykańskiej.",
+      "miejsce_w_rankingu": 100
+    }
+  ]
+}

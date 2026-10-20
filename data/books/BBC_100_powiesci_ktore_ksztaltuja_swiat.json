@@ -1,0 +1,905 @@
+{
+  "nazwa": "BBC",
+  "pozycje": [
+    {
+      "tytuł": "Umiłowana",
+      "autor": "Toni Morrison",
+      "rok": "1987",
+      "gatunek": "powieść historyczna (realizm magiczny)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Była niewolnica Sethe mieszka w Ohio po wojnie secesyjnej i jest nawiedzana przez ducha zabitej córki. Powieść o traumie niewolnictwa.",
+      "temat_BBC": "Identity"
+    },
+    {
+      "tytuł": "Dni bez końca",
+      "autor": "Sebastian Barry",
+      "rok": "2016",
+      "gatunek": "powieść historyczna (przygodowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Irlandczyk Thomas McNulty, żołnierz amerykańskich wojen indiańskich i secesyjnej, opowiada o miłości do towarzysza broni. Powieść o przemocy i przyjaźni.",
+      "temat_BBC": "Identity"
+    },
+    {
+      "tytuł": "Fugitive Pieces",
+      "autor": "Anne Michaels",
+      "rok": "1996",
+      "gatunek": "Literatura obyczajowa (powieść poetycka, historyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Polski chłopiec ocalały z Holokaustu zostaje uratowany przez greckiego geologa i dorasta w Kanadzie. Liryczna opowieść o pamięci.",
+      "temat_BBC": "Identity"
+    },
+    {
+      "tytuł": "Połówka żółtego słońca",
+      "autor": "Chimamanda Ngozi Adichie",
+      "rok": "2006",
+      "gatunek": "powieść historyczna (wojenna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Losy kilku osób w czasie wojny domowej o niepodległość Biafry w Nigerii lat sześćdziesiątych. Powieść o miłości i przemocy.",
+      "temat_BBC": "Identity"
+    },
+    {
+      "tytuł": "Homegoing",
+      "autor": "Yaa Gyasi",
+      "rok": "2016",
+      "gatunek": "powieść historyczna (rodzinna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Dwie siostry z Ghany idą różnymi drogami, a potomkowie przez dwa i pół wieku zmagają się z handlem niewolnikami i jego skutkami. Saga rodzinna.",
+      "temat_BBC": "Identity"
+    },
+    {
+      "tytuł": "Small Island",
+      "autor": "Andrea Levy",
+      "rok": "2004",
+      "gatunek": "powieść historyczna (społeczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Dwie pary, jamajska i angielska, dzielą dom w powojennym Londynie, konfrontując się z uprzedzeniami. Powieść o migracji.",
+      "temat_BBC": "Identity"
+    },
+    {
+      "tytuł": "Szklany klosz",
+      "autor": "Sylvia Plath",
+      "rok": "1963",
+      "gatunek": "Literatura obyczajowa (powieść autobiograficzna, psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Młoda poetka Esther Greenwood popada w depresję w Nowym Jorku lat pięćdziesiątych i trafia do szpitala psychiatrycznego. Jedyna powieść Plath.",
+      "temat_BBC": "Identity"
+    },
+    {
+      "tytuł": "Bóg rzeczy małych",
+      "autor": "Arundhati Roy",
+      "rok": "1997",
+      "gatunek": "Literatura obyczajowa (rodzinna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Bliźnięta z Kerali po latach wracają do domu i wspominają tragedię, która zmieniła ich życie. Powieść o kastach i zakazanej miłości.",
+      "temat_BBC": "Identity"
+    },
+    {
+      "tytuł": "Wszystko rozpada się",
+      "autor": "Chinua Achebe",
+      "rok": "1958",
+      "gatunek": "powieść historyczna (społeczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Okonkwo, silny przywódca w wiosce Igbo w Nigerii, widzi rozpad swojej społeczności po przybyciu misjonarzy i kolonizatorów. Klasyka literatury afrykańskiej.",
+      "temat_BBC": "Identity"
+    },
+    {
+      "tytuł": "Białe zęby",
+      "autor": "Zadie Smith",
+      "rok": "2000",
+      "gatunek": "Literatura obyczajowa (satyryczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Dwie londyńskie rodziny, bengalska i angielska, przez trzy pokolenia budują nowe życie w wielokulturowym mieście. Debiut Zadie Smith.",
+      "temat_BBC": "Identity"
+    },
+    {
+      "tytuł": "Dziennik Bridget Jones",
+      "autor": "Helen Fielding",
+      "rok": "1996",
+      "gatunek": "Literatura obyczajowa (komedia romantyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Trzydziestoletnia singielka z Londynu zapisuje w dzienniku swoje postanowienia, kłopoty w pracy i życiu uczuciowym. Współczesna wariacja na temat „Dumy i uprzedzenia”.",
+      "temat_BBC": "Love, Sex & Romance"
+    },
+    {
+      "tytuł": "Forever",
+      "autor": "Judy Blume",
+      "rok": "1975",
+      "gatunek": "Literatura młodzieżowa (obyczajowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Szesnastoletnia Katherine przeżywa pierwszą miłość i pierwsze doświadczenia seksualne. Przełomowa powieść młodzieżowa.",
+      "temat_BBC": "Love, Sex & Romance"
+    },
+    {
+      "tytuł": "Pokój Giovanniego",
+      "autor": "James Baldwin",
+      "rok": "1956",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, obyczajowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Amerykanin David w Paryżu kocha włoskiego barmana Giovanniego i boi się własnej tożsamości. Powieść o miłości i wstydzie.",
+      "temat_BBC": "Love, Sex & Romance"
+    },
+    {
+      "tytuł": "Duma i uprzedzenie",
+      "autor": "Jane Austen",
+      "rok": "1813",
+      "gatunek": "Literatura obyczajowa (romantyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Elizabeth Bennet i bogaty Darcy walczą z własnymi uprzedzeniami i konwenansami społecznymi. Jedna z najpopularniejszych powieści angielskich.",
+      "temat_BBC": "Love, Sex & Romance"
+    },
+    {
+      "tytuł": "Riders",
+      "autor": "Jilly Cooper",
+      "rok": "1985",
+      "gatunek": "Literatura obyczajowa (romantyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Rywalizacja dwóch jeźdźców w świecie angielskiego skoku przez przeszkody pełna romansów i intryg. Popularny romans w stylu „bonkbuster”.",
+      "temat_BBC": "Love, Sex & Romance"
+    },
+    {
+      "tytuł": "Ich oczy wpatrywały się w Boga",
+      "autor": "Zora Neale Hurston",
+      "rok": "1937",
+      "gatunek": "Literatura obyczajowa (psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Janie Crawford w Florydzie opowiada o trzech małżeństwach i dojrzewaniu do niezależności. Klasyka literatury afroamerykańskiej.",
+      "temat_BBC": "Love, Sex & Romance"
+    },
+    {
+      "tytuł": "Daleki pawilon",
+      "autor": "M. M. Kaye",
+      "rok": "1978",
+      "gatunek": "powieść historyczna (romantyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Brytyjczyk wychowany jako Hindus, Ash, żyje rozdarty między dwiema kulturami w XIX-wiecznych Indiach. Epicka saga miłosna.",
+      "temat_BBC": "Love, Sex & Romance"
+    },
+    {
+      "tytuł": "Czterdzieści zasad miłości",
+      "autor": "Elif Shafak",
+      "rok": "2009",
+      "gatunek": "powieść historyczna (romantyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Współczesna Amerykanka czyta powieść o spotkaniu poety Rumiego z derwiszem Szamsem i zmienia swoje życie. Powieść o sufizmie i miłości.",
+      "temat_BBC": "Love, Sex & Romance"
+    },
+    {
+      "tytuł": "Pasja",
+      "autor": "Jeanette Winterson",
+      "rok": "1987",
+      "gatunek": "powieść historyczna (realizm magiczny)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Francuski kucharz Napoleona i wenecka kobieta o płetwiastych stopach spotykają się w czasie wojen napoleońskich. Poetycka opowieść o namiętności.",
+      "temat_BBC": "Love, Sex & Romance"
+    },
+    {
+      "tytuł": "Niewolnicy samotności",
+      "autor": "Patrick Hamilton",
+      "rok": "1947",
+      "gatunek": "Literatura obyczajowa (psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "W podlondyńskim pensjonacie w czasie II wojny światowej Miss Roach znosi poniżenia lokatorów i samotność. Powieść o wojennym życiu codziennym.",
+      "temat_BBC": "Love, Sex & Romance"
+    },
+    {
+      "tytuł": "City of Bohane",
+      "autor": "Kevin Barry",
+      "rok": "2011",
+      "gatunek": "Fantasy (kryminalna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "W irlandzkim mieście przyszłości wraca dawny szef gangu i wybucha wojna. Mroczna opowieść w żywym, wymyślonym języku.",
+      "temat_BBC": "Adventure"
+    },
+    {
+      "tytuł": "Oko Igły",
+      "autor": "Ken Follett",
+      "rok": "1978",
+      "gatunek": "Thriller (powieść szpiegowska)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Niemiecki szpieg zwany Igłą próbuje przekazać Hitlerowi tajną wiadomość o lądowaniu w Normandii. Thriller z czasów II wojny światowej.",
+      "temat_BBC": "Adventure"
+    },
+    {
+      "tytuł": "Komu bije dzwon",
+      "autor": "Ernest Hemingway",
+      "rok": "1940",
+      "gatunek": "Powieść historyczna (powieść wojenna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Amerykański ochotnik Robert Jordan w czasie wojny domowej w Hiszpanii dostaje zadanie wysadzenia mostu. Powieść o honorze i śmierci.",
+      "temat_BBC": "Adventure"
+    },
+    {
+      "tytuł": "Mroczne materie",
+      "autor": "Philip Pullman",
+      "rok": "1995",
+      "gatunek": "Fantasy (młodzieżowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Trylogia o Lyrze Belacqua i Willu Parrym, którzy przemierzają światy równoległe i stają do walki z Autorytetem. Seria przygodowa o dorastaniu.",
+      "temat_BBC": "Adventure"
+    },
+    {
+      "tytuł": "Ivanhoe",
+      "autor": "Walter Scott",
+      "rok": "1819",
+      "gatunek": "powieść historyczna (przygodowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Rycerz saski wraca z krucjaty do Anglii za panowania Ryszarda Lwie Serce i staje do turnieju oraz walki o honor. Klasyka powieści historycznej.",
+      "temat_BBC": "Adventure"
+    },
+    {
+      "tytuł": "Mr Standfast",
+      "autor": "John Buchan",
+      "rok": "1919",
+      "gatunek": "Thriller (powieść szpiegowska, przygodowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Richard Hannay w czasie I wojny światowej przenika do pacyfistycznych kręgów w Anglii i tropi niemieckiego agenta. Trzecia powieść z serii.",
+      "temat_BBC": "Adventure"
+    },
+    {
+      "tytuł": "Głęboki sen",
+      "autor": "Raymond Chandler",
+      "rok": "1939",
+      "gatunek": "Kryminał (czarny kryminał)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Detektyw Philip Marlowe zostaje wynajęty przez bogatego generała do rozwiązania sprawy szantażu i trafia na serię zabójstw. Klasyczny noir.",
+      "temat_BBC": "Adventure"
+    },
+    {
+      "tytuł": "Igrzyska śmierci",
+      "autor": "Suzanne Collins",
+      "rok": "2008",
+      "gatunek": "Science fiction (młodzieżowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "W państwie Panem szesnastoletnia Katniss Everdeen zgłasza się na ochotnika, by walczyć w telewizyjnych igrzyskach na śmierć i życie. Pierwsza część trylogii.",
+      "temat_BBC": "Adventure"
+    },
+    {
+      "tytuł": "Cykl o Jacku Aubrey",
+      "autor": "Patrick O'Brian",
+      "rok": "1969",
+      "gatunek": "Powieść historyczna (powieść przygodowa, historyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Cykl dwudziestu powieści o przyjaźni brytyjskiego kapitana Jacka Aubrey i lekarza Stephena Maturina w czasach wojen napoleońskich. Morska saga historyczna.",
+      "temat_BBC": "Adventure"
+    },
+    {
+      "tytuł": "Władca Pierścieni",
+      "autor": "J. R. R. Tolkien",
+      "rok": "1954",
+      "gatunek": "Fantasy (epicka)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Hobbit Frodo wyrusza z drużyną, by zniszczyć Jedyny Pierścień i pokonać Saurona. Fundamentalne dzieło współczesnej fantasy.",
+      "temat_BBC": "Adventure"
+    },
+    {
+      "tytuł": "Gra o tron",
+      "autor": "George R. R. Martin",
+      "rok": "1996",
+      "gatunek": "Fantasy (epicka)",
+      "kategoria_wiekowa": "18+",
+      "opis": "W krainie Westeros kilka rodów walczy o Żelazny Tron, a na północy budzi się starożytne zło. Pierwszy tom cyklu Pieśń lodu i ognia.",
+      "temat_BBC": "Life, Death & Other Worlds"
+    },
+    {
+      "tytuł": "Astonishing the Gods",
+      "autor": "Ben Okri",
+      "rok": "1995",
+      "gatunek": "Fantasy (alegoryczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Niewidzialny bohater szuka niewidzialnego miasta i odkrywa sens istnienia. Alegoryczna powieść nigeryjskiego pisarza.",
+      "temat_BBC": "Life, Death & Other Worlds"
+    },
+    {
+      "tytuł": "Diuna",
+      "autor": "Frank Herbert",
+      "rok": "1965",
+      "gatunek": "Science fiction (epicka)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Na pustynnej planecie Arrakis młody Paul Atryda staje się przywódcą Fremenów w walce o przyprawę. Klasyka science fiction.",
+      "temat_BBC": "Life, Death & Other Worlds"
+    },
+    {
+      "tytuł": "Frankenstein",
+      "autor": "Mary Shelley",
+      "rok": "1818",
+      "gatunek": "Horror (science fiction)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Student Victor Frankenstein tworzy żywą istotę, a potem ucieka przed odpowiedzialnością za nią. Powieść o ambicji naukowej, samotności i winie.",
+      "temat_BBC": "Life, Death & Other Worlds"
+    },
+    {
+      "tytuł": "Gilead",
+      "autor": "Marilynne Robinson",
+      "rok": "2004",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, religijna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Stary pastor John Ames pisze list do małego syna, wspominając swoje życie i rodzinę w Iowa. Medytacyjna powieść o wierze.",
+      "temat_BBC": "Life, Death & Other Worlds"
+    },
+    {
+      "tytuł": "Opowieści z Narnii",
+      "autor": "C. S. Lewis",
+      "rok": "1950",
+      "gatunek": "Fantasy (dla dzieci)",
+      "kategoria_wiekowa": "6+",
+      "opis": "Rodzeństwo wchodzi przez szafę do magicznej krainy rządzonej przez Białą Czarownicę i lwa Aslana. Siedem tomów cyklu.",
+      "temat_BBC": "Life, Death & Other Worlds"
+    },
+    {
+      "tytuł": "Świat Dysku",
+      "autor": "Terry Pratchett",
+      "rok": "1983",
+      "gatunek": "Fantasy (satyryczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Cykl ponad czterdziestu powieści o płaskim świecie na grzbietach słoni i żółwia, pełnych satyry na naszą rzeczywistość. Seria humorystyczna.",
+      "temat_BBC": "Life, Death & Other Worlds"
+    },
+    {
+      "tytuł": "Ziemiomorze",
+      "autor": "Ursula K. Le Guin",
+      "rok": "1968",
+      "gatunek": "Fantasy (młodzieżowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Młody mag Ged uczy się równowagi mocy i konfrontuje się z własnym cieniem w świecie rozproszonych wysp. Klasyka fantasy.",
+      "temat_BBC": "Life, Death & Other Worlds"
+    },
+    {
+      "tytuł": "Sandman",
+      "autor": "Neil Gaiman",
+      "rok": "1989",
+      "gatunek": "Komiks (komiks fantasy, grozy)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Morfeusz, władca snów, ucieka z więzienia i próbuje odbudować swoje królestwo. Seria komiksowa o mitach i opowieściach.",
+      "temat_BBC": "Life, Death & Other Worlds"
+    },
+    {
+      "tytuł": "Droga",
+      "autor": "Cormac McCarthy",
+      "rok": "2006",
+      "gatunek": "Science fiction (psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Ojciec i syn wędrują przez spustoszoną Amerykę w poszukiwaniu bezpiecznego miejsca. Powieść o miłości w obliczu końca świata.",
+      "temat_BBC": "Life, Death & Other Worlds"
+    },
+    {
+      "tytuł": "Tysiąc wspaniałych słońc",
+      "autor": "Khaled Hosseini",
+      "rok": "2007",
+      "gatunek": "powieść historyczna (społeczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Dwie Afganki, Mariam i Laila, łączą swoje losy w małżeństwie z brutalnym mężczyzną w czasie wojen w Afganistanie. Powieść o kobiecej solidarności.",
+      "temat_BBC": "Politics, Power & Protest"
+    },
+    {
+      "tytuł": "Nowy wspaniały świat",
+      "autor": "Aldous Huxley",
+      "rok": "1932",
+      "gatunek": "Science fiction (antyutopia)",
+      "kategoria_wiekowa": "16+",
+      "opis": "W przyszłym państwie światowym ludzie są sztucznie hodowani i kontrolowani przez rozrywkę oraz narkotyk soma. Antyutopia o szczęściu bez wolności.",
+      "temat_BBC": "Politics, Power & Protest"
+    },
+    {
+      "tytuł": "Home Fire",
+      "autor": "Kamila Shamsie",
+      "rok": "2017",
+      "gatunek": "Literatura obyczajowa (powieść polityczna, współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Losy brytyjsko-pakistańskiej rodziny splatają się, gdy brat decyduje się dołączyć do bojowników. Współczesna wersja „Antygony”.",
+      "temat_BBC": "Politics, Power & Protest"
+    },
+    {
+      "tytuł": "Władca much",
+      "autor": "William Golding",
+      "rok": "1954",
+      "gatunek": "Literatura obyczajowa (powieść alegoryczna, przygodowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Grupa chłopców rozbitych na bezludnej wyspie tworzy własne społeczeństwo, które stopniowo ulega okrucieństwu. Alegoria natury człowieka.",
+      "temat_BBC": "Politics, Power & Protest"
+    },
+    {
+      "tytuł": "Noughts & Crosses",
+      "autor": "Malorie Blackman",
+      "rok": "2001",
+      "gatunek": "Science fiction (młodzieżowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "W alternatywnym świecie czarnoskórzy Crossowie rządzą białymi Noughtami, a Sephy i Callum zakochują się wbrew podziałom. Powieść o rasizmie.",
+      "temat_BBC": "Politics, Power & Protest"
+    },
+    {
+      "tytuł": "Strumpet City",
+      "autor": "James Plunkett",
+      "rok": "1969",
+      "gatunek": "powieść historyczna (społeczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Panorama dublińskich nędzarzy i robotników w czasie wielkiego lokautu z 1913 roku. Saga społeczna.",
+      "temat_BBC": "Politics, Power & Protest"
+    },
+    {
+      "tytuł": "Kolor purpury",
+      "autor": "Alice Walker",
+      "rok": "1982",
+      "gatunek": "Literatura obyczajowa (powieść epistolarna, społeczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Celie, czarnoskóra dziewczyna z amerykańskiego Południa, w listach opowiada o przemocy i odzyskiwaniu siły. Powieść o kobiecej solidarności.",
+      "temat_BBC": "Politics, Power & Protest"
+    },
+    {
+      "tytuł": "Zabić drozda",
+      "autor": "Harper Lee",
+      "rok": "1960",
+      "gatunek": "Literatura obyczajowa (powieść społeczna, sądowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Mała Scout Finch obserwuje, jak jej ojciec adwokat broni czarnoskórego mężczyznę niesłusznie oskarżonego o gwałt. Powieść o rasizmie i sprawiedliwości.",
+      "temat_BBC": "Politics, Power & Protest"
+    },
+    {
+      "tytuł": "V jak Vendetta",
+      "autor": "Alan Moore",
+      "rok": "1982",
+      "gatunek": "Komiks (komiks polityczny, antyutopia)",
+      "kategoria_wiekowa": "16+",
+      "opis": "W faszystowskiej Wielkiej Brytanii tajemniczy anarchista V w masce Guya Fawkesa prowadzi walkę z reżimem. Komiks Alana Moore'a i Davida Lloyda.",
+      "temat_BBC": "Politics, Power & Protest"
+    },
+    {
+      "tytuł": "Unless",
+      "autor": "Carol Shields",
+      "rok": "2002",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, obyczajowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Pisarka próbuje zrozumieć, dlaczego jej córka porzuciła studia i usiadła na ulicy z tabliczką. Powieść o macierzyństwie i bezsilności.",
+      "temat_BBC": "Politics, Power & Protest"
+    },
+    {
+      "tytuł": "Dom dla pana Biswasa",
+      "autor": "V. S. Naipaul",
+      "rok": "1961",
+      "gatunek": "Literatura obyczajowa (tragikomiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Mohun Biswas z Trynidadu marzy o własnym domu i niezależności od rodziny żony. Powieść o godności i tożsamości.",
+      "temat_BBC": "Class & Society"
+    },
+    {
+      "tytuł": "Cannery Row",
+      "autor": "John Steinbeck",
+      "rok": "1945",
+      "gatunek": "Literatura obyczajowa (humorystyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Mieszkańcy ubogiej dzielnicy rybackiej w Monterey próbują urządzić przyjęcie dla lokalnego biologa. Ciepła powieść o społeczności.",
+      "temat_BBC": "Class & Society"
+    },
+    {
+      "tytuł": "Hańba",
+      "autor": "J. M. Coetzee",
+      "rok": "1999",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, społeczna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Profesor z Kapsztadu traci posadę po romansie ze studentką i wyjeżdża do córki, której farmę napadają. Powieść o winie w postapartheidowej RPA.",
+      "temat_BBC": "Class & Society"
+    },
+    {
+      "tytuł": "Nasz wspólny przyjaciel",
+      "autor": "Charles Dickens",
+      "rok": "1865",
+      "gatunek": "Literatura obyczajowa (społeczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Londyńskie tajemnice wokół spadku po bogatym śmieciarzu splatają losy wielu postaci. Ostatnia ukończona powieść Dickensa.",
+      "temat_BBC": "Class & Society"
+    },
+    {
+      "tytuł": "Poor Cow",
+      "autor": "Nell Dunn",
+      "rok": "1967",
+      "gatunek": "Literatura obyczajowa (społeczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Młoda matka z londyńskiej klasy robotniczej szuka szczęścia wśród przypadkowych mężczyzn i biedy. Realistyczny portret życia kobiet.",
+      "temat_BBC": "Class & Society"
+    },
+    {
+      "tytuł": "Sobotni wieczór, niedzielny poranek",
+      "autor": "Alan Sillitoe",
+      "rok": "1958",
+      "gatunek": "Literatura obyczajowa (powieść społeczna, obyczajowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Arthur Seaton, robotnik fabryczny z Nottingham, wiedzie życie od weekendu do weekendu i buntuje się przeciw przeciętności. Powieść „gniewnych młodych”.",
+      "temat_BBC": "Class & Society"
+    },
+    {
+      "tytuł": "Samotna namiętność Judith Hearne",
+      "autor": "Brian Moore",
+      "rok": "1955",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, obyczajowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Samotna panna w Belfaście, nauczycielka gry na fortepianie, topi nadzieje i rozczarowania w alkoholu. Portret życia na marginesie.",
+      "temat_BBC": "Class & Society"
+    },
+    {
+      "tytuł": "Panna Jean Brodie w rozkwicie",
+      "autor": "Muriel Spark",
+      "rok": "1961",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, satyryczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Nauczycielka w edynburskiej szkole dla dziewcząt zbiera wokół siebie uczennice i wpaja im swoje poglądy. Jedna z nich ją zdradza.",
+      "temat_BBC": "Class & Society"
+    },
+    {
+      "tytuł": "Okruchy dnia",
+      "autor": "Kazuo Ishiguro",
+      "rok": "1989",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, obyczajowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Kamerdyner Stevens podróżuje po Anglii i wspomina swoją lojalność wobec pana oraz niezrealizowaną miłość. Powieść o stłumionych uczuciach.",
+      "temat_BBC": "Class & Society"
+    },
+    {
+      "tytuł": "Szerokie morze Sargassowe",
+      "autor": "Jean Rhys",
+      "rok": "1966",
+      "gatunek": "powieść historyczna (psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Opowieść o Antoinette Cosway, Kreolce z Jamajki, która staje się „szaloną żoną” z „Dziwnych losów Jane Eyre”. Postkolonialna odpowiedź na klasykę.",
+      "temat_BBC": "Class & Society"
+    },
+    {
+      "tytuł": "Emilka z Nowiu",
+      "autor": "L. M. Montgomery",
+      "rok": "1923",
+      "gatunek": "Literatura młodzieżowa (obyczajowa)",
+      "kategoria_wiekowa": "6+",
+      "opis": "Osierocona Emilka zamieszkuje u surowych krewnych i marzy o zostaniu pisarką. Pierwsza część trylogii.",
+      "temat_BBC": "Coming of Age"
+    },
+    {
+      "tytuł": "Golden Child",
+      "autor": "Claire Adam",
+      "rok": "2019",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, kryminalna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "W Trynidadzie ojciec staje przed dramatycznym wyborem po zaginięciu jednego z synów-bliźniaków. Powieść o rodzinie i winie.",
+      "temat_BBC": "Coming of Age"
+    },
+    {
+      "tytuł": "Oryks i Derkacz",
+      "autor": "Margaret Atwood",
+      "rok": "2003",
+      "gatunek": "Science fiction (postapokaliptyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Śnieżny Człowiek wspomina świat przed katastrofą wywołaną inżynierią genetyczną. Pierwsza część trylogii MaddAddam.",
+      "temat_BBC": "Coming of Age"
+    },
+    {
+      "tytuł": "So Long, See You Tomorrow",
+      "autor": "William Maxwell",
+      "rok": "1980",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, obyczajowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Narrator wspomina chłopięcą przyjaźń i zbrodnię, która rozegrała się w jego rodzinnej miejscowości. Krótka powieść o pamięci.",
+      "temat_BBC": "Coming of Age"
+    },
+    {
+      "tytuł": "Swami i przyjaciele",
+      "autor": "R. K. Narayan",
+      "rok": "1935",
+      "gatunek": "Literatura młodzieżowa (obyczajowa)",
+      "kategoria_wiekowa": "6+",
+      "opis": "Dziesięcioletni Swami z fikcyjnego miasteczka Malgudi doświadcza szkolnych przygód i kłopotów. Pogodna opowieść o dzieciństwie w Indiach.",
+      "temat_BBC": "Coming of Age"
+    },
+    {
+      "tytuł": "Dziewczęta ze wsi",
+      "autor": "Edna O'Brien",
+      "rok": "1960",
+      "gatunek": "Literatura obyczajowa (psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Dwie młode Irlandki, Kate i Baba, uciekają z prowincjonalnego domu do Dublina i szukają niezależności. Skandalizująca w swoim czasie powieść.",
+      "temat_BBC": "Coming of Age"
+    },
+    {
+      "tytuł": "Harry Potter",
+      "autor": "J. K. Rowling",
+      "rok": "1997",
+      "gatunek": "Fantasy (młodzieżowa)",
+      "kategoria_wiekowa": "6+",
+      "opis": "Siedem tomów o chłopcu-czarodzieju, który uczy się w Hogwarcie i stawia czoła Lordowi Voldemortowi. Jedna z najpopularniejszych serii świata.",
+      "temat_BBC": "Coming of Age"
+    },
+    {
+      "tytuł": "Outsiderzy",
+      "autor": "S. E. Hinton",
+      "rok": "1967",
+      "gatunek": "Literatura młodzieżowa (obyczajowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Czternastoletni Ponyboy należy do biednego gangu „Greasers” w Tulsie i walczy z bogatymi Socs. Klasyk literatury młodzieżowej.",
+      "temat_BBC": "Coming of Age"
+    },
+    {
+      "tytuł": "Tajny dziennik Adriana Mole'a",
+      "autor": "Sue Townsend",
+      "rok": "1982",
+      "gatunek": "Literatura obyczajowa (powieść humorystyczna, dziennik)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Nastolatek z Leicester zapisuje w dzienniku swoje poetyckie ambicje, kłopoty z rodzicami i pierwszą miłość. Komedia o dorastaniu.",
+      "temat_BBC": "Coming of Age"
+    },
+    {
+      "tytuł": "Zmierzch",
+      "autor": "Stephenie Meyer",
+      "rok": "2005",
+      "gatunek": "Fantasy (młodzieżowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Nastolatka Bella Swan zakochuje się w wampirze Edwardzie Cullenie. Seria romansów paranormalnych.",
+      "temat_BBC": "Coming of Age"
+    },
+    {
+      "tytuł": "A Suitable Boy",
+      "autor": "Vikram Seth",
+      "rok": "1993",
+      "gatunek": "Literatura obyczajowa (rodzinna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Matka szuka męża dla córki Lata w Indiach lat pięćdziesiątych. Ogromna saga o czterech rodzinach.",
+      "temat_BBC": "Family & Friendship"
+    },
+    {
+      "tytuł": "Baletki",
+      "autor": "Noel Streatfeild",
+      "rok": "1936",
+      "gatunek": "Literatura młodzieżowa (rodzinna)",
+      "kategoria_wiekowa": "6+",
+      "opis": "Trzy adoptowane siostry uczą się w szkole teatralnej i muszą utrzymać dom. Klasyka literatury dla dzieci.",
+      "temat_BBC": "Family & Friendship"
+    },
+    {
+      "tytuł": "Cloudstreet",
+      "autor": "Tim Winton",
+      "rok": "1991",
+      "gatunek": "Literatura obyczajowa (realizm magiczny)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Dwie australijskie rodziny dzielą przez dwadzieścia lat wielki dom w Perth i zmagają się z biedą i losem. Saga o wspólnocie.",
+      "temat_BBC": "Family & Friendship"
+    },
+    {
+      "tytuł": "Cold Comfort Farm",
+      "autor": "Stella Gibbons",
+      "rok": "1932",
+      "gatunek": "Literatura obyczajowa (powieść satyryczna, komedia)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Nowoczesna Flora Poste przenosi się do ponurej farmy na wsi i porządkuje życie ekscentrycznej rodziny. Parodia powieści wiejskich.",
+      "temat_BBC": "Family & Friendship"
+    },
+    {
+      "tytuł": "Zdobywam zamek",
+      "autor": "Dodie Smith",
+      "rok": "1948",
+      "gatunek": "Literatura obyczajowa (młodzieżowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Siedemnastoletnia Cassandra zapisuje w dzienniku życie zubożałej rodziny, mieszkającej w rozpadającym się zamku. Pogodna opowieść o miłości.",
+      "temat_BBC": "Family & Friendship"
+    },
+    {
+      "tytuł": "Middlemarch",
+      "autor": "George Eliot",
+      "rok": "1871",
+      "gatunek": "Literatura obyczajowa (realistyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Losy mieszkańców prowincjonalnego miasta, m.in. idealistki Dorothei Brooke i lekarza Lydgate'a, splatają się w wielkim obrazie wiktoriańskiego społeczeństwa. Jedna z najwybitniejszych powieści angielskich.",
+      "temat_BBC": "Family & Friendship"
+    },
+    {
+      "tytuł": "Opowieści z miasta",
+      "autor": "Armistead Maupin",
+      "rok": "1978",
+      "gatunek": "Literatura obyczajowa (humorystyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Młoda kobieta przeprowadza się do San Francisco i trafia do wielobarwnego domu na Barbary Lane. Cykl powieści odcinkowych.",
+      "temat_BBC": "Family & Friendship"
+    },
+    {
+      "tytuł": "Wiadomości z Quoyle",
+      "autor": "E. Annie Proulx",
+      "rok": "1993",
+      "gatunek": "Literatura obyczajowa (psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Niezdarny Quoyle po tragedii rodzinnej wraca na Nową Fundlandię i zostaje reporterem lokalnej gazety. Powieść o odnowie.",
+      "temat_BBC": "Family & Friendship"
+    },
+    {
+      "tytuł": "Lokatorka Wildfell Hall",
+      "autor": "Anne Brontë",
+      "rok": "1848",
+      "gatunek": "Literatura obyczajowa (psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Tajemnicza młoda wdowa z dzieckiem zamieszkuje w starej rezydencji, a plotki sąsiadów odsłaniają jej smutną przeszłość. Powieść o małżeńskiej przemocy.",
+      "temat_BBC": "Family & Friendship"
+    },
+    {
+      "tytuł": "Wiedźmy",
+      "autor": "Roald Dahl",
+      "rok": "1983",
+      "gatunek": "Fantasy (dla dzieci)",
+      "kategoria_wiekowa": "6+",
+      "opis": "Chłopiec poznaje prawdę o wiedźmach, które nienawidzą dzieci, i zostaje zamieniony w mysz. Czarna opowieść z humorem.",
+      "temat_BBC": "Family & Friendship"
+    },
+    {
+      "tytuł": "American Tabloid",
+      "autor": "James Ellroy",
+      "rok": "1995",
+      "gatunek": "Kryminał (historyczna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Trzech skorumpowanych stróżów prawa działa w tle wydarzeń od Kennedy'ego po Dallas. Brutalna wizja polityki USA.",
+      "temat_BBC": "Conflict & Crime"
+    },
+    {
+      "tytuł": "American War",
+      "autor": "Omar El Akkad",
+      "rok": "2017",
+      "gatunek": "Science fiction (wojenna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "W drugiej wojnie secesyjnej pod koniec XXI wieku dziewczynka z Południa staje się bronią w konflikcie. Powieść o wojnie domowej.",
+      "temat_BBC": "Conflict & Crime"
+    },
+    {
+      "tytuł": "Ice Candy Man",
+      "autor": "Bapsi Sidhwa",
+      "rok": "1988",
+      "gatunek": "powieść historyczna (społeczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Młoda dziewczynka z Lahore obserwuje rozbicie Indii w 1947 roku i ludzkie dramaty podziału. Powieść oparta na wspomnieniach autorki.",
+      "temat_BBC": "Conflict & Crime"
+    },
+    {
+      "tytuł": "Rebeka",
+      "autor": "Daphne du Maurier",
+      "rok": "1938",
+      "gatunek": "Horror (psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Młoda żona zamieszkuje w posiadłości Manderley i czuje cień pierwszej żony męża. Klasyka literatury grozy.",
+      "temat_BBC": "Conflict & Crime"
+    },
+    {
+      "tytuł": "Regeneracja",
+      "autor": "Pat Barker",
+      "rok": "1991",
+      "gatunek": "powieść historyczna (wojenna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "W szpitalu psychiatrycznym Craiglockhart doktor Rivers leczy oficerów z traumą z I wojny światowej, m.in. poetę Siegfrieda Sassoona. Pierwsza część trylogii.",
+      "temat_BBC": "Conflict & Crime"
+    },
+    {
+      "tytuł": "Dzieci człowieka",
+      "autor": "P. D. James",
+      "rok": "1992",
+      "gatunek": "Science fiction (antyutopia)",
+      "kategoria_wiekowa": "16+",
+      "opis": "W 2021 roku ludzkość straciła zdolność do rozmnażania się, a Theo staje do ratowania kobiety w ciąży. Powieść o nadziei w mroku.",
+      "temat_BBC": "Conflict & Crime"
+    },
+    {
+      "tytuł": "Pies Baskerville'ów",
+      "autor": "Arthur Conan Doyle",
+      "rok": "1902",
+      "gatunek": "Kryminał (detektywistyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Holmes i Watson badają legendę o monstrualnym psie nękającym rodzinę Baskerville'ów na mrocznych wrzosowiskach. Najsłynniejsza powieść o Holmesie.",
+      "temat_BBC": "Conflict & Crime"
+    },
+    {
+      "tytuł": "Fundamentalista z wyboru",
+      "autor": "Mohsin Hamid",
+      "rok": "2007",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, polityczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Pakistańczyk opowiada Amerykaninowi w lahorskiej kawiarni o swojej karierze na Wall Street i zmianie po 11 września. Monolog pełen napięcia.",
+      "temat_BBC": "Conflict & Crime"
+    },
+    {
+      "tytuł": "Utalentowany pan Ripley",
+      "autor": "Patricia Highsmith",
+      "rok": "1955",
+      "gatunek": "Kryminał (psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Tom Ripley zabija bogatego przyjaciela i przejmuje jego tożsamość we Włoszech. Studium amoralnego sprytu.",
+      "temat_BBC": "Conflict & Crime"
+    },
+    {
+      "tytuł": "Spokojny Amerykanin",
+      "autor": "Graham Greene",
+      "rok": "1955",
+      "gatunek": "Literatura obyczajowa (powieść polityczna, szpiegowska)",
+      "kategoria_wiekowa": "16+",
+      "opis": "W Sajgonie lat pięćdziesiątych angielski dziennikarz Fowler konkuruje z idealistycznym Amerykaninem Pyle'em. Powieść o wojnie w Wietnamie.",
+      "temat_BBC": "Conflict & Crime"
+    },
+    {
+      "tytuł": "Sprzysiężenie osłów",
+      "autor": "John Kennedy Toole",
+      "rok": "1980",
+      "gatunek": "Literatura obyczajowa (powieść satyryczna, komiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Ignatius J. Reilly, leniwy erudyta z Nowego Orleanu, zmuszony do pracy wywołuje serię absurdalnych zdarzeń. Powieść wydana po śmierci autora.",
+      "temat_BBC": "Rule Breakers"
+    },
+    {
+      "tytuł": "Kopista Bartleby",
+      "autor": "Herman Melville",
+      "rok": "1853",
+      "gatunek": "Literatura obyczajowa (opowiadanie, psychologiczne)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Pracownik kancelarii prawniczej na Wall Street odpowiada na wszystkie polecenia: „Wolałbym nie”. Alegoria biernego oporu.",
+      "temat_BBC": "Rule Breakers"
+    },
+    {
+      "tytuł": "Habibi",
+      "autor": "Craig Thompson",
+      "rok": "2011",
+      "gatunek": "Komiks (romantyczna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Dwoje uciekinierów, Dodola i Zam, próbuje przeżyć na pustyni i w mieście wyobrażonym na Bliskim Wschodzie. Powieść graficzna o miłości i opowieściach.",
+      "temat_BBC": "Rule Breakers"
+    },
+    {
+      "tytuł": "How to Be Both",
+      "autor": "Ali Smith",
+      "rok": "2014",
+      "gatunek": "Literatura obyczajowa (powieść eksperymentalna, obyczajowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Dwie połączone historie: renesansowego malarza i współczesnej dziewczynki po śmierci matki, w kolejności zależnej od wydania. Powieść o sztuce i stracie.",
+      "temat_BBC": "Rule Breakers"
+    },
+    {
+      "tytuł": "Orlando",
+      "autor": "Virginia Woolf",
+      "rok": "1928",
+      "gatunek": "Literatura obyczajowa (biograficzna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Orlando żyje przez trzy stulecia, zmienia płeć i obserwuje angielską historię. Eksperymentalna biografia.",
+      "temat_BBC": "Rule Breakers"
+    },
+    {
+      "tytuł": "Noce w cyrku",
+      "autor": "Angela Carter",
+      "rok": "1984",
+      "gatunek": "Literatura obyczajowa (powieść realizmu magicznego, przygodowa)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Reporter podąża za skrzydlatą artystką cyrkową Fevvers w podróży przez Europę i Syberię. Barokowa powieść o płci i prawdzie.",
+      "temat_BBC": "Rule Breakers"
+    },
+    {
+      "tytuł": "Rok 1984",
+      "autor": "George Orwell",
+      "rok": "1949",
+      "gatunek": "Science fiction (antyutopia)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Winston Smith w totalitarnym państwie Wielkiego Brata buntuje się przeciwko kontroli myśli. Klasyczna antyutopia.",
+      "temat_BBC": "Rule Breakers"
+    },
+    {
+      "tytuł": "Psmith, Journalist",
+      "autor": "P. G. Wodehouse",
+      "rok": "1915",
+      "gatunek": "Literatura obyczajowa (powieść humorystyczna, komedia)",
+      "kategoria_wiekowa": "6+",
+      "opis": "Elegancki Psmith przejmuje magazyn w Nowym Jorku i podejmuje walkę z zepsutą dzielnicą. Komedia Wodehouse'a.",
+      "temat_BBC": "Rule Breakers"
+    },
+    {
+      "tytuł": "Ostatnie westchnienie Maura",
+      "autor": "Salman Rushdie",
+      "rok": "1995",
+      "gatunek": "Literatura obyczajowa (powieść realizmu magicznego, rodzinna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Moraes Zogoiby opowiada o swojej bombajskiej rodzinie kupców przypraw, miłości, zdradach i polityce. Powieść o współczesnych Indiach.",
+      "temat_BBC": "Rule Breakers"
+    },
+    {
+      "tytuł": "Zami",
+      "autor": "Audre Lorde",
+      "rok": "1982",
+      "gatunek": "Literatura obyczajowa (powieść autobiograficzna, obyczajowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Poetka opowiada o dorastaniu w Harlemie, o miłościach i odkrywaniu swojej tożsamości jako czarnej lesbijki. „Biomitografia” autorki.",
+      "temat_BBC": "Rule Breakers"
+    }
+  ]
+}

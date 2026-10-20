@@ -1,0 +1,318 @@
+{
+ "nazwa": "Quentin Tarantino",
+ "grupa": "Reżyserzy",
+ "opis": "Dwa źródła połączone w jedną listę: (1) 12 filmów z ankiety Sight & Sound 2012; (2) 20 ulubionych filmów z lat 1992–2009 (Sky Movies, 2009). Dazed and Confused występuje w obu.",
+ "źródło": "https://openculture.com/2013/08/quentin-tarantino-lists-the-12-greatest-films-of-all-time.html",
+ "pozycje": [
+  {
+   "tytuł": "His Girl Friday",
+   "tytuł_oryginalny": "His Girl Friday",
+   "reżyser": "Howard Hawks",
+   "rok": "1940",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "6+",
+   "opis": "Redaktor naczelny próbuje odzyskać byłą żonę i najlepszą reporterkę, odciągając ją od nowego narzeczonego. Komedia słynie z błyskawicznych dialogów."
+  },
+  {
+   "tytuł": "Wielka ucieczka",
+   "tytuł_oryginalny": "The Great Escape",
+   "reżyser": "John Sturges",
+   "rok": "1963",
+   "kraj": "USA",
+   "gatunek": "Wojenny",
+   "kategoria_wiekowa": "12+",
+   "opis": "Alianccy jeńcy w niemieckim obozie wspólnie planują ucieczkę przez podkop. Film oparty jest na prawdziwych wydarzeniach."
+  },
+  {
+   "tytuł": "Dobry, zły i brzydki",
+   "tytuł_oryginalny": "Il buono, il brutto, il cattivo",
+   "reżyser": "Sergio Leone",
+   "rok": "1966",
+   "kraj": "Włochy",
+   "gatunek": "Przygodowy",
+   "kategoria_wiekowa": "16+",
+   "opis": "Trzej rewolwerowcy rywalizują o ukryty skarb w czasie wojny secesyjnej. Western spaghetti z muzyką Ennio Morricone."
+  },
+  {
+   "tytuł": "Pretty Maids All in a Row",
+   "tytuł_oryginalny": "Pretty Maids All in a Row",
+   "reżyser": "Roger Vadim",
+   "rok": "1971",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "16+",
+   "opis": "Nauczyciel i trener liceum romansuje z uczennicami, a w szkole dochodzi do serii morderstw. Czarna komedia kryminalna."
+  },
+  {
+   "tytuł": "Szczęki",
+   "tytuł_oryginalny": "Jaws",
+   "reżyser": "Steven Spielberg",
+   "rok": "1975",
+   "kraj": "USA",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "12+",
+   "opis": "Szeryf, ichtiolog i rybak wyruszają na morze, by upolować ludojada nękającego nadmorskie miasteczko. Film zapoczątkował erę letnich blockbusterów."
+  },
+  {
+   "tytuł": "Carrie",
+   "tytuł_oryginalny": "Carrie",
+   "reżyser": "Brian De Palma",
+   "rok": "1976",
+   "kraj": "USA",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "16+",
+   "opis": "Zastraszana nastolatka z telekinezą mści się na rówieśnikach podczas szkolnego balu. Ekranizacja powieści Stephena Kinga."
+  },
+  {
+   "tytuł": "Taksówkarz",
+   "tytuł_oryginalny": "Taxi Driver",
+   "reżyser": "Martin Scorsese",
+   "rok": "1976",
+   "kraj": "USA",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "18+",
+   "opis": "Weteran wojenny pracuje jako nocny taksówkarz w Nowym Jorku i stopniowo popada w obsesję oczyszczenia miasta. Film o alienacji z Robertem De Niro."
+  },
+  {
+   "tytuł": "The Bad News Bears",
+   "tytuł_oryginalny": "The Bad News Bears",
+   "reżyser": "Michael Ritchie",
+   "rok": "1976",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "12+",
+   "opis": "Alkoholik i były baseballista trenuje drużynę dziecięcych nieudaczników. Komedia sportowa o przegranych."
+  },
+  {
+   "tytuł": "Rolling Thunder",
+   "tytuł_oryginalny": "Rolling Thunder",
+   "reżyser": "John Flynn",
+   "rok": "1977",
+   "kraj": "USA",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "18+",
+   "opis": "Weteran wojny w Wietnamie szuka zemsty po napadzie na dom i śmierci rodziny. Brutalny film akcji."
+  },
+  {
+   "tytuł": "Sorcerer",
+   "tytuł_oryginalny": "Sorcerer",
+   "reżyser": "William Friedkin",
+   "rok": "1977",
+   "kraj": "USA",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "16+",
+   "opis": "Czterech zbiegłych przestępców przewozi ciężarówkami nitroglicerynę przez dżunglę Ameryki Południowej. Nolan wymienił ten film w rozmowie dla Konbini jako remake „Ceny strachu”."
+  },
+  {
+   "tytuł": "Czas apokalipsy",
+   "tytuł_oryginalny": "Apocalypse Now",
+   "reżyser": "Francis Ford Coppola",
+   "rok": "1979",
+   "kraj": "USA",
+   "gatunek": "Wojenny",
+   "kategoria_wiekowa": "18+",
+   "opis": "Kapitan Willard płynie rzeką w głąb dżungli, by wyeliminować zbuntowanego pułkownika Kurtza. Film jest halucynacyjną podróżą w głąb szaleństwa wojny w Wietnamie."
+  },
+  {
+   "tytuł": "Superpolicjant",
+   "tytuł_oryginalny": "Ging chaat goo si 3: Chiu kap ji ging",
+   "reżyser": "Stanley Tong",
+   "rok": "1992",
+   "kraj": "Hongkong",
+   "gatunek": "Akcja",
+   "kategoria_wiekowa": "12+",
+   "opis": "Policjant z Hongkongu współpracuje z chińską agentką, by powstrzymać gang narkotykowy. Film słynie z kaskaderskich scen Jackie Chana."
+  },
+  {
+   "tytuł": "Dazed and Confused",
+   "tytuł_oryginalny": "Dazed and Confused",
+   "reżyser": "Richard Linklater",
+   "rok": "1993",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "16+",
+   "opis": "Ostatni dzień szkoły w Teksasie w 1976 roku: licealiści imprezują i próbują zrozumieć dorosłość. Komedia z Matthew McConaugheyem."
+  },
+  {
+   "tytuł": "Speed – Niebezpieczna prędkość",
+   "tytuł_oryginalny": "Speed",
+   "reżyser": "Jan de Bont",
+   "rok": "1994",
+   "kraj": "USA",
+   "gatunek": "Akcja",
+   "kategoria_wiekowa": "16+",
+   "opis": "Policjant próbuje zapobiec wybuchowi bomby w autobusie, który nie może zwolnić poniżej 50 mil na godzinę. Film akcji z Keanu Reevesem."
+  },
+  {
+   "tytuł": "Ostrze",
+   "tytuł_oryginalny": "Dao",
+   "reżyser": "Tsui Hark",
+   "rok": "1995",
+   "kraj": "Hongkong",
+   "gatunek": "Przygodowy",
+   "kategoria_wiekowa": "16+",
+   "opis": "Młody kowal po śmierci ojca podejmuje się zemsty w mrocznym świecie sztuk walki. Wariacja na temat „Jednorękiego szermierza”."
+  },
+  {
+   "tytuł": "Piątek",
+   "tytuł_oryginalny": "Friday",
+   "reżyser": "F. Gary Gray",
+   "rok": "1995",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "16+",
+   "opis": "Dwaj przyjaciele z Los Angeles spędzają piątek, próbując zdobyć pieniądze dla dilera. Komedia z Ice Cube'em."
+  },
+  {
+   "tytuł": "Boogie Nights",
+   "tytuł_oryginalny": "Boogie Nights",
+   "reżyser": "Paul Thomas Anderson",
+   "rok": "1997",
+   "kraj": "USA",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "18+",
+   "opis": "Młody Eddie Adams staje się gwiazdą kalifornijskiego przemysłu pornograficznego lat siedemdziesiątych. Film opowiada o rodzinie wybranej, ambicji i upadku złotej epoki."
+  },
+  {
+   "tytuł": "Audition",
+   "tytuł_oryginalny": "Ōdishon",
+   "reżyser": "Takashi Miike",
+   "rok": "1999",
+   "kraj": "Japonia",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "18+",
+   "opis": "Wdowiec organizuje fałszywe przesłuchanie, by znaleźć żonę, i poznaje piękną, ale niebezpieczną kobietę. Japoński horror psychologiczny."
+  },
+  {
+   "tytuł": "Informator",
+   "tytuł_oryginalny": "The Insider",
+   "reżyser": "Michael Mann",
+   "rok": "1999",
+   "kraj": "USA",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Były pracownik koncernu tytoniowego decyduje się zdemaskować jego praktyki, a dziennikarz telewizyjny pomaga mu ujawnić prawdę. Film oparty na faktach."
+  },
+  {
+   "tytuł": "Matrix",
+   "tytuł_oryginalny": "The Matrix",
+   "reżyser": "Lana Wachowski, Lilly Wachowski",
+   "rok": "1999",
+   "kraj": "USA",
+   "gatunek": "Science fiction",
+   "kategoria_wiekowa": "16+",
+   "opis": "Haker Neo odkrywa, że świat jest symulacją, i dołącza do buntowników walczących z maszynami. Przełomowy film akcji science fiction."
+  },
+  {
+   "tytuł": "Podziemny krąg",
+   "tytuł_oryginalny": "Fight Club",
+   "reżyser": "David Fincher",
+   "rok": "1999",
+   "kraj": "USA",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "18+",
+   "opis": "Znudzony pracownik biurowy zakłada z tajemniczym Tylerem podziemny klub walk, który przeradza się w ruch destrukcyjny. Film według powieści Palahniuka."
+  },
+  {
+   "tytuł": "Battle Royale",
+   "tytuł_oryginalny": "Batoru rowaiaru",
+   "reżyser": "Kinji Fukasaku",
+   "rok": "2000",
+   "kraj": "Japonia",
+   "gatunek": "Akcja",
+   "kategoria_wiekowa": "18+",
+   "opis": "Klasa uczniów zostaje wywieziona na wyspę i zmuszona do wzajemnej walki do śmierci. Brutalna satyra na system."
+  },
+  {
+   "tytuł": "JSA: Wspólny Obszar Bezpieczeństwa",
+   "tytuł_oryginalny": "Gongdong gyeongbi guyeok JSA",
+   "reżyser": "Park Chan-wook",
+   "rok": "2000",
+   "kraj": "Korea Południowa",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "16+",
+   "opis": "Śledczy bada strzelaninę na granicy Korei Północnej i Południowej, w której zginęło dwóch żołnierzy. Thriller polityczny."
+  },
+  {
+   "tytuł": "Niezniszczalny",
+   "tytuł_oryginalny": "Unbreakable",
+   "reżyser": "M. Night Shyamalan",
+   "rok": "2000",
+   "kraj": "USA",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "12+",
+   "opis": "Mężczyzna, który cudem przeżył katastrofę kolejową, poznaje człowieka, który uważa, że jest on superbohaterem. Film o mitach i tożsamości."
+  },
+  {
+   "tytuł": "Anything Else",
+   "tytuł_oryginalny": "Anything Else",
+   "reżyser": "Woody Allen",
+   "rok": "2003",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "12+",
+   "opis": "Młody pisarz próbuje rozwiązać problemy z kapryśną dziewczyną i radami starszego mentora. Komedia Woody'ego Allena."
+  },
+  {
+   "tytuł": "Dogville",
+   "tytuł_oryginalny": "Dogville",
+   "reżyser": "Lars von Trier",
+   "rok": "2003",
+   "kraj": "Dania",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "Uciekinierka z gangu zostaje przyjęta w małym miasteczku i płaci za tę gościnność coraz wyższą cenę. Teatralny film na pustej scenie."
+  },
+  {
+   "tytuł": "Między słowami",
+   "tytuł_oryginalny": "Lost in Translation",
+   "reżyser": "Sofia Coppola",
+   "rok": "2003",
+   "kraj": "USA",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Podstarzały aktor i młoda żona fotografa spotykają się w tokijskim hotelu i nawiązują wyjątkową więź. Film o samotności i bliskości."
+  },
+  {
+   "tytuł": "Zbrodnia doskonała",
+   "tytuł_oryginalny": "Salinui chueok",
+   "reżyser": "Bong Joon-ho",
+   "rok": "2003",
+   "kraj": "Korea Południowa",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "16+",
+   "opis": "Dwaj policjanci z prowincji w latach osiemdziesiątych tropią seryjnego zabójcę kobiet. Film oparty na prawdziwej sprawie."
+  },
+  {
+   "tytuł": "Team America: Światowa policja",
+   "tytuł_oryginalny": "Team America: World Police",
+   "reżyser": "Trey Parker",
+   "rok": "2004",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "16+",
+   "opis": "Marionetki z antyterrorystycznej jednostki ścigają złoczyńców w parodii hollywoodzkich filmów akcji. Komedia twórców „South Park”."
+  },
+  {
+   "tytuł": "Wysyp żywych trupów",
+   "tytuł_oryginalny": "Shaun of the Dead",
+   "reżyser": "Edgar Wright",
+   "rok": "2004",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "16+",
+   "opis": "Londyński sprzedawca próbuje ocalić matkę i dziewczynę podczas apokalipsy zombie. Brytyjska komedia grozy."
+  },
+  {
+   "tytuł": "Gospodarz",
+   "tytuł_oryginalny": "Gwoemul",
+   "reżyser": "Bong Joon-ho",
+   "rok": "2006",
+   "kraj": "Korea Południowa",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "16+",
+   "opis": "Z rzeki Han wyłania się potwór, a ojciec próbuje uratować porwaną córkę. Koreański film potworów z elementami satyry."
+  }
+ ]
+}

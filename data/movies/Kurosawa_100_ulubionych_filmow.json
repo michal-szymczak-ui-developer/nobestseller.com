@@ -1,0 +1,1008 @@
+{
+ "nazwa": "Akira Kurosawa",
+ "grupa": "Reżyserzy",
+ "opis": "Lista z posthumicznie wydanej książki „Yume wa tensai de aru” (1999), ułożona przez córkę Kazuko Kurosawę wedle zasady: jeden film na reżysera. Kolejność jest chronologiczna, nie preferencyjna. W pliku wpisy sortowane chronologicznie.",
+ "źródło": "https://www.openculture.com/2018/10/akira-kurosawas-100-favorite-movies.html",
+ "pozycje": [
+  {
+   "tytuł": "Złamane lilie",
+   "tytuł_oryginalny": "Broken Blossoms or The Yellow Man and the Girl",
+   "reżyser": "D. W. Griffith",
+   "rok": "1919",
+   "kraj": "USA",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Młoda dziewczyna maltretowana przez ojca-boksera znajduje schronienie u chińskiego kupca w londyńskiej dzielnicy Limehouse. Niemy melodramat Griffitha."
+  },
+  {
+   "tytuł": "Gabinet doktora Caligari",
+   "tytuł_oryginalny": "Das Cabinet des Dr. Caligari",
+   "reżyser": "Robert Wiene",
+   "rok": "1920",
+   "kraj": "Niemcy",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "12+",
+   "opis": "Hipnotyzer prezentuje na jarmarku lunatyka, który popełnia morderstwa na jego rozkaz. Film jest jednym z pierwszych dzieł ekspresjonizmu i wczesnego kina grozy."
+  },
+  {
+   "tytuł": "Doktor Mabuse – gracz",
+   "tytuł_oryginalny": "Dr. Mabuse, der Spieler",
+   "reżyser": "Fritz Lang",
+   "rok": "1922",
+   "kraj": "Niemcy",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "12+",
+   "opis": "Genialny przestępca i hipnotyzer Mabuse manipuluje giełdą, hazardem i ludźmi w powojennym Berlinie, a prokurator próbuje go powstrzymać. Nolan wskazuje serię o Mabuse jako wzór konstrukcji superłotra."
+  },
+  {
+   "tytuł": "Gorączka złota",
+   "tytuł_oryginalny": "The Gold Rush",
+   "reżyser": "Charles Chaplin",
+   "rok": "1925",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "6+",
+   "opis": "Włóczęga Charlot trafia na Alaskę w poszukiwaniu złota i staje przed próbami głodu i miłości. Komedia niema z kultowymi scenami."
+  },
+  {
+   "tytuł": "Upadek domu Usherów",
+   "tytuł_oryginalny": "La chute de la maison Usher",
+   "reżyser": "Jean Epstein",
+   "rok": "1928",
+   "kraj": "Francja",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "12+",
+   "opis": "Gość odwiedza dom Rodericka Ushera i jego chorej żony, a rozkładający się dom staje się zwierciadłem ich obłędu. Awangardowa adaptacja Edgara Allana Poego."
+  },
+  {
+   "tytuł": "Pies andaluzyjski",
+   "tytuł_oryginalny": "Un chien andalou",
+   "reżyser": "Luis Buñuel",
+   "rok": "1929",
+   "kraj": "Francja",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "Krótki film surrealistyczny złożony z nieoczekiwanych, sennych obrazów, otwiera słynna scena cięcia oka. Wspólne dzieło Buñuela i Salvadora Dalí."
+  },
+  {
+   "tytuł": "Maroko",
+   "tytuł_oryginalny": "Morocco",
+   "reżyser": "Josef von Sternberg",
+   "rok": "1930",
+   "kraj": "USA",
+   "gatunek": "Romans",
+   "kategoria_wiekowa": "12+",
+   "opis": "Piosenkarka z kabaretu zakochuje się w legionistce i musi wybierać między nim a bogatym adoratorem. Film z Marleną Dietrich i Garym Cooperem."
+  },
+  {
+   "tytuł": "Kongres tańczy",
+   "tytuł_oryginalny": "Der Kongreß tanzt",
+   "reżyser": "Erik Charell",
+   "rok": "1931",
+   "kraj": "Niemcy",
+   "gatunek": "Romans",
+   "kategoria_wiekowa": "6+",
+   "opis": "Wiedeńska sprzedawczyni rękawiczek zakochuje się w carze Aleksandrze podczas Kongresu Wiedeńskiego. Muzyczna komedia romantyczna."
+  },
+  {
+   "tytuł": "Opera za trzy grosze",
+   "tytuł_oryginalny": "Die 3 Groschen-Oper",
+   "reżyser": "G. W. Pabst",
+   "rok": "1931",
+   "kraj": "Niemcy",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Londyński bandyta Mackie Messer żeni się z córką bossa żebraków i wywołuje wojnę. Filmowa wersja musicalu Brechta i Weilla."
+  },
+  {
+   "tytuł": "Moje pieśni cicho błagają",
+   "tytuł_oryginalny": "Leise flehen meine Lieder",
+   "reżyser": "Willi Forst",
+   "rok": "1933",
+   "kraj": "Austria",
+   "gatunek": "Romans",
+   "kategoria_wiekowa": "6+",
+   "opis": "Film o życiu Franza Schuberta, jego miłości i muzyce w wiedeńskich salonach. Muzyczny melodramat."
+  },
+  {
+   "tytuł": "Cienki człowiek",
+   "tytuł_oryginalny": "The Thin Man",
+   "reżyser": "W. S. Van Dyke",
+   "rok": "1934",
+   "kraj": "USA",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "6+",
+   "opis": "Byli detektyw Nick Charles i jego żona Nora rozwiązują sprawę zaginięcia wynalazcy. Lekka komedia kryminalna wprowadziła słynną parę detektywów."
+  },
+  {
+   "tytuł": "Moja mała sąsiadka Yae",
+   "tytuł_oryginalny": "Tonari no Yae-chan",
+   "reżyser": "Yasujirō Shimazu",
+   "rok": "1934",
+   "kraj": "Japonia",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "6+",
+   "opis": "Pogodne sceny z życia dwóch sąsiadujących rodzin w japońskim mieście. Film shomin-geki o codzienności."
+  },
+  {
+   "tytuł": "Sazen Tange i garnek wart milion ryo",
+   "tytuł_oryginalny": "Tange Sazen yowa: Hyakuman ryō no tsubo",
+   "reżyser": "Sadao Yamanaka",
+   "rok": "1935",
+   "kraj": "Japonia",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "6+",
+   "opis": "Jednooki samuraj i antykwariusz poszukują cennego garnka, który okazuje się bezwartościowy. Komedia jidaigeki."
+  },
+  {
+   "tytuł": "Kapryśni młodzieńcy",
+   "tytuł_oryginalny": "Akanishi Kakita",
+   "reżyser": "Mansaku Itami",
+   "rok": "1936",
+   "kraj": "Japonia",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "6+",
+   "opis": "Młody samuraj Kakita zostaje wciągnięty w konflikt klanowy i próbuje zachować honor. Film jidaigeki."
+  },
+  {
+   "tytuł": "Stella Dallas",
+   "tytuł_oryginalny": "Stella Dallas",
+   "reżyser": "King Vidor",
+   "rok": "1937",
+   "kraj": "USA",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Matka z niższej klasy poświęca własne szczęście, by jej córka mogła wejść w wyższe sfery. Melodramat z Barbarą Stanwyck."
+  },
+  {
+   "tytuł": "Wielka iluzja",
+   "tytuł_oryginalny": "La grande illusion",
+   "reżyser": "Jean Renoir",
+   "rok": "1937",
+   "kraj": "Francja",
+   "gatunek": "Wojenny",
+   "kategoria_wiekowa": "12+",
+   "opis": "Francuscy jeńcy z I wojny światowej planują ucieczkę z niemieckich obozów i nawiązują nietypową więź z komendantem. Film ukazuje, że ludzkie więzi bywają silniejsze niż granice i klasy."
+  },
+  {
+   "tytuł": "Lekcje wypracowania",
+   "tytuł_oryginalny": "Tsuzurikata kyōshitsu",
+   "reżyser": "Kajirō Yamamoto",
+   "rok": "1938",
+   "kraj": "Japonia",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "6+",
+   "opis": "Nauczycielka w wiejskiej szkole prowadzi uczniów do pisania szczerych wypracowań o własnym życiu. Film z asystentem reżysera Akirą Kurosawą."
+  },
+  {
+   "tytuł": "Ninoczka",
+   "tytuł_oryginalny": "Ninotchka",
+   "reżyser": "Ernst Lubitsch",
+   "rok": "1939",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "6+",
+   "opis": "Surowa radziecka komisarka przyjeżdża do Paryża i ulega urokowi miasta oraz francuskiego hrabiego. Komedia z Gretą Garbo."
+  },
+  {
+   "tytuł": "Ziemia",
+   "tytuł_oryginalny": "Tsuchi",
+   "reżyser": "Tomu Uchida",
+   "rok": "1939",
+   "kraj": "Japonia",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Realistyczny obraz życia ubogich rolników w japońskiej wsi na początku XX wieku. Film według powieści Takashi Nagatsuki."
+  },
+  {
+   "tytuł": "Iwan Groźny",
+   "tytuł_oryginalny": "Ivan Groznyy",
+   "reżyser": "Siergiej Eisenstein",
+   "rok": "1944",
+   "kraj": "ZSRR",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Biografia pierwszego cara Rosji, Iwana IV, i jego walka o władzę z bojarami (część I i II). Monumentalny film Eisensteina."
+  },
+  {
+   "tytuł": "Moja droga Clementine",
+   "tytuł_oryginalny": "My Darling Clementine",
+   "reżyser": "John Ford",
+   "rok": "1946",
+   "kraj": "USA",
+   "gatunek": "Przygodowy",
+   "kategoria_wiekowa": "12+",
+   "opis": "Wyatt Earp i Doc Holliday walczą z rodziną Clantonów w Tombstone. Klasyczny western Johna Forda."
+  },
+  {
+   "tytuł": "To wspaniałe życie",
+   "tytuł_oryginalny": "It's a Wonderful Life",
+   "reżyser": "Frank Capra",
+   "rok": "1946",
+   "kraj": "USA",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "6+",
+   "opis": "George Bailey, rozpaczający po stracie majątku, zostaje odwiedzony przez anioła, który pokazuje mu świat bez jego istnienia. Film opowiada o znaczeniu zwykłych dobrych uczynków."
+  },
+  {
+   "tytuł": "Wielki sen",
+   "tytuł_oryginalny": "The Big Sleep",
+   "reżyser": "Howard Hawks",
+   "rok": "1946",
+   "kraj": "USA",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "12+",
+   "opis": "Detektyw Philip Marlowe zostaje wynajęty przez generała do szantażu i uwikłany w serię morderstw. Film noir z Humphreyem Bogartem i Lauren Bacall."
+  },
+  {
+   "tytuł": "Złodzieje rowerów",
+   "tytuł_oryginalny": "Ladri di biciclette",
+   "reżyser": "Vittorio De Sica",
+   "rok": "1948",
+   "kraj": "Włochy",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Bezrobotny ojciec w powojennym Rzymie traci rower niezbędny do pracy i wraz z synem przemierza miasto w poszukiwaniu złodzieja. Film jest wzruszającym obrazem biedy i godności."
+  },
+  {
+   "tytuł": "Późna wiosna",
+   "tytuł_oryginalny": "Banshun",
+   "reżyser": "Yasujirō Ozu",
+   "rok": "1949",
+   "kraj": "Japonia",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Córka opiekuje się owdowiałym ojcem, a on próbuje przekonać ją do małżeństwa. Film rozpoczyna cykl rodzinnych dramatów Ozu."
+  },
+  {
+   "tytuł": "Trzeci człowiek",
+   "tytuł_oryginalny": "The Third Man",
+   "reżyser": "Carol Reed",
+   "rok": "1949",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "12+",
+   "opis": "Pisarz przyjeżdża do powojennego Wiednia i odkrywa, że jego przyjaciel Harry Lime, uznany za zmarłego, żyje. Film słynie z czarno-białych zdjęć i muzyki cytry."
+  },
+  {
+   "tytuł": "Zielone góry",
+   "tytuł_oryginalny": "Aoi sanmyaku",
+   "reżyser": "Tadashi Imai",
+   "rok": "1949",
+   "kraj": "Japonia",
+   "gatunek": "Romans",
+   "kategoria_wiekowa": "6+",
+   "opis": "Nauczycielka i student wiążą się z sobą w małym górskim miasteczku w powojennej Japonii. Melodramat."
+  },
+  {
+   "tytuł": "Orfeusz",
+   "tytuł_oryginalny": "Orphée",
+   "reżyser": "Jean Cocteau",
+   "rok": "1950",
+   "kraj": "Francja",
+   "gatunek": "Fantasy",
+   "kategoria_wiekowa": "12+",
+   "opis": "Współczesny poeta Orfeusz podąża za Śmiercią do zaświatów, by odzyskać żonę. Poetycka adaptacja mitu."
+  },
+  {
+   "tytuł": "Carmen wraca do domu",
+   "tytuł_oryginalny": "Karumen kokyō ni kaeru",
+   "reżyser": "Keisuke Kinoshita",
+   "rok": "1951",
+   "kraj": "Japonia",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "6+",
+   "opis": "Tancerka wraca ze stolicy do wsi i szokuje mieszkańców swoimi manierami. Pierwszy japoński film pełnometrażowy w kolorze."
+  },
+  {
+   "tytuł": "Tramwaj zwany pożądaniem",
+   "tytuł_oryginalny": "A Streetcar Named Desire",
+   "reżyser": "Elia Kazan",
+   "rok": "1951",
+   "kraj": "USA",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "Upadła kobieta z Południa zamieszkuje u siostry i szwagra w Nowym Orleanie, co kończy się dramatem. Ekranizacja sztuki Tennessee Williamsa."
+  },
+  {
+   "tytuł": "Życie O-Haru, kobiety lekkich obyczajów",
+   "tytuł_oryginalny": "Saikaku ichidai onna",
+   "reżyser": "Kenji Mizoguchi",
+   "rok": "1952",
+   "kraj": "Japonia",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "W XVII-wiecznej Japonii kobieta z dobrej rodziny stacza się po kolejnych krzywdach do prostytucji. Dramat Mizoguchiego."
+  },
+  {
+   "tytuł": "Thérèse Raquin",
+   "tytuł_oryginalny": "Thérèse Raquin",
+   "reżyser": "Marcel Carné",
+   "rok": "1953",
+   "kraj": "Francja",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "Żona i jej kochanek zabijają męża, a wina zaczyna ich niszczyć. Adaptacja powieści Émile'a Zoli."
+  },
+  {
+   "tytuł": "Godzilla",
+   "tytuł_oryginalny": "Gojira",
+   "reżyser": "Ishirō Honda",
+   "rok": "1954",
+   "kraj": "Japonia",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "12+",
+   "opis": "Potwór z morskich głębin, obudzony próbami atomowymi, niszczy Tokio. Film uważany za metaforę lęku przed bronią jądrową."
+  },
+  {
+   "tytuł": "La strada",
+   "tytuł_oryginalny": "La strada",
+   "reżyser": "Federico Fellini",
+   "rok": "1954",
+   "kraj": "Włochy",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Naiwna dziewczyna Gelsomina zostaje sprzedana siłaczowi Zampanò i wędruje z nim po Włoszech jako cyrkowa artystka. Film mówi o samotności, okrucieństwie i nieoczekiwanej czułości."
+  },
+  {
+   "tytuł": "Podróż do Włoch",
+   "tytuł_oryginalny": "Viaggio in Italia",
+   "reżyser": "Roberto Rossellini",
+   "rok": "1954",
+   "kraj": "Włochy",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Angielskie małżeństwo jedzie do Neapolu sprzedać spadek i odkrywa narastający rozdźwięk między nimi. Film wpłynął na nowoczesne kino."
+  },
+  {
+   "tytuł": "Pather Panchali",
+   "tytuł_oryginalny": "Pather Panchali",
+   "reżyser": "Satyajit Ray",
+   "rok": "1955",
+   "kraj": "Indie",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Film przedstawia dzieciństwo chłopca Apu w ubogiej bengalskiej wsi i codzienność jego rodziny. Nolan powiedział w Criterion Closet, że film zrobił na nim ogromne wrażenie i wybrał całą trylogię Apu."
+  },
+  {
+   "tytuł": "Płynące chmury",
+   "tytuł_oryginalny": "Ukigumo",
+   "reżyser": "Mikio Naruse",
+   "rok": "1955",
+   "kraj": "Japonia",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "W powojennej Japonii urzędniczka i jej dawny kochanek wracają do siebie, mimo że związek ich niszczy. Melodramat Naruse."
+  },
+  {
+   "tytuł": "Tatuś długonogi",
+   "tytuł_oryginalny": "Daddy Long Legs",
+   "reżyser": "Jean Negulesco",
+   "rok": "1955",
+   "kraj": "USA",
+   "gatunek": "Romans",
+   "kategoria_wiekowa": "6+",
+   "opis": "Bogaty Amerykanin anonimowo finansuje naukę francuskiej sieroty i potem zakochuje się w niej. Musical z Fredem Astaire'em."
+  },
+  {
+   "tytuł": "Dumni",
+   "tytuł_oryginalny": "The Proud Ones",
+   "reżyser": "Robert D. Webb",
+   "rok": "1956",
+   "kraj": "USA",
+   "gatunek": "Przygodowy",
+   "kategoria_wiekowa": "12+",
+   "opis": "Marszałek miasteczka na Dzikim Zachodzie próbuje utrzymać porządek, mimo że traci wzrok. Western."
+  },
+  {
+   "tytuł": "Słońce w ostatnich dniach szogunatu",
+   "tytuł_oryginalny": "Bakumatsu taiyōden",
+   "reżyser": "Yūzō Kawashima",
+   "rok": "1957",
+   "kraj": "Japonia",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "12+",
+   "opis": "W schyłkowych dniach szogunatu Tokugawa hulaka zagnieżdża się w burdelu i wciąga w polityczne intrygi. Czarna komedia."
+  },
+  {
+   "tytuł": "Młode lwy",
+   "tytuł_oryginalny": "The Young Lions",
+   "reżyser": "Edward Dmytryk",
+   "rok": "1958",
+   "kraj": "USA",
+   "gatunek": "Wojenny",
+   "kategoria_wiekowa": "12+",
+   "opis": "Losy dwóch Amerykanów i jednego Niemca w czasie II wojny światowej. Film z Marlonem Brando, Montgomerym Cliftem i Deanem Martinem."
+  },
+  {
+   "tytuł": "400 batów",
+   "tytuł_oryginalny": "Les quatre cents coups",
+   "reżyser": "François Truffaut",
+   "rok": "1959",
+   "kraj": "Francja",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Zaniedbywany przez rodziców 13-letni Antoine Doinel wagaruje, kłamie i wpada w konflikt z prawem. Półautobiograficzny film otworzył francuską nową falę."
+  },
+  {
+   "tytuł": "Ben Hur",
+   "tytuł_oryginalny": "Ben-Hur",
+   "reżyser": "William Wyler",
+   "rok": "1959",
+   "kraj": "USA",
+   "gatunek": "Przygodowy",
+   "kategoria_wiekowa": "12+",
+   "opis": "Żydowski książę Judah Ben-Hur zostaje niesłusznie skazany na galery i po latach wraca, by zemścić się na rzymskim przyjacielu. Równolegle losy bohatera splatają się z życiem i śmiercią Jezusa."
+  },
+  {
+   "tytuł": "Kuzyni",
+   "tytuł_oryginalny": "Les cousins",
+   "reżyser": "Claude Chabrol",
+   "rok": "1959",
+   "kraj": "Francja",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "Prowincjonalny student przyjeżdża do kuzyna do Paryża, a ich odmienne charaktery prowadzą do tragedii. Film nowej fali."
+  },
+  {
+   "tytuł": "Do utraty tchu",
+   "tytuł_oryginalny": "À bout de souffle",
+   "reżyser": "Jean-Luc Godard",
+   "rok": "1960",
+   "kraj": "Francja",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "16+",
+   "opis": "Drobny przestępca Michel zabija policjanta i ucieka, a w Paryżu odwiedza amerykańską dziewczynę Patricię. Rewolucyjny montaż i swobodna narracja odmieniły język kina."
+  },
+  {
+   "tytuł": "Jej brat",
+   "tytuł_oryginalny": "Ototo",
+   "reżyser": "Kon Ichikawa",
+   "rok": "1960",
+   "kraj": "Japonia",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Starsza siostra opiekuje się młodszym, niepokornym bratem, który marnuje życie i zapada na gruźlicę. Melodramat."
+  },
+  {
+   "tytuł": "W pełnym słońcu",
+   "tytuł_oryginalny": "Plein soleil",
+   "reżyser": "René Clément",
+   "rok": "1960",
+   "kraj": "Francja",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "12+",
+   "opis": "Biedak Tom Ripley zabija bogatego przyjaciela i przejmuje jego tożsamość. Adaptacja powieści Patricii Highsmith."
+  },
+  {
+   "tytuł": "Zajączek w niebie",
+   "tytuł_oryginalny": "Le voyage en ballon",
+   "reżyser": "Albert Lamorisse",
+   "rok": "1960",
+   "kraj": "Francja",
+   "gatunek": "Przygodowy",
+   "kategoria_wiekowa": "6+",
+   "opis": "Dziadek zabiera wnuka w podróż balonem nad Francją. Film przygodowy dla dzieci."
+  },
+  {
+   "tytuł": "Zazie w metrze",
+   "tytuł_oryginalny": "Zazie dans le métro",
+   "reżyser": "Louis Malle",
+   "rok": "1960",
+   "kraj": "Francja",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "12+",
+   "opis": "Dziewczynka spędza weekend w Paryżu u wuja i pragnie przejechać się metrem, które strajkuje. Surrealistyczna komedia."
+  },
+  {
+   "tytuł": "Długa nieobecność",
+   "tytuł_oryginalny": "Une aussi longue absence",
+   "reżyser": "Henri Colpi",
+   "rok": "1961",
+   "kraj": "Francja",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Właścicielka kawiarni przekonuje się, że bezdomny włóczęga to jej mąż, który zaginął w czasie wojny. Zdobywca Złotej Palmy."
+  },
+  {
+   "tytuł": "Zeszłego roku w Marienbadzie",
+   "tytuł_oryginalny": "L'année dernière à Marienbad",
+   "reżyser": "Alain Resnais",
+   "rok": "1961",
+   "kraj": "Francja",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "W luksusowym hotelu mężczyzna próbuje przekonać kobietę, że spotkali się rok wcześniej. Zagadkowy film o pamięci."
+  },
+  {
+   "tytuł": "Co się zdarzyło Baby Jane?",
+   "tytuł_oryginalny": "What Ever Happened to Baby Jane?",
+   "reżyser": "Robert Aldrich",
+   "rok": "1962",
+   "kraj": "USA",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "12+",
+   "opis": "Dwie dawne gwiazdy, siostry, mieszkają razem w odizolowanym domu, a jedna dręczy drugą. Psychologiczny thriller z Bette Davis i Joan Crawford."
+  },
+  {
+   "tytuł": "Lawrence z Arabii",
+   "tytuł_oryginalny": "Lawrence of Arabia",
+   "reżyser": "David Lean",
+   "rok": "1962",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Przygodowy",
+   "kategoria_wiekowa": "12+",
+   "opis": "Brytyjski oficer T. E. Lawrence jednoczy plemiona arabskie w walce z Turkami w czasie I wojny światowej. Epicki film Davida Leana."
+  },
+  {
+   "tytuł": "Mélodie en sous-sol",
+   "tytuł_oryginalny": "Mélodie en sous-sol",
+   "reżyser": "Henri Verneuil",
+   "rok": "1963",
+   "kraj": "Francja",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "12+",
+   "opis": "Wychodzący z więzienia gangster planuje napad na kasyno w Cannes z młodym wspólnikiem. Film z Jeanem Gabin i Alainem Delonem."
+  },
+  {
+   "tytuł": "Ptaki",
+   "tytuł_oryginalny": "The Birds",
+   "reżyser": "Alfred Hitchcock",
+   "rok": "1963",
+   "kraj": "USA",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "12+",
+   "opis": "W nadmorskim miasteczku ptaki zaczynają atakować ludzi bez wyraźnej przyczyny. Film Hitchcocka jest klasyką kina grozy."
+  },
+  {
+   "tytuł": "Czerwona pustynia",
+   "tytuł_oryginalny": "Il deserto rosso",
+   "reżyser": "Michelangelo Antonioni",
+   "rok": "1964",
+   "kraj": "Włochy",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "Kobieta po załamaniu nerwowym zmaga się z alienacją w przemysłowym krajobrazie Rawenny. Pierwszy kolorowy film Antonioniego."
+  },
+  {
+   "tytuł": "Kto się boi Virginii Woolf?",
+   "tytuł_oryginalny": "Who's Afraid of Virginia Woolf?",
+   "reżyser": "Mike Nichols",
+   "rok": "1966",
+   "kraj": "USA",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "Profesor i jego żona wciągają młodą parę w alkoholową noc pełną wzajemnych okrucieństw. Ekranizacja sztuki Edwarda Albeego."
+  },
+  {
+   "tytuł": "Bonnie i Clyde",
+   "tytuł_oryginalny": "Bonnie and Clyde",
+   "reżyser": "Arthur Penn",
+   "rok": "1967",
+   "kraj": "USA",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "16+",
+   "opis": "Młoda para rabuje banki w czasach Wielkiego Kryzysu i staje się legendą. Film zapoczątkował Nowe Hollywood."
+  },
+  {
+   "tytuł": "W upale nocy",
+   "tytuł_oryginalny": "In the Heat of the Night",
+   "reżyser": "Norman Jewison",
+   "rok": "1967",
+   "kraj": "USA",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "12+",
+   "opis": "Czarnoskóry detektyw z Filadelfii pomaga rasistowskiemu szefowi policji w śledztwie w mieście na Południu. Dramat kryminalny o uprzedzeniach."
+  },
+  {
+   "tytuł": "Szarża lekkiej brygady",
+   "tytuł_oryginalny": "The Charge of the Light Brigade",
+   "reżyser": "Tony Richardson",
+   "rok": "1968",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Wojenny",
+   "kategoria_wiekowa": "12+",
+   "opis": "Film przedstawia przyczyny i przebieg bezsensownej szarży brytyjskiej kawalerii w wojnie krymskiej. Satyra na arystokrację wojskową."
+  },
+  {
+   "tytuł": "Nocny kowboj",
+   "tytuł_oryginalny": "Midnight Cowboy",
+   "reżyser": "John Schlesinger",
+   "rok": "1969",
+   "kraj": "USA",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "Młody Teksańczyk próbuje zostać męską prostytutką w Nowym Jorku i zaprzyjaźnia się z chorym oszustem. Film pokazuje brutalność wielkiego miasta."
+  },
+  {
+   "tytuł": "M*A*S*H",
+   "tytuł_oryginalny": "M*A*S*H",
+   "reżyser": "Robert Altman",
+   "rok": "1970",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "16+",
+   "opis": "Chirurdzy polowego szpitala w czasie wojny koreańskiej łagodzą stres żartami i psotami. Czarna komedia wojenna."
+  },
+  {
+   "tytuł": "Francuski łącznik",
+   "tytuł_oryginalny": "The French Connection",
+   "reżyser": "William Friedkin",
+   "rok": "1971",
+   "kraj": "USA",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "16+",
+   "opis": "Nowojorski policjant tropi międzynarodową siatkę przemytników heroiny. Film słynie z pościgu pod torami metra."
+  },
+  {
+   "tytuł": "Johnny poszedł na wojnę",
+   "tytuł_oryginalny": "Johnny Got His Gun",
+   "reżyser": "Dalton Trumbo",
+   "rok": "1971",
+   "kraj": "USA",
+   "gatunek": "Wojenny",
+   "kategoria_wiekowa": "16+",
+   "opis": "Żołnierz z I wojny światowej, pozbawiony kończyn i zmysłów, próbuje komunikować się z otoczeniem. Antywojenny dramat."
+  },
+  {
+   "tytuł": "Solaris",
+   "tytuł_oryginalny": "Solyaris",
+   "reżyser": "Andriej Tarkowski",
+   "rok": "1972",
+   "kraj": "ZSRR",
+   "gatunek": "Science fiction",
+   "kategoria_wiekowa": "12+",
+   "opis": "Psycholog Kris Kelvin przybywa na stację badającą tajemniczą planetę, która materializuje ludzkie wspomnienia. Film według powieści Lema jest refleksją nad pamięcią i granicami poznania."
+  },
+  {
+   "tytuł": "Duch ula",
+   "tytuł_oryginalny": "El espíritu de la colmena",
+   "reżyser": "Víctor Erice",
+   "rok": "1973",
+   "kraj": "Hiszpania",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Mała Ana, zafascynowana projekcją „Frankensteina”, szuka ducha potwora we wsi w powojennej Hiszpanii. Film w poetycki sposób ukazuje świat dziecięcej wyobraźni i ciszę epoki Franco."
+  },
+  {
+   "tytuł": "Dzień Szakala",
+   "tytuł_oryginalny": "The Day of the Jackal",
+   "reżyser": "Fred Zinnemann",
+   "rok": "1973",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "12+",
+   "opis": "Najemny zabójca planuje zamach na prezydenta de Gaulle'a, a policja próbuje go powstrzymać. Thriller według powieści Frederika Forsytha."
+  },
+  {
+   "tytuł": "Ojciec chrzestny II",
+   "tytuł_oryginalny": "The Godfather Part II",
+   "reżyser": "Francis Ford Coppola",
+   "rok": "1974",
+   "kraj": "USA",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "16+",
+   "opis": "Michael Corleone umacnia władzę, a równolegle poznajemy młodość Vita w Nowym Jorku. Kontynuacja uważana za jedną z najlepszych."
+  },
+  {
+   "tytuł": "Rodzina",
+   "tytuł_oryginalny": "Gruppo di famiglia in un interno",
+   "reżyser": "Luchino Visconti",
+   "rok": "1974",
+   "kraj": "Włochy",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "Samotny profesor zamyka się w rzymskim apartamencie, gdy lokatorzy z rodziny zaburzają jego spokój. Kameralny dramat."
+  },
+  {
+   "tytuł": "Sandakan nr 8",
+   "tytuł_oryginalny": "Sandakan hachibanshō bōkyō",
+   "reżyser": "Kei Kumai",
+   "rok": "1974",
+   "kraj": "Japonia",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "Pisarka rozmawia ze starą kobietą, która w młodości pracowała jako prostytutka w Borneo. Dramat społeczny."
+  },
+  {
+   "tytuł": "Barry Lyndon",
+   "tytuł_oryginalny": "Barry Lyndon",
+   "reżyser": "Stanley Kubrick",
+   "rok": "1975",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Irlandczyk wspina się po szczeblach XVIII-wiecznego społeczeństwa, by spaść z niego. Film słynie ze zdjęć przy świetle świec."
+  },
+  {
+   "tytuł": "Lot nad kukułczym gniazdem",
+   "tytuł_oryginalny": "One Flew Over the Cuckoo's Nest",
+   "reżyser": "Miloš Forman",
+   "rok": "1975",
+   "kraj": "USA",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "Buntownik McMurphy trafia do szpitala psychiatrycznego i wchodzi w konflikt z autorytarną siostrą Ratched. Film jest krytyką instytucji, które łamią indywidualność."
+  },
+  {
+   "tytuł": "Wędrowni aktorzy",
+   "tytuł_oryginalny": "O Thiasos",
+   "reżyser": "Theo Angelopoulos",
+   "rok": "1975",
+   "kraj": "Grecja",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "Wędrowna trupa teatralna podróżuje przez Grecję w latach 1939–1952, a ich historia odzwierciedla losy kraju. Czterogodzinny film."
+  },
+  {
+   "tytuł": "Kołysanka ziemi",
+   "tytuł_oryginalny": "Daichi no komoriuta",
+   "reżyser": "Yasuzō Masumura",
+   "rok": "1976",
+   "kraj": "Japonia",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Historia kobiety, która w powojennej Japonii wyrusza w podróż w poszukiwaniu swojego miejsca. Melodramat."
+  },
+  {
+   "tytuł": "Annie Hall",
+   "tytuł_oryginalny": "Annie Hall",
+   "reżyser": "Woody Allen",
+   "rok": "1977",
+   "kraj": "USA",
+   "gatunek": "Romans",
+   "kategoria_wiekowa": "16+",
+   "opis": "Komik Alvy Singer wspomina swój związek z kapryśną Annie, analizując, dlaczego się rozpadł. Film z humorem i autoironią opowiada o miłości, neurozach i życiu w Nowym Jorku."
+  },
+  {
+   "tytuł": "Nieokończony utwór na pianolę",
+   "tytuł_oryginalny": "Neokonchennaya pyesa dlya mekhanicheskogo pianino",
+   "reżyser": "Nikita Michałkow",
+   "rok": "1977",
+   "kraj": "ZSRR",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Grupa przyjaciół spędza dzień w rosyjskiej posiadłości, a rozmowy odsłaniają ich rozczarowanie. Adaptacja Czechowa."
+  },
+  {
+   "tytuł": "Padre padrone",
+   "tytuł_oryginalny": "Padre padrone",
+   "reżyser": "Paolo Taviani, Vittorio Taviani",
+   "rok": "1977",
+   "kraj": "Włochy",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "Młody pasterz z Sardynii wyrywa się spod tyranii ojca i zdobywa wykształcenie. Film oparty na autobiografii."
+  },
+  {
+   "tytuł": "Daleki głos wiosny",
+   "tytuł_oryginalny": "Haruka naru yama no yobigoe",
+   "reżyser": "Yōji Yamada",
+   "rok": "1980",
+   "kraj": "Japonia",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Owdowiała kobieta z dziećmi próbuje rozpocząć nowe życie na farmie w Hokkaido. Dramat rodzinny."
+  },
+  {
+   "tytuł": "Gloria",
+   "tytuł_oryginalny": "Gloria",
+   "reżyser": "John Cassavetes",
+   "rok": "1980",
+   "kraj": "USA",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "16+",
+   "opis": "Kobieta z półświatka ucieka z chłopcem, który został sam po zamordowaniu rodziców przez mafię. Film z Geną Rowlands."
+  },
+  {
+   "tytuł": "Fanny i Aleksander",
+   "tytuł_oryginalny": "Fanny och Alexander",
+   "reżyser": "Ingmar Bergman",
+   "rok": "1982",
+   "kraj": "Szwecja",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Dwoje dzieci z bogatego rodu po śmierci ojca trafia do domu surowego biskupa-ojczyma. Epicki obraz dzieciństwa."
+  },
+  {
+   "tytuł": "Fitzcarraldo",
+   "tytuł_oryginalny": "Fitzcarraldo",
+   "reżyser": "Werner Herzog",
+   "rok": "1982",
+   "kraj": "Niemcy",
+   "gatunek": "Przygodowy",
+   "kategoria_wiekowa": "12+",
+   "opis": "Pasjonat opery w Peru próbuje przeciągnąć parowiec przez górę, by sfinansować budowę opery w dżungli. Film z Klausem Kinskim."
+  },
+  {
+   "tytuł": "Król komedii",
+   "tytuł_oryginalny": "The King of Comedy",
+   "reżyser": "Martin Scorsese",
+   "rok": "1982",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "16+",
+   "opis": "Natrętny fan komika porywa gwiazdę telewizji, by zdobyć szansę występu w programie. Czarna komedia o obsesji sławy."
+  },
+  {
+   "tytuł": "Traviata",
+   "tytuł_oryginalny": "La traviata",
+   "reżyser": "Franco Zeffirelli",
+   "rok": "1982",
+   "kraj": "Włochy",
+   "gatunek": "Romans",
+   "kategoria_wiekowa": "12+",
+   "opis": "Filmowa wersja opery Verdiego o paryskiej kurtyzanie, która zakochuje się w młodym arystokracie. Z Placido Domingo."
+  },
+  {
+   "tytuł": "Wesołych świąt, panie Lawrence",
+   "tytuł_oryginalny": "Merry Christmas, Mr. Lawrence",
+   "reżyser": "Nagisa Ōshima",
+   "rok": "1983",
+   "kraj": "Japonia",
+   "gatunek": "Wojenny",
+   "kategoria_wiekowa": "16+",
+   "opis": "W japońskim obozie jenieckim na Jawie dochodzi do napięcia między brytyjskim oficerem a japońskim komendantem. Nolan umieścił film w dziesiątce Criterion."
+  },
+  {
+   "tytuł": "Inni niż ten raj",
+   "tytuł_oryginalny": "Stranger Than Paradise",
+   "reżyser": "Jim Jarmusch",
+   "rok": "1984",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "16+",
+   "opis": "Dwóch nowojorskich kumpli i kuzynka z Węgier podróżują do Cleveland i na Florydę. Minimalistyczna komedia niezależna."
+  },
+  {
+   "tytuł": "Lato u dziadka",
+   "tytuł_oryginalny": "Dongdong de jiaqi",
+   "reżyser": "Hou Hsiao-hsien",
+   "rok": "1984",
+   "kraj": "Tajwan",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "6+",
+   "opis": "Rodzeństwo spędza wakacje na wsi u dziadka i obserwuje życie dorosłych. Pogodny film o dzieciństwie."
+  },
+  {
+   "tytuł": "Paryż, Teksas",
+   "tytuł_oryginalny": "Paris, Texas",
+   "reżyser": "Wim Wenders",
+   "rok": "1984",
+   "kraj": "Niemcy",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Milczący tułacz wyłania się z pustyni i próbuje odnaleźć zagubioną rodzinę. Film o stracie i odkupieniu."
+  },
+  {
+   "tytuł": "Pola śmierci",
+   "tytuł_oryginalny": "The Killing Fields",
+   "reżyser": "Roland Joffé",
+   "rok": "1984",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Wojenny",
+   "kategoria_wiekowa": "16+",
+   "opis": "Amerykański dziennikarz i jego kambodżański tłumacz przeżywają reżim Czerwonych Khmerów. Dramat oparty na faktach."
+  },
+  {
+   "tytuł": "Ojciec w podróży służbowej",
+   "tytuł_oryginalny": "Otac na službenom putu",
+   "reżyser": "Emir Kusturica",
+   "rok": "1985",
+   "kraj": "Jugosławia",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "W Sarajewie lat pięćdziesiątych rodzina próbuje przetrwać po aresztowaniu ojca przez władze. Film zdobył Złotą Palmę."
+  },
+  {
+   "tytuł": "Podróż do Bountiful",
+   "tytuł_oryginalny": "The Trip to Bountiful",
+   "reżyser": "Peter Masterson",
+   "rok": "1985",
+   "kraj": "USA",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Starsza kobieta ucieka z miasta, by po raz ostatni zobaczyć rodzinne Bountiful. Dramat z Geraldine Page."
+  },
+  {
+   "tytuł": "Świadek",
+   "tytuł_oryginalny": "Witness",
+   "reżyser": "Peter Weir",
+   "rok": "1985",
+   "kraj": "USA",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "12+",
+   "opis": "Policjant ukrywa się w społeczności Amiszów razem z chłopcem, który widział morderstwo. Film z Harrisonem Fordem."
+  },
+  {
+   "tytuł": "Bagdad Café",
+   "tytuł_oryginalny": "Out of Rosenheim",
+   "reżyser": "Percy Adlon",
+   "rok": "1987",
+   "kraj": "Niemcy",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "12+",
+   "opis": "Niemiecka turystka zostaje porzucona na pustyni i znajduje pracę w podupadłym motelu. Komedia dramatyczna o przyjaźni."
+  },
+  {
+   "tytuł": "Gdzie jest dom mojego przyjaciela?",
+   "tytuł_oryginalny": "Khane-ye doust kodjast?",
+   "reżyser": "Abbas Kiarostami",
+   "rok": "1987",
+   "kraj": "Iran",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "6+",
+   "opis": "Ośmiolatek szuka przyjaciela po wiosce, by oddać mu zeszyt i uchronić od kary. Prosty film o odpowiedzialności."
+  },
+  {
+   "tytuł": "Wieloryby w sierpniu",
+   "tytuł_oryginalny": "The Whales of August",
+   "reżyser": "Lindsay Anderson",
+   "rok": "1987",
+   "kraj": "USA",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Dwie starsze siostry spędzają lato w domku na wybrzeżu Maine. Film z Bette Davis i Lillian Gish."
+  },
+  {
+   "tytuł": "Zmarli",
+   "tytuł_oryginalny": "The Dead",
+   "reżyser": "John Huston",
+   "rok": "1987",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Podczas dublińskiej kolacji w 1904 roku mąż odkrywa tajemnicę sprzed lat dotyczącą żony. Adaptacja opowiadania Jamesa Joyce'a."
+  },
+  {
+   "tytuł": "Mój sąsiad Totoro",
+   "tytuł_oryginalny": "Tonari no Totoro",
+   "reżyser": "Hayao Miyazaki",
+   "rok": "1988",
+   "kraj": "Japonia",
+   "gatunek": "Animacja",
+   "kategoria_wiekowa": "6+",
+   "opis": "Dwie siostry przeprowadzają się na wieś i poznają leśnego ducha Totoro. Pogodny film Studia Ghibli."
+  },
+  {
+   "tytuł": "Na pustych torach",
+   "tytuł_oryginalny": "Running on Empty",
+   "reżyser": "Sidney Lumet",
+   "rok": "1988",
+   "kraj": "USA",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Rodzina byłych radykałów od lat ukrywa się przed FBI, a nastoletni syn chce żyć własnym życiem. Film z River Phoenix."
+  },
+  {
+   "tytuł": "A-un",
+   "tytuł_oryginalny": "A-Un",
+   "reżyser": "Yōichi Higashi",
+   "rok": "1989",
+   "kraj": "Japonia",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Dwaj przyjaciele z lat młodości spotykają się po wielu latach i próbują zrozumieć swoją relację. Dramat obyczajowy."
+  },
+  {
+   "tytuł": "Piękna złośnica",
+   "tytuł_oryginalny": "La belle noiseuse",
+   "reżyser": "Jacques Rivette",
+   "rok": "1991",
+   "kraj": "Francja",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "Stary malarz po latach wraca do niedokończonego obrazu, pozwalając młodej modelce zasiąść do portretu. Czterogodzinny dramat."
+  },
+  {
+   "tytuł": "Hana-bi",
+   "tytuł_oryginalny": "Hana-bi",
+   "reżyser": "Takeshi Kitano",
+   "rok": "1997",
+   "kraj": "Japonia",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "16+",
+   "opis": "Były policjant po tragedii rodzinnej opiekuje się umierającą żoną i ucieka przed yakuzą. Film zdobył Złotego Lwa."
+  }
+ ]
+}

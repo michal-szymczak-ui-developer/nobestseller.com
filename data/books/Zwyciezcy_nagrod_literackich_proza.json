@@ -1,0 +1,752 @@
+{
+  "nazwa": "Zwycięzcy nagród PL",
+  "pozycje": [
+    {
+      "tytuł": "Zmierzch świata",
+      "autor": "Włodzimierz Odojewski",
+      "rok": "1964",
+      "gatunek": "Powieść historyczna (opowiadania)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Zbiór opowiadań otwierający cykl o Wołyniu i Podolu w latach 1943–1944: skutki sowieckiej inwazji, niemieckiej okupacji i walk polsko-ukraińskich. Losy polskiej szlachty i arystokratów, którzy schronili się na Ukrainie.",
+      "nagrody": "Kościelskich 1966"
+    },
+    {
+      "tytuł": "Żydowska wojna",
+      "autor": "Henryk Grynberg",
+      "rok": "1965",
+      "gatunek": "Literatura obyczajowa (proza autobiograficzna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Autobiograficzna krótka powieść o rodzinie żydowskiej ukrywającej się na wsi w czasie okupacji; ojciec zostaje zamordowany. Matka z synem żyją potem na fałszywych dokumentach jako rodzina katolicka.",
+      "nagrody": "Kościelskich 1966"
+    },
+    {
+      "tytuł": "Konopielka",
+      "autor": "Edward Redliński",
+      "rok": "1973",
+      "gatunek": "Literatura obyczajowa (satyra wiejska)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Satyryczna, humorystyczna opowieść o odciętej od świata wsi Taplary, do której dociera nowoczesność. Chłop Kaziuk zderza się z młodą nauczycielką z miasta, a pisana gwarą narracja kontrastuje mentalność wsi i cywilizację miejską.",
+      "nagrody": "Kościelskich 1974"
+    },
+    {
+      "tytuł": "Przypadki inżyniera ludzkich dusz",
+      "autor": "Josef Škvorecký",
+      "rok": "1977",
+      "gatunek": "Literatura obyczajowa (powieść emigracyjna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Czeski emigrant Danny Smiřický, wykładowca literatury na kanadyjskim uniwersytecie, przeplata sceny z zajęć i osobiste anegdoty ze wspomnieniami przyjaciół, których los rzucił w czasach reżimów. Powieść o emigracji, pamięci i wolności.",
+      "nagrody": "Angelus 2009 (nagroda główna)"
+    },
+    {
+      "tytuł": "Gra na zwłokę",
+      "autor": "Janusz Anderman",
+      "rok": "1979",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Bohater, sobowtór autora, rozdarty wewnętrznie i opętany poczuciem inwigilacji przez tajną policję, wędruje w poszukiwaniu mieszkania. Krótka powieść o lęku i paranoi w realiach PRL.",
+      "nagrody": "Kościelskich 1981"
+    },
+    {
+      "tytuł": "Wojna nie ma w sobie nic z kobiety",
+      "autor": "Swietłana Aleksijewicz",
+      "rok": "1985",
+      "gatunek": "Reportaż (literacki)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Zapis rozmów z kobietami, które w czasie II wojny światowej służyły w armii radzieckiej. Reportaż pokazuje wojnę z perspektywy ich codziennych doświadczeń i cierpienia, a nie bohaterskiej propagandy.",
+      "nagrody": "Angelus 2011 (nagroda główna)"
+    },
+    {
+      "tytuł": "Weiser Dawidek",
+      "autor": "Paweł Huelle",
+      "rok": "1987",
+      "gatunek": "Literatura obyczajowa (powieść inicjacyjna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Debiutancka powieść o niewyjaśnionym zniknięciu dwunastoletniego żydowskiego chłopca Weisera latem 1957 roku w Gdańsku. Wspomnienie dzieciństwa, pamięć i wielokulturowe miasto.",
+      "nagrody": "Kościelskich 1988"
+    },
+    {
+      "tytuł": "Rien ne va plus",
+      "autor": "Andrzej Bart",
+      "rok": "1991",
+      "gatunek": "Powieść historyczna (powieść filozoficzna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Debiutancka powieść, w której narratorem jest obraz olejny, a bohaterem włoski libertyn przez dwieście lat obserwujący polski los. Erudycyjna, ironiczna opowieść o historii i obyczajach.",
+      "nagrody": "Kościelskich 1991"
+    },
+    {
+      "tytuł": "Spis cudzołożnic",
+      "autor": "Jerzy Pilch",
+      "rok": "1993",
+      "gatunek": "Literatura obyczajowa (powieść groteskowa)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Gustaw, nieudany pisarz i miłośnik kobiet, oprowadza szwedzkiego gościa po Krakowie w absurdach połowy lat 80. Groteskowa wycieczka po narodowych mitach przeplatana opowieściami o jego podbojach.",
+      "nagrody": "Kościelskich 1989"
+    },
+    {
+      "tytuł": "Opowieści z ostatnich dni",
+      "autor": "Oleg Pawłow",
+      "rok": "1994–2001",
+      "gatunek": "Literatura obyczajowa (trylogia powieści)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Trzy krótkie powieści (Służbowa baśń, Sprawa Matuszyna, Karagandyjska tryzna) o schyłku imperium sowieckiego, osadzone w wojsku i łagrach Kazachstanu. Autor opiera się na własnej służbie w wojskach MSW.",
+      "nagrody": "Angelus 2017 (nagroda główna)"
+    },
+    {
+      "tytuł": "Biały kruk",
+      "autor": "Andrzej Stasiuk",
+      "rok": "1995",
+      "gatunek": "Literatura obyczajowa (powieść drogi)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Rok 1993, pięciu przyjaciół z czasów PRL wyrusza w Beskidy, szukając przygody, która przeradza się w brutalny koszmar. Opowieść o przyjaźni, zdradzie i rozstaniu z młodzieńczymi ideałami.",
+      "nagrody": "Kościelskich 1995"
+    },
+    {
+      "tytuł": "Sny i kamienie",
+      "autor": "Magdalena Tulli",
+      "rok": "1995",
+      "gatunek": "Literatura obyczajowa (proza poetycka)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Debiut o odbudowie wielkiego miasta, przypominającego Warszawę, po całkowitym zniszczeniu w czasie wojny. Narracja wchodzi w sny ludzi i kamieni; tekst na pograniczu powieści i poematu prozą.",
+      "nagrody": "Kościelskich 1995"
+    },
+    {
+      "tytuł": "Prawiek i inne czasy",
+      "autor": "Olga Tokarczuk",
+      "rok": "1996",
+      "gatunek": "Literatura obyczajowa (powieść realizmu magicznego)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Dzieje mieszkańców fikcyjnej wsi Prawiek w XX wieku, opowiedziane w krótkich rozdziałach z perspektywy ludzi, zwierząt, przedmiotów i samego miejsca. Mityczna proza z elementami baśni.",
+      "nagrody": "Nike 1997 (Nagroda Czytelników); Kościelskich 1997"
+    },
+    {
+      "tytuł": "Widnokrąg",
+      "autor": "Wiesław Myśliwski",
+      "rok": "1996",
+      "gatunek": "Literatura obyczajowa (powieść wspomnieniowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Narrator wspomina dzieciństwo i młodość na wsi w czasie wojny i po niej, snując gawędę o ludziach, wędrówkach i dojrzewaniu. Powieść o pamięci i upływie czasu, pisana bogatym językiem mówionym.",
+      "nagrody": "Nike 1997 (nagroda główna)"
+    },
+    {
+      "tytuł": "Dom dzienny, dom nocny",
+      "autor": "Olga Tokarczuk",
+      "rok": "1998",
+      "gatunek": "Literatura obyczajowa (powieść fragmentaryczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Narratorka osiada w sudeckiej wsi koło Nowej Rudy i zbiera historie okolicznych mieszkańców, legendy oraz sny. Mozaikowa proza o pograniczu, pamięci i granicach codzienności.",
+      "nagrody": "Nike 1999 (Nagroda Czytelników)"
+    },
+    {
+      "tytuł": "Madame",
+      "autor": "Antoni Libera",
+      "rok": "1998",
+      "gatunek": "Literatura obyczajowa (powieść inicjacyjna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "W latach 60. maturzysta zakochuje się w tajemniczej nauczycielce francuskiego i próbuje poznać jej historię. Powieść o dojrzewaniu, miłości i literaturze w realiach PRL.",
+      "nagrody": "Znak (konkurs na powieść) 1998 (nagroda główna)"
+    },
+    {
+      "tytuł": "Harmonia caelestis",
+      "autor": "Péter Esterházy",
+      "rok": "2000",
+      "gatunek": "Literatura obyczajowa (powieść rodzinna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Rodzinna saga Esterházych składa się z 371 numerowanych fragmentów o dziejach rodu, w których bohaterem jest zawsze „mój ojciec”, oraz z drugiej, bardziej konwencjonalnej części o losach ojca autora w komunistycznych Węgrzech. Ironiczna, formalnie śmiała proza.",
+      "nagrody": "Angelus 2008 (nagroda główna)"
+    },
+    {
+      "tytuł": "Pod Mocnym Aniołem",
+      "autor": "Jerzy Pilch",
+      "rok": "2000",
+      "gatunek": "Literatura obyczajowa (powieść o uzależnieniu)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Pisarz-alkoholik opowiada o pobycie w ośrodku odwykowym i o poznanych tam ludziach, a także o własnej drodze do nałogu. Gorzka, ironiczna proza o uzależnieniu, z wulgaryzmami.",
+      "nagrody": "Nike 2001 (Nagroda Czytelników, nagroda główna)"
+    },
+    {
+      "tytuł": "Gra na wielu bębenkach",
+      "autor": "Olga Tokarczuk",
+      "rok": "2001",
+      "gatunek": "Literatura obyczajowa (zbiór opowiadań)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Zbiór dziewiętnastu opowiadań Olgi Tokarczuk, m.in. „Szkocki miesiąc”, „Wyspa” i „Che Guevara”, a tytułowe zamyka książkę. Krótkie formy o zwykłych ludziach i ich losach.",
+      "nagrody": "Nike 2002 (Nagroda Czytelników)"
+    },
+    {
+      "tytuł": "W ogrodzie pamięci",
+      "autor": "Joanna Olczak-Ronikier",
+      "rok": "2001",
+      "gatunek": "Biografia i autobiografia (kronika rodzinna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Autorka odtwarza dzieje rodziny Mortkowiczów i Rogoyskich, polsko-żydowskiej inteligencji, od połowy XIX wieku po czasy wojny. Opowieść oparta na listach, pamiętnikach i wspomnieniach.",
+      "nagrody": "Nike 2002 (nagroda główna)"
+    },
+    {
+      "tytuł": "Wielościan",
+      "autor": "Jerzy Sosnowski",
+      "rok": "2001",
+      "gatunek": "Literatura obyczajowa (proza wspomnieniowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Nostalgiczna proza wspomnieniowa Jerzego Sosnowskiego, opowieść o pamięci i dorastaniu.",
+      "nagrody": "Kościelskich 2001"
+    },
+    {
+      "tytuł": "Jest",
+      "autor": "Dawid Bieńkowski",
+      "rok": "2002",
+      "gatunek": "Literatura obyczajowa (powieść inicjacyjna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Debiutancka powieść o pięciu warszawskich uczniach, których dorastanie przypada na lata 1980–1982: powstanie Solidarności i stan wojenny. Bohaterowie angażują się w działalność opozycyjną.",
+      "nagrody": "Kościelskich 2003"
+    },
+    {
+      "tytuł": "Wojna polsko-ruska pod flagą biało-czerwoną",
+      "autor": "Dorota Masłowska",
+      "rok": "2002",
+      "gatunek": "Literatura obyczajowa (powieść o młodzieży)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Debiutancka powieść o młodym dresiarzu z blokowiska, pisana slangiem i potokiem mowy potocznej. Groteskowy obraz polskiej współczesności, pełen wulgaryzmów i przemocy.",
+      "nagrody": "Nike 2003 (Nagroda Czytelników)"
+    },
+    {
+      "tytuł": "Dwanaście kręgów",
+      "autor": "Jurij Andruchowycz",
+      "rok": "2003",
+      "gatunek": "Kryminał (powieść karpacka)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Karpacki romans kryminalny rozgrywający się między Galicją a Transylwanią, w którym górskie krajobrazy są niemal głównym bohaterem. Książka łączy wątek sensacyjny z groteską i refleksją o Europie Środkowej.",
+      "nagrody": "Angelus 2006 (nagroda główna)"
+    },
+    {
+      "tytuł": "Gnój",
+      "autor": "Wojciech Kuczok",
+      "rok": "2003",
+      "gatunek": "Literatura obyczajowa (powieść o przemocy domowej)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Narrator wspomina dzieciństwo w rodzinie rządzonej przez tyrana, ojca stosującego przemoc wobec bliskich. Bohater próbuje się z tym uporać; powieść napisana jednym długim, rozbudowanym zdaniem.",
+      "nagrody": "Nike 2004 (Nagroda Czytelników, nagroda główna)"
+    },
+    {
+      "tytuł": "Jadąc do Babadag",
+      "autor": "Andrzej Stasiuk",
+      "rok": "2004",
+      "gatunek": "Podróże (proza eseistyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Narrator jedzie przez Słowację, Węgry, Rumunię i Bałkany, opisując prowincję, ludzi i krajobrazy Europy Środkowo-Wschodniej. Esej podróżniczy przeplatany refleksją o pamięci i marginesie.",
+      "nagrody": "Nike 2005 (nagroda główna)"
+    },
+    {
+      "tytuł": "Śmierć w bunkrze. Opowieść o moim ojcu",
+      "autor": "Martin Pollack",
+      "rok": "2004",
+      "gatunek": "Biografia i autobiografia (literatura faktu)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Autor odtwarza losy ojca, Gerharda Basta, oficera SS działającego m.in. na terenie Polski, który po wojnie ukrywał się i zginął w 1947 roku. Książka opisuje też trudną konfrontację Austriaków z nazistowską przeszłością.",
+      "nagrody": "Angelus 2007 (nagroda główna)"
+    },
+    {
+      "tytuł": "Żywoty równoległe",
+      "autor": "Jacek Dehnel",
+      "rok": "2004",
+      "gatunek": "Poezja",
+      "kategoria_wiekowa": "16+",
+      "opis": "Debiutancki tom poetycki Dehnela, utrzymany w estetyzującym neoklasycyzmie, sięgający do przeszłości i modernizmu. Wydany nakładem Zielonej Sowy.",
+      "nagrody": "Kościelskich 2005"
+    },
+    {
+      "tytuł": "Lubiewo",
+      "autor": "Michał Witkowski",
+      "rok": "2005",
+      "gatunek": "Literatura obyczajowa (powieść)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Powieść o środowisku polskich gejów w schyłkowym PRL, opowiadana barwnym slangiem przez „ciotki”. Autor określił ją jako przygodowo-obyczajową książkę z życia ciot; zawiera dużo erotyki i wulgaryzmów.",
+      "nagrody": "Gdynia 2006"
+    },
+    {
+      "tytuł": "Paw królowej",
+      "autor": "Dorota Masłowska",
+      "rok": "2005",
+      "gatunek": "Literatura obyczajowa (powieść eksperymentalna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Wierszowana, groteskowa powieść o współczesnej Polsce, pełna slangu, popkultury i absurdu. Złożona językowo satyra na konsumpcjonizm i media, z wulgaryzmami.",
+      "nagrody": "Nike 2006 (nagroda główna)"
+    },
+    {
+      "tytuł": "Reisefieber",
+      "autor": "Mikołaj Łoziński",
+      "rok": "2006",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Debiutancka, krótka powieść Mikołaja Łozińskiego (ok. 160 stron); jedna z postaci inspirowana niewidomym psychoterapeutą z Paryża.",
+      "nagrody": "Kościelskich 2007"
+    },
+    {
+      "tytuł": "Skaza",
+      "autor": "Magdalena Tulli",
+      "rok": "2006",
+      "gatunek": "Literatura obyczajowa (powieść paraboliczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Akcja trwa jeden dzień w bezimiennym mieście, gdzie na rynku utyka tłum uchodźców. Bohaterowie nie mają imion, są określani rolami społecznymi: notariusz, służąca, student. Powieść bywa czytana jako alegoria władzy.",
+      "nagrody": "Gdynia 2007"
+    },
+    {
+      "tytuł": "Traktat o łuskaniu fasoli",
+      "autor": "Wiesław Myśliwski",
+      "rok": "2006",
+      "gatunek": "Literatura obyczajowa (powieść monologowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Mężczyzna opowiada nieznajomemu historię swojego życia, od dzieciństwa i wojny po czasy PRL, w gawędziarskim monologu. Powieść o przypadkach, wyborach i przemijaniu.",
+      "nagrody": "Nike 2007 (nagroda główna); Gdynia 2007"
+    },
+    {
+      "tytuł": "Bieguni",
+      "autor": "Olga Tokarczuk",
+      "rok": "2007",
+      "gatunek": "Literatura obyczajowa (powieść fragmentaryczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Mozaika opowieści, esejów i obserwacji o podróży, ciele i ruchu, od współczesnych lotnisk po historie anatomów i relikwii. Zbiór wątków łączy temat wędrowania i ludzkiej cielesności.",
+      "nagrody": "Nike 2008 (Nagroda Czytelników, nagroda główna)"
+    },
+    {
+      "tytuł": "Lód",
+      "autor": "Jacek Dukaj",
+      "rok": "2007",
+      "gatunek": "Science fiction (historia alternatywna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Alternatywny rok 1924, Belle Époque trwa, a Królestwo Polskie pozostaje pod władzą cara, Warszawę skuwa lód. Matematyk i hazardzista Benedykt Gierosławski jedzie do Irkucka szukać ojca, który ma porozumiewać się z lutymi.",
+      "nagrody": "Kościelskich 2008"
+    },
+    {
+      "tytuł": "Mesjasze",
+      "autor": "György Spiró",
+      "rok": "2007",
+      "gatunek": "Powieść historyczna",
+      "kategoria_wiekowa": "16+",
+      "opis": "Powieść osadzona w XIX wieku wśród polskiej emigracji w Paryżu, gdzie pewien człowiek ogłasza się wcieleniem Chrystusa, a wierzą mu wielcy poeci epoki, m.in. Mickiewicz i Słowacki. Opowieść o wierze, mesjanizmie i polityce.",
+      "nagrody": "Angelus 2010 (nagroda główna)"
+    },
+    {
+      "tytuł": "Ostatni zlot aniołów",
+      "autor": "Marian Pankowski",
+      "rok": "2007",
+      "gatunek": "Literatura obyczajowa (powieść)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Ironiczna, zmysłowa proza emigracyjnego pisarza Mariana Pankowskiego, uznana przez krytyków za pierwszą polską powieść postsekularną.",
+      "nagrody": "Gdynia 2008"
+    },
+    {
+      "tytuł": "Srda śpiewa o zmierzchu w Zielone Świątki",
+      "autor": "Miljenko Jergović",
+      "rok": "2007",
+      "gatunek": "Literatura obyczajowa (powieść)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Osią powieści jest zabójstwo dwunastoletniej tancerki, opowiedziane z pięciu perspektyw w Chorwacji, Serbii i Bośni i Hercegowinie. Autor traktuje ją jako książkę o Jugosławii i jej rozpadzie.",
+      "nagrody": "Angelus 2012 (nagroda główna)"
+    },
+    {
+      "tytuł": "Gugara",
+      "autor": "Andrzej Dybczak",
+      "rok": "2008",
+      "gatunek": "Reportaż (literacki)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Debiutancka książka etnologa o podróży na syberyjską Północ i życiu wśród ewenkijskich pasterzy reniferów. Wykracza poza zwykły reportaż, łącząc relację z refleksją.",
+      "nagrody": "Kościelskich 2012"
+    },
+    {
+      "tytuł": "Jedenaście",
+      "autor": "Marcin Świetlicki",
+      "rok": "2008",
+      "gatunek": "Kryminał (powieść)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Trzecia część kryminalnej trylogii (po Dwanaście i Trzynaście). Bohaterem jest „mistrz”, autoparodia autora, krakowski bywalec pubów, ironista i alkoholik, który prowadzi śledztwo.",
+      "nagrody": "Gdynia 2009"
+    },
+    {
+      "tytuł": "Zdarzyło się pierwszego września (albo kiedy indziej)",
+      "autor": "Pavol Rankov",
+      "rok": "2008",
+      "gatunek": "Powieść historyczna (powieść obyczajowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Trzech przyjaciół, Czech, Żyd i Węgier, kocha tę samą dziewczynę. Ich losy z lat 1938–1968 splatają się z okupacją niemiecką i radziecką oraz przemianami w Czechosłowacji.",
+      "nagrody": "Angelus 2014 (nagroda główna)"
+    },
+    {
+      "tytuł": "Księga szeptów",
+      "autor": "Varujan Vosganian",
+      "rok": "2009",
+      "gatunek": "Powieść historyczna (saga rodzinna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Polifoniczna powieść o ludobójstwie Ormian z 1915 roku i losach rumuńskich Ormian, oparta na wspomnieniach z dzieciństwa autora w Focszanach i opowieściach starszych członków wspólnoty.",
+      "nagrody": "Angelus 2016 (nagroda główna)"
+    },
+    {
+      "tytuł": "Muzeum porzuconych sekretów",
+      "autor": "Oksana Zabużko",
+      "rok": "2009",
+      "gatunek": "Literatura obyczajowa (powieść epicka)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Dziennikarka Daryna odnajduje zniszczone zdjęcie członkini UPA zabitej w 1947 roku przez NKWD. Powieść obejmuje ok. sześćdziesięciu lat historii Ukrainy i losy trzech pokoleń kobiet oraz rodzinnych sekretów.",
+      "nagrody": "Angelus 2013 (nagroda główna)"
+    },
+    {
+      "tytuł": "Taksim",
+      "autor": "Andrzej Stasiuk",
+      "rok": "2009",
+      "gatunek": "Literatura obyczajowa (powieść drogi)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Starzejący się bohaterowie przemierzają Europę Środkowo-Wschodnią jako handlarze, przemycają ludzi i podrabianą odzież, a przy tym opowiadają niekończące się historie. Powieść drogi z targowisk i granic.",
+      "nagrody": "Gdynia 2010"
+    },
+    {
+      "tytuł": "Obsoletki",
+      "autor": "Justyna Bargielska",
+      "rok": "2010",
+      "gatunek": "Literatura obyczajowa (opowiadania)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Zbiór opowiadań (prozatorski debiut poetki), poruszający się między traumą a sarkazmem, czułością a makabrą. Porusza temat kobiecości, macierzyństwa, odejścia i straty, z ironią i czarnym humorem.",
+      "nagrody": "Gdynia 2011"
+    },
+    {
+      "tytuł": "Fizyka smutku",
+      "autor": "Georgi Gospodinow",
+      "rok": "2011",
+      "gatunek": "Literatura obyczajowa (powieść fragmentaryczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Narrator cierpi na patologiczną empatię i buduje labirynt opowieści o rodzinie, osnuty wokół mitu o Minotaurze. Powieść składa się z anegdot i opowiadań, ukazuje m.in. dorastanie w komunistycznej Bułgarii.",
+      "nagrody": "Angelus 2019 (nagroda główna)"
+    },
+    {
+      "tytuł": "Pióropusz",
+      "autor": "Marian Pilot",
+      "rok": "2011",
+      "gatunek": "Literatura obyczajowa (powieść autobiograficzna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Powojenne dzieciństwo chłopca z wiejskiej biedoty. Gdy ojciec trafia do stalinowskiego więzienia, bohater zostaje informatorem Urzędu Bezpieczeństwa, by go uwolnić. Powieść częściowo autobiograficzna.",
+      "nagrody": "Nike 2011 (nagroda główna)"
+    },
+    {
+      "tytuł": "Włoskie szpilki",
+      "autor": "Magdalena Tulli",
+      "rok": "2011",
+      "gatunek": "Literatura obyczajowa (proza autobiograficzna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Książka na pograniczu cyklu opowiadań i powieści, o relacji matki z córką. Narratorka splata dorastanie w PRL, chorobę matki i jej biografię z pamięcią pokolenia po Zagładzie.",
+      "nagrody": "Gdynia 2012"
+    },
+    {
+      "tytuł": "Ciemno, prawie noc",
+      "autor": "Joanna Bator",
+      "rok": "2012",
+      "gatunek": "Kryminał (powieść obyczajowa)",
+      "kategoria_wiekowa": "18+",
+      "opis": "W Wałbrzychu znikają dzieci, a dziennikarka Alicja Tabor wraca do rodzinnego miasta, by zbadać sprawę i własną przeszłość. Mroczna powieść łącząca kryminał z obrazem prowincji.",
+      "nagrody": "Nike 2013 (nagroda główna)"
+    },
+    {
+      "tytuł": "Moja Jugosławia",
+      "autor": "Goran Vojnović",
+      "rok": "2012",
+      "gatunek": "Literatura obyczajowa (powieść rodzinna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Vladan, syn Serba i Słowenki, dorasta w Puli, gdzie ojciec służy w armii jugosłowiańskiej, a przed wojną w 1991 roku zostaje wysłany na front. Narracja pokazuje, jak nacjonalizm i wojna wnikają w życie rodzinne.",
+      "nagrody": "Angelus 2020 (nagroda główna)"
+    },
+    {
+      "tytuł": "Morfina",
+      "autor": "Szczepan Twardoch",
+      "rok": "2012",
+      "gatunek": "Powieść historyczna (wojenna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Warszawa 1939 roku: Konstanty Willemann, młody oficer i utracjusz, zmaga się z wojną, uzależnieniem od morfiny i rozdarciem tożsamości. Brutalna powieść o wyborach w obliczu klęski.",
+      "nagrody": "Nike 2013 (Nagroda Czytelników)"
+    },
+    {
+      "tytuł": "Ocalenie Atlantydy",
+      "autor": "Zyta Oryszyn",
+      "rok": "2012",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Powieść osadzona w powojennym Wałbrzychu, wśród repatriantów z Francji i wysiedlonych z Kresów. Ostatni tom cyklu zapoczątkowanego w 1981 roku, akcja sięga stanu wojennego.",
+      "nagrody": "Gdynia 2013"
+    },
+    {
+      "tytuł": "Ości",
+      "autor": "Ignacy Karpowicz",
+      "rok": "2013",
+      "gatunek": "Literatura obyczajowa (powieść eksperymentalna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Powieść Ignacego Karpowicza o ludziach pełnych lęku przed własną niezręcznością i porażką w relacjach z bliskimi oraz ze światem. Eksperymentalna konstrukcja, w której początek nabiera sensu dopiero z czasem.",
+      "nagrody": "Nike 2014 (Nagroda Czytelników)"
+    },
+    {
+      "tytuł": "Wiele demonów",
+      "autor": "Jerzy Pilch",
+      "rok": "2013",
+      "gatunek": "Literatura obyczajowa (powieść z wątkiem kryminalnym)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Lata 50. na Śląsku Cieszyńskim: do luterańskiego miasteczka Sigła przyjeżdża pastorówna z katolickim narzeczonym, a jej siostra znika. Powieść w kostiumie kryminału, pełna humoru i groteski.",
+      "nagrody": "Gdynia 2014"
+    },
+    {
+      "tytuł": "Drach",
+      "autor": "Szczepan Twardoch",
+      "rok": "2014",
+      "gatunek": "Powieść historyczna (saga rodzinna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Saga dwóch śląskich rodzin w latach 1906–2014, rozgrywająca się między Gliwicami a Rybnikiem. Narratorem jest niemy, wszechwiedzący świadek – tytułowy Drach; dużo przemocy i wojennych przemian.",
+      "nagrody": "Kościelskich 2015"
+    },
+    {
+      "tytuł": "Księgi Jakubowe",
+      "autor": "Olga Tokarczuk",
+      "rok": "2014",
+      "gatunek": "Powieść historyczna (epicka)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Rozległa opowieść o XVIII-wiecznym Jakubie Franku i jego żydowskim ruchu mesjanicznym, ukazana oczami wielu świadków w całej Europie. Barokowa panorama epoki, wierzeń i sporów.",
+      "nagrody": "Nike 2015 (Nagroda Czytelników, nagroda główna)"
+    },
+    {
+      "tytuł": "Mezopotamia",
+      "autor": "Serhij Żadan",
+      "rok": "2014",
+      "gatunek": "Literatura obyczajowa (proza)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Proza o losach grupy znajomych z jednego miasta w Charkowie i okolicach, przeplatana wierszami. Wydawca określa ją jako balladę o miłości, osadzoną w postsowieckiej rzeczywistości.",
+      "nagrody": "Angelus 2015 (nagroda główna)"
+    },
+    {
+      "tytuł": "Zawsze jest dzisiaj",
+      "autor": "Michał Cichy",
+      "rok": "2014",
+      "gatunek": "Literatura obyczajowa (impresje, proza)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Krótka, około siedemdziesięciostronicowa książka złożona z impresji i mikrosprawozdań ze spacerów po Warszawie. Narrator od dwudziestu lat mieszka na Starej Ochocie i opisuje szczegóły topografii dzielnicy.",
+      "nagrody": "Gdynia 2015"
+    },
+    {
+      "tytuł": "Dom z witrażem",
+      "autor": "Żanna Słoniowska",
+      "rok": "2015",
+      "gatunek": "Literatura obyczajowa (powieść rodzinna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "We lwowskiej kamienicy mieszkają cztery pokolenia kobiet: prababka, babcia, matka i córka, która opowiada o losach rodziny. Tło stanowią zmiany polityczne XX wieku i życie Lwowa.",
+      "nagrody": "Znak (konkurs na powieść) 2014"
+    },
+    {
+      "tytuł": "Skoruń",
+      "autor": "Maciej Płaza",
+      "rok": "2015",
+      "gatunek": "Literatura obyczajowa (opowiadania)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Zbiór siedmiu opowiadań o ziemi, rzece i pracy, tęsknocie za nieznanym i inicjacji. Bohater to nastolatek z wioski na Sandomierszczyźnie nad Wisłą w latach 80. XX wieku, mający opinię łobuza.",
+      "nagrody": "Gdynia 2016; Kościelskich 2016"
+    },
+    {
+      "tytuł": "Pieczeń dla Amfy",
+      "autor": "Salcia Hałas",
+      "rok": "2016",
+      "gatunek": "Literatura obyczajowa (powieść)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Maria, zwana Manią, mieszka z psem Amfą w gdańskim bloku i pracuje w kwiaciarni przy cmentarzu. Jej związek z Czarkiem, spawaczem pracującym za granicą, obciążają kłopoty finansowe i wspomnienia z przeszłości.",
+      "nagrody": "Gdynia 2017"
+    },
+    {
+      "tytuł": "Mikrotyki",
+      "autor": "Paweł Sołtys",
+      "rok": "2017",
+      "gatunek": "Literatura obyczajowa (opowiadania)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Debiut prozatorski muzyka Pablopavo: zbiór krótkich, realistycznych opowiadań o zwykłych ludziach i ledwo zauważalnych momentach życia. Akcja rozgrywa się głównie w Warszawie.",
+      "nagrody": "Gdynia 2018"
+    },
+    {
+      "tytuł": "Robinson w Bolechowie",
+      "autor": "Maciej Płaza",
+      "rok": "2017",
+      "gatunek": "Literatura obyczajowa (powieść rodzinna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Rodzinna opowieść zaczynająca się tuż przed II wojną: hrabia ukrywa kolekcję sztuki przed okupantem, a po jego śmierci opiekunem zbiorów zostaje ogrodnik. Narracja jest rozbudowana i wymagająca.",
+      "nagrody": "Angelus 2018 (nagroda główna)"
+    },
+    {
+      "tytuł": "Krótka wymiana ognia",
+      "autor": "Zyta Rudzka",
+      "rok": "2018",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Starsza poetka Roma wraca myślami do przeszłości, w tym do przełomu lat 1944 i 1945. Powieść o starzeniu się, przemijaniu i utracie seksualności, pisana intensywnym, cielesnym językiem.",
+      "nagrody": "Gdynia 2019"
+    },
+    {
+      "tytuł": "Winda Schindlera",
+      "autor": "Darko Cvijetić",
+      "rok": "2018",
+      "gatunek": "Literatura obyczajowa (powieść wojenna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Krótka powieść o mieszkańcach wieżowca w Prijedorze w czasie wojny 1992–1995. Winda i budynek stają się metaforą rozpadu kraju, a losy lokatorów pokazują zniszczenie więzi i wartości.",
+      "nagrody": "Angelus 2025 (nagroda główna)"
+    },
+    {
+      "tytuł": "Baśń o wężowym sercu albo wtóre słowo o Jakóbie Szeli",
+      "autor": "Radek Rak",
+      "rok": "2019",
+      "gatunek": "Fantasy (historyczne)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Fantastyczna wersja chłopskiej rabacji galicyjskiej z 1846 roku, łącząca udokumentowane wydarzenia z ludowymi mitami, z syrenami, czarownicami i Królem Węży. Opowieść śledzi Kubę Szelę od młodości aż po powstanie.",
+      "nagrody": "Nike 2020 (nagroda główna)"
+    },
+    {
+      "tytuł": "Nikt tak nie tańczył, jak mój dziadek",
+      "autor": "Kateryna Babkina",
+      "rok": "2019",
+      "gatunek": "Literatura obyczajowa (powieść w opowiadaniach)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Luźno skonstruowana powieść w opowiadaniach: zaczyna się od czworga siedmiolatków w pierwszym dniu szkoły. Autorka śledzi ich losy i rodzinne historie sięgające dawnej przeszłości, przez wiele epok i perspektyw.",
+      "nagrody": "Angelus 2021 (nagroda główna)"
+    },
+    {
+      "tytuł": "Pustostany",
+      "autor": "Dorota Kotas",
+      "rok": "2019",
+      "gatunek": "Literatura obyczajowa (proza groteskowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Debiut łączący humor z katastroficzną wizją kraju: abstrakcyjna, pełna aluzji i metafor opowieść o codziennych problemach Polaków. Wydana z ilustracjami Karoliny Lubaszko.",
+      "nagrody": "Gdynia 2020"
+    },
+    {
+      "tytuł": "Skąd",
+      "autor": "Saša Stanišić",
+      "rok": "2019",
+      "gatunek": "Literatura obyczajowa (powieść autobiograficzna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Autor opisuje ucieczkę z Wyszegradu w wieku 14 lat podczas wojny w Bośni i trudny początek w Heidelbergu, a także babcię, która traci pamięć. Mieszanka wspomnień i fikcji o korzeniach i języku.",
+      "nagrody": "Angelus 2023 (nagroda główna)"
+    },
+    {
+      "tytuł": "Hałastra",
+      "autor": "Monika Helfer",
+      "rok": "2020",
+      "gatunek": "Literatura obyczajowa (powieść rodzinna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Półautobiograficzna powieść o dziadkach autorki w Bregenzerwaldzie: Maria zostaje z dziećmi, gdy Josef idzie na front I wojny, a wieś traktuje rodzinę jak outsiderów. Narracja rekonstruuje historię z rodzinnych opowieści.",
+      "nagrody": "Angelus 2024 (nagroda główna)"
+    },
+    {
+      "tytuł": "Pomarli",
+      "autor": "Waldemar Bawołek",
+      "rok": "2020",
+      "gatunek": "Literatura obyczajowa (opowiadania)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Zbiór portretów zmarłych sąsiadów i krewnych z rodzinnych Ciężkowic. Senna, osadzona w realizmie magicznym proza, w której granica między jawą a snem się zaciera.",
+      "nagrody": "Gdynia 2021"
+    },
+    {
+      "tytuł": "Myśliwice, Myśliwice",
+      "autor": "Krzysztof Bartnicki",
+      "rok": "2021",
+      "gatunek": "Literatura obyczajowa (przypowieść)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Opowieść o upadku pewnego miasteczka, będąca zarazem uniwersalną przypowieścią o rozpadzie i przetrwaniu. Proza jednocześnie wiejska i kosmiczna, osadzona w małej, zamkniętej społeczności.",
+      "nagrody": "Gdynia 2022"
+    },
+    {
+      "tytuł": "Pulverkopf",
+      "autor": "Edward Pasewicz",
+      "rok": "2021",
+      "gatunek": "Literatura obyczajowa (powieść z wątkiem kryminalnym)",
+      "kategoria_wiekowa": "18+",
+      "opis": "W Międzyrzeczu (dawnym Meseritz), kilkadziesiąt lat po wojnie, nastolatek znajduje w rzece ciało sąsiada. Wokół tej zagadki powieść buduje opowieść o Polakach, Żydach i Niemcach oraz o kompozytorze Norbercie von Hannenheimie.",
+      "nagrody": "Angelus 2022 (nagroda główna)"
+    },
+    {
+      "tytuł": "Rzeszot. Biografia romantyczna",
+      "autor": "Bartosz Sadulski",
+      "rok": "2021",
+      "gatunek": "Powieść historyczna (satyryczna biografia)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Awanturnicza biografia pioniera przemysłu naftowego w XIX-wiecznej Galicji, na wzór Münchhausena. Parodia polskiego romantyzmu i heroicznych życiorysów oraz obraz emigracji między powstaniami.",
+      "nagrody": "Kościelskich 2022"
+    },
+    {
+      "tytuł": "Białe noce",
+      "autor": "Urszula Honek",
+      "rok": "2022",
+      "gatunek": "Literatura obyczajowa (opowiadania)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Trzynaście powiązanych opowiadań o tragediach ludzi z jednej wsi w Beskidach, składających się na wspólną narrację. Przesuwane ramy czasowe i mroczna atmosfera.",
+      "nagrody": "Kościelskich 2023"
+    },
+    {
+      "tytuł": "Bílá Voda (Biała Woda)",
+      "autor": "Kateřina Tučková",
+      "rok": "2022",
+      "gatunek": "Powieść historyczna (powieść społeczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Powieść o prześladowaniu żeńskich zakonów w komunistycznej Czechosłowacji, akcja toczy się od lat 50. do współczesności. Autorka pisała ją dziesięć lat.",
+      "nagrody": "Angelus 2026 (nagroda główna)"
+    },
+    {
+      "tytuł": "Ten się śmieje, kto ma zęby",
+      "autor": "Zyta Rudzka",
+      "rok": "2022",
+      "gatunek": "Literatura obyczajowa (powieść monologowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Po śmierci męża Karola, dżokeja, Wera odwiedza dawne miłości, by załatwić mu buty do trumny. Monologiem bohaterki prowadzona opowieść o małżeństwie, miłości i starości.",
+      "nagrody": "Nike 2023 (nagroda główna)"
+    },
+    {
+      "tytuł": "Zaklinanie węży w gorące wieczory",
+      "autor": "Małgorzata Żarów",
+      "rok": "2022",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Debiutancka powieść, której narratorka występuje pod pseudonimem jako kamerkowiczka, odgrywająca fantazje dla płacących mężczyzn. Rzecz o intymności, pracy i samotności; z wyraźnymi wątkami erotycznymi.",
+      "nagrody": "Gdynia 2023"
+    },
+    {
+      "tytuł": "Idzie tu wielki chłopak",
+      "autor": "Grzegorz Bogdał",
+      "rok": "2023",
+      "gatunek": "Literatura obyczajowa (opowiadania)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Zbiór opowiadań łączących groteskę, czarny humor i poczucie zagrożenia. Bohaterowie, często trzydziestolatkowie, nie radzą sobie z dorosłością; wśród postaci jest m.in. mężczyzna przebrany za wiewiórkę.",
+      "nagrody": "Gdynia 2024"
+    },
+    {
+      "tytuł": "Wniebogłos",
+      "autor": "Aleksandra Tarnowska",
+      "rok": "2023",
+      "gatunek": "Literatura obyczajowa (powieść wiejska)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Polska wieś lat 70. oczami dwunastoletniego Ryśka, który marzy o śpiewaniu w kapeli. Chłopiec zaczyna wierzyć, że jego głos ma niezwykłą moc, a w okolicy ludzie umierają.",
+      "nagrody": "Kościelskich 2024"
+    },
+    {
+      "tytuł": "Mowa chleba",
+      "autor": "Elżbieta Łapczyńska",
+      "rok": "2024",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Rumunia lat 80., sierociniec i reżim Ceaușescu zakazujący antykoncepcji i aborcji. Brutalny, halucynacyjny obraz świata bez czułości, w którym los jednostki ginie w cieniu instytucji.",
+      "nagrody": "Gdynia 2025"
+    },
+    {
+      "tytuł": "Null",
+      "autor": "Szczepan Twardoch",
+      "rok": "2025",
+      "gatunek": "Powieść historyczna (wojenna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Powieść o wojnie w Ukrainie: bohater, nazywany Koniem, zaciąga się do Legionu Międzynarodowego i trafia na front. Tytuł oznacza pierwszą linię ukraińskich pozycji; książka opowiada o braterstwie i traumie.",
+      "nagrody": "Nike 2026 (Nagroda Czytelników, nagroda główna)"
+    },
+    {
+      "tytuł": "Urodziny. To nie jest kraj dla starych kobiet",
+      "autor": "Weronika Murek",
+      "rok": "2025",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Jaga Babazina, niegdyś obiecująca aktorka, poświęciła rodzinę dla kariery, która nie nadeszła. Powieść o niepewności zawodowej, wypaleniu i przytłaczającym zmęczeniu.",
+      "nagrody": "Gdynia 2026"
+    }
+  ]
+}

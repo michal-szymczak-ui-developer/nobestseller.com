@@ -1,0 +1,905 @@
+{
+  "nazwa": "Polska",
+  "pozycje": [
+    {
+      "tytuł": "Kronika polska",
+      "autor": "Gall Anonim",
+      "rok": "ok. 1115",
+      "gatunek": "Historia (kronika, historyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Najstarsze dzieło polskiego dziejopisarstwa opisuje dzieje Polski od legendarnych początków po panowanie Bolesława Krzywoustego. Źródło wiedzy o wczesnych Piastach.",
+      "okres": "Średniowiecze i renesans"
+    },
+    {
+      "tytuł": "Treny",
+      "autor": "Jan Kochanowski",
+      "rok": "1580",
+      "gatunek": "poezja (liryka żałobna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Dziewiętnaście utworów poety po śmierci małej córki Urszulki, w których kwestionuje sens cierpienia i wiary w mądrość. Arcydzieło polskiego renesansu.",
+      "okres": "Średniowiecze i renesans"
+    },
+    {
+      "tytuł": "Kazania sejmowe",
+      "autor": "Piotr Skarga",
+      "rok": "1597",
+      "gatunek": "Historia (kazania, publicystyka polityczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Jezuita Piotr Skarga wzywa do naprawy państwa i ostrzega przed upadkiem Rzeczypospolitej z powodu egoizmu szlachty. Klasyk polskiej retoryki.",
+      "okres": "Średniowiecze i renesans"
+    },
+    {
+      "tytuł": "Pamiętniki",
+      "autor": "Jan Chryzostom Pasek",
+      "rok": "ok. 1690–1695",
+      "gatunek": "Biografia i autobiografia (pamiętnik, literatura faktu)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Szlachcic-żołnierz opisuje wojny, pojedynki i życie sarmackiej szlachty XVII wieku barwną, gawędziarską prozą. Skarbnica obyczajów epoki.",
+      "okres": "Barok i oświecenie"
+    },
+    {
+      "tytuł": "Bajki i przypowieści",
+      "autor": "Ignacy Krasicki",
+      "rok": "1779",
+      "gatunek": "Literatura dziecięca (bajki, satyryczne)",
+      "kategoria_wiekowa": "6+",
+      "opis": "Krótkie wierszowane bajki z morałem, w których zwierzęta ośmieszają ludzkie wady i nadużycia władzy. Wybitny przykład oświeceniowej satyry.",
+      "okres": "Barok i oświecenie"
+    },
+    {
+      "tytuł": "Rękopis znaleziony w Saragossie",
+      "autor": "Jan Potocki",
+      "rok": "1805–1815",
+      "gatunek": "Literatura obyczajowa (powieść szkatułkowa, fantastyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Młody oficer w górach Hiszpanii słucha splecionych ze sobą opowieści o awanturnikach, duchach i kabalistach. Barwna, wielowątkowa powieść przygodowa.",
+      "okres": "Barok i oświecenie"
+    },
+    {
+      "tytuł": "Dziady",
+      "autor": "Adam Mickiewicz",
+      "rok": "1823–1832",
+      "gatunek": "Poezja (dramat romantyczny)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Cykl dramatów łączących obrzęd ludowy, historię wileńskich filomatów i wizję męki narodu pod zaborami. Ośrodek polskiego romantyzmu.",
+      "okres": "Romantyzm"
+    },
+    {
+      "tytuł": "Konrad Wallenrod",
+      "autor": "Adam Mickiewicz",
+      "rok": "1828",
+      "gatunek": "Poezja (poemat historyczny, romantyczny)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Litewski chłopiec wychowany przez Krzyżaków zostaje wielkim mistrzem zakonu i pokonuje go podstępem z miłości do ojczyzny. Poemat o patriotyzmie i zdradzie.",
+      "okres": "Romantyzm"
+    },
+    {
+      "tytuł": "Pan Tadeusz",
+      "autor": "Adam Mickiewicz",
+      "rok": "1834",
+      "gatunek": "Poezja (epopeja narodowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Opowieść o sporze dwóch szlacheckich rodów na Litwie w 1811–1812 roku, o miłości Tadeusza i Zosi oraz zbliżającej się wojnie. Epos tęsknoty za utraconym światem.",
+      "okres": "Romantyzm"
+    },
+    {
+      "tytuł": "Kordian",
+      "autor": "Juliusz Słowacki",
+      "rok": "1834",
+      "gatunek": "Poezja (dramat romantyczny)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Młody Kordian przechodzi drogę od zawodu miłosnego przez podróże po Europie do nieudanego zamachu na cara. Dramat o losie romantycznego bohatera.",
+      "okres": "Romantyzm"
+    },
+    {
+      "tytuł": "Balladyna",
+      "autor": "Juliusz Słowacki",
+      "rok": "1839",
+      "gatunek": "Poezja (dramat romantyczny, fantastyczny)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Chłopka Balladyna morduje siostrę i zdobywa tron, a zbrodnia ściga ją aż do upadku. Tragedia o zbrodni i karze inspirowana Szekspirem.",
+      "okres": "Romantyzm"
+    },
+    {
+      "tytuł": "Nie-Boska komedia",
+      "autor": "Zygmunt Krasiński",
+      "rok": "1835",
+      "gatunek": "Poezja (dramat romantyczny, historiozoficzny)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Hrabia Henryk, poeta, staje wobec rewolucji, w której arystokraci i lud są sobie wrogami. Dramat o upadku starego porządku.",
+      "okres": "Romantyzm"
+    },
+    {
+      "tytuł": "Zemsta",
+      "autor": "Aleksander Fredro",
+      "rok": "1834",
+      "gatunek": "Poezja (komedia, obyczajowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Spór Cześnika Raptusiewicza i Rejenta Milczka o mur graniczny kończy się pogodzeniem dzięki miłości ich młodych krewnych. Najsłynniejsza polska komedia.",
+      "okres": "Romantyzm"
+    },
+    {
+      "tytuł": "Vade-mecum",
+      "autor": "Cyprian Norwid",
+      "rok": "1866",
+      "gatunek": "poezja (liryka refleksyjna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Zbiór wierszy o sztuce, historii i cierpieniu człowieka, pisanych skondensowanym, niejednoznacznym językiem. Dzieło poety nierozumianego za życia.",
+      "okres": "Romantyzm"
+    },
+    {
+      "tytuł": "Stara baśń",
+      "autor": "Józef Ignacy Kraszewski",
+      "rok": "1876",
+      "gatunek": "powieść historyczna",
+      "kategoria_wiekowa": "12+",
+      "opis": "Powieść o legendarnych początkach państwa polskiego, o rodzie Popielidów i Piastów. Wizja Słowiańszczyzny przed chrztem.",
+      "okres": "Pozytywizm"
+    },
+    {
+      "tytuł": "Placówka",
+      "autor": "Bolesław Prus",
+      "rok": "1886",
+      "gatunek": "Literatura obyczajowa (chłopska)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Chłop Ślimak broni swojego gospodarstwa przed niemieckim kolonistą i zubożeniem. Powieść o przywiązaniu do ziemi.",
+      "okres": "Pozytywizm"
+    },
+    {
+      "tytuł": "Lalka",
+      "autor": "Bolesław Prus",
+      "rok": "1890",
+      "gatunek": "Literatura obyczajowa (realistyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Warszawski kupiec Stanisław Wokulski zakochuje się w arystokratce Izabeli Łęckiej, co ukazuje rozwarstwienie społeczeństwa. Wielka powieść o Polsce XIX wieku.",
+      "okres": "Pozytywizm"
+    },
+    {
+      "tytuł": "Faraon",
+      "autor": "Bolesław Prus",
+      "rok": "1897",
+      "gatunek": "powieść historyczna",
+      "kategoria_wiekowa": "12+",
+      "opis": "Młody Ramzes XIII toczy walkę o władzę z kapłanami w starożytnym Egipcie. Powieść o mechanizmach polityki.",
+      "okres": "Pozytywizm"
+    },
+    {
+      "tytuł": "Nad Niemnem",
+      "autor": "Eliza Orzeszkowa",
+      "rok": "1888",
+      "gatunek": "Literatura obyczajowa (realistyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Losy mieszkańców Korczyna na Litwie splatają się z pamięcią o powstaniu styczniowym i ideą pracy organicznej. Epicka powieść o ziemi i tradycji.",
+      "okres": "Pozytywizm"
+    },
+    {
+      "tytuł": "Ogniem i mieczem",
+      "autor": "Henryk Sienkiewicz",
+      "rok": "1884",
+      "gatunek": "powieść historyczna (przygodowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Pierwsza część Trylogii opowiada o powstaniu Chmielnickiego i miłości Skrzetuskiego do Heleny. Przygodowa epopeja historyczna.",
+      "okres": "Pozytywizm"
+    },
+    {
+      "tytuł": "Potop",
+      "autor": "Henryk Sienkiewicz",
+      "rok": "1886",
+      "gatunek": "powieść historyczna (przygodowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Andrzej Kmicic odkupuje winy walką ze Szwedami podczas potopu szwedzkiego, a obok toczy się historia jego miłości do Oleńki. Druga część Trylogii.",
+      "okres": "Pozytywizm"
+    },
+    {
+      "tytuł": "Quo vadis",
+      "autor": "Henryk Sienkiewicz",
+      "rok": "1896",
+      "gatunek": "powieść historyczna (religijna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "W Rzymie za Nerona Rzymianin Winicjusz zakochuje się w chrześcijance Ligii. Powieść o triumfie wiary i nawróceniu, nagrodzona Noblem.",
+      "okres": "Pozytywizm"
+    },
+    {
+      "tytuł": "W pustyni i w puszczy",
+      "autor": "Henryk Sienkiewicz",
+      "rok": "1911",
+      "gatunek": "Literatura młodzieżowa (powieść przygodowa, młodzieżowa)",
+      "kategoria_wiekowa": "6+",
+      "opis": "Czternastoletni Staś i ośmioletnia Nel zostają porwani w Egipcie i przemierzają Afrykę w poszukiwaniu wolności. Klasyka literatury młodzieżowej.",
+      "okres": "Pozytywizm"
+    },
+    {
+      "tytuł": "Nasza szkapa",
+      "autor": "Maria Konopnicka",
+      "rok": "1893",
+      "gatunek": "Literatura obyczajowa (nowela, społeczna)",
+      "kategoria_wiekowa": "6+",
+      "opis": "Biedny chłop Wawrzon Pietrek traci swoją starą szkapę i cierpi jak człowiek. Nowela o ubóstwie i empatii.",
+      "okres": "Pozytywizm"
+    },
+    {
+      "tytuł": "Syzyfowe prace",
+      "autor": "Stefan Żeromski",
+      "rok": "1897",
+      "gatunek": "Literatura młodzieżowa (obyczajowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Marcin Borowicz, uczeń rosyjskiego gimnazjum, uczy się opierać rusyfikacji. Powieść o kształtowaniu tożsamości narodowej.",
+      "okres": "Młoda Polska"
+    },
+    {
+      "tytuł": "Ludzie bezdomni",
+      "autor": "Stefan Żeromski",
+      "rok": "1900",
+      "gatunek": "Literatura obyczajowa (powieść społeczna, psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Doktor Judym rezygnuje z miłości, by służyć ubogim, i zmaga się z konfliktem między szczęściem a powołaniem. Powieść o społecznym zobowiązaniu.",
+      "okres": "Młoda Polska"
+    },
+    {
+      "tytuł": "Ziemia obiecana",
+      "autor": "Władysław Reymont",
+      "rok": "1899",
+      "gatunek": "Literatura obyczajowa (powieść społeczna, realistyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Trzej przyjaciele budują fabrykę w Łodzi, a miasto pochłania ich ideały. Obraz wyścigu po pieniądze w XIX-wiecznej Polsce.",
+      "okres": "Młoda Polska"
+    },
+    {
+      "tytuł": "Chłopi",
+      "autor": "Władysław Reymont",
+      "rok": "1904–1909",
+      "gatunek": "Literatura obyczajowa (epicka)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Cztery tomy o życiu wsi Lipce w rytmie pór roku. Główne wątki to rywalizacja o ziemię i miłość Jagny, a powieść otrzymała Nagrodę Nobla.",
+      "okres": "Młoda Polska"
+    },
+    {
+      "tytuł": "Wesele",
+      "autor": "Stanisław Wyspiański",
+      "rok": "1901",
+      "gatunek": "Poezja (dramat symboliczny)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Podczas wesela w podkrakowskiej chacie pojawiają się zjawy z polskiej historii i literatury, a goście nie potrafią ruszyć do działania. Dramat o niemocy narodu.",
+      "okres": "Młoda Polska"
+    },
+    {
+      "tytuł": "Moralność pani Dulskiej",
+      "autor": "Gabriela Zapolska",
+      "rok": "1906",
+      "gatunek": "Poezja (komedia, obyczajowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Hipokrytka Aniela Dulska pilnuje pozorów i brudnych interesów w kamienicy, aż rodzina odsłania prawdę. Ostra satyra na mieszczaństwo.",
+      "okres": "Młoda Polska"
+    },
+    {
+      "tytuł": "Na skalnym Podhalu",
+      "autor": "Kazimierz Przerwa-Tetmajer",
+      "rok": "1903",
+      "gatunek": "Literatura obyczajowa (opowiadania, regionalne)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Zbiór opowieści o góralach, ich obyczajach, honorze i miłości w Tatrach. Podhalańskie legendy w literackiej formie.",
+      "okres": "Młoda Polska"
+    },
+    {
+      "tytuł": "Mitologia",
+      "autor": "Jan Parandowski",
+      "rok": "1924",
+      "gatunek": "Popularnonaukowa (literatura popularnonaukowa, mitologia)",
+      "kategoria_wiekowa": "6+",
+      "opis": "Przystępny przegląd greckich i rzymskich mitów opowiedziany pięknym językiem. Klasyczne wprowadzenie do starożytności.",
+      "okres": "Dwudziestolecie międzywojenne"
+    },
+    {
+      "tytuł": "Przedwiośnie",
+      "autor": "Stefan Żeromski",
+      "rok": "1924",
+      "gatunek": "Literatura obyczajowa (powieść polityczna, społeczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Młody Cezary Baryka po rewolucji rosyjskiej wraca do odrodzonej Polski i szuka jej drogi między komunizmem a nacjonalizmem. Powieść o ustroju nowego państwa.",
+      "okres": "Dwudziestolecie międzywojenne"
+    },
+    {
+      "tytuł": "Król Maciuś Pierwszy",
+      "autor": "Janusz Korczak",
+      "rok": "1923",
+      "gatunek": "Literatura dziecięca (polityczna)",
+      "kategoria_wiekowa": "6+",
+      "opis": "Chłopiec zostaje królem i próbuje zreformować państwo, napotykając na intrygi dorosłych. Opowieść o sprawiedliwości.",
+      "okres": "Dwudziestolecie międzywojenne"
+    },
+    {
+      "tytuł": "Łąka",
+      "autor": "Bolesław Leśmian",
+      "rok": "1920",
+      "gatunek": "poezja (liryka fantastyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Zbiór wierszy pełnych baśniowych obrazów, motywów miłości i śmierci, napisanych językiem neologizmów. Wizja poetycka świata.",
+      "okres": "Dwudziestolecie międzywojenne"
+    },
+    {
+      "tytuł": "Pożegnanie jesieni",
+      "autor": "Stanisław Ignacy Witkiewicz",
+      "rok": "1927",
+      "gatunek": "Literatura obyczajowa (powieść eksperymentalna, groteskowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Atanazy Bazakbal przechodzi przez światy erotycznych i artystycznych uniesień w obliczu zbliżającej się katastrofy. Groteskowa wizja końca cywilizacji.",
+      "okres": "Dwudziestolecie międzywojenne"
+    },
+    {
+      "tytuł": "Noce i dnie",
+      "autor": "Maria Dąbrowska",
+      "rok": "1932–1934",
+      "gatunek": "Literatura obyczajowa (epicka)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Saga małżeństwa Barbary i Bogumiła Niechciców, ich walki o miłość i szczęście na tle wydarzeń od powstania styczniowego po I wojnę światową. Wielka epopeja życia codziennego.",
+      "okres": "Dwudziestolecie międzywojenne"
+    },
+    {
+      "tytuł": "Panny z Wilka",
+      "autor": "Jarosław Iwaszkiewicz",
+      "rok": "1933",
+      "gatunek": "Literatura obyczajowa (nowela, obyczajowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Wiktor odwiedza po latach dwór w Wilku i odkrywa niespełnione uczucia sióstr. Nostalgiczna opowieść o utraconych szansach.",
+      "okres": "Dwudziestolecie międzywojenne"
+    },
+    {
+      "tytuł": "Sklepy cynamonowe",
+      "autor": "Bruno Schulz",
+      "rok": "1933",
+      "gatunek": "Fantasy (opowiadania, fantastyczne)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Narrator wspomina dzieciństwo w galicyjskim miasteczku, gdzie świat zamienia się w mit. Poetycka proza jednej z najważniejszych polskich książek XX wieku.",
+      "okres": "Dwudziestolecie międzywojenne"
+    },
+    {
+      "tytuł": "Granica",
+      "autor": "Zofia Nałkowska",
+      "rok": "1935",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, społeczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Zenon Ziembiewicz, awansujący urzędnik, doprowadza do tragedii miłosnej, której konsekwencje ukazują mechanizmy moralności. Powieść o odpowiedzialności.",
+      "okres": "Dwudziestolecie międzywojenne"
+    },
+    {
+      "tytuł": "Bal w operze",
+      "autor": "Julian Tuwim",
+      "rok": "1936",
+      "gatunek": "poezja (satyryczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Poemat satyryczny o wielkim balu, na którym spotyka się elita i ukazuje się jej obłuda. Satyra na międzywojenną Polskę.",
+      "okres": "Dwudziestolecie międzywojenne"
+    },
+    {
+      "tytuł": "Ferdydurke",
+      "autor": "Witold Gombrowicz",
+      "rok": "1937",
+      "gatunek": "Literatura obyczajowa (powieść groteskowa, filozoficzna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Trzydziestoletni Józio zostaje cofnięty do bycia uczniem i obserwuje, jak ludzie nakładają na siebie formy. Powieść o niedojrzałości i konwencjach.",
+      "okres": "Dwudziestolecie międzywojenne"
+    },
+    {
+      "tytuł": "Sanatorium pod Klepsydrą",
+      "autor": "Bruno Schulz",
+      "rok": "1937",
+      "gatunek": "Fantasy (opowiadania, fantastyczne)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Józef przyjeżdża do sanatorium, w którym czas zatrzymał się lub cofnął, by zobaczyć umierającego ojca. Senne opowiadania o pamięci i przemijaniu.",
+      "okres": "Dwudziestolecie międzywojenne"
+    },
+    {
+      "tytuł": "Szatan z siódmej klasy",
+      "autor": "Kornel Makuszyński",
+      "rok": "1937",
+      "gatunek": "Literatura młodzieżowa (przygodowa)",
+      "kategoria_wiekowa": "6+",
+      "opis": "Adaś Cisowski, uczeń z podejrzeniem o kradzież, razem z kolegami tropi przestępców i sam wchodzi w kłopoty. Pogodna powieść przygodowa.",
+      "okres": "Dwudziestolecie międzywojenne"
+    },
+    {
+      "tytuł": "Dywizjon 303",
+      "autor": "Arkady Fiedler",
+      "rok": "1942",
+      "gatunek": "Reportaż (reportaż wojenny, literatura faktu)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Opowieść o polskich pilotach, którzy w 1940 roku walczyli w bitwie o Anglię. Hołd dla lotników.",
+      "okres": "Wojna i okupacja"
+    },
+    {
+      "tytuł": "Kamienie na szaniec",
+      "autor": "Aleksander Kamiński",
+      "rok": "1943",
+      "gatunek": "Reportaż (reportaż wojenny, literatura faktu)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Historia harcerzy Rudego, Alka i Zośki w Szarych Szeregach i akcji pod Arsenałem. Książka o młodzieży w okupowanej Warszawie.",
+      "okres": "Wojna i okupacja"
+    },
+    {
+      "tytuł": "Medaliony",
+      "autor": "Zofia Nałkowska",
+      "rok": "1946",
+      "gatunek": "Reportaż (opowiadania, dokumentalne)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Krótkie zapisy relacji świadków i ofiar niemieckiej zagłady, oparte na pracy Komisji Badania Zbrodni Hitlerowskich. Świadectwo Zagłady.",
+      "okres": "Wojna i okupacja"
+    },
+    {
+      "tytuł": "Niepokój",
+      "autor": "Tadeusz Różewicz",
+      "rok": "1947",
+      "gatunek": "poezja (wojenna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Pierwszy tom poety, który wprowadził oszczędny, ascetyczny język wobec wojennych doświadczeń. Przełom w polskiej poezji powojennej.",
+      "okres": "Wojna i okupacja"
+    },
+    {
+      "tytuł": "Śmierć miasta",
+      "autor": "Władysław Szpilman",
+      "rok": "1946",
+      "gatunek": "Biografia i autobiografia (pamiętnik, literatura faktu)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Pianista żydowskiego pochodzenia opisuje przetrwanie w zburzonej Warszawie w czasie okupacji. Podstawa filmu „Pianista”.",
+      "okres": "Wojna i okupacja"
+    },
+    {
+      "tytuł": "Pożegnanie z Marią",
+      "autor": "Tadeusz Borowski",
+      "rok": "1948",
+      "gatunek": "Powieść historyczna (opowiadania, obozowe)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Zbiór opowiadań o rzeczywistości obozów koncentracyjnych, napisanych chłodnym, bezlitosnym językiem. Jedno z najważniejszych świadectw o Auschwitz.",
+      "okres": "Wojna i okupacja"
+    },
+    {
+      "tytuł": "Popiół i diament",
+      "autor": "Jerzy Andrzejewski",
+      "rok": "1948",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, polityczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "W dniu zakończenia wojny młody żołnierz AK Maciek ma zabić komunistycznego działacza i zakochuje się w dziewczynie. Powieść o wyborach w czasach przełomu.",
+      "okres": "Wojna i okupacja"
+    },
+    {
+      "tytuł": "Pasażerka",
+      "autor": "Zofia Posmysz",
+      "rok": "1962",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, obozowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Dawna strażniczka z Auschwitz podczas rejsu spotyka kobietę przypominającą dawną więźniarkę. Powieść o pamięci i winie.",
+      "okres": "Wojna i okupacja"
+    },
+    {
+      "tytuł": "Inny świat",
+      "autor": "Gustaw Herling-Grudziński",
+      "rok": "1951",
+      "gatunek": "Biografia i autobiografia (literatura faktu, łagrowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Autor opisuje swoje przeżycia w radzieckim obozie pracy w Jercewie jako dokument o upodleniu i przetrwaniu. Klasyk literatury łagrowej.",
+      "okres": "PRL"
+    },
+    {
+      "tytuł": "Zniewolony umysł",
+      "autor": "Czesław Miłosz",
+      "rok": "1953",
+      "gatunek": "Popularnonaukowa (esej, polityczny)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Miłosz analizuje, dlaczego intelektualiści ulegają komunizmowi, opisując cztery postacie pisarzy. Esej o mechanizmach totalitaryzmu.",
+      "okres": "PRL"
+    },
+    {
+      "tytuł": "Trans-Atlantyk",
+      "autor": "Witold Gombrowicz",
+      "rok": "1953",
+      "gatunek": "Literatura obyczajowa (powieść groteskowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Polski emigrant w Argentynie w 1939 roku miota się między ojczyzną a synostwem i konwencjami. Barokowa gawęda o polskości.",
+      "okres": "PRL"
+    },
+    {
+      "tytuł": "Dolina Issy",
+      "autor": "Czesław Miłosz",
+      "rok": "1955",
+      "gatunek": "Literatura obyczajowa (powieść autobiograficzna, obyczajowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Tomasz opowiada o dzieciństwie na litewskiej wsi, o przyrodzie, wierzeniach i miłości. Liryczna powieść o utraconym świecie.",
+      "okres": "PRL"
+    },
+    {
+      "tytuł": "Zły",
+      "autor": "Leopold Tyrmand",
+      "rok": "1955",
+      "gatunek": "Kryminał (sensacyjna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "W stalinowskiej Warszawie tajemniczy Zły terroryzuje bandytów, a autor opisuje miasto i jego obyczaje. Kultowa powieść sensacyjna.",
+      "okres": "PRL"
+    },
+    {
+      "tytuł": "Droga donikąd",
+      "autor": "Józef Mackiewicz",
+      "rok": "1955",
+      "gatunek": "powieść historyczna (polityczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Losy mieszkańców Wileńszczyzny pod okupacją sowiecką i niemiecką ukazują dylematy moralne. Powieść o wyborze miedzy złem i złem.",
+      "okres": "PRL"
+    },
+    {
+      "tytuł": "Pierwszy krok w chmurach",
+      "autor": "Marek Hłasko",
+      "rok": "1956",
+      "gatunek": "Literatura obyczajowa (opowiadania, obyczajowe)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Zbiór opowiadań o młodych ludziach na marginesie społeczeństwa, pisanych surowym, ekspresyjnym stylem. Głos pokolenia „gniewnych”.",
+      "okres": "PRL"
+    },
+    {
+      "tytuł": "Szkice piórkiem",
+      "autor": "Andrzej Bobkowski",
+      "rok": "1957",
+      "gatunek": "Biografia i autobiografia (dziennik, literatura faktu)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Dziennik Polaka w okupowanej Francji, pełen ironicznych obserwacji i polemik z narodowymi mitami. Książka o wolności jednostki.",
+      "okres": "PRL"
+    },
+    {
+      "tytuł": "Solaris",
+      "autor": "Stanisław Lem",
+      "rok": "1961",
+      "gatunek": "Science fiction (filozoficzna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Psycholog Kelvin przybywa na stację badającą ocean planety Solaris, który materializuje jego wspomnienia. Powieść o granicach poznania.",
+      "okres": "PRL"
+    },
+    {
+      "tytuł": "Tango",
+      "autor": "Sławomir Mrożek",
+      "rok": "1964",
+      "gatunek": "Poezja (dramat, groteskowy)",
+      "kategoria_wiekowa": "16+",
+      "opis": "W domu pełnym rozpadu tradycji młody Artur próbuje przywrócić porządek, a władzę przejmuje Edek. Groteska o rewolucji i tradycji.",
+      "okres": "PRL"
+    },
+    {
+      "tytuł": "Cyberiada",
+      "autor": "Stanisław Lem",
+      "rok": "1965",
+      "gatunek": "Science fiction (opowiadania, science fiction, groteska)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Konstruktorzy Trurl i Klapaucjusz przemierzają kosmos i budują maszyny, wpadając w różne kłopoty. Humorystyczna baśń o technice.",
+      "okres": "PRL"
+    },
+    {
+      "tytuł": "Pamiętnik z powstania warszawskiego",
+      "autor": "Miron Białoszewski",
+      "rok": "1970",
+      "gatunek": "Biografia i autobiografia (dziennik, literatura faktu)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Poeta opisuje przeżycia cywila w czasie powstania, w języku pełnym codziennych szczegółów i potoczności. Osobiste świadectwo.",
+      "okres": "PRL"
+    },
+    {
+      "tytuł": "Pan Cogito",
+      "autor": "Zbigniew Herbert",
+      "rok": "1974",
+      "gatunek": "poezja (refleksyjna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Cykl wierszy o bohaterze, który w ironiczny, stoicki sposób komentuje historię i moralność. Tom o godności w trudnych czasach.",
+      "okres": "PRL"
+    },
+    {
+      "tytuł": "Wszystko czerwone",
+      "autor": "Joanna Chmielewska",
+      "rok": "1974",
+      "gatunek": "Kryminał (komediowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Joanna i jej przyjaciele wpadają w serię humorystycznych przygód, rozwiązując zagadkę kradzieży. Klasyk polskiego kryminału komediowego.",
+      "okres": "PRL"
+    },
+    {
+      "tytuł": "Zdążyć przed Panem Bogiem",
+      "autor": "Hanna Krall",
+      "rok": "1977",
+      "gatunek": "reportaż (literatura faktu)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Rozmowa z Markiem Edelmanem, ostatnim przywódcą powstania w getcie warszawskim, o życiu i lekarzach w czasie Zagłady. Reportaż-rozmowa.",
+      "okres": "PRL"
+    },
+    {
+      "tytuł": "Cesarz",
+      "autor": "Ryszard Kapuściński",
+      "rok": "1978",
+      "gatunek": "reportaż (literatura faktu)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Upadek cesarza Hajle Sellasje w Etiopii opowiedziany przez ludzi z jego otoczenia. Reportaż o mechanizmach władzy.",
+      "okres": "PRL"
+    },
+    {
+      "tytuł": "Mała apokalipsa",
+      "autor": "Tadeusz Konwicki",
+      "rok": "1979",
+      "gatunek": "Literatura obyczajowa (groteskowa, polityczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Pisarz ma się podpalić przed Pałacem Kultury w proteście, ale w dniu akcji wszystko się komplikuje. Gorzka satyra na PRL.",
+      "okres": "PRL"
+    },
+    {
+      "tytuł": "Kamień na kamieniu",
+      "autor": "Wiesław Myśliwski",
+      "rok": "1984",
+      "gatunek": "Literatura obyczajowa (chłopska)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Szymek Pietruszka opowiada o życiu na wsi od dzieciństwa po powojenne zmiany. Epopeja o wiejskim świecie i śmierci.",
+      "okres": "PRL"
+    },
+    {
+      "tytuł": "Początek",
+      "autor": "Andrzej Szczypiorski",
+      "rok": "1986",
+      "gatunek": "powieść historyczna (wojenna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Losy mieszkańców Warszawy w czasie okupacji ukazane przez pryzmat zwykłych decyzji i przypadków. Powieść o ratowaniu Żydów.",
+      "okres": "PRL"
+    },
+    {
+      "tytuł": "Weiser Dawidek",
+      "autor": "Paweł Huelle",
+      "rok": "1987",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, obyczajowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Narrator po latach przypomina sobie zniknięcie tajemniczego kolegi z Gdańska lat pięćdziesiątych. Powieść o dzieciństwie i tajemnicy.",
+      "okres": "PRL"
+    },
+    {
+      "tytuł": "Imperium",
+      "autor": "Ryszard Kapuściński",
+      "rok": "1993",
+      "gatunek": "reportaż (literatura faktu)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Podróże po ZSRR, od Syberii po Kaukaz, ukazują upadek imperium. Reportaż o systemie i ludziach.",
+      "okres": "Po 1989 roku"
+    },
+    {
+      "tytuł": "Ostatnie życzenie",
+      "autor": "Andrzej Sapkowski",
+      "rok": "1993",
+      "gatunek": "Fantasy (zbiór opowiadań)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Wiedźmin Geralt wykonuje zlecenia na potwory, a cykl opowiadań ukazuje wybory moralne bohatera. Początek sagi o Wiedźminie.",
+      "okres": "Po 1989 roku"
+    },
+    {
+      "tytuł": "Hanemann",
+      "autor": "Stefan Chwin",
+      "rok": "1995",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, historyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Gdańsk tuż po wojnie, w którym mieszają się dawni niemieccy mieszkańcy i polscy osadnicy. Powieść o pamięci miejsca.",
+      "okres": "Po 1989 roku"
+    },
+    {
+      "tytuł": "Biały kruk",
+      "autor": "Andrzej Stasiuk",
+      "rok": "1995",
+      "gatunek": "Literatura obyczajowa (psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Opowieść o wędrówkach po polskiej prowincji, w której ludzie i krajobraz tworzą swoistą mozaikę. Debiut Stasiuka.",
+      "okres": "Po 1989 roku"
+    },
+    {
+      "tytuł": "Widok z ziarnkiem piasku",
+      "autor": "Wisława Szymborska",
+      "rok": "1996",
+      "gatunek": "poezja (refleksyjna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Zbiór wierszy o drobnych rzeczach i wielkich pytaniach, napisanych z ironią i wrażliwością. Tom noblistki.",
+      "okres": "Po 1989 roku"
+    },
+    {
+      "tytuł": "Dom dzienny, dom nocny",
+      "autor": "Olga Tokarczuk",
+      "rok": "1998",
+      "gatunek": "Literatura obyczajowa (mozaikowa, realizm magiczny)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Narratorka w Nowej Rudzie na pograniczu polsko-czeskim opowiada o sąsiadach i legendach miejsca. Powieść o pamięci i tożsamości.",
+      "okres": "Po 1989 roku"
+    },
+    {
+      "tytuł": "Madame",
+      "autor": "Antoni Libera",
+      "rok": "1998",
+      "gatunek": "Literatura obyczajowa (powieść autobiograficzna, psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Maturzysta w PRL zakochuje się w nauczycielce francuskiego i szuka sensu w sztuce. Powieść o dojrzewaniu.",
+      "okres": "Po 1989 roku"
+    },
+    {
+      "tytuł": "Pod Mocnym Aniołem",
+      "autor": "Jerzy Pilch",
+      "rok": "2000",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, obyczajowa)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Pisarz-alkoholik opowiada o życiu pod znakiem nałogu i terapii. Powieść o uzależnieniu, nagrodzona Nike.",
+      "okres": "Po 1989 roku"
+    },
+    {
+      "tytuł": "Wojna polsko-ruska pod flagą biało-czerwoną",
+      "autor": "Dorota Masłowska",
+      "rok": "2002",
+      "gatunek": "Literatura obyczajowa (eksperymentalna, współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Strzykawa, młody dres z blokowiska, w potocznym języku opowiada o swoich przygodach i uczuciach. Głos pokolenia po transformacji.",
+      "okres": "Po 1989 roku"
+    },
+    {
+      "tytuł": "Jakbyś kamień jadła",
+      "autor": "Wojciech Tochman",
+      "rok": "2004",
+      "gatunek": "reportaż (literatura faktu)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Reportaż o wojnie w Bośni i Hercegowinie, o ludziach szukających szczątków bliskich. Książka o skutkach wojny.",
+      "okres": "Po 1989 roku"
+    },
+    {
+      "tytuł": "Lubiewo",
+      "autor": "Michał Witkowski",
+      "rok": "2005",
+      "gatunek": "Literatura obyczajowa (społeczna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Środowisko polskich gejów w PRL i po 1989 roku opisane w żywym, groteskowym stylu. Powieść o odrębnej społeczności.",
+      "okres": "Po 1989 roku"
+    },
+    {
+      "tytuł": "Gottland",
+      "autor": "Mariusz Szczygieł",
+      "rok": "2006",
+      "gatunek": "reportaż (literatura faktu)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Zbiór reportaży o losach Czechów w czasach komunizmu i po nim. Książka o pamięci i wyborach.",
+      "okres": "Po 1989 roku"
+    },
+    {
+      "tytuł": "Traktat o łuskaniu fasoli",
+      "autor": "Wiesław Myśliwski",
+      "rok": "2006",
+      "gatunek": "Literatura obyczajowa (monolog)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Mężczyzna opowiada przy łuskaniu fasoli swoje życie i losy ludzi z przeszłości. Powieść o pamięci, nagrodzona Nike.",
+      "okres": "Po 1989 roku"
+    },
+    {
+      "tytuł": "Lala",
+      "autor": "Jacek Dehnel",
+      "rok": "2006",
+      "gatunek": "Powieść historyczna (rodzinna, historyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Wnuk wspomina swoją babkę Halinę, jej życie, rodzinę i upadające wspomnienia. Powieść o starości i pamięci.",
+      "okres": "Po 1989 roku"
+    },
+    {
+      "tytuł": "Bieguni",
+      "autor": "Olga Tokarczuk",
+      "rok": "2007",
+      "gatunek": "Literatura obyczajowa (fragmentaryczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Seria opowieści i esejów o ruchu, podróży i ciele składa się na „powieść-konstelację”. Nagrodzona Nike i Man Booker International.",
+      "okres": "Po 1989 roku"
+    },
+    {
+      "tytuł": "Lód",
+      "autor": "Jacek Dukaj",
+      "rok": "2007",
+      "gatunek": "powieść historyczna (alternatywna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Syberia po 1900 roku i tajemnicza materia lód stają się punktem wyjścia do alternatywnej historii. Powieść o historii i prawdzie.",
+      "okres": "Po 1989 roku"
+    },
+    {
+      "tytuł": "Prowadź swój pług przez kości umarłych",
+      "autor": "Olga Tokarczuk",
+      "rok": "2009",
+      "gatunek": "Kryminał (filozoficzna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Starsza nauczycielka z kłodzkiej wsi bada serię tajemniczych śmierci i broni praw zwierząt. Kryminał o sprawiedliwości.",
+      "okres": "Po 1989 roku"
+    },
+    {
+      "tytuł": "Ziarno prawdy",
+      "autor": "Zygmunt Miłoszewski",
+      "rok": "2011",
+      "gatunek": "Kryminał",
+      "kategoria_wiekowa": "16+",
+      "opis": "Prokurator Szacki prowadzi śledztwo w sprawie rytualnego zabójstwa w Sandomierzu, które ujawnia dawne tajemnice. Kryminał o antysemityzmie.",
+      "okres": "Po 1989 roku"
+    },
+    {
+      "tytuł": "Miedzianka",
+      "autor": "Filip Springer",
+      "rok": "2011",
+      "gatunek": "reportaż (literatura faktu)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Historia dawnego górniczego miasteczka na Dolnym Śląsku, które zniknęło z mapy, i jego mieszkańców. Reportaż o pamięci.",
+      "okres": "Po 1989 roku"
+    },
+    {
+      "tytuł": "Ciemno, prawie noc",
+      "autor": "Joanna Bator",
+      "rok": "2012",
+      "gatunek": "Kryminał (psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Dziennikarka wraca do rodzinnego Wałbrzycha i bada zaginięcia dzieci, odsłaniając lokalne tajemnice. Nagrodzona Nike.",
+      "okres": "Po 1989 roku"
+    },
+    {
+      "tytuł": "Bukareszt. Kurz i krew",
+      "autor": "Małgorzata Rejmer",
+      "rok": "2013",
+      "gatunek": "reportaż (literatura faktu)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Reportaż o Rumunii po upadku Ceaușescu, o pamięci, przemocy i biedzie. Książka o transformacji.",
+      "okres": "Po 1989 roku"
+    },
+    {
+      "tytuł": "Księgi Jakubowe",
+      "autor": "Olga Tokarczuk",
+      "rok": "2014",
+      "gatunek": "powieść historyczna (epicka)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Opowieść o Jakubie Franku, XVIII-wiecznym przywódcy sekty, widziana oczami jego zwolenników i przeciwników. Powieść nagrodzona Nike.",
+      "okres": "Po 1989 roku"
+    },
+    {
+      "tytuł": "Drach",
+      "autor": "Szczepan Twardoch",
+      "rok": "2014",
+      "gatunek": "powieść historyczna (rodzinna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Saga śląskiej rodziny od XIX wieku po powojenne czasy, rozpięta między językami i tożsamościami. Powieść o Śląsku.",
+      "okres": "Po 1989 roku"
+    },
+    {
+      "tytuł": "Ślepnąc od świateł",
+      "autor": "Jakub Żulczyk",
+      "rok": "2014",
+      "gatunek": "Kryminał (obyczajowa)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Młody dealer w Warszawie opowiada o świecie narkotyków i przemocy. Mroczny obraz stolicy.",
+      "okres": "Po 1989 roku"
+    },
+    {
+      "tytuł": "Rzeczy, których nie wyrzuciłem",
+      "autor": "Marcin Wicha",
+      "rok": "2017",
+      "gatunek": "Biografia i autobiografia (wspomnienia, esej)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Autor po śmierci matki porządkuje rzeczy w domu i opowiada o pamięci rodzinnej. Książka o żałobie, nagrodzona Nike.",
+      "okres": "Po 1989 roku"
+    },
+    {
+      "tytuł": "Baśń o wężowym sercu albo wtóre słowo o Jakóbie Szeli",
+      "autor": "Radek Rak",
+      "rok": "2019",
+      "gatunek": "Fantasy (historyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Galicja w roku 1846, chłopi, duchy i potwory splatają się w opowieści o rabacji Szeli. Powieść nagrodzona Nike.",
+      "okres": "Po 1989 roku"
+    },
+    {
+      "tytuł": "Umschlagplatz",
+      "autor": "Jarosław Marek Rymkiewicz",
+      "rok": "1988",
+      "gatunek": "Literatura obyczajowa (esej-powieść, historyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Autor wędruje po warszawskim getcie i na plac, z którego wywożono Żydów do Treblinki, rozważając pamięć, winę i miejsce. Książka o Zagładzie i Warszawie.",
+      "okres": "Po 1989 roku"
+    },
+    {
+      "tytuł": "Jadąc do Babadag",
+      "autor": "Andrzej Stasiuk",
+      "rok": "2004",
+      "gatunek": "reportaż (podróżniczy)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Pisarz podróżuje po Europie Środkowo-Wschodniej, od Karpat po Rumunię i Albanię, opisując krajobrazy i ludzi. Esej o zapomnianej części kontynentu.",
+      "okres": "Po 1989 roku"
+    }
+  ]
+}

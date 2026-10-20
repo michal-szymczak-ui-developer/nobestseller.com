@@ -1,0 +1,161 @@
+---
+import Base from '../layouts/Base.astro';
+import Topbar from '../components/Topbar.astro';
+import { loadAll, type Kind } from '../lib/data';
+import { payloadJson } from '../lib/row';
+
+const { items } = loadAll();
+const dataJson = payloadJson(items);
+const KINDS: { kind: Kind; label: string }[] = [
+  { kind: 'books', label: 'Książki' },
+  { kind: 'movies', label: 'Filmy' },
+];
+const FILTERS = [
+  { value: 'all', label: 'Wszystkie' },
+  { value: 'todo', label: 'Do zaliczenia' },
+  { value: 'done', label: 'Zaliczone' },
+];
+---
+<Base title="Ulubione">
+  <Topbar current="favorites">
+    <a slot="center" class="back" href="/">← Katalog</a>
+  </Topbar>
+
+  <main class="page">
+    <div class="page-head">
+      <div>
+        <h1 class="page-title">Ulubione</h1>
+        <div class="page-sub" id="sub" aria-live="polite"></div>
+      </div>
+      <div class="controls" id="controls">
+        <div class="switch" role="tablist" aria-label="Rodzaj">
+          {KINDS.map(({ kind, label }) => (
+            <button type="button" role="tab" data-kind-btn={kind} aria-selected="false">
+              {label} <span class="switch-n" data-n={kind}>0</span>
+            </button>
+          ))}
+        </div>
+        <div class="seg" role="group" aria-label="Pokaż">
+          {FILTERS.map((f) => <button type="button" data-status={f.value} aria-pressed="false">{f.label}</button>)}
+        </div>
+      </div>
+    </div>
+
+    <p class="intro" id="intro" hidden>
+      Nie masz jeszcze ulubionych. Kliknij ikonę zakładki przy książce lub filmie w <a href="/">katalogu</a>, aby je tu zobaczyć.
+    </p>
+
+    <ul class="rows" id="rows"></ul>
+    <p class="block-empty" id="empty" hidden></p>
+  </main>
+  <script is:inline type="application/json" id="catalog-data" set:html={dataJson} />
+</Base>
+
+<style>
+  .back { font-size: 13px; color: var(--ink-mid); text-decoration: none; align-self: center; }
+  .back:hover { color: var(--ink); text-decoration: underline; }
+  .page { max-width: 1100px; margin: 0 auto; }
+  .page-head {
+    display: flex; align-items: center; justify-content: space-between; gap: 16px; flex-wrap: wrap;
+    padding: 28px 36px 20px; border-bottom: 1px solid var(--rule);
+  }
+  .page-title { font-family: 'Playfair Display Variable', serif; font-size: 22px; font-weight: 700; letter-spacing: -.4px; }
+  .page-sub { font-size: 12px; color: var(--ink-faint); }
+  .controls { display: flex; align-items: center; gap: 16px; flex-wrap: wrap; }
+  .controls[hidden] { display: none; }
+
+  /* przełącznik Książki / Filmy – taki sam jak w katalogu */
+  .switch { display: flex; gap: 4px; }
+  .switch button {
+    height: 32px; background: none; border: 1px solid var(--rule); padding: 0 18px; font-size: 13px; color: var(--ink-mid);
+    cursor: pointer; transition: background .1s, color .1s;
+  }
+  .switch button[aria-selected='true'] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+  .switch button:hover:not([aria-selected='true']) { background: var(--hover); color: var(--ink); }
+  .switch-n { margin-left: 4px; font-size: 11px; opacity: .7; font-variant-numeric: tabular-nums; }
+
+  .seg { display: flex; border: 1px solid var(--rule); }
+  .seg button {
+    height: 30px; background: none; border: 0; padding: 0 14px; font-size: 12px; color: var(--ink-mid); cursor: pointer;
+    transition: background .1s, color .1s;
+  }
+  .seg button + button { border-left: 1px solid var(--rule); }
+  .seg button[aria-pressed='true'] { background: var(--ink); color: var(--bg); }
+  .seg button:hover:not([aria-pressed='true']) { background: var(--hover); color: var(--ink); }
+  button:focus-visible { outline: 2px solid var(--ink); outline-offset: 2px; }
+  .intro { padding: 60px 36px; text-align: center; color: var(--ink-faint); }
+  .intro a { color: var(--ink); }
+  .intro[hidden], .block-empty[hidden] { display: none; }
+  .rows { list-style: none; }
+  .rows[hidden] { display: none; }
+  .block-empty { padding: 60px 36px; text-align: center; font-size: 13px; color: var(--ink-faint); }
+
+  @media (max-width: 860px) {
+    .page-head { padding: 20px 16px 16px; }
+    .block-empty { padding: 40px 16px; }
+    .intro { padding: 40px 16px; }
+  }
+</style>
+
+<script>
+  import { bindRows, done, favs, subscribe, syncRow } from '../lib/favorites';
+  import { rowHtml, type DataPayload } from '../lib/row';
+
+  type Kind = 'books' | 'movies';
+  type Status = 'all' | 'todo' | 'done';
+  const KINDS: Kind[] = ['books', 'movies'];
+  const URL_KIND: Record<Kind, string> = { books: 'ksiazki', movies: 'filmy' };
+  const EMPTY: Record<Kind, string> = { books: 'Brak książek w ulubionych.', movies: 'Brak filmów w ulubionych.' };
+
+  const q = <T extends HTMLElement>(sel: string) => document.querySelector<T>(sel)!;
+  const { items, titles } = JSON.parse(q('#catalog-data').textContent!) as DataPayload;
+  const byTitle = [...items].sort((a, b) => a.title.localeCompare(b.title, 'pl'));
+  const tabs = [...document.querySelectorAll<HTMLButtonElement>('[data-kind-btn]')];
+  const seg = [...document.querySelectorAll<HTMLButtonElement>('[data-status]')];
+  const rowsEl = q('#rows');
+
+  const params = new URLSearchParams(location.search);
+  let kind: Kind = params.get('t') === URL_KIND.movies ? 'movies' : 'books';
+  let status: Status = (['todo', 'done'] as const).find((s) => s === params.get('status')) ?? 'all';
+
+  function render() {
+    tabs.forEach((t) => t.setAttribute('aria-selected', String(t.dataset.kindBtn === kind)));
+    seg.forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.status === status)));
+
+    const mine = Object.fromEntries(KINDS.map((k) => [k, byTitle.filter((i) => i.kind === k && favs.has(i.id))])) as Record<Kind, typeof items>;
+    KINDS.forEach((k) => { q(`[data-n="${k}"]`).textContent = String(mine[k].length); });
+    const all = mine.books.length + mine.movies.length;
+
+    const list = mine[kind];
+    const doneN = list.filter((i) => done.has(i.id)).length;
+    const visible = list.filter((i) => status === 'all' || (status === 'done') === done.has(i.id));
+    rowsEl.innerHTML = visible.map((i) => rowHtml(i, titles)).join('');
+    rowsEl.querySelectorAll<HTMLElement>('.row').forEach(syncRow);
+    rowsEl.hidden = visible.length === 0;
+
+    q('#intro').hidden = all > 0;
+    q('#controls').hidden = all === 0;
+    const empty = q('#empty');
+    empty.hidden = all === 0 || visible.length > 0;
+    empty.textContent = list.length ? 'Brak pozycji dla wybranego filtru.' : EMPTY[kind];
+    q('#sub').textContent = all ? `${list.length} pozycji, w tym ${doneN} zaliczonych` : '';
+
+    const next = new URLSearchParams();
+    next.set('t', URL_KIND[kind]);
+    if (status !== 'all') next.set('status', status);
+    history.replaceState(null, '', `?${next}`);
+  }
+
+  tabs.forEach((t) => t.addEventListener('click', () => { kind = t.dataset.kindBtn as Kind; render(); }));
+  seg.forEach((b) => b.addEventListener('click', () => { status = b.dataset.status as Status; render(); }));
+  subscribe(render);
+  bindRows(rowsEl);
+  // klik w nazwę listy → katalog przefiltrowany do tej listy
+  rowsEl.addEventListener('click', (e) => {
+    const b = (e.target as HTMLElement).closest<HTMLElement>('.src-badge');
+    if (!b) return;
+    location.href = `/?t=${URL_KIND[kind]}&list=${encodeURIComponent(b.dataset.list!)}`;
+  });
+
+  render();
+</script>

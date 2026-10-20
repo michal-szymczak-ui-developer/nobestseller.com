@@ -1,0 +1,130 @@
+---
+import Base from '../layouts/Base.astro';
+import Topbar from '../components/Topbar.astro';
+
+// url – główne źródło; more – dodatkowe linki (opis listy, oryginał itp.)
+interface Source { title: string; url: string; more?: { label: string; url: string }[]; }
+const SOURCES: { heading: string; links: Source[] }[] = [
+  {
+    heading: 'Książki',
+    links: [
+      { title: '100 książek XX wieku według Le Monde', url: 'https://pl.wikipedia.org/wiki/100_ksi%C4%85%C5%BCek_XX_wieku_wed%C5%82ug_Le_Monde' },
+      { title: '100 najlepszych książek Norweskiego Klubu Książki', url: 'https://pl.wikipedia.org/wiki/100_najlepszych_ksi%C4%85%C5%BCek_Norweskiego_Klubu_Ksi%C4%85%C5%BCki' },
+      { title: 'Kanon na koniec wieku („Rzeczpospolita”)', url: 'https://pl.wikipedia.org/wiki/Kanon_na_koniec_wieku' },
+      {
+        title: 'The Guardian – 100 najlepszych powieści w języku angielskim',
+        url: 'https://www.theguardian.com/books/2015/aug/17/the-100-best-novels-written-in-english-the-full-list',
+        more: [
+          { label: 'lista (Goodreads)', url: 'https://www.goodreads.com/book/show/79125282' },
+          { label: 'wstęp', url: 'https://www.goodreads.com/author_blog_posts/4913546-the-100-best-novels-an-introduction' },
+        ],
+      },
+      {
+        title: 'BBC – 100 powieści, które ukształtowały świat (2019)',
+        url: 'https://www.esquireme.com/content/40773-these-are-the-100-novels-that-have-shaped-our-world-according-to-the-bbc',
+        more: [{ label: 'komunikat BBC', url: 'https://www.thedreamcage.com/2019/11/books-100-novels-that-shaped-our-world.html' }],
+      },
+      {
+        title: 'Modern Library – 100 Best Novels (lista redakcyjna i czytelników)',
+        url: 'https://www.csus.edu/indiv/m/maddendw/MODERN%20LIBRARY%20100%20BEST%20NOVELS.pdf',
+        more: [{ label: 'opis listy (Wikipedia)', url: 'https://en.wikipedia.org/wiki/Modern_Library%27s_100_Best_Novels' }],
+      },
+      {
+        title: 'TIME – All-TIME 100 Novels',
+        url: 'https://bucketlistbookreviews.com/the-lists/time-magazines-100-novels/',
+        more: [
+          { label: 'Wikipedia', url: 'https://en.wikipedia.org/wiki/Time%27s_List_of_the_100_Best_Novels' },
+          { label: 'oryginał', url: 'https://entertainment.time.com/2005/10/16/all-time-100-novels/slide/all/' },
+        ],
+      },
+      {
+        title: 'TIME – 100 Best YA Books',
+        url: 'https://bookstacked.com/publishing/time-magazine-publishes-list-of-100-best-ya-books-of-all-time/',
+        more: [{ label: 'oryginał', url: 'https://time.com/collection/100-best-ya-books/' }],
+      },
+      {
+        title: 'The New York Times – 100 Best Books of the 21st Century',
+        url: 'https://nbpl.org/the-new-york-times-best-books-of-the-21st-century/',
+        more: [
+          { label: 'Book Riot', url: 'https://bookriot.com/best-books-of-the-21st-century-nyt' },
+          { label: 'oryginał', url: 'https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html' },
+        ],
+      },
+      { title: '1001 Books You Must Read Before You Die (Goodreads)', url: 'https://www.goodreads.com/list/show/952.1001_Books_You_Must_Read_Before_You_Die' },
+    ],
+  },
+  {
+    heading: 'Filmy',
+    links: [
+      { title: 'Watykańska lista 45 filmów', url: 'https://pl.wikipedia.org/wiki/Watyka%C5%84ska_lista_45_film%C3%B3w' },
+      { title: 'Sight & Sound 2022 (BFI) – Greatest Films of All Time', url: 'https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time' },
+      { title: 'AFI 100 Years…100 Movies (2007)', url: 'https://en.wikipedia.org/wiki/AFI%27s_100_Years...100_Movies_(10th_Anniversary_Edition)' },
+      { title: 'Letterboxd Top 250', url: 'https://filmcolossus.com/movie-explanations/letterboxd-top-250' },
+      { title: 'Rotten Tomatoes – 300 Best Movies of All Time', url: 'https://editorial.rottentomatoes.com/guide/best-movies-of-all-time' },
+      { title: 'The Guardian – 100 najlepszych filmów XXI wieku', url: 'https://www.theguardian.com/film/2019/sep/13/100-best-films-movies-of-the-21st-century' },
+      { title: 'BBC Culture – 100 największych filmów XXI wieku (2016)', url: 'https://www.bbc.com/culture/article/20160819-the-21st-centurys-100-greatest-films' },
+      { title: 'Time Out – 100 najlepszych filmów', url: 'https://www.timeout.com/film/best-movies-of-all-time' },
+      { title: 'Empire – 100 najlepszych filmów', url: 'https://empireonline.com/movies/features/best-movies/' },
+      { title: 'The New York Times – 100 najlepszych filmów XXI wieku', url: 'https://www.nytimes.com/interactive/2025/movies/best-movies-21st-century.html' },
+    ],
+  },
+  {
+    heading: 'Filmy – wybory reżyserów',
+    links: [
+      { title: 'Quentin Tarantino – ankieta Sight & Sound 2012', url: 'https://openculture.com/2013/08/quentin-tarantino-lists-the-12-greatest-films-of-all-time.html' },
+      { title: 'Quentin Tarantino – ulubione filmy z lat 1992–2009', url: 'https://www.flicks.co.nz/features/quentin-tarantinos-favourite-20-movies-from-1992-to-2009/' },
+      { title: 'Wes Anderson – Criterion Top 10', url: 'https://www.criterion.com/current/top-10-lists/115-wes-anderson-s-top-10' },
+      { title: 'Wes Anderson – Criterion Closet', url: 'https://kottke.org/26/09/wes-andersons-criterion-closet-picks' },
+      { title: 'Francis Ford Coppola – Criterion Closet', url: 'https://www.criterion.com/shop/collection/763-francis-ford-coppola-s-closet-picks' },
+      { title: 'Guillermo del Toro – Criterion Top 10', url: 'https://www.criterion.com/current/top-10-lists/125-guillermo-del-toro-s-top-10' },
+      { title: 'Akira Kurosawa – 100 ulubionych filmów', url: 'https://www.openculture.com/2018/10/akira-kurosawas-100-favorite-movies.html' },
+    ],
+  },
+];
+---
+<Base title="Listy" description="Listy rekomendacji, na podstawie których powstał katalog nobestseller.com.">
+  <Topbar>
+    <a slot="center" class="back" href="/">← Katalog</a>
+  </Topbar>
+
+  <main class="page">
+    <h1>Listy</h1>
+    <p class="lead">Katalog powstał na podstawie poniższych list rekomendacji.</p>
+
+    {SOURCES.map((s) => (
+      <section>
+        <h2>{s.heading}</h2>
+        <ul>
+          {s.links.map((l) => (
+            <li>
+              <a href={l.url} target="_blank" rel="noopener noreferrer">{l.title}</a>
+              {l.more?.map((m) => (
+                <a class="more" href={m.url} target="_blank" rel="noopener noreferrer">{m.label}</a>
+              ))}
+            </li>
+          ))}
+        </ul>
+      </section>
+    ))}
+  </main>
+</Base>
+
+<style>
+  .back { font-size: 13px; color: var(--ink-mid); text-decoration: none; align-self: center; }
+  .back:hover { color: var(--ink); text-decoration: underline; }
+  .page { max-width: 640px; margin: 0 auto; padding: 56px 24px 80px; }
+  h1 {
+    font-family: 'Playfair Display Variable', serif; font-size: 30px; font-weight: 700;
+    letter-spacing: -.5px; margin-bottom: 12px;
+  }
+  .lead { font-size: 15px; line-height: 1.7; color: var(--ink-mid); }
+  h2 {
+    font-family: 'Playfair Display Variable', serif; font-size: 19px; font-weight: 700;
+    letter-spacing: -.3px; margin: 32px 0 12px;
+  }
+  ul { list-style: none; border-top: 1px solid var(--rule); }
+  li { padding: 12px 0; border-bottom: 1px solid var(--rule); font-size: 15px; }
+  li a { color: var(--ink); }
+  li a.more { display: inline-block; margin-left: 10px; font-size: 12px; color: var(--ink-faint); }
+  li a.more:hover { color: var(--ink); }
+</style>

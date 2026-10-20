@@ -1,0 +1,805 @@
+{
+  "nazwa": "Time Nowele",
+  "pozycje": [
+    {
+      "tytuł": "Przygody Augiego Marcha",
+      "autor": "Saul Bellow",
+      "rok": "1953",
+      "gatunek": "Literatura obyczajowa (powieść łotrzykowska, obyczajowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Chłopak z biednej chicagowskiej dzielnicy próbuje znaleźć własną drogę wśród pokus i mentorów. Barwna panorama amerykańskiego życia."
+    },
+    {
+      "tytuł": "Wszyscy ludzie króla",
+      "autor": "Robert Penn Warren",
+      "rok": "1946",
+      "gatunek": "Literatura obyczajowa (powieść polityczna, psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Dziennikarz Jack Burden opowiada o karierze charyzmatycznego gubernatora Willie Starka, wzorowanego na Huey Longu. Powieść o władzy i korupcji."
+    },
+    {
+      "tytuł": "Amerykańska sielanka",
+      "autor": "Philip Roth",
+      "rok": "1997",
+      "gatunek": "Literatura obyczajowa (społeczna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Szwed Levov, idealny Amerykanin, traci spokój, gdy jego córka zostaje zamachowcem. Powieść o rozpadzie amerykańskiego snu."
+    },
+    {
+      "tytuł": "Amerykańska tragedia",
+      "autor": "Theodore Dreiser",
+      "rok": "1925",
+      "gatunek": "Literatura obyczajowa (powieść naturalistyczna, społeczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Ambitny młody Clyde Griffiths, chcąc awansować, zabija kobietę, którą uwiódł. Powieść o presji pieniędzy i klas."
+    },
+    {
+      "tytuł": "Folwark zwierzęcy",
+      "autor": "George Orwell",
+      "rok": "1945",
+      "gatunek": "Literatura obyczajowa (powieść alegoryczna, polityczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Zwierzęta wyganiają ludzi z farmy, a rządzące nimi świnie stopniowo przejmują władzę. Satyra na stalinizm."
+    },
+    {
+      "tytuł": "Spotkanie w Samarze",
+      "autor": "John O'Hara",
+      "rok": "1934",
+      "gatunek": "Literatura obyczajowa (psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Pewien sprzedawca samochodów z prowincjonalnego miasta niszczy swoją karierę i życie w ciągu kilku dni. Powieść o samozniszczeniu."
+    },
+    {
+      "tytuł": "Czy jesteś tam, Boże? To ja, Margaret",
+      "autor": "Judy Blume",
+      "rok": "1970",
+      "gatunek": "Literatura młodzieżowa (obyczajowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Jedenastoletnia Margaret w nowym mieście rozmawia z Bogiem o dojrzewaniu i religii. Klasyk literatury młodzieżowej."
+    },
+    {
+      "tytuł": "Pomocnik",
+      "autor": "Bernard Malamud",
+      "rok": "1957",
+      "gatunek": "Literatura obyczajowa (psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Włóczęga zatrudnia się w sklepie żydowskiego właściciela w Brooklynie i uczy się cierpienia. Powieść o odkupieniu."
+    },
+    {
+      "tytuł": "At Swim-Two-Birds",
+      "autor": "Flann O'Brien",
+      "rok": "1939",
+      "gatunek": "Literatura obyczajowa (powieść postmodernistyczna, komiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Dubliński student pisze powieść, w której bohaterowie buntują się przeciw autorowi. Wielowarstwowa gra z literaturą."
+    },
+    {
+      "tytuł": "Pokuta",
+      "autor": "Ian McEwan",
+      "rok": "2001",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, historyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Trzynastoletnia Briony fałszywie oskarża Robbiego o gwałt i przez życie próbuje to odkupić. Powieść o winie i pisaniu."
+    },
+    {
+      "tytuł": "Umiłowana",
+      "autor": "Toni Morrison",
+      "rok": "1987",
+      "gatunek": "powieść historyczna (realizm magiczny)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Była niewolnica Sethe mieszka w Ohio po wojnie secesyjnej i jest nawiedzana przez ducha zabitej córki. Powieść o traumie niewolnictwa."
+    },
+    {
+      "tytuł": "Pożegnanie z Berlinem",
+      "autor": "Christopher Isherwood",
+      "rok": "1945",
+      "gatunek": "Literatura obyczajowa (historyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Angielski pisarz opisuje berlińskich znajomych z czasów upadku Republiki Weimarskiej. Podstawa musicalu „Kabaret”."
+    },
+    {
+      "tytuł": "Głęboki sen",
+      "autor": "Raymond Chandler",
+      "rok": "1939",
+      "gatunek": "Kryminał (czarny kryminał)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Detektyw Philip Marlowe zostaje wynajęty przez bogatego generała do rozwiązania sprawy szantażu i trafia na serię zabójstw. Klasyczny noir."
+    },
+    {
+      "tytuł": "Ślepy zabójca",
+      "autor": "Margaret Atwood",
+      "rok": "2000",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, rodzinna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Staruszka Iris wspomina życie i tajemniczą śmierć siostry, a w tło wplecione jest opowiadanie science fiction. Powieść o pamięci."
+    },
+    {
+      "tytuł": "Krwawy południk",
+      "autor": "Cormac McCarthy",
+      "rok": "1985",
+      "gatunek": "powieść historyczna (western)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Nastoletni uciekinier dołącza do bandy łowców skalpów na pograniczu meksykańskim. Brutalna wizja Dzikiego Zachodu."
+    },
+    {
+      "tytuł": "Powrót do Brideshead",
+      "autor": "Evelyn Waugh",
+      "rok": "1945",
+      "gatunek": "Literatura obyczajowa (religijna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Charles Ryder wspomina przyjaźń z arystokratyczną rodziną Flyte'ów i rolę wiary w ich losach. Powieść o utraconej epoce."
+    },
+    {
+      "tytuł": "Most świętego Ludwika Króla",
+      "autor": "Thornton Wilder",
+      "rok": "1927",
+      "gatunek": "Literatura obyczajowa (powieść filozoficzna, historyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Zawala się most w Peru, a franciszkanin bada życie pięciu ofiar, szukając boskiego planu. Powieść o losie."
+    },
+    {
+      "tytuł": "Call It Sleep",
+      "autor": "Henry Roth",
+      "rok": "1934",
+      "gatunek": "Literatura obyczajowa (powieść autobiograficzna, społeczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Mały żydowski imigrant David dorasta w nowojorskim slumsie, pełnym lęku i przemocy ojca. Powieść o dzieciństwie."
+    },
+    {
+      "tytuł": "Paragraf 22",
+      "autor": "Joseph Heller",
+      "rok": "1961",
+      "gatunek": "Literatura obyczajowa (powieść satyryczna, wojenna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Pilot Yossarian próbuje uciec z wojny, lecz pułapka biurokracji uniemożliwia mu wszystko. Czarna komedia o absurdzie wojny."
+    },
+    {
+      "tytuł": "Buszujący w zbożu",
+      "autor": "J. D. Salinger",
+      "rok": "1951",
+      "gatunek": "Literatura młodzieżowa (psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Szesnastoletni Holden Caulfield po wyrzuceniu ze szkoły wędruje przez Nowy Jork i opowiada o swoich rozczarowaniach. Kultowa powieść o dorastaniu."
+    },
+    {
+      "tytuł": "Mechaniczna pomarańcza",
+      "autor": "Anthony Burgess",
+      "rok": "1962",
+      "gatunek": "Science fiction (antyutopia)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Nastoletni przywódca bandy Alex popełnia brutalne zbrodnie i zostaje poddany eksperymentalnej terapii. Powieść o wolnej woli."
+    },
+    {
+      "tytuł": "Wyznania Nata Turnera",
+      "autor": "William Styron",
+      "rok": "1967",
+      "gatunek": "powieść historyczna (społeczna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Powieść w pierwszej osobie o niewolniku, który poprowadził krwawe powstanie w Wirginii w 1831 roku. Kontrowersyjna adaptacja prawdziwej historii."
+    },
+    {
+      "tytuł": "Korekty",
+      "autor": "Jonathan Franzen",
+      "rok": "2001",
+      "gatunek": "Literatura obyczajowa (rodzinna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Rodzina Lambertów ze Środkowego Zachodu zbiera się na ostatnie święta, a każdy z jej członków zmaga się z własnymi problemami. Powieść o rodzinie."
+    },
+    {
+      "tytuł": "Wyprzedaż partii 49",
+      "autor": "Thomas Pynchon",
+      "rok": "1966",
+      "gatunek": "Literatura obyczajowa (powieść postmodernistyczna, kryminalna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Oedipa Maas dowiaduje się, że została wykonawczynią testamentu, i odkrywa podziemny system poczty. Krótka powieść o paranoi."
+    },
+    {
+      "tytuł": "Taniec do muzyki czasu",
+      "autor": "Anthony Powell",
+      "rok": "1951",
+      "gatunek": "Literatura obyczajowa (cykl powieściowy, obyczajowy)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Dwunastotomowa kronika angielskiej klasy wyższej i artystycznej, opowiadana przez Nicholasa Jenkinsa przez pół wieku. Epopeja towarzyska."
+    },
+    {
+      "tytuł": "Dzień szarańczy",
+      "autor": "Nathanael West",
+      "rok": "1939",
+      "gatunek": "Literatura obyczajowa (powieść satyryczna, społeczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Młody malarz, pracownik studia filmowego, obserwuje zepsutych i zawiedzionych ludzi w Hollywoodzie lat trzydziestych. Czarny obraz marzeń."
+    },
+    {
+      "tytuł": "Śmierć nadchodzi po arcybiskupa",
+      "autor": "Willa Cather",
+      "rok": "1927",
+      "gatunek": "powieść historyczna (religijna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Dwaj francuscy duchowni zakładają diecezję w Nowym Meksyku w XIX wieku. Spokojna epicka opowieść o wierze i wędrówce."
+    },
+    {
+      "tytuł": "Śmierć w rodzinie",
+      "autor": "James Agee",
+      "rok": "1957",
+      "gatunek": "Literatura obyczajowa (powieść autobiograficzna, psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Rodzina z Knoxville przeżywa nagłą śmierć ojca w wypadku samochodowym. Powieść o żałobie."
+    },
+    {
+      "tytuł": "Śmierć serca",
+      "autor": "Elizabeth Bowen",
+      "rok": "1938",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, obyczajowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Szesnastoletnia sierota Portia zamieszkuje u brata w Londynie i naiwnie szuka miłości w świecie cynicznych dorosłych. Powieść o niewinności."
+    },
+    {
+      "tytuł": "Wybawienie",
+      "autor": "James Dickey",
+      "rok": "1970",
+      "gatunek": "Literatura obyczajowa (powieść przygodowa, psychologiczna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Czterech mężczyzn wyrusza na spływ rzeką w odludnych górach Georgii i trafia na przemoc. Thriller o naturze męskości."
+    },
+    {
+      "tytuł": "Żołnierze psów",
+      "autor": "Robert Stone",
+      "rok": "1974",
+      "gatunek": "Kryminał (powieść przygodowa, kryminalna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Dziennikarz z Wietnamu wciąga się w przemyt heroiny do Kalifornii, a jego przyjaciele giną. Powieść o rozczarowaniu."
+    },
+    {
+      "tytuł": "Falconer",
+      "autor": "John Cheever",
+      "rok": "1977",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, więzienna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Uzależniony od narkotyków profesor Ezekiel Farragut trafia do więzienia za zabójstwo brata i próbuje odzyskać godność. Powieść o odkupieniu."
+    },
+    {
+      "tytuł": "Kochanica Francuza",
+      "autor": "John Fowles",
+      "rok": "1969",
+      "gatunek": "powieść historyczna (postmodernistyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "W wiktoriańskiej Anglii naukowiec zakochuje się w tajemniczej kobiecie, a narrator przerywa fabułę własnymi komentarzami. Gra z konwencją."
+    },
+    {
+      "tytuł": "Złoty notatnik",
+      "autor": "Doris Lessing",
+      "rok": "1962",
+      "gatunek": "Literatura obyczajowa (powieść eksperymentalna, feministyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Pisarka Anna Wulf zapisuje swoje życie w kilku notesach i próbuje je połączyć. Powieść o kobiecej tożsamości i polityce."
+    },
+    {
+      "tytuł": "Idź, powiedz to na górze",
+      "autor": "James Baldwin",
+      "rok": "1953",
+      "gatunek": "Literatura obyczajowa (powieść autobiograficzna, psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Czternastoletni John w Harlemie doświadcza religijnej inicjacji, a retrospekcje odsłaniają historię jego rodziny. Pierwsza powieść Baldwina."
+    },
+    {
+      "tytuł": "Przeminęło z wiatrem",
+      "autor": "Margaret Mitchell",
+      "rok": "1936",
+      "gatunek": "powieść historyczna (romantyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Scarlett O'Hara walczy o przetrwanie i miłość w czasach wojny secesyjnej i odbudowy Południa. Powieść epicka."
+    },
+    {
+      "tytuł": "Grona gniewu",
+      "autor": "John Steinbeck",
+      "rok": "1939",
+      "gatunek": "Literatura obyczajowa (powieść społeczna, realistyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Rodzina Joadów traci farmę w czasie Wielkiego Kryzysu i rusza do Kalifornii w poszukiwaniu pracy. Powieść o nędzy i solidarności."
+    },
+    {
+      "tytuł": "Tęcza grawitacji",
+      "autor": "Thomas Pynchon",
+      "rok": "1973",
+      "gatunek": "Literatura obyczajowa (powieść postmodernistyczna, historyczna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Żołnierz Tyrone Slothrop próbuje rozwikłać tajemnicę rakiet V-2 w ostatnich miesiącach wojny. Gigantyczna, wielowątkowa powieść."
+    },
+    {
+      "tytuł": "Wielki Gatsby",
+      "autor": "F. Scott Fitzgerald",
+      "rok": "1925",
+      "gatunek": "Literatura obyczajowa (tragiczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Narrator Nick Carraway opowiada o tajemniczym milionerze Gatsbym, który urządza wystawne przyjęcia, by odzyskać dawną miłość. Powieść o marzeniu i klęsce."
+    },
+    {
+      "tytuł": "Garść prochu",
+      "autor": "Evelyn Waugh",
+      "rok": "1934",
+      "gatunek": "Literatura obyczajowa (powieść satyryczna, obyczajowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Zdradzony przez żonę Tony Last wyrusza do dżungli i zostaje uwięziony przez dziwnego plantatora. Gorzka satyra na wyższe sfery."
+    },
+    {
+      "tytuł": "Serce jest samotnym myśliwym",
+      "autor": "Carson McCullers",
+      "rok": "1940",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, obyczajowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Głuchoniemy John Singer w małym miasteczku na Południu staje się powiernikiem kilku samotnych ludzi. Powieść o izolacji."
+    },
+    {
+      "tytuł": "Sedno sprawy",
+      "autor": "Graham Greene",
+      "rok": "1948",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, religijna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Brytyjski oficer policji w Afryce Zachodniej popada w długi i łamie zasady, dręczony katolickim sumieniem. Powieść o winie."
+    },
+    {
+      "tytuł": "Herzog",
+      "autor": "Saul Bellow",
+      "rok": "1964",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, obyczajowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Profesor Moses Herzog po rozpadzie małżeństwa pisze nigdy niewysyłane listy i szuka sensu. Powieść intelektualna."
+    },
+    {
+      "tytuł": "Housekeeping",
+      "autor": "Marilynne Robinson",
+      "rok": "1981",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, obyczajowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Dwie siostry w małym amerykańskim miasteczku dorastają pod opieką ekscentrycznej ciotki. Poetycka powieść o stracie i wędrowaniu."
+    },
+    {
+      "tytuł": "Dom dla pana Biswasa",
+      "autor": "V. S. Naipaul",
+      "rok": "1961",
+      "gatunek": "Literatura obyczajowa (tragikomiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Mohun Biswas z Trynidadu marzy o własnym domu i niezależności od rodziny żony. Powieść o godności i tożsamości."
+    },
+    {
+      "tytuł": "Ja, Klaudiusz",
+      "autor": "Robert Graves",
+      "rok": "1934",
+      "gatunek": "powieść historyczna",
+      "kategoria_wiekowa": "16+",
+      "opis": "Cesarz Klaudiusz opisuje intrygi i zbrodnie rodu juliańsko-klaudyjskiego. Fikcyjna autobiografia władcy Rzymu."
+    },
+    {
+      "tytuł": "Infinite Jest",
+      "autor": "David Foster Wallace",
+      "rok": "1996",
+      "gatunek": "Literatura obyczajowa (powieść postmodernistyczna, satyryczna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "W przyszłej Ameryce młodzi tenisiści, uzależnieni i terroryści poszukują fatalnego filmu. Ponad tysiącstronicowa powieść."
+    },
+    {
+      "tytuł": "Niewidzialny człowiek",
+      "autor": "Ralph Ellison",
+      "rok": "1952",
+      "gatunek": "Literatura obyczajowa (powieść społeczna, psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Czarnoskóry narrator, którego nikt nie dostrzega naprawdę, opowiada o drodze z Południa do Harlemu i rasizmie. Klasyka literatury amerykańskiej."
+    },
+    {
+      "tytuł": "Światłość w sierpniu",
+      "autor": "William Faulkner",
+      "rok": "1932",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, społeczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Losy Joego Christmasa, człowieka niepewnego własnego pochodzenia, i ciężarnej Lenny w Missisipi. Powieść o rasie i izolacji."
+    },
+    {
+      "tytuł": "Lew, czarownica i stara szafa",
+      "autor": "C. S. Lewis",
+      "rok": "1950",
+      "gatunek": "Fantasy (dla dzieci)",
+      "kategoria_wiekowa": "6+",
+      "opis": "Czworo rodzeństwa przez szafę trafia do Narnii i pomaga lwu Aslanowi w walce z Białą Czarownicą. Pierwsza część cyklu."
+    },
+    {
+      "tytuł": "Lolita",
+      "autor": "Vladimir Nabokov",
+      "rok": "1955",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, kontrowersyjna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Humbert Humbert, sam narrator, opisuje swoją obsesję na punkcie dwunastoletniej Dolores. Mistrzowsko napisana, lecz moralnie niepokojąca powieść."
+    },
+    {
+      "tytuł": "Władca much",
+      "autor": "William Golding",
+      "rok": "1954",
+      "gatunek": "Literatura obyczajowa (powieść alegoryczna, przygodowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Grupa chłopców rozbitych na bezludnej wyspie tworzy własne społeczeństwo, które stopniowo ulega okrucieństwu. Alegoria natury człowieka."
+    },
+    {
+      "tytuł": "Władca Pierścieni",
+      "autor": "J.R.R. Tolkien",
+      "rok": "1954",
+      "gatunek": "Fantasy (epicka)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Hobbit Frodo wyrusza z drużyną, by zniszczyć Jedyny Pierścień i pokonać Saurona. Fundamentalne dzieło współczesnej fantasy."
+    },
+    {
+      "tytuł": "Loving",
+      "autor": "Henry Green",
+      "rok": "1945",
+      "gatunek": "Literatura obyczajowa (modernistyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Życie służby i właścicieli irlandzkiego zamku podczas II wojny światowej ukazane głównie w dialogach. Powieść o klasie."
+    },
+    {
+      "tytuł": "The Moviegoer",
+      "autor": "Walker Percy",
+      "rok": "1961",
+      "gatunek": "Literatura obyczajowa (powieść filozoficzna, obyczajowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Młody makler z Nowego Orleanu ucieka w kino i szuka sensu własnego życia. Powieść egzystencjalna."
+    },
+    {
+      "tytuł": "Szczęściarz Jim",
+      "autor": "Kingsley Amis",
+      "rok": "1954",
+      "gatunek": "Literatura obyczajowa (powieść satyryczna, komediowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Młody wykładowca historii Jim Dixon znosi zakłamane towarzystwo uniwersyteckie i prowincjonalne snobizmy. Komedia środowiskowa."
+    },
+    {
+      "tytuł": "Człowiek, który kochał dzieci",
+      "autor": "Christina Stead",
+      "rok": "1940",
+      "gatunek": "Literatura obyczajowa (powieść rodzinna, psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Rodzina Pollitów w Waszyngtonie jest rozdarta między egocentrycznym ojcem a skrzywdzoną matką. Powieść o toksycznym domu."
+    },
+    {
+      "tytuł": "Dzieci północy",
+      "autor": "Salman Rushdie",
+      "rok": "1981",
+      "gatunek": "Literatura obyczajowa (powieść realizmu magicznego, historyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Saleem Sinai, urodzony o północy w dniu niepodległości Indii, ma telepatyczną więź z innymi „dziećmi północy”. Alegoria historii kraju."
+    },
+    {
+      "tytuł": "Pieniądze: list samobójczy",
+      "autor": "Martin Amis",
+      "rok": "1984",
+      "gatunek": "Literatura obyczajowa (powieść satyryczna, czarna komedia)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Reżyser reklam John Self wpada w spiralę pieniędzy, alkoholu i seksu w Londynie i Nowym Jorku. Satyra na konsumpcjonizm lat osiemdziesiątych."
+    },
+    {
+      "tytuł": "Pani Dalloway",
+      "autor": "Virginia Woolf",
+      "rok": "1925",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, modernistyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Jeden czerwcowy dzień w Londynie, kiedy Clarissa Dalloway przygotowuje przyjęcie, a weteran wojny Septimus Smith walczy z szaleństwem. Powieść strumienia świadomości."
+    },
+    {
+      "tytuł": "Nagi lunch",
+      "autor": "William S. Burroughs",
+      "rok": "1959",
+      "gatunek": "Literatura obyczajowa (powieść eksperymentalna, kontrowersyjna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Fragmentaryczna opowieść o uzależnionym od narkotyków narratorze i halucynacyjnych wizjach. Zakazana w wielu krajach."
+    },
+    {
+      "tytuł": "Syn Ameryki",
+      "autor": "Richard Wright",
+      "rok": "1940",
+      "gatunek": "Literatura obyczajowa (powieść społeczna, naturalistyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Dwudziestoletni czarnoskóry Bigger Thomas w Chicago przypadkowo zabija białą dziewczynę i ucieka. Powieść o rasizmie i przemocy."
+    },
+    {
+      "tytuł": "Neuromancer",
+      "autor": "William Gibson",
+      "rok": "1984",
+      "gatunek": "Science fiction (cyberpunk)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Zbyt wypalony haker Case dostaje szansę odzyskania umiejętności i włamuje się do sztucznej inteligencji. Fundament cyberpunku."
+    },
+    {
+      "tytuł": "Nie opuszczaj mnie",
+      "autor": "Kazuo Ishiguro",
+      "rok": "2005",
+      "gatunek": "Science fiction (psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Kathy opowiada o dzieciństwie w szkole Hailsham i przeznaczeniu, które czeka jej przyjaciół. Cicha antyutopia o człowieczeństwie."
+    },
+    {
+      "tytuł": "Rok 1984",
+      "autor": "George Orwell",
+      "rok": "1949",
+      "gatunek": "Science fiction (antyutopia)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Winston Smith w totalitarnym państwie Wielkiego Brata buntuje się przeciwko kontroli myśli. Klasyczna antyutopia."
+    },
+    {
+      "tytuł": "W drodze",
+      "autor": "Jack Kerouac",
+      "rok": "1957",
+      "gatunek": "Literatura obyczajowa (powieść drogi, autobiograficzna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Sal Paradise i Dean Moriarty przemierzają Stany Zjednoczone w poszukiwaniu wolności i wrażeń. Manifest pokolenia beatników."
+    },
+    {
+      "tytuł": "Lot nad kukułczym gniazdem",
+      "autor": "Ken Kesey",
+      "rok": "1962",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, społeczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Buntownik McMurphy trafia do szpitala psychiatrycznego i zderza się z oschłą siostrą Ratched. Powieść o wolności jednostki."
+    },
+    {
+      "tytuł": "Malowany ptak",
+      "autor": "Jerzy Kosiński",
+      "rok": "1965",
+      "gatunek": "Powieść historyczna (powieść wojenna, psychologiczna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Mały chłopiec ucieka przez wsie Europy Wschodniej w czasie II wojny światowej i doświadcza okrucieństwa. Kontrowersyjna powieść."
+    },
+    {
+      "tytuł": "Blady ogień",
+      "autor": "Vladimir Nabokov",
+      "rok": "1962",
+      "gatunek": "Literatura obyczajowa (powieść eksperymentalna, postmodernistyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Komentarz szalonego uczonego Kinbote'a do poematu zmarłego poety John Shade'a zamienia się w opowieść o własnym urojonym królestwie. Zagadka literacka."
+    },
+    {
+      "tytuł": "Podróż do Indii",
+      "autor": "E. M. Forster",
+      "rok": "1924",
+      "gatunek": "Literatura obyczajowa (kolonialna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Oskarżenie młodego Hindusa o napaść na Angielkę ujawnia przepaść między kolonizatorami a kolonizowanymi. Powieść o niemożności porozumienia."
+    },
+    {
+      "tytuł": "Play It as It Lays",
+      "autor": "Joan Didion",
+      "rok": "1970",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, obyczajowa)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Aktorka Maria Wyeth jeździ po kalifornijskich autostradach, uciekając przed pustką po rozstaniu i wypadkach. Powieść o alienacji."
+    },
+    {
+      "tytuł": "Kompleks Portnoya",
+      "autor": "Philip Roth",
+      "rok": "1969",
+      "gatunek": "Literatura obyczajowa (powieść satyryczna, psychologiczna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Alexander Portnoy opowiada psychoanalitykowi o relacji z matką, żydowskim wychowaniu i seksie. Komiczna, szokująca spowiedź."
+    },
+    {
+      "tytuł": "Opętanie",
+      "autor": "A. S. Byatt",
+      "rok": "1990",
+      "gatunek": "powieść historyczna (romantyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Dwoje współczesnych badaczy odkrywa romans wiktoriańskich poetów, a ich własne uczucia zaczynają je odzwierciedlać. Powieść o literaturze i miłości."
+    },
+    {
+      "tytuł": "Moc i chwała",
+      "autor": "Graham Greene",
+      "rok": "1940",
+      "gatunek": "Literatura obyczajowa (powieść religijna, psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Alkoholik i „whisky priest” ucieka przed antykościelną policją w Meksyku i nie traci wiary. Powieść o łasce i winie."
+    },
+    {
+      "tytuł": "Panna Jean Brodie w rozkwicie",
+      "autor": "Muriel Spark",
+      "rok": "1961",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, satyryczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Nauczycielka w edynburskiej szkole dla dziewcząt zbiera wokół siebie uczennice i wpaja im swoje poglądy. Jedna z nich ją zdradza."
+    },
+    {
+      "tytuł": "Królik ucieka",
+      "autor": "John Updike",
+      "rok": "1960",
+      "gatunek": "Literatura obyczajowa (psychologiczna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Były koszykarz Harry „Królik” Angstrom opuszcza żonę i próbuje uciec od przeciętności. Pierwsza część cyklu o Króliku."
+    },
+    {
+      "tytuł": "Ragtime",
+      "autor": "E. L. Doctorow",
+      "rok": "1975",
+      "gatunek": "powieść historyczna (społeczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Losy trzech rodzin w Ameryce początku XX wieku splatają się z postaciami takimi jak Houdini i Ford. Panorama epoki."
+    },
+    {
+      "tytuł": "Rozpoznania",
+      "autor": "William Gaddis",
+      "rok": "1955",
+      "gatunek": "Literatura obyczajowa (powieść postmodernistyczna, filozoficzna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Malarz Wyatt Gwyon zostaje fałszerzem dzieł sztuki i szuka autentyczności w świecie oszustów. Gigantyczna powieść o fałszu."
+    },
+    {
+      "tytuł": "Krwawe żniwa",
+      "autor": "Dashiell Hammett",
+      "rok": "1929",
+      "gatunek": "Kryminał (czarny kryminał)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Anonimowy detektyw trafia do skorumpowanego miasta Personville i podburza gangi przeciwko sobie. Brutalny klasyk noir."
+    },
+    {
+      "tytuł": "Droga do szczęścia",
+      "autor": "Richard Yates",
+      "rok": "1961",
+      "gatunek": "Literatura obyczajowa (psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Małżeństwo Wheelerów z przedmieścia marzy o ucieczce od przeciętności, lecz konformizm i lęk niszczą ich plany. Powieść o rozczarowaniu."
+    },
+    {
+      "tytuł": "Pod osłoną nieba",
+      "autor": "Paul Bowles",
+      "rok": "1949",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, podróżnicza)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Amerykańska para podróżuje po Afryce Północnej, a wyprawa staje się drogą ku zagładzie. Powieść o alienacji."
+    },
+    {
+      "tytuł": "Rzeźnia numer pięć",
+      "autor": "Kurt Vonnegut",
+      "rok": "1969",
+      "gatunek": "Science fiction (antywojenna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Billy Pilgrim, żołnierz ocalały z bombardowania Drezna, przeskakuje w czasie i trafia na planetę Tralfamadore. Satyra na wojnę i los."
+    },
+    {
+      "tytuł": "Zamieć",
+      "autor": "Neal Stephenson",
+      "rok": "1992",
+      "gatunek": "Science fiction (cyberpunk)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Kurier pizzy i haker Hiro Protagonist odkrywa wirusa, który atakuje umysły w wirtualnym Metawersum. Satyryczny cyberpunk."
+    },
+    {
+      "tytuł": "The Sot-Weed Factor",
+      "autor": "John Barth",
+      "rok": "1960",
+      "gatunek": "Literatura obyczajowa (powieść postmodernistyczna, przygodowa)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Nieszczęsny poeta Ebenezer Cooke zostaje „poetą laureatem” Marylandu i wpada w kolonialne intrygi. Parodia powieści łotrzykowskiej."
+    },
+    {
+      "tytuł": "Wściekłość i wrzask",
+      "autor": "William Faulkner",
+      "rok": "1929",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, modernistyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Upadek rodziny Compsonów z Missisipi opowiedziany z czterech perspektyw, w tym przez upośledzonego Benjy'ego. Eksperymentalne arcydzieło."
+    },
+    {
+      "tytuł": "The Sportswriter",
+      "autor": "Richard Ford",
+      "rok": "1986",
+      "gatunek": "Literatura obyczajowa (psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Dziennikarz sportowy Frank Bascombe w weekend wielkanocny przeżywa kryzys po śmierci syna i rozwodzie. Powieść o zwykłym życiu."
+    },
+    {
+      "tytuł": "Szpieg, który przyszedł z zimna",
+      "autor": "John le Carré",
+      "rok": "1963",
+      "gatunek": "Thriller (powieść szpiegowska)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Brytyjski agent Leamas przyjmuje ostatnią misję w NRD i odkrywa, że jest pionkiem w grze. Klasyka literatury szpiegowskiej."
+    },
+    {
+      "tytuł": "Słońce też wschodzi",
+      "autor": "Ernest Hemingway",
+      "rok": "1926",
+      "gatunek": "Literatura obyczajowa (modernistyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Grupa emigrantów z Paryża jedzie na korridę do Pampeluny, a ranny na wojnie Jake kocha Brett. Obraz straconego pokolenia."
+    },
+    {
+      "tytuł": "Ich oczy wpatrywały się w Boga",
+      "autor": "Zora Neale Hurston",
+      "rok": "1937",
+      "gatunek": "Literatura obyczajowa (psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Janie Crawford w Florydzie opowiada o trzech małżeństwach i dojrzewaniu do niezależności. Klasyka literatury afroamerykańskiej."
+    },
+    {
+      "tytuł": "Wszystko rozpada się",
+      "autor": "Chinua Achebe",
+      "rok": "1958",
+      "gatunek": "powieść historyczna (społeczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Okonkwo, silny przywódca w wiosce Igbo w Nigerii, widzi rozpad swojej społeczności po przybyciu misjonarzy i kolonizatorów. Klasyka literatury afrykańskiej."
+    },
+    {
+      "tytuł": "Zabić drozda",
+      "autor": "Harper Lee",
+      "rok": "1960",
+      "gatunek": "Literatura obyczajowa (powieść społeczna, sądowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Mała Scout Finch obserwuje, jak jej ojciec adwokat broni czarnoskórego mężczyznę niesłusznie oskarżonego o gwałt. Powieść o rasizmie i sprawiedliwości."
+    },
+    {
+      "tytuł": "Na latarnię morską",
+      "autor": "Virginia Woolf",
+      "rok": "1927",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, modernistyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Rodzina Ramsayów spędza lata na wyspie Skye, a pragnienie wyprawy do latarni morskiej splata się z upływem czasu i śmiercią. Powieść strumienia świadomości."
+    },
+    {
+      "tytuł": "Zwrotnik Raka",
+      "autor": "Henry Miller",
+      "rok": "1934",
+      "gatunek": "Literatura obyczajowa (powieść autobiograficzna, obyczajowa)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Amerykański pisarz bez grosza żyje w Paryżu lat trzydziestych i opisuje swoje przygody oraz poglądy. Powieść przez dekady zakazana."
+    },
+    {
+      "tytuł": "Ubik",
+      "autor": "Philip K. Dick",
+      "rok": "1969",
+      "gatunek": "Science fiction (psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Po zamachu członkowie ekipy zaczynają obserwować cofanie się rzeczywistości, a ratunkiem okazuje się środek Ubik. Powieść o iluzji."
+    },
+    {
+      "tytuł": "Pod siecią",
+      "autor": "Iris Murdoch",
+      "rok": "1954",
+      "gatunek": "Literatura obyczajowa (humorystyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Londyński pisarz Jake Donaghue gubi się w sieci znajomości, miłości i pomyłek. Debiut powieściowy Iris Murdoch."
+    },
+    {
+      "tytuł": "U stóp wulkanu",
+      "autor": "Malcolm Lowry",
+      "rok": "1947",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, modernistyczna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Ostatni dzień życia alkoholika konsula brytyjskiego w Meksyku w Dzień Zmarłych. Powieść o samozniszczeniu."
+    },
+    {
+      "tytuł": "Strażnicy",
+      "autor": "Alan Moore",
+      "rok": "1986",
+      "gatunek": "Komiks (komiks superbohaterski, polityczny)",
+      "kategoria_wiekowa": "16+",
+      "opis": "W alternatywnym roku 1985 emerytowani bohaterowie badają zabójstwo kolegi i odkrywają spisek. Przełomowa powieść graficzna."
+    },
+    {
+      "tytuł": "Biały szum",
+      "autor": "Don DeLillo",
+      "rok": "1985",
+      "gatunek": "Literatura obyczajowa (powieść postmodernistyczna, satyryczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Wykładowca studiów o Hitlerze po chemicznej katastrofie przeżywa lęk przed śmiercią i wszechobecnym konsumpcjonizmem. Satyra na kulturę masową."
+    },
+    {
+      "tytuł": "Białe zęby",
+      "autor": "Zadie Smith",
+      "rok": "2000",
+      "gatunek": "Literatura obyczajowa (satyryczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Dwie londyńskie rodziny, bengalska i angielska, przez trzy pokolenia budują nowe życie w wielokulturowym mieście. Debiut Zadie Smith."
+    },
+    {
+      "tytuł": "Szerokie morze Sargassowe",
+      "autor": "Jean Rhys",
+      "rok": "1966",
+      "gatunek": "powieść historyczna (psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Opowieść o Antoinette Cosway, Kreolce z Jamajki, która staje się „szaloną żoną” z „Dziwnych losów Jane Eyre”. Postkolonialna odpowiedź na klasykę."
+    }
+  ]
+}

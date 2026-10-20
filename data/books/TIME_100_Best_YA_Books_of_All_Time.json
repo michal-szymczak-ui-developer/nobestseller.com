@@ -1,0 +1,805 @@
+{
+  "nazwa": "Time",
+  "pozycje": [
+    {
+      "tytuł": "Małe kobietki",
+      "autor": "Louisa May Alcott",
+      "rok": "1868",
+      "gatunek": "Literatura obyczajowa (młodzieżowa)",
+      "kategoria_wiekowa": "6+",
+      "opis": "Cztery siostry March dorastają w czasach wojny secesyjnej, uczą się cnót i szukają własnych dróg. Klasyczna powieść o rodzinie."
+    },
+    {
+      "tytuł": "Ania z Zielonego Wzgórza",
+      "autor": "L. M. Montgomery",
+      "rok": "1908",
+      "gatunek": "Literatura młodzieżowa (obyczajowa)",
+      "kategoria_wiekowa": "6+",
+      "opis": "Rudowłosa sierota Ania trafia do rodzeństwa Cuthbertów na Wyspie Księcia Edwarda i podbija serca mieszkańców. Klasyk literatury dla młodzieży."
+    },
+    {
+      "tytuł": "Drzewo rośnie na Brooklynie",
+      "autor": "Betty Smith",
+      "rok": "1943",
+      "gatunek": "Literatura obyczajowa (młodzieżowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Dorastanie Francie Nolan w ubogiej rodzinie w Brooklynie początku XX wieku. Powieść o marzeniach i nędzy."
+    },
+    {
+      "tytuł": "Dziennik Anny Frank",
+      "autor": "Anne Frank",
+      "rok": "1947",
+      "gatunek": "Biografia i autobiografia (dziennik, literatura faktu)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Dziennik nastoletniej Żydówki ukrywającej się z rodziną w Amsterdamie w czasie okupacji niemieckiej. Świadectwo Holokaustu."
+    },
+    {
+      "tytuł": "Buszujący w zbożu",
+      "autor": "J. D. Salinger",
+      "rok": "1951",
+      "gatunek": "Literatura młodzieżowa (psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Szesnastoletni Holden Caulfield po wyrzuceniu ze szkoły wędruje przez Nowy Jork i opowiada o swoich rozczarowaniach. Kultowa powieść o dorastaniu."
+    },
+    {
+      "tytuł": "Władca much",
+      "autor": "William Golding",
+      "rok": "1954",
+      "gatunek": "Literatura obyczajowa (powieść alegoryczna, przygodowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Grupa chłopców rozbitych na bezludnej wyspie tworzy własne społeczeństwo, które stopniowo ulega okrucieństwu. Alegoria natury człowieka."
+    },
+    {
+      "tytuł": "Zabić drozda",
+      "autor": "Harper Lee",
+      "rok": "1960",
+      "gatunek": "Literatura obyczajowa (powieść społeczna, sądowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Mała Scout Finch obserwuje, jak jej ojciec adwokat broni czarnoskórego mężczyznę niesłusznie oskarżonego o gwałt. Powieść o rasizmie i sprawiedliwości."
+    },
+    {
+      "tytuł": "Z archiwum pani Basil E. Frankweiler",
+      "autor": "E. L. Konigsburg",
+      "rok": "1967",
+      "gatunek": "Literatura młodzieżowa (powieść przygodowa, młodzieżowa)",
+      "kategoria_wiekowa": "6+",
+      "opis": "Rodzeństwo ucieka z domu i ukrywa się w nowojorskim muzeum, odkrywając tajemnicę rzeźby. Opowieść o przygodzie i sztuce."
+    },
+    {
+      "tytuł": "Czarnoksiężnik z Archipelagu",
+      "autor": "Ursula K. Le Guin",
+      "rok": "1968",
+      "gatunek": "Fantasy (młodzieżowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Młody Ged uczy się w szkole magów i uwalnia z mroczną postacią cienia. Pierwsza część cyklu Ziemiomorze."
+    },
+    {
+      "tytuł": "I'll Get There. It Better Be Worth the Trip",
+      "autor": "John Donovan",
+      "rok": "1969",
+      "gatunek": "Literatura młodzieżowa (obyczajowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Trzynastoletni Davy po śmierci babci mieszka z samolubną matką, zaprzyjaźnia się z chłopcem i odkrywa swoją tożsamość. Jedna z pierwszych powieści młodzieżowych o miłości chłopców."
+    },
+    {
+      "tytuł": "Czy jesteś tam, Boże? To ja, Margaret",
+      "autor": "Judy Blume",
+      "rok": "1970",
+      "gatunek": "Literatura młodzieżowa (obyczajowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Jedenastoletnia Margaret w nowym mieście rozmawia z Bogiem o dojrzewaniu i religii. Klasyk literatury młodzieżowej."
+    },
+    {
+      "tytuł": "A Hero Ain't Nothin' but a Sandwich",
+      "autor": "Alice Childress",
+      "rok": "1973",
+      "gatunek": "Literatura młodzieżowa (społeczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Trzynastoletni czarnoskóry Benjie z Harlemu popada w uzależnienie od heroiny, a głosy otoczenia ukazują jego sytuację. Realistyczny obraz miejskiej biedy."
+    },
+    {
+      "tytuł": "Forever",
+      "autor": "Judy Blume",
+      "rok": "1975",
+      "gatunek": "Literatura młodzieżowa (obyczajowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Szesnastoletnia Katherine przeżywa pierwszą miłość i pierwsze doświadczenia seksualne. Przełomowa powieść młodzieżowa."
+    },
+    {
+      "tytuł": "Tuck Everlasting",
+      "autor": "Natalie Babbitt",
+      "rok": "1975",
+      "gatunek": "Fantasy (młodzieżowa)",
+      "kategoria_wiekowa": "6+",
+      "opis": "Dziewczynka Winnie poznaje rodzinę, która dzięki tajemniczemu źródłu nie starzeje się, i staje przed pytaniem o wieczne życie. Baśniowa opowieść o śmierci."
+    },
+    {
+      "tytuł": "Roll of Thunder, Hear My Cry",
+      "autor": "Mildred D. Taylor",
+      "rok": "1976",
+      "gatunek": "Literatura młodzieżowa (historyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Czarnoskóra rodzina Loganów w Missisipi lat trzydziestych broni swojej ziemi i godności przed rasizmem. Powieść o odwadze."
+    },
+    {
+      "tytuł": "A Swiftly Tilting Planet",
+      "autor": "Madeleine L'Engle",
+      "rok": "1978",
+      "gatunek": "Fantasy (science fiction)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Charles Wallace na skrzydłach jednorożca podróżuje w czasie, by powstrzymać wojnę nuklearną. Trzecia część cyklu o Calvinie O'Keefe."
+    },
+    {
+      "tytuł": "The Westing Game",
+      "autor": "Ellen Raskin",
+      "rok": "1978",
+      "gatunek": "Kryminał (powieść detektywistyczna, młodzieżowa)",
+      "kategoria_wiekowa": "6+",
+      "opis": "Szesnaścioro lokatorów luksusowego domu rozwiązuje zagadkę zabójstwa milionera, by odziedziczyć majątek. Zagadka z wieloma tropami."
+    },
+    {
+      "tytuł": "Homecoming",
+      "autor": "Cynthia Voigt",
+      "rok": "1981",
+      "gatunek": "Literatura młodzieżowa (obyczajowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Czwórka rodzeństwa Tillermanów wędruje po opuszczeniu przez matkę do babci w Connecticut. Pierwsza część cyklu."
+    },
+    {
+      "tytuł": "Dom przy Mango Street",
+      "autor": "Sandra Cisneros",
+      "rok": "1984",
+      "gatunek": "Literatura młodzieżowa (poetycka)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Esperanza z latynoskiego Chicago opisuje w krótkich wpisach dorastanie i marzenie o własnym domu. Powieść-mozaika."
+    },
+    {
+      "tytuł": "Weetzie Bat",
+      "autor": "Francesca Lia Block",
+      "rok": "1989",
+      "gatunek": "Literatura młodzieżowa (fantastyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Dziewczyna z Los Angeles dostaje od dżina trzy życzenia i buduje „rodzinę z wyboru”. Baśniowa, zmysłowa historia."
+    },
+    {
+      "tytuł": "Dawca pamięci",
+      "autor": "Lois Lowry",
+      "rok": "1993",
+      "gatunek": "Science fiction (antyutopia)",
+      "kategoria_wiekowa": "12+",
+      "opis": "W zorganizowanym świecie bez bólu i barw Jonas zostaje Odbiorcą Wspomnień i odkrywa cenę idealnego porządku. Pierwsza część kwartetu."
+    },
+    {
+      "tytuł": "Ella Enchanted",
+      "autor": "Gail Carson Levine",
+      "rok": "1997",
+      "gatunek": "Fantasy (baśniowa)",
+      "kategoria_wiekowa": "6+",
+      "opis": "Dziewczynka obdarzona „darem” posłuszeństwa walczy o własną wolę. Wariacja na temat Kopciuszka."
+    },
+    {
+      "tytuł": "Dziury",
+      "autor": "Louis Sachar",
+      "rok": "1998",
+      "gatunek": "Literatura młodzieżowa (powieść przygodowa, młodzieżowa)",
+      "kategoria_wiekowa": "6+",
+      "opis": "Stanley Yelnats trafia do poprawczaka na pustyni, gdzie chłopcy kopią dziury, i odkrywa zagadkę klątwy. Powieść z wątkami z przeszłości."
+    },
+    {
+      "tytuł": "If You Come Softly",
+      "autor": "Jacqueline Woodson",
+      "rok": "1998",
+      "gatunek": "Literatura młodzieżowa (romantyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Czarnoskóry Jeremiah i biała Ellie zakochują się w sobie i napotykają uprzedzenia. Opowieść o pierwszej miłości."
+    },
+    {
+      "tytuł": "Angus, majtki i pełny buziak",
+      "autor": "Louise Rennison",
+      "rok": "1999",
+      "gatunek": "Literatura młodzieżowa (humorystyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Czternastoletnia Georgia Nicolson w dzienniku opisuje kłopoty z chłopakami, kotem i rodziną. Komedia o dorastaniu."
+    },
+    {
+      "tytuł": "Monster",
+      "autor": "Walter Dean Myers",
+      "rok": "1999",
+      "gatunek": "Literatura młodzieżowa (sądowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Szesnastoletni Steve Harmon, oskarżony o współudział w morderstwie, opisuje swój proces jako scenariusz filmowy. Powieść o winie i tożsamości."
+    },
+    {
+      "tytuł": "Mów",
+      "autor": "Laurie Halse Anderson",
+      "rok": "1999",
+      "gatunek": "Literatura młodzieżowa (psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Melinda zamyka się w milczeniu po traumatycznym wydarzeniu na imprezie i odzyskuje głos poprzez sztukę. Powieść o gwałcie i odwadze."
+    },
+    {
+      "tytuł": "Stargirl",
+      "autor": "Jerry Spinelli",
+      "rok": "2000",
+      "gatunek": "Literatura młodzieżowa (obyczajowa)",
+      "kategoria_wiekowa": "6+",
+      "opis": "Nietypowa dziewczyna Stargirl pojawia się w liceum i zmienia życie rówieśników, aż zostaje odrzucona. Powieść o indywidualizmie."
+    },
+    {
+      "tytuł": "Pamiętnik księżniczki",
+      "autor": "Meg Cabot",
+      "rok": "2000",
+      "gatunek": "Literatura młodzieżowa (humorystyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Nastolatka Mia Thermopolis dowiaduje się, że jest następczynią tronu Genovii. Komedia o dorastaniu."
+    },
+    {
+      "tytuł": "A Step from Heaven",
+      "autor": "An Na",
+      "rok": "2001",
+      "gatunek": "Literatura młodzieżowa (obyczajowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Koreańska dziewczynka Young Ju przeprowadza się z rodziną do Stanów Zjednoczonych i walczy z przemocą ojca. Powieść o imigracji."
+    },
+    {
+      "tytuł": "Rainbow Boys",
+      "autor": "Alex Sanchez",
+      "rok": "2001",
+      "gatunek": "Literatura młodzieżowa (obyczajowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Trzej licealiści, Jason, Kyle i Nelson, zmagają się z odkrywaniem swojej orientacji. Pierwsza część trylogii."
+    },
+    {
+      "tytuł": "Siostry w dżinsach",
+      "autor": "Ann Brashares",
+      "rok": "2001",
+      "gatunek": "Literatura młodzieżowa (obyczajowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Cztery przyjaciółki dzielą magiczne spodnie, które pasują każdej, i spędzają osobne lato. Powieść o przyjaźni."
+    },
+    {
+      "tytuł": "Before We Were Free",
+      "autor": "Julia Alvarez",
+      "rok": "2002",
+      "gatunek": "Literatura młodzieżowa (historyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Dwunastoletnia Anita w Dominikanie doświadcza strachu pod rządami dyktatora Trujillo. Powieść o wolności."
+    },
+    {
+      "tytuł": "Feed",
+      "autor": "M. T. Anderson",
+      "rok": "2002",
+      "gatunek": "Science fiction (młodzieżowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "W przyszłości informację nadaje się bezpośrednio do mózgów nastolatków, a Titus poznaje buntującą się Violet. Satyra na konsumpcjonizm."
+    },
+    {
+      "tytuł": "Persepolis",
+      "autor": "Marjane Satrapi",
+      "rok": "2000",
+      "gatunek": "Komiks (autobiograficzna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Autorka opowiada o dorastaniu w Iranie w czasie rewolucji islamskiej i o życiu na wygnaniu. Komiks autobiograficzny."
+    },
+    {
+      "tytuł": "Jak teraz żyję",
+      "autor": "Meg Rosoff",
+      "rok": "2004",
+      "gatunek": "Literatura młodzieżowa (wojenna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Piętnastoletnia Amerykanka jedzie do kuzynów w Anglii, gdy wybucha wojna, i przeżywa pierwszą miłość. Powieść o przetrwaniu."
+    },
+    {
+      "tytuł": "Code Talker",
+      "autor": "Joseph Bruchac",
+      "rok": "2005",
+      "gatunek": "Literatura młodzieżowa (historyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Młody Navajo służy w czasie II wojny światowej jako radiooperator szyfrujący wiadomości w ojczystym języku. Powieść oparta na faktach."
+    },
+    {
+      "tytuł": "Elsewhere",
+      "autor": "Gabrielle Zevin",
+      "rok": "2005",
+      "gatunek": "Fantasy (młodzieżowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Zmarła nastolatka Liz trafia do zaświatów, gdzie ludzie młodnieją, i uczy się akceptować śmierć. Powieść o życiu po życiu."
+    },
+    {
+      "tytuł": "Złodziejka książek",
+      "autor": "Markus Zusak",
+      "rok": "2005",
+      "gatunek": "powieść historyczna (młodzieżowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "W nazistowskich Niemczech dziewczynka Liesel kradnie książki i ukrywa w piwnicy żydowskiego pięściarza; opowiada Śmierć. Powieść o sile słów."
+    },
+    {
+      "tytuł": "Złodziej pioruna",
+      "autor": "Rick Riordan",
+      "rok": "2005",
+      "gatunek": "Fantasy (przygodowa)",
+      "kategoria_wiekowa": "6+",
+      "opis": "Dwunastoletni Percy Jackson dowiaduje się, że jest synem Posejdona, i rusza w poszukiwaniu skradzionego pioruna Zeusa. Pierwsza część cyklu."
+    },
+    {
+      "tytuł": "American Born Chinese",
+      "autor": "Gene Luen Yang",
+      "rok": "2006",
+      "gatunek": "Komiks (młodzieżowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Trzy splecione historie o chłopcu chińskiego pochodzenia, Królu Małp i stereotypowym kuzynie Chin-Kee. Komiks o tożsamości."
+    },
+    {
+      "tytuł": "Copper Sun",
+      "autor": "Sharon M. Draper",
+      "rok": "2006",
+      "gatunek": "powieść historyczna (młodzieżowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Piętnastoletnia Amari zostaje porwana z Afryki, sprzedana na plantację i ucieka z dziewczyną i chłopcem. Powieść o niewolnictwie."
+    },
+    {
+      "tytuł": "Tyrell",
+      "autor": "Coe Booth",
+      "rok": "2006",
+      "gatunek": "Literatura młodzieżowa (społeczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Piętnastoletni Tyrell z Bronxu próbuje utrzymać rodzinę w schronisku i unika kłopotów. Realistyczny obraz biedy."
+    },
+    {
+      "tytuł": "Graceling",
+      "autor": "Kristin Cashore",
+      "rok": "2008",
+      "gatunek": "Fantasy (młodzieżowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Katsa, obdarzona darem zabijania, ucieka spod władzy króla i dołącza do sprawy przeciwko tyranii. Fantasy z silną bohaterką."
+    },
+    {
+      "tytuł": "Igrzyska śmierci",
+      "autor": "Suzanne Collins",
+      "rok": "2008",
+      "gatunek": "Science fiction (młodzieżowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "W państwie Panem szesnastoletnia Katniss Everdeen zgłasza się na ochotnika, by walczyć w telewizyjnych igrzyskach na śmierć i życie. Pierwsza część trylogii."
+    },
+    {
+      "tytuł": "Ship Breaker",
+      "autor": "Paolo Bacigalupi",
+      "rok": "2010",
+      "gatunek": "Science fiction (postapokaliptyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "W zniszczonym świecie przyszłości młody robotnik rozbiera wraki i ratuje bogatą dziewczynę z rozbitego okrętu. Powieść o przetrwaniu."
+    },
+    {
+      "tytuł": "Akata Witch",
+      "autor": "Nnedi Okorafor",
+      "rok": "2011",
+      "gatunek": "Fantasy (młodzieżowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Albinoska Sunny w Nigerii odkrywa, że jest „leopardzią” dziewczyną z magiczną mocą. Fantasy oparta na afrykańskiej mitologii."
+    },
+    {
+      "tytuł": "Córka dymu i kości",
+      "autor": "Laini Taylor",
+      "rok": "2011",
+      "gatunek": "Fantasy (romantyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Karou, studentka sztuki w Pradze, wychowywana przez chimery, odkrywa swoje pochodzenie i wojnę aniołów z demonami. Pierwsza część trylogii."
+    },
+    {
+      "tytuł": "Legend",
+      "autor": "Marie Lu",
+      "rok": "2011",
+      "gatunek": "Science fiction (młodzieżowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "W przyszłych Stanach młody rewolucjonista Day i żołnierka June, ścigająca go, odkrywają spisek rządu. Pierwsza część trylogii."
+    },
+    {
+      "tytuł": "Ari i Dante odkrywają tajemnice wszechświata",
+      "autor": "Benjamin Alire Sáenz",
+      "rok": "2012",
+      "gatunek": "Literatura młodzieżowa (romantyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Dwóch meksykańsko-amerykańskich chłopców z El Paso zaprzyjaźnia się i odkrywa swoją tożsamość i uczucia. Powieść o pierwszej miłości."
+    },
+    {
+      "tytuł": "Code Name Verity",
+      "autor": "Elizabeth Wein",
+      "rok": "2012",
+      "gatunek": "powieść historyczna (wojenna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Dwie młode kobiety, pilotka i szpieg, trafiają w czasie II wojny światowej do okupowanej Francji; jedna z nich pisze zeznanie dla gestapo. Powieść o przyjaźni."
+    },
+    {
+      "tytuł": "Każdego dnia",
+      "autor": "David Levithan",
+      "rok": "2012",
+      "gatunek": "Literatura młodzieżowa (fantastyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "A budzi się każdego dnia w ciele innej osoby i zakochuje się w dziewczynie o imieniu Rhiannon. Powieść o tożsamości."
+    },
+    {
+      "tytuł": "Ja, Earl i umierająca dziewczyna",
+      "autor": "Jesse Andrews",
+      "rok": "2012",
+      "gatunek": "Literatura młodzieżowa (humorystyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Greg i Earl kręcą parodie filmów, a potem zaprzyjaźniają się z chorą na białaczkę Rachel. Komediodramat o dojrzewaniu."
+    },
+    {
+      "tytuł": "Gwiazd naszych wina",
+      "autor": "John Green",
+      "rok": "2012",
+      "gatunek": "Literatura młodzieżowa (romantyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Szesnastoletnia Hazel, chora na raka, poznaje Augustusa w grupie wsparcia i przeżywa pierwszą miłość. Powieść o życiu i śmierci."
+    },
+    {
+      "tytuł": "If You Could Be Mine",
+      "autor": "Sara Farizan",
+      "rok": "2013",
+      "gatunek": "Literatura młodzieżowa (romantyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "W Iranie dwie dziewczyny zakochują się w sobie, a Sahar rozważa zmianę płci, by móc z nią być. Powieść o miłości w państwie religijnym."
+    },
+    {
+      "tytuł": "March: Księga pierwsza",
+      "autor": "John Lewis",
+      "rok": "2013",
+      "gatunek": "Komiks (autobiograficzna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Kongresmen John Lewis opowiada o dzieciństwie i początkach ruchu praw obywatelskich. Pierwszy tom trylogii komiksowej."
+    },
+    {
+      "tytuł": "Brown Girl Dreaming",
+      "autor": "Jacqueline Woodson",
+      "rok": "2014",
+      "gatunek": "poezja (autobiograficzna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Poetycka autobiografia autorki dorastającej w czasie ruchu praw obywatelskich. Książka napisana wersami."
+    },
+    {
+      "tytuł": "Dam ci słońce",
+      "autor": "Jandy Nelson",
+      "rok": "2014",
+      "gatunek": "Literatura młodzieżowa (psychologiczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Bliźnięta Noah i Jude opowiadają naprzemiennie o rodzinie, stracie i sztuce na przestrzeni kilku lat. Powieść o dorastaniu."
+    },
+    {
+      "tytuł": "Noggin",
+      "autor": "John Corey Whaley",
+      "rok": "2014",
+      "gatunek": "Science fiction (młodzieżowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Pięć lat po śmierci głowa Travisa Coate'a zostaje przeszczepiona na nowe ciało, a on wraca do dawnego życia. Czarna komedia o żałobie."
+    },
+    {
+      "tytuł": "Crossover",
+      "autor": "Kwame Alexander",
+      "rok": "2014",
+      "gatunek": "Literatura obyczajowa (powieść poetycka, młodzieżowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Bliźniacy koszykarze Josh i Jordan zmagają się z rywalizacją i chorobą ojca. Powieść napisana wierszem."
+    },
+    {
+      "tytuł": "Do wszystkich chłopców, których kochałam",
+      "autor": "Jenny Han",
+      "rok": "2014",
+      "gatunek": "Literatura młodzieżowa (romantyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Lara Jean pisze listy do chłopców, których kochała, a one trafiają do adresatów. Komedia romantyczna."
+    },
+    {
+      "tytuł": "An Ember in the Ashes",
+      "autor": "Sabaa Tahir",
+      "rok": "2015",
+      "gatunek": "Fantasy (młodzieżowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "W imperium inspirowanym starożytnym Rzymem młoda niewolnica i żołnierz szkolny łączą siły przeciw tyranii. Pierwsza część cyklu."
+    },
+    {
+      "tytuł": "Dumplin'",
+      "autor": "Julie Murphy",
+      "rok": "2015",
+      "gatunek": "Literatura młodzieżowa (obyczajowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Pulchna Willowdean zapisuje się na konkurs piękności, by zbuntować się przeciw stereotypom. Powieść o akceptacji ciała."
+    },
+    {
+      "tytuł": "Wszystko, wszystko",
+      "autor": "Nicola Yoon",
+      "rok": "2015",
+      "gatunek": "Literatura młodzieżowa (romantyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Madeline, uznana za śmiertelnie uczuloną na świat, zakochuje się w sąsiedzie i łamie zasady. Powieść o wolności."
+    },
+    {
+      "tytuł": "March: Księga druga",
+      "autor": "John Lewis",
+      "rok": "2015",
+      "gatunek": "Komiks (autobiograficzna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Lewis opowiada o rosnącym napięciu w ruchu praw obywatelskich i „Podróżach Wolności”. Drugi tom trylogii."
+    },
+    {
+      "tytuł": "More Happy Than Not",
+      "autor": "Adam Silvera",
+      "rok": "2015",
+      "gatunek": "Science fiction (młodzieżowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Aaron po samobójstwie ojca rozważa procedurę wymazania wspomnień o swojej orientacji. Powieść o akceptacji."
+    },
+    {
+      "tytuł": "Simon vs. plan Homo sapiens",
+      "autor": "Becky Albertalli",
+      "rok": "2015",
+      "gatunek": "Literatura młodzieżowa (romantyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Simon, szantażowany ujawnieniem orientacji, prowadzi anonimową korespondencję z chłopakiem z klasy. Komedia romantyczna."
+    },
+    {
+      "tytuł": "Szóstka wron",
+      "autor": "Leigh Bardugo",
+      "rok": "2015",
+      "gatunek": "Fantasy (przygodowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Szóstka młodych przestępców zostaje wynajęta do włamania do niedostępnej fortecy. Powieść łotrzykowska w świecie Grisha."
+    },
+    {
+      "tytuł": "Salt to the Sea",
+      "autor": "Ruta Sepetys",
+      "rok": "2016",
+      "gatunek": "powieść historyczna (wojenna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Czworo uchodźców z Prus Wschodnich próbuje w 1945 roku dotrzeć na statek Wilhelm Gustloff. Powieść oparta na faktach."
+    },
+    {
+      "tytuł": "Kosiarz",
+      "autor": "Neal Shusterman",
+      "rok": "2016",
+      "gatunek": "Science fiction (młodzieżowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "W przyszłości, w której nie ma śmierci, kosiarze zabijają dla utrzymania równowagi, a dwoje uczniów przechodzi trening. Pierwsza część trylogii."
+    },
+    {
+      "tytuł": "Słońce też jest gwiazdą",
+      "autor": "Nicola Yoon",
+      "rok": "2016",
+      "gatunek": "Literatura młodzieżowa (romantyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Natasha i Daniel zakochują się w sobie w ciągu jednego dnia, gdy ona walczy przeciw deportacji rodziny. Romans w Nowym Jorku."
+    },
+    {
+      "tytuł": "We Are the Ants",
+      "autor": "Shaun David Hutchinson",
+      "rok": "2016",
+      "gatunek": "Literatura młodzieżowa (science fiction)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Henry, porywany przez kosmitów, ma wybrać, czy ocalić Ziemię, i zmaga się z żałobą. Powieść o sensie istnienia."
+    },
+    {
+      "tytuł": "When the Moon Was Ours",
+      "autor": "Anna-Marie McLemore",
+      "rok": "2016",
+      "gatunek": "Fantasy (realizm magiczny)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Miel i Sam, wyjątkowa para przyjaciół, mierzą się ze społecznością, która ich nie rozumie. Powieść o tożsamości."
+    },
+    {
+      "tytuł": "Allegedly",
+      "autor": "Tiffany D. Jackson",
+      "rok": "2017",
+      "gatunek": "Literatura młodzieżowa (thriller)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Mary, skazana jako dziecko za zabójstwo niemowlęcia, w domu dla matek próbuje udowodnić swoją niewinność. Powieść o sprawiedliwości."
+    },
+    {
+      "tytuł": "American Street",
+      "autor": "Ibi Zoboi",
+      "rok": "2017",
+      "gatunek": "Literatura młodzieżowa (społeczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Haitańska nastolatka Fabiola przyjeżdża do Detroit, gdy matka zostaje zatrzymana na granicy, i próbuje się odnaleźć. Powieść o imigracji."
+    },
+    {
+      "tytuł": "Dear Martin",
+      "autor": "Nic Stone",
+      "rok": "2017",
+      "gatunek": "Literatura młodzieżowa (społeczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Justyce, czarnoskóry uczeń elitarnej szkoły, pisze listy do Martina Luthera Kinga po incydencie z policją. Powieść o rasizmie."
+    },
+    {
+      "tytuł": "I Am Not Your Perfect Mexican Daughter",
+      "autor": "Erika L. Sánchez",
+      "rok": "2017",
+      "gatunek": "Literatura młodzieżowa (obyczajowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Julia próbuje wyzwolić się spod kontroli rodziny meksykańskich imigrantów po śmierci siostry. Powieść o żałobie."
+    },
+    {
+      "tytuł": "Long Way Down",
+      "autor": "Jason Reynolds",
+      "rok": "2017",
+      "gatunek": "Literatura obyczajowa (powieść poetycka, młodzieżowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "W windzie schodzącej z ósmego piętra Will spotyka zmarłych bliskich i rozważa zemstę. Powieść napisana wierszem."
+    },
+    {
+      "tytuł": "The 57 Bus",
+      "autor": "Dashka Slater",
+      "rok": "2017",
+      "gatunek": "Reportaż (literatura faktu)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Reportaż o młodym agenderowym Sashu, którego ktoś podpalił w autobusie, oraz o sprawcy, Richardzie. Książka o winie i przebaczeniu."
+    },
+    {
+      "tytuł": "Nienawiść, którą dajesz",
+      "autor": "Angie Thomas",
+      "rok": "2017",
+      "gatunek": "Literatura młodzieżowa (społeczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Szesnastoletnia Starr widzi, jak policjant zastrzelił jej przyjaciela, i musi zdecydować, czy zabrać głos. Powieść o rasizmie."
+    },
+    {
+      "tytuł": "The Marrow Thieves",
+      "autor": "Cherie Dimaline",
+      "rok": "2017",
+      "gatunek": "Science fiction (młodzieżowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "W świecie po katastrofie ekologicznej rdzenni mieszkańcy są ścigani za szpik, który leczy z utraty snu. Powieść o przetrwaniu."
+    },
+    {
+      "tytuł": "We Are Okay",
+      "autor": "Nina LaCour",
+      "rok": "2017",
+      "gatunek": "Literatura młodzieżowa (psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Marin na uniwersytecie zimą mierzy się z żałobą po dziadku i odwiedza ją najlepsza przyjaciółka. Powieść o stracie."
+    },
+    {
+      "tytuł": "When Dimple Met Rishi",
+      "autor": "Sandhya Menon",
+      "rok": "2017",
+      "gatunek": "Literatura młodzieżowa (romantyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Dwoje młodych Indusów-Amerykanów spotyka się na obozie programistycznym, wcześniej zaaranżowani przez rodziców. Komedia romantyczna."
+    },
+    {
+      "tytuł": "A Very Large Expanse of Sea",
+      "autor": "Tahereh Mafi",
+      "rok": "2018",
+      "gatunek": "Literatura młodzieżowa (romantyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Muzułmańska nastolatka po 11 września w szkole pełnej uprzedzeń zakochuje się w chłopaku z drużyny. Powieść o islamofobii."
+    },
+    {
+      "tytuł": "Children of Blood and Bone",
+      "autor": "Tomi Adeyemi",
+      "rok": "2018",
+      "gatunek": "Fantasy (młodzieżowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Zélie próbuje przywrócić magię w Orïsha, gdzie król uciska ludzi, którzy ją mieli. Fantasy inspirowane Afryką Zachodnią."
+    },
+    {
+      "tytuł": "Darius the Great Is Not Okay",
+      "autor": "Adib Khorram",
+      "rok": "2018",
+      "gatunek": "Literatura młodzieżowa (obyczajowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Perski Amerykanin Darius jedzie do Iranu odwiedzić chorego dziadka i zaprzyjaźnia się z Sohrabem. Powieść o depresji."
+    },
+    {
+      "tytuł": "The Astonishing Color of After",
+      "autor": "Emily X. R. Pan",
+      "rok": "2018",
+      "gatunek": "Literatura młodzieżowa (realizm magiczny)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Leigh po samobójstwie matki widzi ją jako ptaka i jedzie na Tajwan, by poznać jej rodzinę. Powieść o żałobie."
+    },
+    {
+      "tytuł": "The Poet X",
+      "autor": "Elizabeth Acevedo",
+      "rok": "2018",
+      "gatunek": "Literatura obyczajowa (powieść poetycka, młodzieżowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Dominikańska nastolatka Xiomara z Harlemu odnajduje głos w slam poetry. Powieść napisana wierszem."
+    },
+    {
+      "tytuł": "Frankly in Love",
+      "autor": "David Yoon",
+      "rok": "2019",
+      "gatunek": "Literatura młodzieżowa (romantyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Koreański Amerykanin Frank udaje związek z koleżanką, by uniknąć presji rodziców, i odkrywa prawdziwe uczucia. Komedia romantyczna."
+    },
+    {
+      "tytuł": "Laura Dean Keeps Breaking Up with Me",
+      "autor": "Mariko Tamaki",
+      "rok": "2019",
+      "gatunek": "Komiks (romantyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Freddy w toksycznym związku z Laurą Dean uczy się stawiać granice z pomocą przyjaciół. Komiks o młodzieńczej miłości."
+    },
+    {
+      "tytuł": "Like a Love Story",
+      "autor": "Abdi Nazemian",
+      "rok": "2019",
+      "gatunek": "powieść historyczna (młodzieżowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "W Nowym Jorku roku 1989 troje nastolatków mierzy się z epidemią AIDS i własnym dojrzewaniem. Powieść o miłości i aktywizmie."
+    },
+    {
+      "tytuł": "Pet",
+      "autor": "Akwaeke Emezi",
+      "rok": "2019",
+      "gatunek": "Fantasy (społeczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "W świecie, w którym potwory podobno zniknęły, nastolatka Jam wzywa istotę z obrazu, by chronić swoich bliskich. Powieść o przemocy."
+    },
+    {
+      "tytuł": "With the Fire on High",
+      "autor": "Elizabeth Acevedo",
+      "rok": "2019",
+      "gatunek": "Literatura młodzieżowa (obyczajowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Matka nastolatka Emoni z Filadelfii marzy o karierze kucharki i musi pogodzić pracę z szkołą. Powieść o ambicji."
+    },
+    {
+      "tytuł": "The Black Flamingo",
+      "autor": "Dean Atta",
+      "rok": "2019",
+      "gatunek": "Literatura obyczajowa (powieść poetycka, młodzieżowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Młody Michael, czarnoskóry i gej, odkrywa swoją tożsamość w świecie dragu. Powieść napisana wierszem."
+    },
+    {
+      "tytuł": "Felix Ever After",
+      "autor": "Kacen Callender",
+      "rok": "2020",
+      "gatunek": "Literatura młodzieżowa (romantyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Czarnoskóry transpłciowy Felix próbuje odnaleźć miłość i akceptację w środowisku szkoły artystycznej. Powieść o tożsamości."
+    },
+    {
+      "tytuł": "Stamped: Rasizm, antyrasizm i ty",
+      "autor": "Jason Reynolds",
+      "rok": "2020",
+      "gatunek": "Historia (literatura faktu)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Przystępna adaptacja książki Ibrama X. Kendiego o historii rasistowskich idei w Ameryce. Książka dla młodzieży."
+    },
+    {
+      "tytuł": "The Henna Wars",
+      "autor": "Adiba Jaigirdar",
+      "rok": "2020",
+      "gatunek": "Literatura młodzieżowa (romantyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Bangladeska dziewczyna zakochuje się w rywalce w konkursie szkolnym i musi zmierzyć się z rodzinną tradycją. Powieść o akceptacji."
+    },
+    {
+      "tytuł": "We Are Not Free",
+      "autor": "Traci Chee",
+      "rok": "2020",
+      "gatunek": "powieść historyczna (wojenna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Czternaścioro japońsko-amerykańskich nastolatków opowiada o obozach internowania w czasie II wojny światowej. Powieść zbiorowa."
+    },
+    {
+      "tytuł": "You Should See Me in a Crown",
+      "autor": "Leah Johnson",
+      "rok": "2020",
+      "gatunek": "Literatura młodzieżowa (romantyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Liz Lighty, czarnoskóra, kandyduje na królową balu, by sfinansować studia, i zakochuje się w rywalce. Komedia romantyczna."
+    },
+    {
+      "tytuł": "Firekeeper's Daughter",
+      "autor": "Angeline Boulley",
+      "rok": "2021",
+      "gatunek": "Kryminał (młodzieżowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Rdzenna Amerykanka Daunis wspomaga FBI w śledztwie narkotykowym w rodzinnym rezerwacie. Thriller o społeczności i tożsamości."
+    }
+  ]
+}

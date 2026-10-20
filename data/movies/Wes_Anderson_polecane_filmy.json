@@ -1,0 +1,218 @@
+{
+ "nazwa": "Wes Anderson",
+ "grupa": "Reżyserzy",
+ "opis": "Dwa źródła: (1) Top 10 Criterion z 2010 r. (12 filmów, bo kilka pozycji to remisy); (2) wybory z mobilnego Criterion Closet z 2026 r. (9 filmów).",
+ "źródło": "https://www.criterion.com/current/top-10-lists/115-wes-anderson-s-top-10",
+ "pozycje": [
+  {
+   "tytuł": "Plan na życie",
+   "tytuł_oryginalny": "Design for Living",
+   "reżyser": "Ernst Lubitsch",
+   "rok": "1933",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "12+",
+   "opis": "Dwaj przyjaciele zakochują się w tej samej kobiecie i zaczynają żyć we trójkę. Komedia na podstawie sztuki Noëla Cowarda."
+  },
+  {
+   "tytuł": "39 stopni",
+   "tytuł_oryginalny": "The 39 Steps",
+   "reżyser": "Alfred Hitchcock",
+   "rok": "1935",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "12+",
+   "opis": "Niewinny mężczyzna jest ścigany jako morderca i próbuje odkryć szpiegowski spisek. Klasyczny thriller Hitchcocka."
+  },
+  {
+   "tytuł": "Dyliżans",
+   "tytuł_oryginalny": "Stagecoach",
+   "reżyser": "John Ford",
+   "rok": "1939",
+   "kraj": "USA",
+   "gatunek": "Przygodowy",
+   "kategoria_wiekowa": "12+",
+   "opis": "Grupa różnych pasażerów podróżuje dyliżansem przez terytorium Apaczów, a każdy z nich skrywa swoje sekrety. Film uczynił z westernu poważny gatunek i wypromował Johna Wayne'a."
+  },
+  {
+   "tytuł": "Lady Eve",
+   "tytuł_oryginalny": "The Lady Eve",
+   "reżyser": "Preston Sturges",
+   "rok": "1941",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "6+",
+   "opis": "Szulerka zakochuje się w naiwnym dziedzicu browaru i wraca do niego pod postacią angielskiej damy. Komedia screwballowa z Barbarą Stanwyck."
+  },
+  {
+   "tytuł": "Niebo może poczekać",
+   "tytuł_oryginalny": "Heaven Can Wait",
+   "reżyser": "Ernst Lubitsch",
+   "rok": "1943",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "12+",
+   "opis": "Bogaty uwodziciel przybywa do piekła i opowiada Diabłu o swoim barwnym życiu. Komedia Lubitscha."
+  },
+  {
+   "tytuł": "Czerwone trzewiczki",
+   "tytuł_oryginalny": "The Red Shoes",
+   "reżyser": "Michael Powell, Emeric Pressburger",
+   "rok": "1948",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Romans",
+   "kategoria_wiekowa": "6+",
+   "opis": "Młoda tancerka musi wybierać między miłością do kompozytora a obsesyjnym impresario. Film słynie z baletowej sekwencji."
+  },
+  {
+   "tytuł": "Kolczyki pani de...",
+   "tytuł_oryginalny": "Madame de...",
+   "reżyser": "Max Ophüls",
+   "rok": "1953",
+   "kraj": "Francja / Włochy",
+   "gatunek": "Romans",
+   "kategoria_wiekowa": "12+",
+   "opis": "Arystokratka sprzedaje kolczyki podarowane przez męża, by spłacić długi, a one wracają do niej w nieoczekiwany sposób. Film jest elegancką opowieścią o próżności i prawdziwej miłości."
+  },
+  {
+   "tytuł": "Z klasą bez ryzyka",
+   "tytuł_oryginalny": "Classe tous risques",
+   "reżyser": "Claude Sautet",
+   "rok": "1960",
+   "kraj": "Francja",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "12+",
+   "opis": "Gangster wraca do Francji z rodziną po latach ucieczki, a dawni przyjaciele odwracają się od niego. Film z Lino Venturą."
+  },
+  {
+   "tytuł": "Świnie i pancerniki",
+   "tytuł_oryginalny": "Buta to gunkan",
+   "reżyser": "Shōhei Imamura",
+   "rok": "1961",
+   "kraj": "Japonia",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "16+",
+   "opis": "Młody gangster w portowym mieście Yokosuka próbuje zarobić na hodowli świń dla amerykańskich żołnierzy. Czarna komedia o powojennej Japonii."
+  },
+  {
+   "tytuł": "Anioł zagłady",
+   "tytuł_oryginalny": "El ángel exterminador",
+   "reżyser": "Luis Buñuel",
+   "rok": "1962",
+   "kraj": "Meksyk",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "Goście bankietu w rezydencji nie potrafią wyjść z salonu i stopniowo tracą cywilizowane maniery. Surrealistyczna satyra."
+  },
+  {
+   "tytuł": "Owadzia kobieta",
+   "tytuł_oryginalny": "Nippon konchūki",
+   "reżyser": "Shōhei Imamura",
+   "rok": "1963",
+   "kraj": "Japonia",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "Film śledzi życie japońskiej kobiety od wsi po Tokio i jej drogę przez biedę i wykorzystanie. Dramat Imamury."
+  },
+  {
+   "tytuł": "Charulata",
+   "tytuł_oryginalny": "Charulata",
+   "reżyser": "Satyajit Ray",
+   "rok": "1964",
+   "kraj": "Indie",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Znudzona żona bengalskiego redaktora zakochuje się w jego kuzynie w XIX-wiecznej Kalkucie. Film według noweli Tagore'a."
+  },
+  {
+   "tytuł": "Zamiar zabójstwa",
+   "tytuł_oryginalny": "Akai satsui",
+   "reżyser": "Shōhei Imamura",
+   "rok": "1964",
+   "kraj": "Japonia",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "18+",
+   "opis": "Gospodyni domowa po gwałcie próbuje rozstać się z życiem, lecz odkrywa w sobie siłę. Dramat obyczajowy."
+  },
+  {
+   "tytuł": "Szpieg, który przyszedł z zimna",
+   "tytuł_oryginalny": "The Spy Who Came in from the Cold",
+   "reżyser": "Martin Ritt",
+   "rok": "1965",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "16+",
+   "opis": "Wyczerpany brytyjski agent przyjmuje ostatnią misję w NRD. Thriller szpiegowski według powieści Johna le Carré."
+  },
+  {
+   "tytuł": "Na los Baltazara",
+   "tytuł_oryginalny": "Au hasard Balthazar",
+   "reżyser": "Robert Bresson",
+   "rok": "1966",
+   "kraj": "Francja",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Osioł Baltazar przechodzi od jednego właściciela do drugiego, doświadczając dobroci i okrucieństwa. Film jest przypowieścią o cierpieniu."
+  },
+  {
+   "tytuł": "Przejęcie władzy przez Ludwika XIV",
+   "tytuł_oryginalny": "La prise de pouvoir par Louis XIV",
+   "reżyser": "Roberto Rossellini",
+   "rok": "1966",
+   "kraj": "Francja",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Film pokazuje, jak młody Ludwik XIV po śmierci Mazarina umacnia swoją władzę nad dworem. Telewizyjny dramat historyczny."
+  },
+  {
+   "tytuł": "Nagie dzieciństwo",
+   "tytuł_oryginalny": "L'enfance nue",
+   "reżyser": "Maurice Pialat",
+   "rok": "1968",
+   "kraj": "Francja",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Zaniedbany dziesięciolatek przechodzi od jednej rodziny zastępczej do drugiej i szuka miejsca. Realistyczny dramat Pialata."
+  },
+  {
+   "tytuł": "Przyjaciele Eddiego Coyle'a",
+   "tytuł_oryginalny": "The Friends of Eddie Coyle",
+   "reżyser": "Peter Yates",
+   "rok": "1973",
+   "kraj": "USA",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "16+",
+   "opis": "Drobny przemytnik broni z Bostonu współpracuje z policją i zdradza kolegów, by uniknąć więzienia. Film kryminalny."
+  },
+  {
+   "tytuł": "Tootsie",
+   "tytuł_oryginalny": "Tootsie",
+   "reżyser": "Sydney Pollack",
+   "rok": "1982",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "12+",
+   "opis": "Bezrobotny aktor przebiera się za kobietę, by dostać rolę w telenoweli, i zakochuje się w koleżance z planu. Komedia z Dustinem Hoffmanem."
+  },
+  {
+   "tytuł": "Mishima",
+   "tytuł_oryginalny": "Mishima: A Life in Four Chapters",
+   "reżyser": "Paul Schrader",
+   "rok": "1985",
+   "kraj": "USA",
+   "gatunek": "Biograficzny",
+   "kategoria_wiekowa": "16+",
+   "opis": "Film przedstawia życie japońskiego pisarza Yukio Mishimy, jego twórczość i ostatni dzień. Konstrukcja łączy epizody z biografii i adaptacje powieści."
+  },
+  {
+   "tytuł": "Flow",
+   "tytuł_oryginalny": "Straume",
+   "reżyser": "Gints Zilbalodis",
+   "rok": "2024",
+   "kraj": "Łotwa",
+   "gatunek": "Animacja",
+   "kategoria_wiekowa": "6+",
+   "opis": "Kot ucieka przed powodzią i na łodzi dzieli się schronieniem z innymi zwierzętami. Animacja bez dialogów nagrodzona Oscarem."
+  }
+ ]
+}

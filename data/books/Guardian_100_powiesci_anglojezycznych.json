@@ -1,0 +1,805 @@
+{
+  "nazwa": "Guardian",
+  "pozycje": [
+    {
+      "tytuł": "Wędrówka pielgrzyma",
+      "autor": "John Bunyan",
+      "rok": "1678",
+      "gatunek": "Literatura obyczajowa (powieść alegoryczna, religijna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Chrześcijanin opuszcza Miasto Zagłady i wędruje do Miasta Niebieskiego, pokonując pokusy i niebezpieczeństwa. Alegoria duchowej drogi człowieka, jedna z najczęściej czytanych książek w języku angielskim."
+    },
+    {
+      "tytuł": "Robinson Crusoe",
+      "autor": "Daniel Defoe",
+      "rok": "1719",
+      "gatunek": "Literatura młodzieżowa (powieść przygodowa)",
+      "kategoria_wiekowa": "6+",
+      "opis": "Rozbitek spędza dwadzieścia osiem lat na bezludnej wyspie, uczy się przetrwać i spotyka Piętaszka. Uważana za jedną z pierwszych angielskich powieści."
+    },
+    {
+      "tytuł": "Podróże Guliwera",
+      "autor": "Jonathan Swift",
+      "rok": "1726",
+      "gatunek": "Fantasy (powieść satyryczna, fantastyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Lekarz okrętowy Gulliver trafia do krain liliputów, olbrzymów, latającej wyspy i rozumnych koni. Satyra na ludzkie wady i ustroje polityczne."
+    },
+    {
+      "tytuł": "Klaryssa",
+      "autor": "Samuel Richardson",
+      "rok": "1748",
+      "gatunek": "Literatura obyczajowa (powieść epistolarna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Młoda Clarissa Harlowe ucieka przed narzuconym małżeństwem i wpada w sidła uwodziciela Lovelace'a. Listowna powieść o cnocie, przemocy i rodzinnej tyranii."
+    },
+    {
+      "tytuł": "Dzieje Toma Jonesa, znajdy",
+      "autor": "Henry Fielding",
+      "rok": "1749",
+      "gatunek": "Literatura obyczajowa (powieść komiczna, łotrzykowska)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Podrzutek Tom Jones, wypędzony z domu dobroczyńcy, wędruje przez Anglię i szuka miłości Sophii Western. Rozbudowana, ironiczna panorama XVIII-wiecznego społeczeństwa."
+    },
+    {
+      "tytuł": "Tristram Shandy",
+      "autor": "Laurence Sterne",
+      "rok": "1759",
+      "gatunek": "Literatura obyczajowa (powieść eksperymentalna, humorystyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Narrator próbuje opowiedzieć swoje życie, lecz bez końca gubi się w dygresjach o rodzinie i przodkach. Powieść-zabawa z formą, prekursorka literatury nowoczesnej."
+    },
+    {
+      "tytuł": "Emma",
+      "autor": "Jane Austen",
+      "rok": "1816",
+      "gatunek": "Literatura obyczajowa (komedia romantyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Młoda, pewna siebie Emma Woodhouse bawi się w swatkę i popełnia serię towarzyskich błędów. Ironiczny portret prowincjonalnego życia w Anglii."
+    },
+    {
+      "tytuł": "Frankenstein",
+      "autor": "Mary Shelley",
+      "rok": "1818",
+      "gatunek": "Horror (science fiction)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Student Victor Frankenstein tworzy żywą istotę, a potem ucieka przed odpowiedzialnością za nią. Powieść o ambicji naukowej, samotności i winie."
+    },
+    {
+      "tytuł": "Opactwo Koszmarów",
+      "autor": "Thomas Love Peacock",
+      "rok": "1818",
+      "gatunek": "Literatura obyczajowa (powieść satyryczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "W ponurym domu pana Glowry'ego spotykają się ekscentryczni goście, parodiujący romantycznych filozofów i poetów. Lekka satyra na romantyzm."
+    },
+    {
+      "tytuł": "Przygody Artura Gordona Pyma",
+      "autor": "Edgar Allan Poe",
+      "rok": "1838",
+      "gatunek": "Horror (powieść przygodowa, grozy)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Młody Pym jako pasażer na gapę wyrusza w morską podróż pełną buntu, rozbicia i niewyjaśnionych zjawisk na południowym krańcu świata. Powieść o strachu przed nieznanym."
+    },
+    {
+      "tytuł": "Sybil, czyli dwa narody",
+      "autor": "Benjamin Disraeli",
+      "rok": "1845",
+      "gatunek": "Literatura obyczajowa (powieść społeczna, polityczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Młody arystokrata poznaje nędzę robotników i zakochuje się w córce działacza czartystów. Powieść o rozdarciu Anglii na bogatych i biednych."
+    },
+    {
+      "tytuł": "Dziwne losy Jane Eyre",
+      "autor": "Charlotte Brontë",
+      "rok": "1847",
+      "gatunek": "Literatura obyczajowa (romantyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Sierota Jane zostaje guwernantką w Thornfield Hall i zakochuje się w tajemniczym panu Rochesterze. Klasyczna opowieść o niezależności i miłości."
+    },
+    {
+      "tytuł": "Wichrowe Wzgórza",
+      "autor": "Emily Brontë",
+      "rok": "1847",
+      "gatunek": "Romans (powieść romantyczna, gotycka)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Namiętna i destrukcyjna miłość Heathcliffa i Catherine Earnshaw rozgrywa się na wrzosowiskach Yorkshire i niszczy kolejne pokolenia. Mroczna opowieść o zemście."
+    },
+    {
+      "tytuł": "Targowisko próżności",
+      "autor": "William Makepeace Thackeray",
+      "rok": "1848",
+      "gatunek": "Literatura obyczajowa (satyryczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Losy ambitnej Becky Sharp i uległej Amelii Sedley w czasach wojen napoleońskich. Satyra na hipokryzję i pogoń za pozycją."
+    },
+    {
+      "tytuł": "Dawid Copperfield",
+      "autor": "Charles Dickens",
+      "rok": "1850",
+      "gatunek": "Literatura obyczajowa (autobiograficzna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Opowieść o życiu Davida, od nieszczęśliwego dzieciństwa po karierę pisarza. Najbardziej osobista powieść Dickensa."
+    },
+    {
+      "tytuł": "Szkarłatna litera",
+      "autor": "Nathaniel Hawthorne",
+      "rok": "1850",
+      "gatunek": "powieść historyczna (psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "W purytańskim Bostonie Hester Prynne musi nosić literę A za cudzołóstwo i ukrywa imię ojca dziecka. Powieść o grzechu, winie i hipokryzji."
+    },
+    {
+      "tytuł": "Moby Dick",
+      "autor": "Herman Melville",
+      "rok": "1851",
+      "gatunek": "Literatura obyczajowa (powieść przygodowa, filozoficzna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Kapitan Ahab prowadzi statek wielorybniczy w obsesyjnym pościgu za białym kaszalotem. Epicka powieść o szaleństwie i naturze."
+    },
+    {
+      "tytuł": "Alicja w Krainie Czarów",
+      "autor": "Lewis Carroll",
+      "rok": "1865",
+      "gatunek": "Literatura dziecięca (dla dzieci)",
+      "kategoria_wiekowa": "6+",
+      "opis": "Dziewczynka podąża za Białym Królikiem do podziemnego świata, gdzie logika przestaje obowiązywać. Klasyk literatury absurdu."
+    },
+    {
+      "tytuł": "Kamień Księżycowy",
+      "autor": "Wilkie Collins",
+      "rok": "1868",
+      "gatunek": "Kryminał (detektywistyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Zniknięcie cennego diamentu po przyjęciu w angielskiej posiadłości uruchamia śledztwo prowadzone przez kilku narratorów. Uważana za pierwszą angielską powieść detektywistyczną."
+    },
+    {
+      "tytuł": "Małe kobietki",
+      "autor": "Louisa May Alcott",
+      "rok": "1868",
+      "gatunek": "Literatura obyczajowa (młodzieżowa)",
+      "kategoria_wiekowa": "6+",
+      "opis": "Cztery siostry March dorastają w czasach wojny secesyjnej, uczą się cnót i szukają własnych dróg. Klasyczna powieść o rodzinie."
+    },
+    {
+      "tytuł": "Middlemarch",
+      "autor": "George Eliot",
+      "rok": "1871",
+      "gatunek": "Literatura obyczajowa (realistyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Losy mieszkańców prowincjonalnego miasta, m.in. idealistki Dorothei Brooke i lekarza Lydgate'a, splatają się w wielkim obrazie wiktoriańskiego społeczeństwa. Jedna z najwybitniejszych powieści angielskich."
+    },
+    {
+      "tytuł": "Jak teraz żyjemy",
+      "autor": "Anthony Trollope",
+      "rok": "1875",
+      "gatunek": "Literatura obyczajowa (satyryczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Tajemniczy finansista Melmotte oszukuje londyńską elitę, a wokół niego kwitną intrygi małżeńskie i pieniężne. Satyra na korupcję moralną."
+    },
+    {
+      "tytuł": "Przygody Hucka Finna",
+      "autor": "Mark Twain",
+      "rok": "1884",
+      "gatunek": "Literatura obyczajowa (powieść przygodowa, społeczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Huck ucieka z domu i płynie tratwą po Missisipi z zbiegłym niewolnikiem Jimem. Powieść o wolności i rasizmie na amerykańskim Południu."
+    },
+    {
+      "tytuł": "Porwany za młodu",
+      "autor": "Robert Louis Stevenson",
+      "rok": "1886",
+      "gatunek": "Powieść historyczna (powieść przygodowa, historyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Młody David Balfour zostaje porwany na statek i trafia do szkockich Highlands w czasie powstania jakobitów. Przygodowa opowieść o przyjaźni i lojalności."
+    },
+    {
+      "tytuł": "Trzech panów w łódce (nie licząc psa)",
+      "autor": "Jerome K. Jerome",
+      "rok": "1889",
+      "gatunek": "Literatura obyczajowa (powieść humorystyczna)",
+      "kategoria_wiekowa": "6+",
+      "opis": "Trzej przyjaciele i pies wybierają się w łodzi w podróż po Tamizie, pełną zabawnych niepowodzeń. Klasyczna angielska komedia."
+    },
+    {
+      "tytuł": "Znak czterech",
+      "autor": "Arthur Conan Doyle",
+      "rok": "1890",
+      "gatunek": "Kryminał (detektywistyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Sherlock Holmes i doktor Watson badają sprawę zaginionego skarbu i tajemniczej śmierci. Drugi utwór o słynnym detektywie."
+    },
+    {
+      "tytuł": "Portret Doriana Graya",
+      "autor": "Oscar Wilde",
+      "rok": "1891",
+      "gatunek": "Literatura obyczajowa (powieść filozoficzna, gotycka)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Młody piękny Dorian nie starzeje się, a jego portret ukazuje skutki rozpusty i występków. Powieść o próżności i moralności."
+    },
+    {
+      "tytuł": "Nowa Grub Street",
+      "autor": "George Gissing",
+      "rok": "1891",
+      "gatunek": "Literatura obyczajowa (realistyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Londyńscy literaci toczą bój o pieniądze i uznanie w świecie, gdzie sukces zależy od rynku. Powieść o upadku ideałów w świecie wydawniczym."
+    },
+    {
+      "tytuł": "Juda Nieznany",
+      "autor": "Thomas Hardy",
+      "rok": "1895",
+      "gatunek": "Literatura obyczajowa (tragiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Młody kamieniarz marzy o studiach w Oksfordzie, a jego życie niszczą klasowe bariery i nieszczęśliwe małżeństwa. Ostatnia powieść Hardy'ego, mocno krytykowana za śmiałość."
+    },
+    {
+      "tytuł": "Odznaka odwagi",
+      "autor": "Stephen Crane",
+      "rok": "1895",
+      "gatunek": "Powieść historyczna (powieść wojenna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Młody żołnierz Unii przeżywa pierwszy bój wojny secesyjnej, ucieka z pola walki i walczy z poczuciem wstydu. Realistyczna analiza strachu."
+    },
+    {
+      "tytuł": "Dracula",
+      "autor": "Bram Stoker",
+      "rok": "1897",
+      "gatunek": "Horror (epistolarna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Hrabia Dracula przybywa z Transylwanii do Anglii, a grupa ludzi pod wodzą Van Helsinga próbuje go powstrzymać. Fundamentalna powieść o wampirach."
+    },
+    {
+      "tytuł": "Jądro ciemności",
+      "autor": "Joseph Conrad",
+      "rok": "1899",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, przygodowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Marlow płynie w górę rzeki Kongo, by odnaleźć tajemniczego Kurtza, i odkrywa okrucieństwo kolonializmu. Krótka powieść o ciemnej stronie człowieka."
+    },
+    {
+      "tytuł": "Siostra Carrie",
+      "autor": "Theodore Dreiser",
+      "rok": "1900",
+      "gatunek": "Literatura obyczajowa (powieść naturalistyczna, obyczajowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Młoda dziewczyna z prowincji trafia do Chicago i robi karierę aktorki, a jej kochanek stacza się na dno. Powieść o ambicji i miejskim życiu."
+    },
+    {
+      "tytuł": "Kim",
+      "autor": "Rudyard Kipling",
+      "rok": "1901",
+      "gatunek": "Thriller (powieść przygodowa, szpiegowska)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Osierocony chłopiec z Lahore wędruje z tybetańskim lamą i zostaje agentem w Wielkiej Grze między Rosją a Brytanią. Powieść o tożsamości w kolonialnych Indiach."
+    },
+    {
+      "tytuł": "Zew krwi",
+      "autor": "Jack London",
+      "rok": "1903",
+      "gatunek": "Literatura obyczajowa (powieść przygodowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Pies Buck zostaje porwany i sprzedany do zaprzęgu w czasie gorączki złota na Alasce, i wraca do dzikości. Powieść o instynkcie i przetrwaniu."
+    },
+    {
+      "tytuł": "Złota czara",
+      "autor": "Henry James",
+      "rok": "1904",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Dwie pary wiążą się w skomplikowaną sieć małżeństw i romansów, a ukryta rysa symbolizuje zdradę. Ostatnia wielka powieść Jamesa."
+    },
+    {
+      "tytuł": "Hadrian Siódmy",
+      "autor": "Frederick Rolfe",
+      "rok": "1904",
+      "gatunek": "Literatura obyczajowa (autobiograficzna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Zubożały pisarz, odrzucony od kapłaństwa, zostaje niespodziewanie papieżem i reformuje Kościół. Ekscentryczna fantazja o spełnieniu marzeń."
+    },
+    {
+      "tytuł": "O czym szumią wierzby",
+      "autor": "Kenneth Grahame",
+      "rok": "1908",
+      "gatunek": "Literatura dziecięca (fantastyczna)",
+      "kategoria_wiekowa": "6+",
+      "opis": "Kret, Szczur, Borsuk i Ropuch przeżywają przygody nad angielską rzeką. Opowieść o przyjaźni i domu."
+    },
+    {
+      "tytuł": "Historia pana Polly'ego",
+      "autor": "H. G. Wells",
+      "rok": "1910",
+      "gatunek": "Literatura obyczajowa (humorystyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Znudzony sklepikarz ucieka od żony i zaczyna nowe życie w gospodzie nad rzeką. Pogodna powieść o odwadze zmiany."
+    },
+    {
+      "tytuł": "Zuleika Dobson",
+      "autor": "Max Beerbohm",
+      "rok": "1911",
+      "gatunek": "Literatura obyczajowa (powieść satyryczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Piękna iluzjonistka przyjeżdża do Oksfordu i doprowadza wszystkich studentów do samobójczej miłości. Absurdalna satyra na elitarne środowisko."
+    },
+    {
+      "tytuł": "Dobry żołnierz",
+      "autor": "Ford Madox Ford",
+      "rok": "1915",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Niewiarygodny narrator opowiada o zdradach i tajemnicach dwóch zaprzyjaźnionych małżeństw. Mistrzowska analiza hipokryzji."
+    },
+    {
+      "tytuł": "39 kroków",
+      "autor": "John Buchan",
+      "rok": "1915",
+      "gatunek": "Thriller (powieść szpiegowska, przygodowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Richard Hannay ucieka przed szpiegami i policją w Szkocji, próbując zapobiec zamachowi. Klasyczny thriller szpiegowski."
+    },
+    {
+      "tytuł": "Tęcza",
+      "autor": "D. H. Lawrence",
+      "rok": "1915",
+      "gatunek": "Literatura obyczajowa (psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Saga trzech pokoleń rodziny Brangwenów przedstawia przemiany uczuć, pracy i seksualności. Powieść, skonfiskowana po wydaniu za rzekomą nieprzyzwoitość."
+    },
+    {
+      "tytuł": "W niewoli uczuć",
+      "autor": "W. Somerset Maugham",
+      "rok": "1915",
+      "gatunek": "Literatura obyczajowa (powieść autobiograficzna, psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Philip Carey, chłopiec z kalectwem, szuka sensu życia i wpada w obsesyjną miłość do kelnerki Mildred. Powieść o wolności i uzależnieniu."
+    },
+    {
+      "tytuł": "Wiek niewinności",
+      "autor": "Edith Wharton",
+      "rok": "1920",
+      "gatunek": "Literatura obyczajowa (psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "W nowojorskich elitach lat siedemdziesiątych XIX wieku adwokat Newland Archer zakochuje się w skandalizującej hrabinie Olenskiej. Powieść o konwenansach."
+    },
+    {
+      "tytuł": "Ulisses",
+      "autor": "James Joyce",
+      "rok": "1922",
+      "gatunek": "Literatura obyczajowa (powieść eksperymentalna, modernistyczna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Jeden dzień z życia Leopolda Blooma i Stephena Dedalusa w Dublinie, opowiedziany w odmiennych stylach. Przełomowa powieść modernizmu."
+    },
+    {
+      "tytuł": "Babbitt",
+      "autor": "Sinclair Lewis",
+      "rok": "1922",
+      "gatunek": "Literatura obyczajowa (powieść satyryczna, społeczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Konformistyczny agent nieruchomości z Zenith próbuje zbuntować się przeciwko nijakiemu życiu. Satyra na amerykańską klasę średnią."
+    },
+    {
+      "tytuł": "Podróż do Indii",
+      "autor": "E. M. Forster",
+      "rok": "1924",
+      "gatunek": "Literatura obyczajowa (kolonialna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Oskarżenie młodego Hindusa o napaść na Angielkę ujawnia przepaść między kolonizatorami a kolonizowanymi. Powieść o niemożności porozumienia."
+    },
+    {
+      "tytuł": "Mężczyźni wolą blondynki",
+      "autor": "Anita Loos",
+      "rok": "1925",
+      "gatunek": "Literatura obyczajowa (powieść satyryczna, komedia)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Lorelei Lee, sprytna blondynka, w dzienniku opisuje podróż do Europy i polowanie na bogatego męża. Błyskotliwa satyra na epokę jazzu."
+    },
+    {
+      "tytuł": "Pani Dalloway",
+      "autor": "Virginia Woolf",
+      "rok": "1925",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, modernistyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Jeden czerwcowy dzień w Londynie, kiedy Clarissa Dalloway przygotowuje przyjęcie, a weteran wojny Septimus Smith walczy z szaleństwem. Powieść strumienia świadomości."
+    },
+    {
+      "tytuł": "Wielki Gatsby",
+      "autor": "F. Scott Fitzgerald",
+      "rok": "1925",
+      "gatunek": "Literatura obyczajowa (tragiczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Narrator Nick Carraway opowiada o tajemniczym milionerze Gatsbym, który urządza wystawne przyjęcia, by odzyskać dawną miłość. Powieść o marzeniu i klęsce."
+    },
+    {
+      "tytuł": "Lolly Willowes",
+      "autor": "Sylvia Townsend Warner",
+      "rok": "1926",
+      "gatunek": "Fantasy (obyczajowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Starsza panna ucieka z londyńskiej rodziny na wieś i zostaje czarownicą. Powieść o wolności kobiet."
+    },
+    {
+      "tytuł": "Słońce też wschodzi",
+      "autor": "Ernest Hemingway",
+      "rok": "1926",
+      "gatunek": "Literatura obyczajowa (modernistyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Grupa emigrantów z Paryża jedzie na korridę do Pampeluny, a ranny na wojnie Jake kocha Brett. Obraz straconego pokolenia."
+    },
+    {
+      "tytuł": "Sokół maltański",
+      "autor": "Dashiell Hammett",
+      "rok": "1929",
+      "gatunek": "Kryminał (czarny kryminał)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Detektyw Sam Spade zostaje wciągnięty w poszukiwania cennej figurki sokoła i serię morderstw. Wzorzec twardego kryminału."
+    },
+    {
+      "tytuł": "Kiedy umieram",
+      "autor": "William Faulkner",
+      "rok": "1930",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, modernistyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Rodzina Bundrenów zawozi trumnę z ciałem matki do rodzinnego miasta, a kolejne rozdziały narrują członkowie rodziny. Powieść o śmierci i egoizmie."
+    },
+    {
+      "tytuł": "Nowy wspaniały świat",
+      "autor": "Aldous Huxley",
+      "rok": "1932",
+      "gatunek": "Science fiction (antyutopia)",
+      "kategoria_wiekowa": "16+",
+      "opis": "W przyszłym państwie światowym ludzie są sztucznie hodowani i kontrolowani przez rozrywkę oraz narkotyk soma. Antyutopia o szczęściu bez wolności."
+    },
+    {
+      "tytuł": "Cold Comfort Farm",
+      "autor": "Stella Gibbons",
+      "rok": "1932",
+      "gatunek": "Literatura obyczajowa (powieść satyryczna, komedia)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Nowoczesna Flora Poste przenosi się do ponurej farmy na wsi i porządkuje życie ekscentrycznej rodziny. Parodia powieści wiejskich."
+    },
+    {
+      "tytuł": "1919",
+      "autor": "John Dos Passos",
+      "rok": "1932",
+      "gatunek": "Literatura obyczajowa (powieść eksperymentalna, społeczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Druga część trylogii U.S.A. przedstawia losy Amerykanów w czasie I wojny światowej, łącząc fabułę z wycinkami gazet. Montażowa panorama epoki."
+    },
+    {
+      "tytuł": "Zwrotnik Raka",
+      "autor": "Henry Miller",
+      "rok": "1934",
+      "gatunek": "Literatura obyczajowa (powieść autobiograficzna, obyczajowa)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Amerykański pisarz bez grosza żyje w Paryżu lat trzydziestych i opisuje swoje przygody oraz poglądy. Powieść przez dekady zakazana."
+    },
+    {
+      "tytuł": "Scoop",
+      "autor": "Evelyn Waugh",
+      "rok": "1938",
+      "gatunek": "Literatura obyczajowa (powieść satyryczna, komedia)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Przez pomyłkę korespondentem wojennym w Afryce zostaje autor rubryki o przyrodzie. Satyra na dziennikarstwo."
+    },
+    {
+      "tytuł": "Murphy",
+      "autor": "Samuel Beckett",
+      "rok": "1938",
+      "gatunek": "Literatura obyczajowa (powieść eksperymentalna, komiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Irlandczyk Murphy w Londynie dąży do uwolnienia umysłu od ciała i ucieka od narzeczonej do szpitala psychiatrycznego. Pierwsza powieść Becketta."
+    },
+    {
+      "tytuł": "Głęboki sen",
+      "autor": "Raymond Chandler",
+      "rok": "1939",
+      "gatunek": "Kryminał (czarny kryminał)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Detektyw Philip Marlowe zostaje wynajęty przez bogatego generała do rozwiązania sprawy szantażu i trafia na serię zabójstw. Klasyczny noir."
+    },
+    {
+      "tytuł": "Party Going",
+      "autor": "Henry Green",
+      "rok": "1939",
+      "gatunek": "Literatura obyczajowa (powieść modernistyczna, obyczajowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Grupa bogatych młodych ludzi utyka na dworcu w mgle i czeka na pociąg na wakacje. Subtelna studium snobizmu."
+    },
+    {
+      "tytuł": "At Swim-Two-Birds",
+      "autor": "Flann O'Brien",
+      "rok": "1939",
+      "gatunek": "Literatura obyczajowa (powieść postmodernistyczna, komiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Dubliński student pisze powieść, w której bohaterowie buntują się przeciw autorowi. Wielowarstwowa gra z literaturą."
+    },
+    {
+      "tytuł": "Grona gniewu",
+      "autor": "John Steinbeck",
+      "rok": "1939",
+      "gatunek": "Literatura obyczajowa (powieść społeczna, realistyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Rodzina Joadów traci farmę w czasie Wielkiego Kryzysu i rusza do Kalifornii w poszukiwaniu pracy. Powieść o nędzy i solidarności."
+    },
+    {
+      "tytuł": "Radość poranka",
+      "autor": "P. G. Wodehouse",
+      "rok": "1946",
+      "gatunek": "Literatura obyczajowa (powieść humorystyczna)",
+      "kategoria_wiekowa": "6+",
+      "opis": "Bertie Wooster jedzie do Steeple Bumpleigh, a Jeeves ratuje go z kolejnych zaręczyn i intryg. Komedia z serii o Jeevesie."
+    },
+    {
+      "tytuł": "Wszyscy ludzie króla",
+      "autor": "Robert Penn Warren",
+      "rok": "1946",
+      "gatunek": "Literatura obyczajowa (powieść polityczna, psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Dziennikarz Jack Burden opowiada o karierze charyzmatycznego gubernatora Willie Starka, wzorowanego na Huey Longu. Powieść o władzy i korupcji."
+    },
+    {
+      "tytuł": "U stóp wulkanu",
+      "autor": "Malcolm Lowry",
+      "rok": "1947",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, modernistyczna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Ostatni dzień życia alkoholika konsula brytyjskiego w Meksyku w Dzień Zmarłych. Powieść o samozniszczeniu."
+    },
+    {
+      "tytuł": "Skwar dnia",
+      "autor": "Elizabeth Bowen",
+      "rok": "1948",
+      "gatunek": "Literatura obyczajowa (wojenna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "W Londynie podczas Blitzu kobieta odkrywa, że jej kochanek może być szpiegiem. Powieść o zaufaniu i wojnie."
+    },
+    {
+      "tytuł": "Rok 1984",
+      "autor": "George Orwell",
+      "rok": "1949",
+      "gatunek": "Science fiction (antyutopia)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Winston Smith w totalitarnym państwie Wielkiego Brata buntuje się przeciwko kontroli myśli. Klasyczna antyutopia."
+    },
+    {
+      "tytuł": "Koniec romansu",
+      "autor": "Graham Greene",
+      "rok": "1951",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, religijna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Pisarz Bendrix wspomina romans z zamężną Sarah i szuka powodów, dla których nagle go zakończyła. Powieść o miłości i wierze."
+    },
+    {
+      "tytuł": "Buszujący w zbożu",
+      "autor": "J. D. Salinger",
+      "rok": "1951",
+      "gatunek": "Literatura młodzieżowa (psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Szesnastoletni Holden Caulfield po wyrzuceniu ze szkoły wędruje przez Nowy Jork i opowiada o swoich rozczarowaniach. Kultowa powieść o dorastaniu."
+    },
+    {
+      "tytuł": "Przygody Augiego Marcha",
+      "autor": "Saul Bellow",
+      "rok": "1953",
+      "gatunek": "Literatura obyczajowa (powieść łotrzykowska, obyczajowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Chłopak z biednej chicagowskiej dzielnicy próbuje znaleźć własną drogę wśród pokus i mentorów. Barwna panorama amerykańskiego życia."
+    },
+    {
+      "tytuł": "Władca much",
+      "autor": "William Golding",
+      "rok": "1954",
+      "gatunek": "Literatura obyczajowa (powieść alegoryczna, przygodowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Grupa chłopców rozbitych na bezludnej wyspie tworzy własne społeczeństwo, które stopniowo ulega okrucieństwu. Alegoria natury człowieka."
+    },
+    {
+      "tytuł": "Lolita",
+      "autor": "Vladimir Nabokov",
+      "rok": "1955",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, kontrowersyjna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Humbert Humbert, sam narrator, opisuje swoją obsesję na punkcie dwunastoletniej Dolores. Mistrzowsko napisana, lecz moralnie niepokojąca powieść."
+    },
+    {
+      "tytuł": "W drodze",
+      "autor": "Jack Kerouac",
+      "rok": "1957",
+      "gatunek": "Literatura obyczajowa (powieść drogi, autobiograficzna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Sal Paradise i Dean Moriarty przemierzają Stany Zjednoczone w poszukiwaniu wolności i wrażeń. Manifest pokolenia beatników."
+    },
+    {
+      "tytuł": "Voss",
+      "autor": "Patrick White",
+      "rok": "1957",
+      "gatunek": "Literatura obyczajowa (powieść przygodowa, psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Niemiecki badacz Voss prowadzi wyprawę przez australijską pustynię, a na odległość łączy go więź z kobietą w Sydney. Powieść o ambicji i wierze."
+    },
+    {
+      "tytuł": "Zabić drozda",
+      "autor": "Harper Lee",
+      "rok": "1960",
+      "gatunek": "Literatura obyczajowa (powieść społeczna, sądowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Mała Scout Finch obserwuje, jak jej ojciec adwokat broni czarnoskórego mężczyznę niesłusznie oskarżonego o gwałt. Powieść o rasizmie i sprawiedliwości."
+    },
+    {
+      "tytuł": "Panna Jean Brodie w rozkwicie",
+      "autor": "Muriel Spark",
+      "rok": "1961",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, satyryczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Nauczycielka w edynburskiej szkole dla dziewcząt zbiera wokół siebie uczennice i wpaja im swoje poglądy. Jedna z nich ją zdradza."
+    },
+    {
+      "tytuł": "Paragraf 22",
+      "autor": "Joseph Heller",
+      "rok": "1961",
+      "gatunek": "Literatura obyczajowa (powieść satyryczna, wojenna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Pilot Yossarian próbuje uciec z wojny, lecz pułapka biurokracji uniemożliwia mu wszystko. Czarna komedia o absurdzie wojny."
+    },
+    {
+      "tytuł": "Złoty notatnik",
+      "autor": "Doris Lessing",
+      "rok": "1962",
+      "gatunek": "Literatura obyczajowa (powieść eksperymentalna, feministyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Pisarka Anna Wulf zapisuje swoje życie w kilku notesach i próbuje je połączyć. Powieść o kobiecej tożsamości i polityce."
+    },
+    {
+      "tytuł": "Mechaniczna pomarańcza",
+      "autor": "Anthony Burgess",
+      "rok": "1962",
+      "gatunek": "Science fiction (antyutopia)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Nastoletni przywódca bandy Alex popełnia brutalne zbrodnie i zostaje poddany eksperymentalnej terapii. Powieść o wolnej woli."
+    },
+    {
+      "tytuł": "Samotny mężczyzna",
+      "autor": "Christopher Isherwood",
+      "rok": "1964",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, obyczajowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Jeden dzień z życia brytyjskiego profesora w Kalifornii, który próbuje się odnaleźć po śmierci partnera. Subtelna powieść o samotności."
+    },
+    {
+      "tytuł": "Z zimną krwią",
+      "autor": "Truman Capote",
+      "rok": "1966",
+      "gatunek": "Reportaż (powieść non-fiction, kryminalna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Reportaż o morderstwie rodziny Clutterów w Kansas, o schwytaniu i egzekucji zabójców. Pionierskie dzieło literatury faktu."
+    },
+    {
+      "tytuł": "Szklany klosz",
+      "autor": "Sylvia Plath",
+      "rok": "1963",
+      "gatunek": "Literatura obyczajowa (powieść autobiograficzna, psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Młoda poetka Esther Greenwood popada w depresję w Nowym Jorku lat pięćdziesiątych i trafia do szpitala psychiatrycznego. Jedyna powieść Plath."
+    },
+    {
+      "tytuł": "Kompleks Portnoya",
+      "autor": "Philip Roth",
+      "rok": "1969",
+      "gatunek": "Literatura obyczajowa (powieść satyryczna, psychologiczna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Alexander Portnoy opowiada psychoanalitykowi o relacji z matką, żydowskim wychowaniu i seksie. Komiczna, szokująca spowiedź."
+    },
+    {
+      "tytuł": "Pani Palfrey w hotelu Claremont",
+      "autor": "Elizabeth Taylor",
+      "rok": "1971",
+      "gatunek": "Literatura obyczajowa (psychologiczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Starsza wdowa zamieszkuje w londyńskim hotelu dla emerytów i zaprzyjaźnia się z młodym pisarzem. Subtelna historia o samotności."
+    },
+    {
+      "tytuł": "Królik wraca",
+      "autor": "John Updike",
+      "rok": "1971",
+      "gatunek": "Literatura obyczajowa (społeczna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Harry „Królik” Angstrom, porzucony przez żonę, przyjmuje do domu hipiskę i radykała. Druga część cyklu o Króliku."
+    },
+    {
+      "tytuł": "Pieśń Salomona",
+      "autor": "Toni Morrison",
+      "rok": "1977",
+      "gatunek": "Literatura obyczajowa (powieść społeczna, realizm magiczny)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Milkman Dead szuka korzeni swojej rodziny i odkrywa historię swoich przodków. Powieść o tożsamości Afroamerykanów."
+    },
+    {
+      "tytuł": "Zakręt rzeki",
+      "autor": "V. S. Naipaul",
+      "rok": "1979",
+      "gatunek": "Literatura obyczajowa (powieść polityczna, psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Hinduski kupiec osiedla się w afrykańskim miasteczku nad rzeką i obserwuje upadek porządku po dekolonizacji. Powieść o wykorzenieniu."
+    },
+    {
+      "tytuł": "Dzieci północy",
+      "autor": "Salman Rushdie",
+      "rok": "1981",
+      "gatunek": "Literatura obyczajowa (powieść realizmu magicznego, historyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Saleem Sinai, urodzony o północy w dniu niepodległości Indii, ma telepatyczną więź z innymi „dziećmi północy”. Alegoria historii kraju."
+    },
+    {
+      "tytuł": "Housekeeping",
+      "autor": "Marilynne Robinson",
+      "rok": "1981",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, obyczajowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Dwie siostry w małym amerykańskim miasteczku dorastają pod opieką ekscentrycznej ciotki. Poetycka powieść o stracie i wędrowaniu."
+    },
+    {
+      "tytuł": "Pieniądze: list samobójczy",
+      "autor": "Martin Amis",
+      "rok": "1984",
+      "gatunek": "Literatura obyczajowa (powieść satyryczna, czarna komedia)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Reżyser reklam John Self wpada w spiralę pieniędzy, alkoholu i seksu w Londynie i Nowym Jorku. Satyra na konsumpcjonizm lat osiemdziesiątych."
+    },
+    {
+      "tytuł": "Malarz świata ułudy",
+      "autor": "Kazuo Ishiguro",
+      "rok": "1986",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, historyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Stary japoński malarz wspomina karierę i dawne poglądy w powojennej Japonii. Powieść o odpowiedzialności za przeszłość."
+    },
+    {
+      "tytuł": "Początek wiosny",
+      "autor": "Penelope Fitzgerald",
+      "rok": "1988",
+      "gatunek": "Literatura obyczajowa (historyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "W Moskwie 1913 roku angielski przedsiębiorca zostaje porzucony przez żonę i próbuje odnaleźć się w nowej sytuacji. Subtelna powieść o rodzinie."
+    },
+    {
+      "tytuł": "Lekcje oddychania",
+      "autor": "Anne Tyler",
+      "rok": "1988",
+      "gatunek": "Literatura obyczajowa (rodzinna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Podczas jednodniowej podróży na pogrzeb małżeństwo Maggie i Iry'ego wspomina swoje życie. Ciepła powieść o codzienności."
+    },
+    {
+      "tytuł": "Wśród kobiet",
+      "autor": "John McGahern",
+      "rok": "1990",
+      "gatunek": "Literatura obyczajowa (psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Stary irlandzki partyzant Moran rządzi rodziną żelazną ręką, a córki i synowie próbują się wyzwolić. Powieść o patriarchacie."
+    },
+    {
+      "tytuł": "Underworld",
+      "autor": "Don DeLillo",
+      "rok": "1997",
+      "gatunek": "Literatura obyczajowa (powieść postmodernistyczna, historyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Od zagubionej piłki baseballowej z 1951 roku DeLillo prowadzi opowieść o Ameryce czasów zimnej wojny. Obszerna powieść o odpadach historii."
+    },
+    {
+      "tytuł": "Hańba",
+      "autor": "J. M. Coetzee",
+      "rok": "1999",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, społeczna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Profesor z Kapsztadu traci posadę po romansie ze studentką i wyjeżdża do córki, której farmę napadają. Powieść o winie w postapartheidowej RPA."
+    },
+    {
+      "tytuł": "Prawdziwa historia gangu Kelly'ego",
+      "autor": "Peter Carey",
+      "rok": "2000",
+      "gatunek": "powieść historyczna (przygodowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Australijski bandyta Ned Kelly sam opowiada swoją historię w liście do córki. Powieść pisana językiem potocznym."
+    }
+  ]
+}

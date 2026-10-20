@@ -2,6 +2,7 @@
 import '@fontsource-variable/playfair-display';
 import '@fontsource-variable/playfair-display/wght-italic.css';
 import '@fontsource-variable/inter';
+import '../styles/row.css';
 
 interface Props { title?: string; description?: string; }
 const { title, description = 'Rekomendowane książki i filmy z list krytyków, reżyserów i artystów.' } = Astro.props;
@@ -28,20 +29,36 @@ const full = title ? `${title} · nobestseller.com` : 'nobestseller.com – reko
   </head>
   <body>
     <slot />
+    <button type="button" class="to-top" id="to-top" aria-label="Przewiń na górę" title="Na górę" hidden>
+      <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19V5M5 12l7-7 7 7"/></svg>
+    </button>
+    <footer class="site-footer">
+      <a href="/o-nas/">O nas</a> · <a href="/listy/">Listy</a>
+    </footer>
   </body>
 </html>
+<script>
+  // Przycisk „na górę” pojawia się po przewinięciu strony o wysokość ekranu (100vh)
+  const btn = document.getElementById('to-top') as HTMLButtonElement;
+  const update = () => { btn.hidden = scrollY < innerHeight; };
+  addEventListener('scroll', update, { passive: true });
+  addEventListener('resize', update);
+  btn.addEventListener('click', () => {
+    const smooth = !matchMedia('(prefers-reduced-motion: reduce)').matches;
+    scrollTo({ top: 0, behavior: smooth ? 'smooth' : 'auto' });
+  });
+  update();
+</script>
 <style is:global>
   :root {
     color-scheme: light;
     --bg: #fff; --ink: #111; --ink-mid: #555; --ink-faint: #777;
     --rule: #e2e2e2; --rule-strong: #c8c8c8; --hover: #fafafa;
-    --cover-l: 42%; --cover-s: 22%;
   }
   :root[data-theme='dark'] {
     color-scheme: dark;
     --bg: #111; --ink: #f2f2f2; --ink-mid: #b0b0b0; --ink-faint: #8a8a8a;
     --rule: #2a2a2a; --rule-strong: #444; --hover: #181818;
-    --cover-l: 30%; --cover-s: 20%;
   }
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
   body {
@@ -50,4 +67,17 @@ const full = title ? `${title} · nobestseller.com` : 'nobestseller.com – reko
     font-size: 14px; line-height: 1.5;
   }
   button, select, input { font: inherit; color: inherit; }
+  .to-top {
+    position: fixed; right: 20px; bottom: 20px; z-index: 150; width: 40px; height: 40px; display: grid; place-items: center;
+    background: var(--ink); color: var(--bg); border: 1px solid var(--ink); cursor: pointer;
+    box-shadow: 0 2px 8px rgba(0,0,0,.25); transition: opacity .15s;
+  }
+  .to-top[hidden] { display: none; }
+  .to-top:hover { opacity: .85; }
+  .to-top:focus-visible { outline: 2px solid var(--ink); outline-offset: 2px; }
+  @media (max-width: 560px) { .to-top { right: 14px; bottom: 14px; } }
+  /* stopka tylko na telefonie – na większych ekranach linki „O nas” i „Listy” są w pasku górnym */
+  .site-footer { display: none; padding: 20px 24px; border-top: 1px solid var(--rule); font-size: 12px; color: var(--ink-faint); text-align: center; }
+  @media (max-width: 560px) { .site-footer { display: block; } }
+  .site-footer a { color: var(--ink-mid); }
 </style>
