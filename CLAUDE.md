@@ -19,7 +19,7 @@ Brak testów i lintera. CI (`.github/workflows/deploy.yml`, push na `main`) uruc
 
 Dane → jedna funkcja ładująca → jedna strona:
 
-- `data/books/*.json` i `data/movies/*.json` — każdy plik to jedna lista. Format: `{ "nazwa", "opis", "pozycje": [...] }` albo goła tablica pozycji. Nazwa pliku (bez `.json`) daje slug listy i fallback tytułu.
+- `data/books/*.json` i `data/movies/*.json` — każdy plik to jedna lista. Format: `{ "nazwa", "opis", "grupa", "pozycje": [...] }` albo goła tablica pozycji; opcjonalne `grupa` (domyślnie „Instytucje”, np. „Reżyserzy”) dzieli listy w filtrze „Źródło listy”. Nazwa pliku (bez `.json`) daje slug listy i fallback tytułu.
 - `src/lib/data.ts` — `loadAll()` czyta wszystkie pliki w czasie buildu (`fs`, ścieżka `data/` względem cwd), normalizuje pozycje do `Item` i **deduplikuje** pozycje między listami po `id = kind-slug(tytuł)-slug(twórca)`; ta sama pozycja z wielu list dostaje wiele wpisów w `lists`. Wylicza też `yearNum` (`parseYear` obsługuje m.in. "1913–1927", "od 1952", rzymskie wieki "VIII w. p.n.e."), `era` (przedziały w `ERAS`), główny gatunek (część przed nawiasem, wielka litera) i `ageNum`.
 - `src/pages/index.astro` — jedyna strona; wywołuje `loadAll()` i przekazuje wynik do `src/components/Catalog.astro` (filtrowanie/UI katalogu), osadzonego w `src/layouts/Base.astro`.
 

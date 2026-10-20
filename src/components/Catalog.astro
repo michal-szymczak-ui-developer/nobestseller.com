@@ -1,6 +1,6 @@
 ---
 import Topbar from './Topbar.astro';
-import { ERAS, type Item, type Kind, type ListInfo } from '../lib/data';
+import { DEFAULT_GROUP, ERAS, type Item, type Kind, type ListInfo } from '../lib/data';
 import { payloadJson } from '../lib/row';
 interface Props { items: Item[]; lists: ListInfo[]; }
 const { items, lists } = Astro.props;
@@ -10,7 +10,7 @@ const KINDS: { kind: Kind; label: string; title: string; ageLabel: string }[] = 
   { kind: 'movies', label: 'Filmy', title: 'Rekomendowane filmy', ageLabel: 'Wiek widza' },
 ];
 
-interface Option { value: string; label: string; count: number; }
+interface Option { value: string; label: string; count: number; group?: string; }
 interface Group { key: string; label: string; options: Option[]; }
 
 const tally = (xs: string[]) => {
@@ -19,12 +19,22 @@ const tally = (xs: string[]) => {
   return m;
 };
 
+// kolejność grup w filtrze „Źródło listy”: najpierw instytucje, potem pozostałe (np. Reżyserzy)
+const groupRank = (g?: string) => (g === DEFAULT_GROUP ? 0 : 1);
+// opcje podzielone na grupy z zachowaniem kolejności; nagłówki tylko gdy grup jest więcej niż jedna
+const splitGroups = (opts: Option[]) => {
+  const m = new Map<string, Option[]>();
+  opts.forEach((o) => m.set(o.group ?? '', [...(m.get(o.group ?? '') ?? []), o]));
+  return [...m].map(([name, options]) => ({ name, options }));
+};
+
 function groupsFor(kind: Kind, ageLabel: string): Group[] {
   const its = items.filter((i) => i.kind === kind);
   const byCount = (a: Option, b: Option) => b.count - a.count || a.label.localeCompare(b.label, 'pl');
   const listOpts = lists.filter((l) => l.kind === kind).map((l) => ({
-    value: l.slug, label: l.title, count: its.filter((i) => i.lists.some((x) => x.slug === l.slug)).length,
-  }));
+    value: l.slug, label: l.title, group: l.group,
+    count: its.filter((i) => i.lists.some((x) => x.slug === l.slug)).length,
+  })).sort((a, b) => groupRank(a.group) - groupRank(b.group) || a.label.localeCompare(b.label, 'pl'));
   const genre = [...tally(its.map((i) => i.genre))].map(([v, c]) => ({ value: v, label: v, count: c })).sort(byCount);
   const eraCounts = tally(its.map((i) => i.era));
   const era = ERAS[kind].filter((e) => eraCounts.has(e)).map((e) => ({ value: e, label: e, count: eraCounts.get(e)! }));
@@ -79,11 +89,16 @@ const dataJson = payloadJson(items);
                   <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9l6 6 6-6"/></svg>
                 </button>
                 <ul class="filter-list msel-menu" hidden>
-                  {g.options.map((o) => (
-                    <li class="filter-item">
-                      <label><input type="checkbox" value={o.value} /> {o.label}</label>
-                      <span class="filter-count">{o.count}</span>
-                    </li>
+                  {splitGroups(g.options).map((grp, gi, all) => (
+                    <>
+                      {all.length > 1 && <li class={`msel-group${gi === 0 ? ' first' : ''}`} role="presentation">{grp.name}</li>}
+                      {grp.options.map((o) => (
+                        <li class="filter-item">
+                          <label><input type="checkbox" value={o.value} /> {o.label}</label>
+                          <span class="filter-count">{o.count}</span>
+                        </li>
+                      ))}
+                    </>
                   ))}
                 </ul>
               </div>
@@ -201,6 +216,11 @@ const dataJson = payloadJson(items);
     max-height: 280px; overflow-y: auto; background: var(--bg); border: 1px solid var(--ink);
   }
   .msel-menu[hidden] { display: none; }
+  .msel-group {
+    margin: 10px -10px 4px; padding: 8px 10px 0; border-top: 1px solid var(--rule); font-size: 10px; font-weight: 500;
+    letter-spacing: .08em; text-transform: uppercase; color: var(--ink-faint);
+  }
+  .msel-group.first { margin-top: 2px; padding-top: 0; border-top: 0; }
   .filter-count { font-size: 11px; color: var(--ink-faint); font-variant-numeric: tabular-nums; }
   .clear-btn {
     display: none; background: none; border: 0; font-size: 12px; color: var(--ink-faint);

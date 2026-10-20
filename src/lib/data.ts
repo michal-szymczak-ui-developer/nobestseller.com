@@ -29,7 +29,11 @@ export interface ListInfo extends ListRef {
   kind: Kind;
   description: string;
   count: number;
+  /** Grupa w filtrze „Źródło listy” (pole "grupa" w pliku listy), domyślnie instytucje. */
+  group: string;
 }
+
+export const DEFAULT_GROUP = 'Instytucje';
 
 const DATA_DIR = path.resolve('data');
 const KINDS: Kind[] = ['books', 'movies'];
@@ -90,7 +94,8 @@ function readList(file: string, kind: Kind) {
   const entries: Record<string, string>[] = Array.isArray(raw) ? raw : raw.pozycje;
   const title: string = (!Array.isArray(raw) && raw.nazwa) || base.replace(/_/g, ' ');
   const description: string = (!Array.isArray(raw) && raw.opis) || '';
-  return { slug: slugify(base), title, description, entries };
+  const group: string = (!Array.isArray(raw) && raw.grupa) || DEFAULT_GROUP;
+  return { slug: slugify(base), title, description, group, entries };
 }
 
 export function loadAll(): { items: Item[]; lists: ListInfo[] } {
@@ -101,9 +106,9 @@ export function loadAll(): { items: Item[]; lists: ListInfo[] } {
     const dir = path.join(DATA_DIR, kind);
     if (!fs.existsSync(dir)) continue;
     for (const f of fs.readdirSync(dir).filter((f) => f.endsWith('.json')).sort()) {
-      const { slug, title, description, entries } = readList(path.join(dir, f), kind);
+      const { slug, title, description, group, entries } = readList(path.join(dir, f), kind);
       const ref: ListRef = { slug, title };
-      lists.push({ ...ref, kind, description, count: entries.length });
+      lists.push({ ...ref, kind, description, group, count: entries.length });
 
       for (const e of entries) {
         const t = e['tytuł'] ?? e['tytul'] ?? e['title'];
