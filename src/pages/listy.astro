@@ -2,13 +2,55 @@
 import Base from '../layouts/Base.astro';
 import Topbar from '../components/Topbar.astro';
 
-const SOURCES = [
+// url – główne źródło; more – dodatkowe linki (opis listy, oryginał itp.)
+interface Source { title: string; url: string; more?: { label: string; url: string }[]; }
+const SOURCES: { heading: string; links: Source[] }[] = [
   {
     heading: 'Książki',
     links: [
       { title: '100 książek XX wieku według Le Monde', url: 'https://pl.wikipedia.org/wiki/100_ksi%C4%85%C5%BCek_XX_wieku_wed%C5%82ug_Le_Monde' },
       { title: '100 najlepszych książek Norweskiego Klubu Książki', url: 'https://pl.wikipedia.org/wiki/100_najlepszych_ksi%C4%85%C5%BCek_Norweskiego_Klubu_Ksi%C4%85%C5%BCki' },
       { title: 'Kanon na koniec wieku („Rzeczpospolita”)', url: 'https://pl.wikipedia.org/wiki/Kanon_na_koniec_wieku' },
+      {
+        title: 'The Guardian – 100 najlepszych powieści w języku angielskim',
+        url: 'https://www.theguardian.com/books/2015/aug/17/the-100-best-novels-written-in-english-the-full-list',
+        more: [
+          { label: 'lista (Goodreads)', url: 'https://www.goodreads.com/book/show/79125282' },
+          { label: 'wstęp', url: 'https://www.goodreads.com/author_blog_posts/4913546-the-100-best-novels-an-introduction' },
+        ],
+      },
+      {
+        title: 'BBC – 100 powieści, które ukształtowały świat (2019)',
+        url: 'https://www.esquireme.com/content/40773-these-are-the-100-novels-that-have-shaped-our-world-according-to-the-bbc',
+        more: [{ label: 'komunikat BBC', url: 'https://www.thedreamcage.com/2019/11/books-100-novels-that-shaped-our-world.html' }],
+      },
+      {
+        title: 'Modern Library – 100 Best Novels (lista redakcyjna i czytelników)',
+        url: 'https://www.csus.edu/indiv/m/maddendw/MODERN%20LIBRARY%20100%20BEST%20NOVELS.pdf',
+        more: [{ label: 'opis listy (Wikipedia)', url: 'https://en.wikipedia.org/wiki/Modern_Library%27s_100_Best_Novels' }],
+      },
+      {
+        title: 'TIME – All-TIME 100 Novels',
+        url: 'https://bucketlistbookreviews.com/the-lists/time-magazines-100-novels/',
+        more: [
+          { label: 'Wikipedia', url: 'https://en.wikipedia.org/wiki/Time%27s_List_of_the_100_Best_Novels' },
+          { label: 'oryginał', url: 'https://entertainment.time.com/2005/10/16/all-time-100-novels/slide/all/' },
+        ],
+      },
+      {
+        title: 'TIME – 100 Best YA Books',
+        url: 'https://bookstacked.com/publishing/time-magazine-publishes-list-of-100-best-ya-books-of-all-time/',
+        more: [{ label: 'oryginał', url: 'https://time.com/collection/100-best-ya-books/' }],
+      },
+      {
+        title: 'The New York Times – 100 Best Books of the 21st Century',
+        url: 'https://nbpl.org/the-new-york-times-best-books-of-the-21st-century/',
+        more: [
+          { label: 'Book Riot', url: 'https://bookriot.com/best-books-of-the-21st-century-nyt' },
+          { label: 'oryginał', url: 'https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html' },
+        ],
+      },
+      { title: '1001 Books You Must Read Before You Die (Goodreads)', url: 'https://www.goodreads.com/list/show/952.1001_Books_You_Must_Read_Before_You_Die' },
     ],
   },
   {
@@ -54,7 +96,12 @@ const SOURCES = [
         <h2>{s.heading}</h2>
         <ul>
           {s.links.map((l) => (
-            <li><a href={l.url} target="_blank" rel="noopener noreferrer">{l.title}</a></li>
+            <li>
+              <a href={l.url} target="_blank" rel="noopener noreferrer">{l.title}</a>
+              {l.more?.map((m) => (
+                <a class="more" href={m.url} target="_blank" rel="noopener noreferrer">{m.label}</a>
+              ))}
+            </li>
           ))}
         </ul>
       </section>
@@ -78,4 +125,6 @@ const SOURCES = [
   ul { list-style: none; border-top: 1px solid var(--rule); }
   li { padding: 12px 0; border-bottom: 1px solid var(--rule); font-size: 15px; }
   li a { color: var(--ink); }
+  li a.more { display: inline-block; margin-left: 10px; font-size: 12px; color: var(--ink-faint); }
+  li a.more:hover { color: var(--ink); }
 </style>

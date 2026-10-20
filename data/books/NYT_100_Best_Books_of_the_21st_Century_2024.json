@@ -1,0 +1,905 @@
+{
+  "nazwa": "NYT",
+  "pozycje": [
+    {
+      "tytuł": "Genialna przyjaciółka",
+      "autor": "Elena Ferrante",
+      "rok": "2011",
+      "gatunek": "Literatura obyczajowa (rodzinna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Elena i Lila dorastają w biednej dzielnicy Neapolu w latach pięćdziesiątych, a ich przyjaźń splata rywalizację i miłość. Pierwszy tom cyklu neapolitańskiego.",
+      "miejsce_w_rankingu": 1
+    },
+    {
+      "tytuł": "Ciepło innych słońc",
+      "autor": "Isabel Wilkerson",
+      "rok": "2010",
+      "gatunek": "Historia (literatura faktu)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Historia Wielkiej Migracji sześciu milionów Afroamerykanów z amerykańskiego Południa na Północ i Zachód w XX wieku. Opowieść oparta na losach trzech bohaterów.",
+      "miejsce_w_rankingu": 2
+    },
+    {
+      "tytuł": "Wilcza Sala",
+      "autor": "Hilary Mantel",
+      "rok": "2009",
+      "gatunek": "powieść historyczna",
+      "kategoria_wiekowa": "16+",
+      "opis": "Thomas Cromwell, syn kowala, wspina się na dwór Henryka VIII w czasie rozwodu króla z Katarzyną Aragońską. Pierwszy tom trylogii.",
+      "miejsce_w_rankingu": 3
+    },
+    {
+      "tytuł": "Znany świat",
+      "autor": "Edward P. Jones",
+      "rok": "2003",
+      "gatunek": "powieść historyczna (społeczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Czarnoskóry farmer Henry Townsend w Wirginii przed wojną secesyjną posiada niewolników, a po jego śmierci świat się rozpada. Powieść o paradoksach niewolnictwa.",
+      "miejsce_w_rankingu": 4
+    },
+    {
+      "tytuł": "Korekty",
+      "autor": "Jonathan Franzen",
+      "rok": "2001",
+      "gatunek": "Literatura obyczajowa (rodzinna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Rodzina Lambertów ze Środkowego Zachodu zbiera się na ostatnie święta, a każdy z jej członków zmaga się z własnymi problemami. Powieść o rodzinie.",
+      "miejsce_w_rankingu": 5
+    },
+    {
+      "tytuł": "2666",
+      "autor": "Roberto Bolaño",
+      "rok": "2004",
+      "gatunek": "Literatura obyczajowa (powieść eksperymentalna, kryminalna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Pięć części splata losy krytyków literackich i serii morderstw kobiet w meksykańskim miasteczku Santa Teresa. Monumentalna powieść pośmiertna.",
+      "miejsce_w_rankingu": 6
+    },
+    {
+      "tytuł": "Kolej podziemna",
+      "autor": "Colson Whitehead",
+      "rok": "2016",
+      "gatunek": "powieść historyczna (alternatywna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Niewolnica Cora ucieka z plantacji w Georgii przez literalną kolej podziemną, odkrywając kolejne oblicza rasizmu. Powieść nagrodzona Pulitzerem.",
+      "miejsce_w_rankingu": 7
+    },
+    {
+      "tytuł": "Austerlitz",
+      "autor": "W. G. Sebald",
+      "rok": "2001",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, historyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Narrator słucha opowieści Jacques'a Austerlitza, który po latach odkrywa, że jako dziecko uciekł z Czechosłowacji z Kindertransportem. Powieść o pamięci i Zagładzie.",
+      "miejsce_w_rankingu": 8
+    },
+    {
+      "tytuł": "Nie opuszczaj mnie",
+      "autor": "Kazuo Ishiguro",
+      "rok": "2005",
+      "gatunek": "Science fiction (psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Kathy opowiada o dzieciństwie w szkole Hailsham i przeznaczeniu, które czeka jej przyjaciół. Cicha antyutopia o człowieczeństwie.",
+      "miejsce_w_rankingu": 9
+    },
+    {
+      "tytuł": "Gilead",
+      "autor": "Marilynne Robinson",
+      "rok": "2004",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, religijna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Stary pastor John Ames pisze list do małego syna, wspominając swoje życie i rodzinę w Iowa. Medytacyjna powieść o wierze.",
+      "miejsce_w_rankingu": 10
+    },
+    {
+      "tytuł": "Krótki i cudowny żywot Oscara Wao",
+      "autor": "Junot Díaz",
+      "rok": "2007",
+      "gatunek": "Literatura obyczajowa (realizm magiczny)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Otyły fan fantasy z New Jersey, Oscar, i jego rodzina z Dominikany zmagają się z „fuku”, rodzinną klątwą. Powieść o diasporze.",
+      "miejsce_w_rankingu": 11
+    },
+    {
+      "tytuł": "Rok magicznego myślenia",
+      "autor": "Joan Didion",
+      "rok": "2005",
+      "gatunek": "Biografia i autobiografia (literatura faktu, wspomnienia)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Didion opisuje rok po nagłej śmierci męża i chorobie córki oraz swoje próby zrozumienia straty. Wspomnienie o żałobie.",
+      "miejsce_w_rankingu": 12
+    },
+    {
+      "tytuł": "Droga",
+      "autor": "Cormac McCarthy",
+      "rok": "2006",
+      "gatunek": "Science fiction (psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Ojciec i syn wędrują przez spustoszoną Amerykę w poszukiwaniu bezpiecznego miejsca. Powieść o miłości w obliczu końca świata.",
+      "miejsce_w_rankingu": 13
+    },
+    {
+      "tytuł": "Outline",
+      "autor": "Rachel Cusk",
+      "rok": "2014",
+      "gatunek": "Literatura obyczajowa (powieść eksperymentalna, psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Pisarka Faye prowadzi w Atenach serię rozmów, które odsłaniają losy rozmówców. Pierwsza część trylogii.",
+      "miejsce_w_rankingu": 14
+    },
+    {
+      "tytuł": "Pachinko",
+      "autor": "Min Jin Lee",
+      "rok": "2017",
+      "gatunek": "powieść historyczna (rodzinna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Saga czterech pokoleń koreańskiej rodziny w Japonii, od lat dziesiątych XX wieku po lata osiemdziesiąte. Powieść o dyskryminacji i przetrwaniu.",
+      "miejsce_w_rankingu": 15
+    },
+    {
+      "tytuł": "Niesamowite przygody Kavaliera i Claya",
+      "autor": "Michael Chabon",
+      "rok": "2000",
+      "gatunek": "powieść historyczna (obyczajowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Dwaj kuzyni, Żyd z Pragi i chłopak z Brooklynu, tworzą komiks o superbohaterze w latach trzydziestych i czterdziestych. Powieść o sztuce i ucieczce.",
+      "miejsce_w_rankingu": 16
+    },
+    {
+      "tytuł": "Wyprzedany",
+      "autor": "Paul Beatty",
+      "rok": "2015",
+      "gatunek": "Literatura obyczajowa (powieść satyryczna, społeczna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Czarnoskóry farmer z Kalifornii przywraca w swoim miasteczku niewolnictwo i segregację, ścigany przez sąd. Satyra na rasizm.",
+      "miejsce_w_rankingu": 17
+    },
+    {
+      "tytuł": "Lincoln w Bardo",
+      "autor": "George Saunders",
+      "rok": "2017",
+      "gatunek": "Literatura obyczajowa (powieść eksperymentalna, fantastyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Duchy cmentarne obserwują Abrahama Lincolna, który opłakuje zmarłego syna Willie'ego. Chóralna powieść o żałobie.",
+      "miejsce_w_rankingu": 18
+    },
+    {
+      "tytuł": "Say Nothing",
+      "autor": "Patrick Radden Keefe",
+      "rok": "2018",
+      "gatunek": "Historia (literatura faktu, historyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Historia zniknięcia Jean McConville w Belfaście i konfliktu w Irlandii Północnej widziana przez uczestników. Reportaż śledczy.",
+      "miejsce_w_rankingu": 19
+    },
+    {
+      "tytuł": "Erasure",
+      "autor": "Percival Everett",
+      "rok": "2001",
+      "gatunek": "Literatura obyczajowa (powieść satyryczna, społeczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Czarnoskóry pisarz Monk, sfrustrowany stereotypami, pisze parodię „czarnej” prozy, która staje się bestsellerem. Satyra na przemysł wydawniczy.",
+      "miejsce_w_rankingu": 20
+    },
+    {
+      "tytuł": "Wyrzuceni",
+      "autor": "Matthew Desmond",
+      "rok": "2016",
+      "gatunek": "Popularnonaukowa (literatura faktu, socjologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Socjolog opisuje życie ośmiu rodzin w Milwaukee, które walczą z eksmisją, i pokazuje skutki ubóstwa mieszkaniowego. Reportaż naukowy.",
+      "miejsce_w_rankingu": 21
+    },
+    {
+      "tytuł": "Za pięknymi wiecznościami",
+      "autor": "Katherine Boo",
+      "rok": "2012",
+      "gatunek": "Reportaż (literatura faktu)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Reportaż o mieszkańcach slumsu Annawadi niedaleko lotniska w Bombaju i ich walce o byt. Opowieść o nierównościach.",
+      "miejsce_w_rankingu": 22
+    },
+    {
+      "tytuł": "Nienawiść, przyjaźń, zaloty, miłość, małżeństwo",
+      "autor": "Alice Munro",
+      "rok": "2001",
+      "gatunek": "Literatura obyczajowa (zbiór opowiadań, obyczajowy)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Dziewięć opowiadań o kobietach w Kanadzie i ich cichych decyzjach, tajemnicach i rozczarowaniach. Zbiór noblistki.",
+      "miejsce_w_rankingu": 23
+    },
+    {
+      "tytuł": "Overstory",
+      "autor": "Richard Powers",
+      "rok": "2018",
+      "gatunek": "Literatura obyczajowa (powieść ekologiczna, epicka)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Losy dziewięciu ludzi splatają się wokół drzew i walki o ochronę lasów. Powieść nagrodzona Pulitzerem.",
+      "miejsce_w_rankingu": 24
+    },
+    {
+      "tytuł": "Random Family",
+      "autor": "Adrian Nicole LeBlanc",
+      "rok": "2003",
+      "gatunek": "Popularnonaukowa (literatura faktu, socjologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Reportaż o rodzinie z Bronxu, dwóch kobietach i ich bliskich, zagrożonych przez narkotyki i biedę. Dziesięć lat obserwacji.",
+      "miejsce_w_rankingu": 25
+    },
+    {
+      "tytuł": "Pokuta",
+      "autor": "Ian McEwan",
+      "rok": "2001",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, historyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Trzynastoletnia Briony fałszywie oskarża Robbiego o gwałt i przez życie próbuje to odkupić. Powieść o winie i pisaniu.",
+      "miejsce_w_rankingu": 26
+    },
+    {
+      "tytuł": "Americanah",
+      "autor": "Chimamanda Ngozi Adichie",
+      "rok": "2013",
+      "gatunek": "Literatura obyczajowa (społeczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Ifemelu wyjeżdża z Nigerii do USA i uczy się rasy, a jej dawny ukochany Obinze próbuje szczęścia w Londynie. Powieść o migracji.",
+      "miejsce_w_rankingu": 27
+    },
+    {
+      "tytuł": "Atlas chmur",
+      "autor": "David Mitchell",
+      "rok": "2004",
+      "gatunek": "Literatura obyczajowa (powieść eksperymentalna, science fiction)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Sześć opowieści w różnych epokach, z których każda przecina się z następną, tworzy matrycę o władzy i wolności. Powieść-puzzle.",
+      "miejsce_w_rankingu": 28
+    },
+    {
+      "tytuł": "Ostatni samuraj",
+      "autor": "Helen DeWitt",
+      "rok": "2000",
+      "gatunek": "Literatura obyczajowa (powieść intelektualna, obyczajowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Samotna matka uczy małego geniusza Ludo języków i filmów Kurosawy, a on szuka ojca. Powieść o edukacji.",
+      "miejsce_w_rankingu": 29
+    },
+    {
+      "tytuł": "Sing, Unburied, Sing",
+      "autor": "Jesmyn Ward",
+      "rok": "2017",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, społeczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Rodzina z Missisipi wyrusza do więzienia po ojca dzieci, a duchy z przeszłości odwiedzają bohaterów. Powieść o rasizmie.",
+      "miejsce_w_rankingu": 30
+    },
+    {
+      "tytuł": "Białe zęby",
+      "autor": "Zadie Smith",
+      "rok": "2000",
+      "gatunek": "Literatura obyczajowa (satyryczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Dwie londyńskie rodziny, bengalska i angielska, przez trzy pokolenia budują nowe życie w wielokulturowym mieście. Debiut Zadie Smith.",
+      "miejsce_w_rankingu": 31
+    },
+    {
+      "tytuł": "Linia piękna",
+      "autor": "Alan Hollinghurst",
+      "rok": "2004",
+      "gatunek": "Literatura obyczajowa (historyczna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Młody Nick Guest zamieszkuje u rodziny konserwatywnego posła w Londynie lat osiemdziesiątych i doświadcza wzlotów oraz upadku. Powieść o klasie.",
+      "miejsce_w_rankingu": 32
+    },
+    {
+      "tytuł": "Salvage the Bones",
+      "autor": "Jesmyn Ward",
+      "rok": "2011",
+      "gatunek": "Literatura obyczajowa (powieść społeczna, psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Rodzeństwo z ubogiej rodziny w Missisipi przeżywa dwanaście dni przed huraganem Katrina. Powieść o przetrwaniu.",
+      "miejsce_w_rankingu": 33
+    },
+    {
+      "tytuł": "Citizen: An American Lyric",
+      "autor": "Claudia Rankine",
+      "rok": "2014",
+      "gatunek": "poezja (eseistyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Seria poetyckich esejów o codziennych mikroagresjach rasistowskich wobec czarnych Amerykanów. Zbiór łączący tekst i obraz.",
+      "miejsce_w_rankingu": 34
+    },
+    {
+      "tytuł": "Fun Home",
+      "autor": "Alison Bechdel",
+      "rok": "2006",
+      "gatunek": "Komiks (autobiograficzna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Autorka wspomina dzieciństwo w domu pogrzebowym, relację z ojcem i własne coming outy. Komiks autobiograficzny.",
+      "miejsce_w_rankingu": 35
+    },
+    {
+      "tytuł": "Między światem a mną",
+      "autor": "Ta-Nehisi Coates",
+      "rok": "2015",
+      "gatunek": "Popularnonaukowa (literatura faktu, esej)",
+      "kategoria_wiekowa": "16+",
+      "opis": "List ojca do syna o doświadczeniu bycia czarnoskórym w Stanach Zjednoczonych i niebezpieczeństwach ciała. Esej o rasizmie.",
+      "miejsce_w_rankingu": 36
+    },
+    {
+      "tytuł": "Lata",
+      "autor": "Annie Ernaux",
+      "rok": "2008",
+      "gatunek": "Biografia i autobiografia (literatura faktu, autobiograficzna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Zbiorowa autobiografia kobiety opowiedziana przez zdjęcia, zmiany kultury i język z lat 1941–2006. Książka noblistki.",
+      "miejsce_w_rankingu": 37
+    },
+    {
+      "tytuł": "Dzicy detektywi",
+      "autor": "Roberto Bolaño",
+      "rok": "1998",
+      "gatunek": "Literatura obyczajowa (powieść eksperymentalna, przygodowa)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Dwaj poeci, Belano i Lima, krążą po świecie, a ich losy odsłaniają liczne głosy. Wielogłosowa powieść o literaturze.",
+      "miejsce_w_rankingu": 38
+    },
+    {
+      "tytuł": "Wizyta bandy zbirów",
+      "autor": "Jennifer Egan",
+      "rok": "2010",
+      "gatunek": "Literatura obyczajowa (powieść eksperymentalna, obyczajowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Seria połączonych opowieści o ludziach związanych z muzyką od lat siedemdziesiątych w przyszłość. Powieść o upływie czasu.",
+      "miejsce_w_rankingu": 39
+    },
+    {
+      "tytuł": "H jak jastrząb",
+      "autor": "Helen Macdonald",
+      "rok": "2014",
+      "gatunek": "Biografia i autobiografia (literatura faktu, wspomnienia)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Po śmierci ojca autorka oswaja jastrzębia gołębiarza i opisuje żałobę oraz życie T. H. White'a. Książka o naturze i stracie.",
+      "miejsce_w_rankingu": 40
+    },
+    {
+      "tytuł": "Drobiazgi takie jak te",
+      "autor": "Claire Keegan",
+      "rok": "2021",
+      "gatunek": "Literatura obyczajowa (historyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "W irlandzkim miasteczku w 1985 roku handlarz węglem odkrywa w klasztorze krzywdzone dziewczęta i musi wybrać. Krótka powieść o sumieniu.",
+      "miejsce_w_rankingu": 41
+    },
+    {
+      "tytuł": "Krótka historia siedmiu zabójstw",
+      "autor": "Marlon James",
+      "rok": "2014",
+      "gatunek": "powieść historyczna (kryminalna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Wielogłosowa opowieść o zamachu na Boba Marleya i jego następstwach na Jamajce oraz w Nowym Jorku. Powieść o przemocy politycznej.",
+      "miejsce_w_rankingu": 42
+    },
+    {
+      "tytuł": "Powojnie",
+      "autor": "Tony Judt",
+      "rok": "2005",
+      "gatunek": "Historia (literatura faktu)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Historia Europy od 1945 roku do początku XXI wieku, od gospodarki po politykę i pamięć. Obszerna monografia.",
+      "miejsce_w_rankingu": 43
+    },
+    {
+      "tytuł": "Piąta pora roku",
+      "autor": "N. K. Jemisin",
+      "rok": "2015",
+      "gatunek": "Fantasy (postapokaliptyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "W świecie zagrożonym kataklizmami orogenka Essun szuka porwanej córki. Pierwsza część trylogii Zmarła Ziemia.",
+      "miejsce_w_rankingu": 44
+    },
+    {
+      "tytuł": "The Argonauts",
+      "autor": "Maggie Nelson",
+      "rok": "2015",
+      "gatunek": "Popularnonaukowa (literatura faktu, esej)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Mieszanka autobiografii i teorii o związku autorki z partnerem w trakcie transformacji, ciąży i macierzyństwie. Eseistyczne wspomnienie.",
+      "miejsce_w_rankingu": 45
+    },
+    {
+      "tytuł": "Szczygieł",
+      "autor": "Donna Tartt",
+      "rok": "2013",
+      "gatunek": "Literatura obyczajowa (przygodowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Po zamachu bombowym w muzeum młody Theo zabiera cenny obraz i dźwiga jego ciężar przez dorosłe życie. Powieść Donny Tartt.",
+      "miejsce_w_rankingu": 46
+    },
+    {
+      "tytuł": "Miłosierdzie",
+      "autor": "Toni Morrison",
+      "rok": "2008",
+      "gatunek": "powieść historyczna (psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "W kolonialnej Ameryce XVII wieku kilkoro ludzi, w tym niewolnica, matka i wdowa, zostaje związanych losem jednej farmy. Krótka powieść.",
+      "miejsce_w_rankingu": 47
+    },
+    {
+      "tytuł": "Persepolis",
+      "autor": "Marjane Satrapi",
+      "rok": "2000",
+      "gatunek": "Komiks (autobiograficzna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Autorka opowiada o dorastaniu w Iranie w czasie rewolucji islamskiej i o życiu na wygnaniu. Komiks autobiograficzny.",
+      "miejsce_w_rankingu": 48
+    },
+    {
+      "tytuł": "Wegetarianka",
+      "autor": "Han Kang",
+      "rok": "2007",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, symboliczna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Yeong-hye przestaje jeść mięso po przerażającym śnie, co wywołuje wstrząs w jej rodzinie. Powieść o kontroli i ciele.",
+      "miejsce_w_rankingu": 49
+    },
+    {
+      "tytuł": "Zaufanie",
+      "autor": "Hernan Diaz",
+      "rok": "2022",
+      "gatunek": "Literatura obyczajowa (powieść eksperymentalna, historyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Cztery perspektywy na życie nowojorskiego finansisty i jego żony w latach dwudziestych odsłaniają zakulisowe prawdy. Powieść o pieniądzach.",
+      "miejsce_w_rankingu": 50
+    },
+    {
+      "tytuł": "Życie po życiu",
+      "autor": "Kate Atkinson",
+      "rok": "2013",
+      "gatunek": "powieść historyczna (fantastyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Ursula Todd rodzi się wielokrotnie, za każdym razem zmieniając swój los w Wielkiej Brytanii w latach 1910–1967. Powieść o przeznaczeniu.",
+      "miejsce_w_rankingu": 51
+    },
+    {
+      "tytuł": "Train Dreams",
+      "autor": "Denis Johnson",
+      "rok": "2011",
+      "gatunek": "powieść historyczna (poetycka)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Opowieść o życiu robotnika kolejowego Roberta Grainiera w amerykańskim Zachodzie XX wieku. Krótka powieść.",
+      "miejsce_w_rankingu": 52
+    },
+    {
+      "tytuł": "Ucieczka",
+      "autor": "Alice Munro",
+      "rok": "2004",
+      "gatunek": "Literatura obyczajowa (zbiór opowiadań, obyczajowy)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Osiem opowiadań o kobietach, które uciekają lub marzą o ucieczce z małżeństw i dawnych miejsc. Zbiór Alice Munro.",
+      "miejsce_w_rankingu": 53
+    },
+    {
+      "tytuł": "Dziesiąty grudnia",
+      "autor": "George Saunders",
+      "rok": "2013",
+      "gatunek": "Literatura obyczajowa (zbiór opowiadań, satyryczny)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Dziesięć opowiadań o zwykłych ludziach w niezwykłych sytuacjach: o zagrożeniu, lęku i życzliwości. Zbiór Saundersa.",
+      "miejsce_w_rankingu": 54
+    },
+    {
+      "tytuł": "Wieża chwiejąca się",
+      "autor": "Lawrence Wright",
+      "rok": "2006",
+      "gatunek": "Historia (literatura faktu)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Historia Al-Kaidy i drogi do zamachów z 11 września 2001, ukazana przez ludzi po obu stronach. Reportaż nagrodzony Pulitzerem.",
+      "miejsce_w_rankingu": 55
+    },
+    {
+      "tytuł": "The Flamethrowers",
+      "autor": "Rachel Kushner",
+      "rok": "2013",
+      "gatunek": "Literatura obyczajowa (historyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Młoda artystka Reno jedzie do Nowego Jorku lat siedemdziesiątych i wpada w świat sztuki i włoskich ruchów. Powieść o wolności.",
+      "miejsce_w_rankingu": 56
+    },
+    {
+      "tytuł": "Nickel and Dimed",
+      "autor": "Barbara Ehrenreich",
+      "rok": "2001",
+      "gatunek": "Reportaż (literatura faktu)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Dziennikarka próbuje utrzymać się z niskopłatnych prac w USA i opisuje, co to znaczy być biednym pracownikiem. Reportaż społeczny.",
+      "miejsce_w_rankingu": 57
+    },
+    {
+      "tytuł": "Stay True",
+      "autor": "Hua Hsu",
+      "rok": "2022",
+      "gatunek": "Biografia i autobiografia (literatura faktu, wspomnienia)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Autor wspomina przyjaźń z Kenem, zabitym podczas napadu, i dorastanie w latach dziewięćdziesiątych. Wspomnienie o stracie.",
+      "miejsce_w_rankingu": 58
+    },
+    {
+      "tytuł": "Middlesex",
+      "autor": "Jeffrey Eugenides",
+      "rok": "2002",
+      "gatunek": "Literatura obyczajowa (rodzinna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Cal opowiada o swojej grecko-amerykańskiej rodzinie i o odkryciu, że jest interseksualny. Powieść nagrodzona Pulitzerem.",
+      "miejsce_w_rankingu": 59
+    },
+    {
+      "tytuł": "Heavy",
+      "autor": "Kiese Laymon",
+      "rok": "2018",
+      "gatunek": "Biografia i autobiografia (literatura faktu, wspomnienia)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Wspomnienia autora o dorastaniu w Missisipi, przemocy, jedzeniu i zmaganiach z ciałem. Książka w formie listu do matki.",
+      "miejsce_w_rankingu": 60
+    },
+    {
+      "tytuł": "Demon Copperhead",
+      "autor": "Barbara Kingsolver",
+      "rok": "2022",
+      "gatunek": "Literatura obyczajowa (społeczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Współczesna adaptacja „Davida Copperfielda” w Appalachach, w której Demon walczy o przetrwanie wśród uzależnień. Powieść Kingsolver.",
+      "miejsce_w_rankingu": 61
+    },
+    {
+      "tytuł": "10:04",
+      "autor": "Ben Lerner",
+      "rok": "2014",
+      "gatunek": "Literatura obyczajowa (powieść eksperymentalna, obyczajowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Młody pisarz w Nowym Jorku po huraganie Sandy rozważa ojcostwo i granicę między prawdą a fikcją. Powieść autofikcyjna.",
+      "miejsce_w_rankingu": 62
+    },
+    {
+      "tytuł": "Veronica",
+      "autor": "Mary Gaitskell",
+      "rok": "2005",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, obyczajowa)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Była modelka wspomina przyjaźń z umierającą Veronicą, kobietą o odmiennych poglądach. Powieść o stracie.",
+      "miejsce_w_rankingu": 63
+    },
+    {
+      "tytuł": "The Great Believers",
+      "autor": "Rebecca Makkai",
+      "rok": "2018",
+      "gatunek": "powieść historyczna (obyczajowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "W Chicago lat osiemdziesiątych grupa przyjaciół przeżywa epidemię AIDS, a po latach córka jednego z nich szuka prawdy w Paryżu. Powieść o stracie.",
+      "miejsce_w_rankingu": 64
+    },
+    {
+      "tytuł": "Spisek przeciwko Ameryce",
+      "autor": "Philip Roth",
+      "rok": "2004",
+      "gatunek": "powieść historyczna (alternatywna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "W alternatywnym roku 1940 prezydentem USA zostaje Charles Lindbergh, a żydowska rodzina z Newark obserwuje narastanie antysemityzmu. Powieść o strachu.",
+      "miejsce_w_rankingu": 65
+    },
+    {
+      "tytuł": "We the Animals",
+      "autor": "Justin Torres",
+      "rok": "2011",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, autobiograficzna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Trzej bracia dorastają w ubogiej rodzinie w stanie Nowy Jork, a najmłodszy odkrywa swoją odmienność. Krótka powieść.",
+      "miejsce_w_rankingu": 66
+    },
+    {
+      "tytuł": "Far from the Tree",
+      "autor": "Andrew Solomon",
+      "rok": "2012",
+      "gatunek": "Psychologia i rozwój osobisty (literatura faktu, psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Książka o rodzicach dzieci niezwykłych, takich jak niesłyszące, karłowate, autystyczne, i o akceptacji. Tom badań i wywiadów.",
+      "miejsce_w_rankingu": 67
+    },
+    {
+      "tytuł": "Przyjaciel",
+      "autor": "Sigrid Nunez",
+      "rok": "2018",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, eseistyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Po samobójstwie przyjaciela narratorka przejmuje opiekę nad jego wielkim psem i rozmyśla o żałobie i pisaniu. Powieść nagrodzona National Book Award.",
+      "miejsce_w_rankingu": 68
+    },
+    {
+      "tytuł": "The New Jim Crow",
+      "autor": "Michelle Alexander",
+      "rok": "2010",
+      "gatunek": "Popularnonaukowa (literatura faktu, prawnicza)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Autorka dowodzi, że masowe więzienie czarnoskórych w USA jest nowym systemem rasowej kontroli. Książka o prawie i rasie.",
+      "miejsce_w_rankingu": 69
+    },
+    {
+      "tytuł": "All Aunt Hagar's Children",
+      "autor": "Edward P. Jones",
+      "rok": "2006",
+      "gatunek": "Literatura obyczajowa (zbiór opowiadań, obyczajowy)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Czternaście opowiadań o czarnoskórych mieszkańcach Waszyngtonu, którzy przybyli z Południa. Zbiór Jonesa.",
+      "miejsce_w_rankingu": 70
+    },
+    {
+      "tytuł": "Trylogia kopenhaska",
+      "autor": "Tove Ditlevsen",
+      "rok": "1967",
+      "gatunek": "Biografia i autobiografia (literatura faktu, autobiograficzna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Trzy tomy wspomnień poetki o dzieciństwie, młodości i uzależnieniu w Kopenhadze. Autobiografia.",
+      "miejsce_w_rankingu": 71
+    },
+    {
+      "tytuł": "Czasy secondhand",
+      "autor": "Svetlana Alexievich",
+      "rok": "2013",
+      "gatunek": "Reportaż (literatura faktu)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Zbiór wywiadów ze zwykłymi ludźmi o życiu po rozpadzie ZSRR i nostalgii za epoką. Książka noblistki.",
+      "miejsce_w_rankingu": 72
+    },
+    {
+      "tytuł": "The Passage of Power",
+      "autor": "Robert Caro",
+      "rok": "2012",
+      "gatunek": "Biografia i autobiografia (literatura faktu, biografia)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Czwarty tom biografii Lyndona B. Johnsona, od wiceprezydentury po początek prezydentury po zamachu na Kennedy'ego. Biografia polityczna.",
+      "miejsce_w_rankingu": 73
+    },
+    {
+      "tytuł": "Olive Kitteridge",
+      "autor": "Elizabeth Strout",
+      "rok": "2008",
+      "gatunek": "Literatura obyczajowa (opowiadania)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Cykl połączonych opowiadań o szorstkiej nauczycielce Olive i jej małym miasteczku w Maine. Książka nagrodzona Pulitzerem.",
+      "miejsce_w_rankingu": 74
+    },
+    {
+      "tytuł": "Exit West",
+      "autor": "Mohsin Hamid",
+      "rok": "2017",
+      "gatunek": "Literatura obyczajowa (współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Para uchodźców ucieka przez tajemnicze drzwi z miasta ogarniętego wojną do kolejnych krajów. Powieść o migracji.",
+      "miejsce_w_rankingu": 75
+    },
+    {
+      "tytuł": "Tomorrow, and Tomorrow, and Tomorrow",
+      "autor": "Gabrielle Zevin",
+      "rok": "2022",
+      "gatunek": "Literatura obyczajowa (współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Dwoje przyjaciół, Sam i Sadie, przez trzydzieści lat tworzy gry komputerowe i zmaga się z miłością i ambicjami. Powieść o grach.",
+      "miejsce_w_rankingu": 76
+    },
+    {
+      "tytuł": "An American Marriage",
+      "autor": "Tayari Jones",
+      "rok": "2018",
+      "gatunek": "Literatura obyczajowa (społeczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Małżeństwo Roya i Celestial rozpada się, gdy on trafia do więzienia za niepopełnioną zbrodnię. Powieść o rasie i miłości.",
+      "miejsce_w_rankingu": 77
+    },
+    {
+      "tytuł": "Septologia",
+      "autor": "Jon Fosse",
+      "rok": "2019",
+      "gatunek": "Literatura obyczajowa (powieść eksperymentalna, psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Malarz Asle prowadzi ciągły monolog w Norwegii, rozważając wiarę, sztukę i życie. Siedem tomów w jednym zdaniu.",
+      "miejsce_w_rankingu": 78
+    },
+    {
+      "tytuł": "A Manual for Cleaning Women",
+      "autor": "Lucia Berlin",
+      "rok": "2015",
+      "gatunek": "Literatura obyczajowa (zbiór opowiadań, autobiograficzny)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Czterdzieści trzy opowiadania o sprzątaczkach, pielęgniarkach i alkoholiczkach, napisane na podstawie własnego życia autorki. Zbiór pośmiertny.",
+      "miejsce_w_rankingu": 79
+    },
+    {
+      "tytuł": "Historia zaginionego dziecka",
+      "autor": "Elena Ferrante",
+      "rok": "2014",
+      "gatunek": "Literatura obyczajowa (rodzinna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Czwarty tom cyklu neapolitańskiego, w którym Elena i Lila dochodzą do dojrzałości, a ich losy się rozchodzą. Finał sagi.",
+      "miejsce_w_rankingu": 80
+    },
+    {
+      "tytuł": "Pulphead",
+      "autor": "John Jeremiah Sullivan",
+      "rok": "2011",
+      "gatunek": "Popularnonaukowa (literatura faktu, eseje)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Zbiór esejów o amerykańskiej kulturze, od chrześcijańskiego festiwalu rockowego po Axla Rose'a. Reportaż literacki.",
+      "miejsce_w_rankingu": 81
+    },
+    {
+      "tytuł": "Sezon huraganów",
+      "autor": "Fernanda Melchor",
+      "rok": "2017",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, kryminalna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "W meksykańskiej wsi znaleziono ciało czarownicy, a mieszkańcy odsłaniają kolejne warstwy przemocy. Powieść w długich zdaniach.",
+      "miejsce_w_rankingu": 82
+    },
+    {
+      "tytuł": "Gdy przestaniemy rozumieć świat",
+      "autor": "Benjamín Labatut",
+      "rok": "2020",
+      "gatunek": "Literatura obyczajowa (powieść eksperymentalna, naukowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Połączenie faktów i fikcji o fizykach i matematykach, takich jak Schwarzschild i Heisenberg. Powieść o granicach rozumu.",
+      "miejsce_w_rankingu": 83
+    },
+    {
+      "tytuł": "Cesarz wszech chorób",
+      "autor": "Siddhartha Mukherjee",
+      "rok": "2010",
+      "gatunek": "Popularnonaukowa (literatura faktu, medyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Biografia raka, od starożytności do współczesnych terapii, opowiedziana przez lekarza. Książka nagrodzona Pulitzerem.",
+      "miejsce_w_rankingu": 84
+    },
+    {
+      "tytuł": "Pastoralia",
+      "autor": "George Saunders",
+      "rok": "2000",
+      "gatunek": "Literatura obyczajowa (zbiór opowiadań, satyryczny)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Zbiór groteskowych opowiadań, w tym o pracy w parku rozrywki udającym epokę jaskiniową. Satyra na pracę.",
+      "miejsce_w_rankingu": 85
+    },
+    {
+      "tytuł": "Frederick Douglass",
+      "autor": "David W. Blight",
+      "rok": "2018",
+      "gatunek": "Biografia i autobiografia (literatura faktu, biografia)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Biografia byłego niewolnika, który stał się jednym z największych przywódców abolicjonistów. Książka nagrodzona Pulitzerem.",
+      "miejsce_w_rankingu": 86
+    },
+    {
+      "tytuł": "Detransition, Baby",
+      "autor": "Torrey Peters",
+      "rok": "2021",
+      "gatunek": "Literatura obyczajowa (współczesna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Trzy osoby, w tym transpłciowa kobieta i jej była partnerka, rozważają wspólne rodzicielstwo. Powieść o rodzinie.",
+      "miejsce_w_rankingu": 87
+    },
+    {
+      "tytuł": "The Collected Stories of Lydia Davis",
+      "autor": "Lydia Davis",
+      "rok": "2009",
+      "gatunek": "Literatura obyczajowa (zbiór opowiadań, eksperymentalny)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Zbiór bardzo krótkich i dłuższych opowiadań o codzienności, językach i dziwactwach. Prozatorska miniatura.",
+      "miejsce_w_rankingu": 88
+    },
+    {
+      "tytuł": "Powrót",
+      "autor": "Hisham Matar",
+      "rok": "2016",
+      "gatunek": "Biografia i autobiografia (literatura faktu, wspomnienia)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Autor wraca do Libii, by odnaleźć ślady ojca porwanego przez reżim Kadafiego. Wspomnienie nagrodzone Pulitzerem.",
+      "miejsce_w_rankingu": 89
+    },
+    {
+      "tytuł": "Sympatyk",
+      "autor": "Viet Thanh Nguyen",
+      "rok": "2015",
+      "gatunek": "Thriller (powieść szpiegowska, historyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Wietnamski oficer-podwójny agent ucieka do USA po upadku Sajgonu i raportuje komunistom. Powieść nagrodzona Pulitzerem.",
+      "miejsce_w_rankingu": 90
+    },
+    {
+      "tytuł": "Ludzka skaza",
+      "autor": "Philip Roth",
+      "rok": "2000",
+      "gatunek": "Literatura obyczajowa (psychologiczna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Emerytowany profesor Coleman Silk, oskarżony o rasizm, ukrywa sekret dotyczący własnego pochodzenia. Powieść o tożsamości.",
+      "miejsce_w_rankingu": 91
+    },
+    {
+      "tytuł": "Dni porzucenia",
+      "autor": "Elena Ferrante",
+      "rok": "2002",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, obyczajowa)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Olga, porzucona przez męża, popada w kryzys psychiczny i walczy o odzyskanie kontroli nad życiem. Krótka, intensywna powieść.",
+      "miejsce_w_rankingu": 92
+    },
+    {
+      "tytuł": "Stacja Jedenaście",
+      "autor": "Emily St. John Mandel",
+      "rok": "2014",
+      "gatunek": "Science fiction (obyczajowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Po pandemii grypy wędrowna trupa teatralna jeździ po zniszczonej Ameryce, grając Szekspira. Powieść o pamięci i sztuce.",
+      "miejsce_w_rankingu": 93
+    },
+    {
+      "tytuł": "O pięknie",
+      "autor": "Zadie Smith",
+      "rok": "2005",
+      "gatunek": "Literatura obyczajowa (satyryczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Dwie rodziny profesorów, białych i czarnych, rywalizują i splatają się na uniwersytecie w Massachusetts. Wariacja na temat „Howards End”.",
+      "miejsce_w_rankingu": 94
+    },
+    {
+      "tytuł": "Wyciągnąć ciała",
+      "autor": "Hilary Mantel",
+      "rok": "2012",
+      "gatunek": "powieść historyczna",
+      "kategoria_wiekowa": "16+",
+      "opis": "Thomas Cromwell pomaga Henrykowi VIII pozbyć się Anny Boleyn. Drugi tom trylogii.",
+      "miejsce_w_rankingu": 95
+    },
+    {
+      "tytuł": "Wayward Lives, Beautiful Experiments",
+      "autor": "Saidiya Hartman",
+      "rok": "2019",
+      "gatunek": "Historia (literatura faktu)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Autorka przywraca głos młodym czarnoskórym kobietom z początku XX wieku, które szukały wolności. Fabularyzowana historia.",
+      "miejsce_w_rankingu": 96
+    },
+    {
+      "tytuł": "Men We Reaped",
+      "autor": "Jesmyn Ward",
+      "rok": "2013",
+      "gatunek": "Biografia i autobiografia (literatura faktu, wspomnienia)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Autorka opowiada o pięciu młodych mężczyznach, których straciła w ciągu czterech lat w swoim rodzinnym Mississippi. Wspomnienie o stracie.",
+      "miejsce_w_rankingu": 97
+    },
+    {
+      "tytuł": "Bel Canto",
+      "autor": "Ann Patchett",
+      "rok": "2001",
+      "gatunek": "Literatura obyczajowa (psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Podczas przyjęcia dla japońskiego biznesmena w Ameryce Południowej terroryści porywają gości, a diwa operowa łagodzi napięcie. Powieść o muzyce.",
+      "miejsce_w_rankingu": 98
+    },
+    {
+      "tytuł": "How to Be Both",
+      "autor": "Ali Smith",
+      "rok": "2014",
+      "gatunek": "Literatura obyczajowa (powieść eksperymentalna, obyczajowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Dwie połączone historie: renesansowego malarza i współczesnej dziewczynki po śmierci matki, w kolejności zależnej od wydania. Powieść o sztuce i stracie.",
+      "miejsce_w_rankingu": 99
+    },
+    {
+      "tytuł": "Tree of Smoke",
+      "autor": "Denis Johnson",
+      "rok": "2007",
+      "gatunek": "Powieść historyczna (powieść wojenna, szpiegowska)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Historia agentów, żołnierzy i cywilów uwikłanych w wojnę w Wietnamie od lat sześćdziesiątych. Epicka powieść nagrodzona National Book Award.",
+      "miejsce_w_rankingu": 100
+    }
+  ]
+}

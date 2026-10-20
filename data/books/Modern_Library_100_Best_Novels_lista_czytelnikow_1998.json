@@ -1,0 +1,905 @@
+{
+  "nazwa": "ML czytelnicy",
+  "pozycje": [
+    {
+      "tytuł": "Atlas zbuntowany",
+      "autor": "Ayn Rand",
+      "rok": "1957",
+      "gatunek": "Literatura obyczajowa (powieść filozoficzna, science fiction)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Gdy najzdolniejsi ludzie znikają, kolejarka Dagny Taggart próbuje ratować swoje imperium i odkrywa spisek producentów. Manifest obiektywizmu.",
+      "miejsce_w_rankingu": 1
+    },
+    {
+      "tytuł": "Źródło",
+      "autor": "Ayn Rand",
+      "rok": "1943",
+      "gatunek": "Literatura obyczajowa (powieść filozoficzna, obyczajowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Architekt Howard Roark broni swojej wizji wbrew kompromisom i opinii publicznej. Powieść o indywidualizmie.",
+      "miejsce_w_rankingu": 2
+    },
+    {
+      "tytuł": "Battlefield Earth",
+      "autor": "L. Ron Hubbard",
+      "rok": "1982",
+      "gatunek": "Science fiction (przygodowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "W roku 3000 ludzie żyją pod władzą kosmitów Psychlo, a młody Jonnie Goodboy Tyler organizuje powstanie. Powieść pulpowa.",
+      "miejsce_w_rankingu": 3
+    },
+    {
+      "tytuł": "Władca Pierścieni",
+      "autor": "J.R.R. Tolkien",
+      "rok": "1954",
+      "gatunek": "Fantasy (epicka)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Hobbit Frodo wyrusza z drużyną, by zniszczyć Jedyny Pierścień i pokonać Saurona. Fundamentalne dzieło współczesnej fantasy.",
+      "miejsce_w_rankingu": 4
+    },
+    {
+      "tytuł": "Zabić drozda",
+      "autor": "Harper Lee",
+      "rok": "1960",
+      "gatunek": "Literatura obyczajowa (powieść społeczna, sądowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Mała Scout Finch obserwuje, jak jej ojciec adwokat broni czarnoskórego mężczyznę niesłusznie oskarżonego o gwałt. Powieść o rasizmie i sprawiedliwości.",
+      "miejsce_w_rankingu": 5
+    },
+    {
+      "tytuł": "Rok 1984",
+      "autor": "George Orwell",
+      "rok": "1949",
+      "gatunek": "Science fiction (antyutopia)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Winston Smith w totalitarnym państwie Wielkiego Brata buntuje się przeciwko kontroli myśli. Klasyczna antyutopia.",
+      "miejsce_w_rankingu": 6
+    },
+    {
+      "tytuł": "Hymn",
+      "autor": "Ayn Rand",
+      "rok": "1938",
+      "gatunek": "Science fiction (antyutopia)",
+      "kategoria_wiekowa": "12+",
+      "opis": "W kolektywistycznym społeczeństwie, gdzie nie wolno używać słowa „ja”, Equality 7-2521 odkrywa elektryczność i własną tożsamość. Krótka powieść.",
+      "miejsce_w_rankingu": 7
+    },
+    {
+      "tytuł": "My, żywi",
+      "autor": "Ayn Rand",
+      "rok": "1936",
+      "gatunek": "Literatura obyczajowa (powieść polityczna, obyczajowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Młoda kobieta w Piotrogrodzie po rewolucji walczy o życie i miłość w państwie komunistycznym. Pierwsza powieść Rand.",
+      "miejsce_w_rankingu": 8
+    },
+    {
+      "tytuł": "Mission Earth",
+      "autor": "L. Ron Hubbard",
+      "rok": "1985",
+      "gatunek": "Science fiction (satyryczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Dziesięciotomowa satyra o obcym agencie, który ma przygotować Ziemię do podboju. Cykl pulpowy.",
+      "miejsce_w_rankingu": 9
+    },
+    {
+      "tytuł": "Fear",
+      "autor": "L. Ron Hubbard",
+      "rok": "1951",
+      "gatunek": "Horror (psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Profesor traci cztery godziny z pamięci i nie wie, czy popełnił zbrodnię, czy jest ścigany przez złe moce. Krótka powieść grozy.",
+      "miejsce_w_rankingu": 10
+    },
+    {
+      "tytuł": "Ulisses",
+      "autor": "James Joyce",
+      "rok": "1922",
+      "gatunek": "Literatura obyczajowa (powieść eksperymentalna, modernistyczna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Jeden dzień z życia Leopolda Blooma i Stephena Dedalusa w Dublinie, opowiedziany w odmiennych stylach. Przełomowa powieść modernizmu.",
+      "miejsce_w_rankingu": 11
+    },
+    {
+      "tytuł": "Paragraf 22",
+      "autor": "Joseph Heller",
+      "rok": "1961",
+      "gatunek": "Literatura obyczajowa (powieść satyryczna, wojenna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Pilot Yossarian próbuje uciec z wojny, lecz pułapka biurokracji uniemożliwia mu wszystko. Czarna komedia o absurdzie wojny.",
+      "miejsce_w_rankingu": 12
+    },
+    {
+      "tytuł": "Wielki Gatsby",
+      "autor": "F. Scott Fitzgerald",
+      "rok": "1925",
+      "gatunek": "Literatura obyczajowa (tragiczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Narrator Nick Carraway opowiada o tajemniczym milionerze Gatsbym, który urządza wystawne przyjęcia, by odzyskać dawną miłość. Powieść o marzeniu i klęsce.",
+      "miejsce_w_rankingu": 13
+    },
+    {
+      "tytuł": "Diuna",
+      "autor": "Frank Herbert",
+      "rok": "1965",
+      "gatunek": "Science fiction (epicka)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Na pustynnej planecie Arrakis młody Paul Atryda staje się przywódcą Fremenów w walce o przyprawę. Klasyka science fiction.",
+      "miejsce_w_rankingu": 14
+    },
+    {
+      "tytuł": "Księżyc to surowa pani",
+      "autor": "Robert A. Heinlein",
+      "rok": "1966",
+      "gatunek": "Science fiction (polityczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Księżycowa kolonia karna buntuje się przeciw Ziemi z pomocą samoświadomego komputera. Powieść o wolności.",
+      "miejsce_w_rankingu": 15
+    },
+    {
+      "tytuł": "Obcy w obcym kraju",
+      "autor": "Robert A. Heinlein",
+      "rok": "1961",
+      "gatunek": "Science fiction (filozoficzna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Człowiek wychowany przez Marsjan wraca na Ziemię i zakłada nową religię. Powieść kontrkultury.",
+      "miejsce_w_rankingu": 16
+    },
+    {
+      "tytuł": "Miasto jak Alice",
+      "autor": "Nevil Shute",
+      "rok": "1950",
+      "gatunek": "Literatura obyczajowa (wojenna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Angielska maszynistka przeżywa marsz kobiet jenieckich w Malajach i potem odbudowuje życie w Australii. Powieść o odwadze.",
+      "miejsce_w_rankingu": 17
+    },
+    {
+      "tytuł": "Nowy wspaniały świat",
+      "autor": "Aldous Huxley",
+      "rok": "1932",
+      "gatunek": "Science fiction (antyutopia)",
+      "kategoria_wiekowa": "16+",
+      "opis": "W przyszłym państwie światowym ludzie są sztucznie hodowani i kontrolowani przez rozrywkę oraz narkotyk soma. Antyutopia o szczęściu bez wolności.",
+      "miejsce_w_rankingu": 18
+    },
+    {
+      "tytuł": "Buszujący w zbożu",
+      "autor": "J. D. Salinger",
+      "rok": "1951",
+      "gatunek": "Literatura młodzieżowa (psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Szesnastoletni Holden Caulfield po wyrzuceniu ze szkoły wędruje przez Nowy Jork i opowiada o swoich rozczarowaniach. Kultowa powieść o dorastaniu.",
+      "miejsce_w_rankingu": 19
+    },
+    {
+      "tytuł": "Folwark zwierzęcy",
+      "autor": "George Orwell",
+      "rok": "1945",
+      "gatunek": "Literatura obyczajowa (powieść alegoryczna, polityczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Zwierzęta wyganiają ludzi z farmy, a rządzące nimi świnie stopniowo przejmują władzę. Satyra na stalinizm.",
+      "miejsce_w_rankingu": 20
+    },
+    {
+      "tytuł": "Tęcza grawitacji",
+      "autor": "Thomas Pynchon",
+      "rok": "1973",
+      "gatunek": "Literatura obyczajowa (powieść postmodernistyczna, historyczna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Żołnierz Tyrone Slothrop próbuje rozwikłać tajemnicę rakiet V-2 w ostatnich miesiącach wojny. Gigantyczna, wielowątkowa powieść.",
+      "miejsce_w_rankingu": 21
+    },
+    {
+      "tytuł": "Grona gniewu",
+      "autor": "John Steinbeck",
+      "rok": "1939",
+      "gatunek": "Literatura obyczajowa (powieść społeczna, realistyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Rodzina Joadów traci farmę w czasie Wielkiego Kryzysu i rusza do Kalifornii w poszukiwaniu pracy. Powieść o nędzy i solidarności.",
+      "miejsce_w_rankingu": 22
+    },
+    {
+      "tytuł": "Rzeźnia numer pięć",
+      "autor": "Kurt Vonnegut",
+      "rok": "1969",
+      "gatunek": "Science fiction (antywojenna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Billy Pilgrim, żołnierz ocalały z bombardowania Drezna, przeskakuje w czasie i trafia na planetę Tralfamadore. Satyra na wojnę i los.",
+      "miejsce_w_rankingu": 23
+    },
+    {
+      "tytuł": "Przeminęło z wiatrem",
+      "autor": "Margaret Mitchell",
+      "rok": "1936",
+      "gatunek": "powieść historyczna (romantyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Scarlett O'Hara walczy o przetrwanie i miłość w czasach wojny secesyjnej i odbudowy Południa. Powieść epicka.",
+      "miejsce_w_rankingu": 24
+    },
+    {
+      "tytuł": "Władca much",
+      "autor": "William Golding",
+      "rok": "1954",
+      "gatunek": "Literatura obyczajowa (powieść alegoryczna, przygodowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Grupa chłopców rozbitych na bezludnej wyspie tworzy własne społeczeństwo, które stopniowo ulega okrucieństwu. Alegoria natury człowieka.",
+      "miejsce_w_rankingu": 25
+    },
+    {
+      "tytuł": "Jeździec znikąd",
+      "autor": "Jack Schaefer",
+      "rok": "1949",
+      "gatunek": "Powieść historyczna (powieść westernowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Tajemniczy rewolwerowiec pomaga rodzinie farmerów w walce z potentatem bydlarskim. Klasyczny western.",
+      "miejsce_w_rankingu": 26
+    },
+    {
+      "tytuł": "Trustee from the Toolroom",
+      "autor": "Nevil Shute",
+      "rok": "1960",
+      "gatunek": "Literatura obyczajowa (powieść przygodowa, obyczajowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Skromny inżynier modelarz płynie przez świat, by odzyskać majątek osieroconej siostrzenicy. Powieść o uczciwości.",
+      "miejsce_w_rankingu": 27
+    },
+    {
+      "tytuł": "Modlitwa za Owena Meany",
+      "autor": "John Irving",
+      "rok": "1989",
+      "gatunek": "Literatura obyczajowa (psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Narrator wspomina niezwykłego przyjaciela z dzieciństwa, który wierzył, że jest narzędziem Boga. Powieść o wierze i przeznaczeniu.",
+      "miejsce_w_rankingu": 28
+    },
+    {
+      "tytuł": "Bastion",
+      "autor": "Stephen King",
+      "rok": "1978",
+      "gatunek": "Horror (postapokaliptyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Po epidemii superwirusa ocaleni ludzie dzielą się na obóz dobra i zła i ruszają ku decydującej konfrontacji. Epicki horror.",
+      "miejsce_w_rankingu": 29
+    },
+    {
+      "tytuł": "Kochanica Francuza",
+      "autor": "John Fowles",
+      "rok": "1969",
+      "gatunek": "powieść historyczna (postmodernistyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "W wiktoriańskiej Anglii naukowiec zakochuje się w tajemniczej kobiecie, a narrator przerywa fabułę własnymi komentarzami. Gra z konwencją.",
+      "miejsce_w_rankingu": 30
+    },
+    {
+      "tytuł": "Umiłowana",
+      "autor": "Toni Morrison",
+      "rok": "1987",
+      "gatunek": "powieść historyczna (realizm magiczny)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Była niewolnica Sethe mieszka w Ohio po wojnie secesyjnej i jest nawiedzana przez ducha zabitej córki. Powieść o traumie niewolnictwa.",
+      "miejsce_w_rankingu": 31
+    },
+    {
+      "tytuł": "Wąż Uroboros",
+      "autor": "E. R. Eddison",
+      "rok": "1922",
+      "gatunek": "Fantasy (epicka)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Wojna królestw Demonlandu i Witchlandu na Merkurym przedstawiona w archaicznym stylu. Wpływowa powieść fantasy.",
+      "miejsce_w_rankingu": 32
+    },
+    {
+      "tytuł": "Wściekłość i wrzask",
+      "autor": "William Faulkner",
+      "rok": "1929",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, modernistyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Upadek rodziny Compsonów z Missisipi opowiedziany z czterech perspektyw, w tym przez upośledzonego Benjy'ego. Eksperymentalne arcydzieło.",
+      "miejsce_w_rankingu": 33
+    },
+    {
+      "tytuł": "Lolita",
+      "autor": "Vladimir Nabokov",
+      "rok": "1955",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, kontrowersyjna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Humbert Humbert, sam narrator, opisuje swoją obsesję na punkcie dwunastoletniej Dolores. Mistrzowsko napisana, lecz moralnie niepokojąca powieść.",
+      "miejsce_w_rankingu": 34
+    },
+    {
+      "tytuł": "Moonheart",
+      "autor": "Charles de Lint",
+      "rok": "1984",
+      "gatunek": "Fantasy (współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "W Ottawie antykwariat okazuje się wejściem do świata magii, a bohaterowie muszą walczyć z dawnym czarownikiem. Fantasy miejskie.",
+      "miejsce_w_rankingu": 35
+    },
+    {
+      "tytuł": "Absalomie, Absalomie!",
+      "autor": "William Faulkner",
+      "rok": "1936",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, historyczna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Kilku narratorów odtwarza dzieje Thomasa Sutpena, który w Missisipi zbudował plantację i upadł. Powieść o rasie i dziedzictwie Południa.",
+      "miejsce_w_rankingu": 36
+    },
+    {
+      "tytuł": "W niewoli uczuć",
+      "autor": "W. Somerset Maugham",
+      "rok": "1915",
+      "gatunek": "Literatura obyczajowa (powieść autobiograficzna, psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Philip Carey, chłopiec z kalectwem, szuka sensu życia i wpada w obsesyjną miłość do kelnerki Mildred. Powieść o wolności i uzależnieniu.",
+      "miejsce_w_rankingu": 37
+    },
+    {
+      "tytuł": "Mądra krew",
+      "autor": "Flannery O'Connor",
+      "rok": "1952",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, groteskowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Weteran Hazel Motes zakłada w Tennessee Kościół bez Chrystusa i zmaga się z własną wiarą. Groteskowa powieść o religii.",
+      "miejsce_w_rankingu": 38
+    },
+    {
+      "tytuł": "U stóp wulkanu",
+      "autor": "Malcolm Lowry",
+      "rok": "1947",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, modernistyczna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Ostatni dzień życia alkoholika konsula brytyjskiego w Meksyku w Dzień Zmarłych. Powieść o samozniszczeniu.",
+      "miejsce_w_rankingu": 39
+    },
+    {
+      "tytuł": "Piąty pion",
+      "autor": "Robertson Davies",
+      "rok": "1970",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, obyczajowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Nauczyciel Dunstan Ramsay opisuje życie związane z rzuconą w dzieciństwie śnieżką i jej skutkami. Pierwsza część Trylogii z Deptford.",
+      "miejsce_w_rankingu": 40
+    },
+    {
+      "tytuł": "Someplace to Be Flying",
+      "autor": "Charles de Lint",
+      "rok": "1998",
+      "gatunek": "Fantasy (współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "W mieście Newford fotografka odkrywa świat wron-ludzi i mitycznych stworzeń. Fantasy miejskie.",
+      "miejsce_w_rankingu": 41
+    },
+    {
+      "tytuł": "W drodze",
+      "autor": "Jack Kerouac",
+      "rok": "1957",
+      "gatunek": "Literatura obyczajowa (powieść drogi, autobiograficzna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Sal Paradise i Dean Moriarty przemierzają Stany Zjednoczone w poszukiwaniu wolności i wrażeń. Manifest pokolenia beatników.",
+      "miejsce_w_rankingu": 42
+    },
+    {
+      "tytuł": "Jądro ciemności",
+      "autor": "Joseph Conrad",
+      "rok": "1899",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, przygodowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Marlow płynie w górę rzeki Kongo, by odnaleźć tajemniczego Kurtza, i odkrywa okrucieństwo kolonializmu. Krótka powieść o ciemnej stronie człowieka.",
+      "miejsce_w_rankingu": 43
+    },
+    {
+      "tytuł": "Yarrow",
+      "autor": "Charles de Lint",
+      "rok": "1986",
+      "gatunek": "Fantasy (współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Pisarka w Ottawie ścigana przez sny zostaje wciągnięta w walkę z tajemniczym zagrożeniem. Fantasy z elementami grozy.",
+      "miejsce_w_rankingu": 44
+    },
+    {
+      "tytuł": "Szczyty szaleństwa",
+      "autor": "H. P. Lovecraft",
+      "rok": "1936",
+      "gatunek": "Horror (science fiction)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Ekspedycja na Antarktydzie odkrywa ruiny nieludzkiego miasta i budzi starożytne zło. Klasyk literatury grozy.",
+      "miejsce_w_rankingu": 45
+    },
+    {
+      "tytuł": "One Lonely Night",
+      "autor": "Mickey Spillane",
+      "rok": "1951",
+      "gatunek": "Kryminał (czarny kryminał)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Detektyw Mike Hammer w brutalny sposób ściga komunistycznych szpiegów w Nowym Jorku. Pulpowy kryminał.",
+      "miejsce_w_rankingu": 46
+    },
+    {
+      "tytuł": "Memory and Dream",
+      "autor": "Charles de Lint",
+      "rok": "1994",
+      "gatunek": "Fantasy (współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Artystka z Newford uczy swego ucznia malować i zmaga się z żywymi obrazami swojej przeszłości. Fantasy o sztuce.",
+      "miejsce_w_rankingu": 47
+    },
+    {
+      "tytuł": "Na latarnię morską",
+      "autor": "Virginia Woolf",
+      "rok": "1927",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, modernistyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Rodzina Ramsayów spędza lata na wyspie Skye, a pragnienie wyprawy do latarni morskiej splata się z upływem czasu i śmiercią. Powieść strumienia świadomości.",
+      "miejsce_w_rankingu": 48
+    },
+    {
+      "tytuł": "The Moviegoer",
+      "autor": "Walker Percy",
+      "rok": "1961",
+      "gatunek": "Literatura obyczajowa (powieść filozoficzna, obyczajowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Młody makler z Nowego Orleanu ucieka w kino i szuka sensu własnego życia. Powieść egzystencjalna.",
+      "miejsce_w_rankingu": 49
+    },
+    {
+      "tytuł": "Trader",
+      "autor": "Charles de Lint",
+      "rok": "1997",
+      "gatunek": "Fantasy (współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Handlarz instrumentami zamienia się z lutnikiem ciałami i musi odzyskać własne życie. Powieść magiczna.",
+      "miejsce_w_rankingu": 50
+    },
+    {
+      "tytuł": "Autostopem przez Galaktykę",
+      "autor": "Douglas Adams",
+      "rok": "1979",
+      "gatunek": "Science fiction (humorystyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Arthur Dent wyrusza w kosmiczną podróż po zniszczeniu Ziemi przez Wogonów. Komedia o sensie życia.",
+      "miejsce_w_rankingu": 51
+    },
+    {
+      "tytuł": "Serce jest samotnym myśliwym",
+      "autor": "Carson McCullers",
+      "rok": "1940",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, obyczajowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Głuchoniemy John Singer w małym miasteczku na Południu staje się powiernikiem kilku samotnych ludzi. Powieść o izolacji.",
+      "miejsce_w_rankingu": 52
+    },
+    {
+      "tytuł": "Opowieść podręcznej",
+      "autor": "Margaret Atwood",
+      "rok": "1985",
+      "gatunek": "Science fiction (antyutopia)",
+      "kategoria_wiekowa": "16+",
+      "opis": "W teokratycznym państwie Gilead kobiety zostają pozbawione praw, a Fredowa jest zmuszona rodzić dzieci elicie. Antyutopia.",
+      "miejsce_w_rankingu": 53
+    },
+    {
+      "tytuł": "Krwawy południk",
+      "autor": "Cormac McCarthy",
+      "rok": "1985",
+      "gatunek": "powieść historyczna (western)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Nastoletni uciekinier dołącza do bandy łowców skalpów na pograniczu meksykańskim. Brutalna wizja Dzikiego Zachodu.",
+      "miejsce_w_rankingu": 54
+    },
+    {
+      "tytuł": "Mechaniczna pomarańcza",
+      "autor": "Anthony Burgess",
+      "rok": "1962",
+      "gatunek": "Science fiction (antyutopia)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Nastoletni przywódca bandy Alex popełnia brutalne zbrodnie i zostaje poddany eksperymentalnej terapii. Powieść o wolnej woli.",
+      "miejsce_w_rankingu": 55
+    },
+    {
+      "tytuł": "Ostatni brzeg",
+      "autor": "Nevil Shute",
+      "rok": "1957",
+      "gatunek": "Science fiction (postapokaliptyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Po wojnie atomowej mieszkańcy Australii czekają na nadejście radioaktywnej chmury. Powieść o ostatnich miesiącach ludzkości.",
+      "miejsce_w_rankingu": 56
+    },
+    {
+      "tytuł": "Portret artysty z czasów młodości",
+      "autor": "James Joyce",
+      "rok": "1916",
+      "gatunek": "Literatura obyczajowa (powieść autobiograficzna, psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Stephen Dedalus dorasta w Irlandii, buntuje się przeciw religii i rodzinie i wybiera drogę artysty. Powieść o kształtowaniu się twórcy.",
+      "miejsce_w_rankingu": 57
+    },
+    {
+      "tytuł": "Greenmantle",
+      "autor": "Charles de Lint",
+      "rok": "1988",
+      "gatunek": "Fantasy (współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "W Ottawie dziewczyna odkrywa ukrytą bramę do dawnych mocy leśnych. Fantasy mityczne.",
+      "miejsce_w_rankingu": 58
+    },
+    {
+      "tytuł": "Gra Endera",
+      "autor": "Orson Scott Card",
+      "rok": "1985",
+      "gatunek": "Science fiction (młodzieżowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Utalentowany chłopiec Ender Wiggin jest szkolony w szkole bojowej, by dowodzić flotą przeciw obcym. Powieść o dzieciństwie i wojnie.",
+      "miejsce_w_rankingu": 59
+    },
+    {
+      "tytuł": "The Little Country",
+      "autor": "Charles de Lint",
+      "rok": "1991",
+      "gatunek": "Fantasy (współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Dwie osoby przez muzykę odkrywają mały kraj snów, ukryty między ich rzeczywistością. Fantasy muzyczne.",
+      "miejsce_w_rankingu": 60
+    },
+    {
+      "tytuł": "Rozpoznania",
+      "autor": "William Gaddis",
+      "rok": "1955",
+      "gatunek": "Literatura obyczajowa (powieść postmodernistyczna, filozoficzna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Malarz Wyatt Gwyon zostaje fałszerzem dzieł sztuki i szuka autentyczności w świecie oszustów. Gigantyczna powieść o fałszu.",
+      "miejsce_w_rankingu": 61
+    },
+    {
+      "tytuł": "Kosmiczna piechota",
+      "autor": "Robert A. Heinlein",
+      "rok": "1959",
+      "gatunek": "Science fiction (wojenna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Młody żołnierz Johnnie Rico walczy w armii Ziemi z kosmicznymi insektami i uczy się obowiązków obywatela. Powieść wojenna.",
+      "miejsce_w_rankingu": 62
+    },
+    {
+      "tytuł": "Słońce też wschodzi",
+      "autor": "Ernest Hemingway",
+      "rok": "1926",
+      "gatunek": "Literatura obyczajowa (modernistyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Grupa emigrantów z Paryża jedzie na korridę do Pampeluny, a ranny na wojnie Jake kocha Brett. Obraz straconego pokolenia.",
+      "miejsce_w_rankingu": 63
+    },
+    {
+      "tytuł": "Świat według Garpa",
+      "autor": "John Irving",
+      "rok": "1978",
+      "gatunek": "Literatura obyczajowa (satyryczna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Pisarz T.S. Garp i jego matka feministka, w świecie pełnym przemocy i nieszczęśliwych wypadków. Komiczno-tragiczna saga.",
+      "miejsce_w_rankingu": 64
+    },
+    {
+      "tytuł": "Coś złego nadchodzi",
+      "autor": "Ray Bradbury",
+      "rok": "1962",
+      "gatunek": "Horror (fantastyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Do miasteczka przybywa karnawał Pana Dark, a dwaj chłopcy odkrywają jego złowrogie sekrety. Opowieść o dorastaniu i strachu.",
+      "miejsce_w_rankingu": 65
+    },
+    {
+      "tytuł": "Nawiedzony dom na wzgórzu",
+      "autor": "Shirley Jackson",
+      "rok": "1959",
+      "gatunek": "Horror (psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Grupa badaczy zjawisk nadprzyrodzonych zamieszkuje w domu o złej sławie, a nieśmiała Eleanor ulega jego wpływowi. Klasyk gotyku.",
+      "miejsce_w_rankingu": 66
+    },
+    {
+      "tytuł": "Kiedy umieram",
+      "autor": "William Faulkner",
+      "rok": "1930",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, modernistyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Rodzina Bundrenów zawozi trumnę z ciałem matki do rodzinnego miasta, a kolejne rozdziały narrują członkowie rodziny. Powieść o śmierci i egoizmie.",
+      "miejsce_w_rankingu": 67
+    },
+    {
+      "tytuł": "Zwrotnik Raka",
+      "autor": "Henry Miller",
+      "rok": "1934",
+      "gatunek": "Literatura obyczajowa (powieść autobiograficzna, obyczajowa)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Amerykański pisarz bez grosza żyje w Paryżu lat trzydziestych i opisuje swoje przygody oraz poglądy. Powieść przez dekady zakazana.",
+      "miejsce_w_rankingu": 68
+    },
+    {
+      "tytuł": "Niewidzialny człowiek",
+      "autor": "Ralph Ellison",
+      "rok": "1952",
+      "gatunek": "Literatura obyczajowa (powieść społeczna, psychologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Czarnoskóry narrator, którego nikt nie dostrzega naprawdę, opowiada o drodze z Południa do Harlemu i rasizmie. Klasyka literatury amerykańskiej.",
+      "miejsce_w_rankingu": 69
+    },
+    {
+      "tytuł": "The Wood Wife",
+      "autor": "Terri Windling",
+      "rok": "1996",
+      "gatunek": "Fantasy (współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Poetka dziedziczy dom w Arizonie i odkrywa pustynne duchy związane ze zmarłym przyjacielem. Fantasy mityczne.",
+      "miejsce_w_rankingu": 70
+    },
+    {
+      "tytuł": "Mag",
+      "autor": "John Fowles",
+      "rok": "1965",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, tajemnicza)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Młody nauczyciel na greckiej wyspie zostaje wciągnięty w grę prowadzoną przez tajemniczego Conchisa. Powieść o iluzji i wolności.",
+      "miejsce_w_rankingu": 71
+    },
+    {
+      "tytuł": "Drzwi do lata",
+      "autor": "Robert A. Heinlein",
+      "rok": "1957",
+      "gatunek": "Science fiction (podróże w czasie)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Inżynier Dan Davis, oszukany przez wspólników, trafia w zimny sen i próbuje wrócić do lat swojego sukcesu. Opowieść o czasie.",
+      "miejsce_w_rankingu": 72
+    },
+    {
+      "tytuł": "Zen i sztuka obsługi motocykla",
+      "autor": "Robert M. Pirsig",
+      "rok": "1974",
+      "gatunek": "Literatura obyczajowa (powieść filozoficzna, autobiograficzna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Podczas podróży motocyklowej z synem narrator opowiada o poszukiwaniu jakości i rozmaitych szkołach myślenia. Powieść-esej.",
+      "miejsce_w_rankingu": 73
+    },
+    {
+      "tytuł": "Ja, Klaudiusz",
+      "autor": "Robert Graves",
+      "rok": "1934",
+      "gatunek": "powieść historyczna",
+      "kategoria_wiekowa": "16+",
+      "opis": "Cesarz Klaudiusz opisuje intrygi i zbrodnie rodu juliańsko-klaudyjskiego. Fikcyjna autobiografia władcy Rzymu.",
+      "miejsce_w_rankingu": 74
+    },
+    {
+      "tytuł": "Zew krwi",
+      "autor": "Jack London",
+      "rok": "1903",
+      "gatunek": "Literatura obyczajowa (powieść przygodowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Pies Buck zostaje porwany i sprzedany do zaprzęgu w czasie gorączki złota na Alasce, i wraca do dzikości. Powieść o instynkcie i przetrwaniu.",
+      "miejsce_w_rankingu": 75
+    },
+    {
+      "tytuł": "At Swim-Two-Birds",
+      "autor": "Flann O'Brien",
+      "rok": "1939",
+      "gatunek": "Literatura obyczajowa (powieść postmodernistyczna, komiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Dubliński student pisze powieść, w której bohaterowie buntują się przeciw autorowi. Wielowarstwowa gra z literaturą.",
+      "miejsce_w_rankingu": 76
+    },
+    {
+      "tytuł": "451 stopni Fahrenheita",
+      "autor": "Ray Bradbury",
+      "rok": "1953",
+      "gatunek": "Science fiction (antyutopia)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Strażak Guy Montag pali książki w państwie, gdzie czytanie jest zakazane, aż zaczyna wątpić. Antyutopia o cenzurze.",
+      "miejsce_w_rankingu": 77
+    },
+    {
+      "tytuł": "Arrowsmith",
+      "autor": "Sinclair Lewis",
+      "rok": "1925",
+      "gatunek": "Literatura obyczajowa (społeczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Lekarz Martin Arrowsmith próbuje pogodzić ideały naukowe z presją komercji. Powieść o medycynie i integralności.",
+      "miejsce_w_rankingu": 78
+    },
+    {
+      "tytuł": "Wodnikowe Wzgórze",
+      "autor": "Richard Adams",
+      "rok": "1972",
+      "gatunek": "Fantasy (przygodowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Grupa królików ucieka z zagrożonej kolonii i szuka nowego domu. Epopeja o odwadze i przywództwie.",
+      "miejsce_w_rankingu": 79
+    },
+    {
+      "tytuł": "Nagi lunch",
+      "autor": "William S. Burroughs",
+      "rok": "1959",
+      "gatunek": "Literatura obyczajowa (powieść eksperymentalna, kontrowersyjna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Fragmentaryczna opowieść o uzależnionym od narkotyków narratorze i halucynacyjnych wizjach. Zakazana w wielu krajach.",
+      "miejsce_w_rankingu": 80
+    },
+    {
+      "tytuł": "Polowanie na Czerwony Październik",
+      "autor": "Tom Clancy",
+      "rok": "1984",
+      "gatunek": "Thriller (powieść szpiegowska)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Radziecki kapitan okrętu podwodnego zamierza zbiec do USA, a analityk CIA próbuje mu pomóc. Techniczny thriller z czasów zimnej wojny.",
+      "miejsce_w_rankingu": 81
+    },
+    {
+      "tytuł": "Guilty Pleasures",
+      "autor": "Laurell K. Hamilton",
+      "rok": "1993",
+      "gatunek": "Fantasy (kryminalna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Anita Blake, łowczyni wampirów i animatorka zmarłych, bada serię mordów na wampirach w St. Louis. Pierwsza część serii.",
+      "miejsce_w_rankingu": 82
+    },
+    {
+      "tytuł": "Władcy marionetek",
+      "autor": "Robert A. Heinlein",
+      "rok": "1951",
+      "gatunek": "Science fiction (inwazja)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Kosmiczne pasożyty przejmują kontrolę nad ludźmi, a tajny agent próbuje je powstrzymać. Klasyczna powieść o inwazji.",
+      "miejsce_w_rankingu": 83
+    },
+    {
+      "tytuł": "To",
+      "autor": "Stephen King",
+      "rok": "1986",
+      "gatunek": "Horror (psychologiczna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Grupa przyjaciół jako dzieci i dorośli walczy z odwiecznym złem pod postacią klauna Pennywise'a. Epicki horror.",
+      "miejsce_w_rankingu": 84
+    },
+    {
+      "tytuł": "V.",
+      "autor": "Thomas Pynchon",
+      "rok": "1963",
+      "gatunek": "Literatura obyczajowa (powieść postmodernistyczna, przygodowa)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Były marynarz Benny Profane i Herbert Stencil szukają tajemniczej kobiety V. w poszukiwaniu sensu historii. Debiut Pynchona.",
+      "miejsce_w_rankingu": 85
+    },
+    {
+      "tytuł": "Podwójna gwiazda",
+      "autor": "Robert A. Heinlein",
+      "rok": "1956",
+      "gatunek": "Science fiction (polityczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Aktor zostaje zmuszony do podszywania się pod porwanego polityka i odkrywa wagę swojej roli. Powieść o tożsamości.",
+      "miejsce_w_rankingu": 86
+    },
+    {
+      "tytuł": "Obywatel Galaktyki",
+      "autor": "Robert A. Heinlein",
+      "rok": "1957",
+      "gatunek": "Science fiction (młodzieżowa)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Sprzedany w niewolę chłopiec Thorby przechodzi przez kolejne światy i odkrywa swoje pochodzenie. Powieść o wolności.",
+      "miejsce_w_rankingu": 87
+    },
+    {
+      "tytuł": "Powrót do Brideshead",
+      "autor": "Evelyn Waugh",
+      "rok": "1945",
+      "gatunek": "Literatura obyczajowa (religijna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Charles Ryder wspomina przyjaźń z arystokratyczną rodziną Flyte'ów i rolę wiary w ich losach. Powieść o utraconej epoce.",
+      "miejsce_w_rankingu": 88
+    },
+    {
+      "tytuł": "Światłość w sierpniu",
+      "autor": "William Faulkner",
+      "rok": "1932",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, społeczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Losy Joego Christmasa, człowieka niepewnego własnego pochodzenia, i ciężarnej Lenny w Missisipi. Powieść o rasie i izolacji.",
+      "miejsce_w_rankingu": 89
+    },
+    {
+      "tytuł": "Lot nad kukułczym gniazdem",
+      "autor": "Ken Kesey",
+      "rok": "1962",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, społeczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Buntownik McMurphy trafia do szpitala psychiatrycznego i zderza się z oschłą siostrą Ratched. Powieść o wolności jednostki.",
+      "miejsce_w_rankingu": 90
+    },
+    {
+      "tytuł": "Pożegnanie z bronią",
+      "autor": "Ernest Hemingway",
+      "rok": "1929",
+      "gatunek": "Powieść historyczna (powieść wojenna, romantyczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Amerykański kierowca karetki we Włoszech w czasie I wojny światowej zakochuje się w angielskiej pielęgniarce. Powieść o stracie.",
+      "miejsce_w_rankingu": 91
+    },
+    {
+      "tytuł": "Pod osłoną nieba",
+      "autor": "Paul Bowles",
+      "rok": "1949",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, podróżnicza)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Amerykańska para podróżuje po Afryce Północnej, a wyprawa staje się drogą ku zagładzie. Powieść o alienacji.",
+      "miejsce_w_rankingu": 92
+    },
+    {
+      "tytuł": "Czasem wielka ochota",
+      "autor": "Ken Kesey",
+      "rok": "1964",
+      "gatunek": "Literatura obyczajowa (rodzinna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Rodzina drwali z Oregonu stawia opór strajkującym kolegom, a w domu narastają napięcia. Powieść o uporze.",
+      "miejsce_w_rankingu": 93
+    },
+    {
+      "tytuł": "Moja Ántonia",
+      "autor": "Willa Cather",
+      "rok": "1918",
+      "gatunek": "Literatura obyczajowa (historyczna)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Jim Burden wspomina dzieciństwo na prerii Nebraski i przyjaźń z dzielną imigrantką z Czech. Powieść o pionierach.",
+      "miejsce_w_rankingu": 94
+    },
+    {
+      "tytuł": "Mulengro",
+      "autor": "Charles de Lint",
+      "rok": "1985",
+      "gatunek": "Fantasy (współczesna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Romska historia z magią i grozą wokół tajemniczego zabójcy w kanadyjskim miasteczku. Fantasy miejskie.",
+      "miejsce_w_rankingu": 95
+    },
+    {
+      "tytuł": "Suttree",
+      "autor": "Cormac McCarthy",
+      "rok": "1979",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, obyczajowa)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Cornelius Suttree wiedzie życie na łodzi na rzece w Knoxville wśród outsiderów. Powieść o odrzuceniu mieszczańskiego świata.",
+      "miejsce_w_rankingu": 96
+    },
+    {
+      "tytuł": "Mythago Wood",
+      "autor": "Robert Holdstock",
+      "rok": "1984",
+      "gatunek": "Fantasy (mitologiczna)",
+      "kategoria_wiekowa": "16+",
+      "opis": "W angielskim lesie rodzą się materialne postacie mitów z wyobraźni ludzi. Fantasy o archetypach.",
+      "miejsce_w_rankingu": 97
+    },
+    {
+      "tytuł": "Iluzje",
+      "autor": "Richard Bach",
+      "rok": "1977",
+      "gatunek": "Literatura obyczajowa (powieść filozoficzna, przypowieść)",
+      "kategoria_wiekowa": "12+",
+      "opis": "Pilot spotyka mesjasza, który uczy go latania i wolności umysłu. Przypowieść o duchowości.",
+      "miejsce_w_rankingu": 98
+    },
+    {
+      "tytuł": "The Cunning Man",
+      "autor": "Robertson Davies",
+      "rok": "1994",
+      "gatunek": "Literatura obyczajowa (powieść psychologiczna, obyczajowa)",
+      "kategoria_wiekowa": "16+",
+      "opis": "Torontoński lekarz opowiada o swoim życiu, dziwnych zbiegach okoliczności i kościele. Powieść o duszy i medycynie.",
+      "miejsce_w_rankingu": 99
+    },
+    {
+      "tytuł": "Szatańskie wersety",
+      "autor": "Salman Rushdie",
+      "rok": "1988",
+      "gatunek": "Literatura obyczajowa (powieść realizmu magicznego, kontrowersyjna)",
+      "kategoria_wiekowa": "18+",
+      "opis": "Dwóch Indusów, cudem ocalałych z katastrofy lotniczej, przeżywa sny, w których pojawia się wątek początków islamu. Książka wywołała fatwę na autora.",
+      "miejsce_w_rankingu": 100
+    }
+  ]
+}

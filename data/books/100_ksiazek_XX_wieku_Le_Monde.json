@@ -5,7 +5,7 @@
       "tytuł": "Obcy",
       "autor": "Albert Camus",
       "rok": "1942",
-      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "gatunek": "Literatura obyczajowa",
       "kategoria_wiekowa": "16+",
       "opis": "Meursault, obojętny urzędnik w Algierze, zabija człowieka na plaży i staje przed sądem. Powieść pokazuje absurd istnienia i obcość jednostki wobec społecznych konwenansów."
     },
@@ -13,7 +13,7 @@
       "tytuł": "W poszukiwaniu straconego czasu",
       "autor": "Marcel Proust",
       "rok": "1913–1927",
-      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "gatunek": "Literatura obyczajowa",
       "kategoria_wiekowa": "16+",
       "opis": "Narrator przywołuje wspomnienia z dzieciństwa i młodości, pokazując paryskie salony przełomu wieków. Siedmiotomowe dzieło bada pamięć, czas, miłość i sztukę."
     },
@@ -21,7 +21,7 @@
       "tytuł": "Proces",
       "autor": "Franz Kafka",
       "rok": "1925",
-      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "gatunek": "Literatura obyczajowa",
       "kategoria_wiekowa": "16+",
       "opis": "Józef K. zostaje aresztowany i oskarżony, choć nie zna swojej winy ani zarzutów. Powieść przedstawia bezduszną biurokrację i bezsilność jednostki wobec systemu."
     },
@@ -29,7 +29,7 @@
       "tytuł": "Mały Książę",
       "autor": "Antoine de Saint-Exupéry",
       "rok": "1943",
-      "gatunek": "Literatura dziecięca i młodzieżowa",
+      "gatunek": "Literatura dziecięca",
       "kategoria_wiekowa": "6+",
       "opis": "Pilot rozbity na Saharze spotyka chłopca z maleńkiej planety, który opowiada o swoich podróżach. Książka mówi o przyjaźni, miłości i tym, co w życiu naprawdę ważne."
     },
@@ -45,7 +45,7 @@
       "tytuł": "Podróż do kresu nocy",
       "autor": "Louis-Ferdinand Céline",
       "rok": "1932",
-      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "gatunek": "Literatura obyczajowa",
       "kategoria_wiekowa": "18+",
       "opis": "Ferdinand Bardamu przechodzi przez I wojnę światową, kolonie w Afryce, Amerykę i nędzę paryskich przedmieść. To brutalna, cyniczna opowieść o absurdzie wojny i ludzkiej kondycji."
     },
@@ -69,7 +69,7 @@
       "tytuł": "Wielki Meaulnes",
       "autor": "Alain-Fournier",
       "rok": "1913",
-      "gatunek": "Literatura dziecięca i młodzieżowa",
+      "gatunek": "Literatura młodzieżowa",
       "kategoria_wiekowa": "12+",
       "opis": "Uczeń Augustin Meaulnes przypadkiem trafia na tajemnicze wesele w odludnym zamku i zakochuje się w młodej dziewczynie. Całe życie próbuje odnaleźć utracony raj młodości."
     },
@@ -77,7 +77,7 @@
       "tytuł": "Piana dni",
       "autor": "Boris Vian",
       "rok": "1947",
-      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "gatunek": "Literatura obyczajowa",
       "kategoria_wiekowa": "16+",
       "opis": "Colin zakochuje się w Chloé, która zapada na dziwną chorobę – w płucach rośnie jej lilia wodna. Poetycka i absurdalna historia miłosna w świecie, który stopniowo się rozpada."
     },
@@ -85,7 +85,7 @@
       "tytuł": "Druga płeć",
       "autor": "Simone de Beauvoir",
       "rok": "1949",
-      "gatunek": "Nauki społeczne",
+      "gatunek": "Popularnonaukowa (nauki społeczne)",
       "kategoria_wiekowa": "16+",
       "opis": "Autorka analizuje historyczne, biologiczne i kulturowe źródła podporządkowania kobiet. Słynne stwierdzenie, że kobietą się nie rodzi, lecz się staje, stało się fundamentem feminizmu."
     },
@@ -93,7 +93,7 @@
       "tytuł": "Czekając na Godota",
       "autor": "Samuel Beckett",
       "rok": "1952",
-      "gatunek": "Poezja i dramat",
+      "gatunek": "Poezja",
       "kategoria_wiekowa": "16+",
       "opis": "Dwaj włóczędzy Vladimir i Estragon czekają na tajemniczego Godota, który nigdy nie przychodzi. Sztuka pokazuje bezsens i monotonię ludzkiej egzystencji."
     },
@@ -101,7 +101,7 @@
       "tytuł": "Byt i nicość",
       "autor": "Jean-Paul Sartre",
       "rok": "1943",
-      "gatunek": "Nauki społeczne",
+      "gatunek": "Popularnonaukowa (nauki społeczne)",
       "kategoria_wiekowa": "18+",
       "opis": "Sartre analizuje wolność, świadomość i odpowiedzialność człowieka, który sam tworzy swoją istotę. To główne dzieło francuskiego egzystencjalizmu."
     },
@@ -109,7 +109,7 @@
       "tytuł": "Imię róży",
       "autor": "Umberto Eco",
       "rok": "1980",
-      "gatunek": "Kryminał, sensacja, thriller",
+      "gatunek": "Kryminał",
       "kategoria_wiekowa": "16+",
       "opis": "W XIV-wiecznym opactwie franciszkanin Wilhelm z Baskerville wyjaśnia serię tajemniczych zgonów mnichów. Powieść łączy intrygę kryminalną z rozważaniami o wiedzy, wierze i władzy."
     },
@@ -125,7 +125,7 @@
       "tytuł": "Paroles (Słowa)",
       "autor": "Jacques Prévert",
       "rok": "1946",
-      "gatunek": "Poezja i dramat",
+      "gatunek": "Poezja",
       "kategoria_wiekowa": "12+",
       "opis": "Zbiór prostych, potocznych wierszy o miłości, wolności i codziennym życiu paryżan. Prévert z humorem i ironią krytykuje wojnę, religię i hipokryzję."
     },
@@ -133,7 +133,7 @@
       "tytuł": "Alkohole",
       "autor": "Guillaume Apollinaire",
       "rok": "1913",
-      "gatunek": "Poezja i dramat",
+      "gatunek": "Poezja",
       "kategoria_wiekowa": "16+",
       "opis": "Tomik wierszy bez interpunkcji łączy tradycję z nowoczesnością, wspomnienia z poetyckimi wizjami. To jedno z kluczowych dzieł poezji awangardowej początku XX wieku."
     },
@@ -141,7 +141,7 @@
       "tytuł": "Błękitny Lotos",
       "autor": "Hergé",
       "rok": "1936",
-      "gatunek": "Literatura dziecięca i młodzieżowa",
+      "gatunek": "Komiks",
       "kategoria_wiekowa": "6+",
       "opis": "Tintin jedzie do Chin, gdzie rozbija szajkę przemytników opium i zaprzyjaźnia się z chłopcem Czang. Album porusza temat japońskiej agresji i krytykuje stereotypy o Chińczykach."
     },
@@ -149,7 +149,7 @@
       "tytuł": "Dziennik Anny Frank",
       "autor": "Anne Frank",
       "rok": "1947",
-      "gatunek": "Biografie, autobiografie i wspomnienia",
+      "gatunek": "Biografia i autobiografia",
       "kategoria_wiekowa": "12+",
       "opis": "Żydowska dziewczynka opisuje dwa lata ukrywania się z rodziną w amsterdamskiej oficynie w czasie okupacji. Dziennik to poruszające świadectwo Holokaustu i dojrzewania w ekstremalnych warunkach."
     },
@@ -157,7 +157,7 @@
       "tytuł": "Smutek tropików",
       "autor": "Claude Lévi-Strauss",
       "rok": "1955",
-      "gatunek": "Nauki społeczne",
+      "gatunek": "Popularnonaukowa (nauki społeczne)",
       "kategoria_wiekowa": "16+",
       "opis": "Antropolog opisuje swoje badania wśród plemion Amazonii i refleksje nad zderzeniem cywilizacji. Książka łączy relację podróżniczą z filozofią kultury."
     },
@@ -165,7 +165,7 @@
       "tytuł": "Nowy wspaniały świat",
       "autor": "Aldous Huxley",
       "rok": "1932",
-      "gatunek": "Fantastyka (fantasy i science fiction)",
+      "gatunek": "Science fiction",
       "kategoria_wiekowa": "16+",
       "opis": "W przyszłości ludzie są hodowani w laboratoriach i pozbawieni uczuć przez narkotyk i rozrywkę. Powieść ostrzega przed społeczeństwem, które za szczęście płaci wolnością."
     },
@@ -173,7 +173,7 @@
       "tytuł": "Rok 1984",
       "autor": "George Orwell",
       "rok": "1949",
-      "gatunek": "Fantastyka (fantasy i science fiction)",
+      "gatunek": "Science fiction",
       "kategoria_wiekowa": "16+",
       "opis": "Winston Smith żyje w totalitarnym państwie, w którym Wielki Brat kontroluje myśli i historię. Jego bunt przeciw systemowi kończy się tragicznie."
     },
@@ -181,7 +181,7 @@
       "tytuł": "Asteriks Gal",
       "autor": "René Goscinny, Albert Uderzo",
       "rok": "1959",
-      "gatunek": "Literatura dziecięca i młodzieżowa",
+      "gatunek": "Komiks",
       "kategoria_wiekowa": "6+",
       "opis": "Wioska nieugiętych Galów broni się przed Rzymianami dzięki magicznemu napojowi druida Panoramiksa. Pierwszy album serii pełen jest humoru, przygód i gier słownych."
     },
@@ -189,7 +189,7 @@
       "tytuł": "Łysa śpiewaczka",
       "autor": "Eugène Ionesco",
       "rok": "1952",
-      "gatunek": "Poezja i dramat",
+      "gatunek": "Poezja",
       "kategoria_wiekowa": "16+",
       "opis": "Państwo Smith i ich goście prowadzą pozbawione sensu rozmowy w angielskim salonie. Sztuka ośmiesza język, konwenanse i bezmyślność mieszczańskiego życia."
     },
@@ -197,7 +197,7 @@
       "tytuł": "Trzy rozprawy o teorii seksualności",
       "autor": "Sigmund Freud",
       "rok": "1905",
-      "gatunek": "Nauka i popularnonaukowe",
+      "gatunek": "Psychologia i rozwój osobisty",
       "kategoria_wiekowa": "18+",
       "opis": "Freud przedstawia teorię rozwoju seksualnego człowieka od dzieciństwa po dorosłość. Praca zrewolucjonizowała myślenie o psychice i popędach."
     },
@@ -213,7 +213,7 @@
       "tytuł": "Lolita",
       "autor": "Vladimir Nabokov",
       "rok": "1955",
-      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "gatunek": "Literatura obyczajowa",
       "kategoria_wiekowa": "18+",
       "opis": "Narrator Humbert Humbert opowiada o swojej obsesji na punkcie dwunastoletniej dziewczynki. Powieść jest mistrzowsko napisaną, niepokojącą analizą manipulacji i samooszukiwania."
     },
@@ -221,7 +221,7 @@
       "tytuł": "Ulisses",
       "autor": "James Joyce",
       "rok": "1922",
-      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "gatunek": "Literatura obyczajowa",
       "kategoria_wiekowa": "18+",
       "opis": "Jeden dzień z życia Leopolda Blooma w Dublinie, 16 czerwca 1904 roku, odwołuje się do struktury „Odysei”. Powieść eksperymentuje z językiem i formą narracji."
     },
@@ -229,7 +229,7 @@
       "tytuł": "Pustynia Tatarów",
       "autor": "Dino Buzzati",
       "rok": "1940",
-      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "gatunek": "Literatura obyczajowa",
       "kategoria_wiekowa": "16+",
       "opis": "Młody oficer Giovanni Drogo trafia do odległej twierdzy, gdzie całe życie czeka na atak wroga. Książka mówi o upływie czasu i niespełnionych marzeniach."
     },
@@ -237,7 +237,7 @@
       "tytuł": "Fałszerze",
       "autor": "André Gide",
       "rok": "1925",
-      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "gatunek": "Literatura obyczajowa",
       "kategoria_wiekowa": "16+",
       "opis": "Powieść splata losy kilku młodych ludzi, a jej bohater pisze książkę o pisaniu powieści. Gide analizuje fałsz i prawdę w relacjach oraz w sztuce."
     },
@@ -261,7 +261,7 @@
       "tytuł": "Sto lat samotności",
       "autor": "Gabriel García Márquez",
       "rok": "1967",
-      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "gatunek": "Literatura obyczajowa",
       "kategoria_wiekowa": "16+",
       "opis": "Saga rodu Buendíów z wymyślonego miasteczka Macondo obejmuje siedem pokoleń. Realizm miesza się z magią, a historia rodziny odzwierciedla losy Ameryki Łacińskiej."
     },
@@ -269,7 +269,7 @@
       "tytuł": "Wściekłość i wrzask",
       "autor": "William Faulkner",
       "rok": "1929",
-      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "gatunek": "Literatura obyczajowa",
       "kategoria_wiekowa": "18+",
       "opis": "Upadek południowej rodziny Compsonów opowiedziany jest z czterech perspektyw, w tym przez upośledzonego Benjy'ego. Powieść znana jest ze skomplikowanej narracji i strumienia świadomości."
     },
@@ -277,7 +277,7 @@
       "tytuł": "Teresa Desqueyroux",
       "autor": "François Mauriac",
       "rok": "1927",
-      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "gatunek": "Literatura obyczajowa",
       "kategoria_wiekowa": "16+",
       "opis": "Teresa próbuje otruć męża i staje przed sądem, po czym rodzina zamyka ją w domu. Mauriac analizuje samotność, duszne konwenanse prowincjonalnej burżuazji i duchowe poszukiwania bohaterki."
     },
@@ -285,7 +285,7 @@
       "tytuł": "Zazie w metrze",
       "autor": "Raymond Queneau",
       "rok": "1959",
-      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "gatunek": "Literatura obyczajowa",
       "kategoria_wiekowa": "16+",
       "opis": "Dziewczynka Zazie przyjeżdża do Paryża i pragnie przede wszystkim przejechać się metrem, które akurat strajkuje. Powieść słynie z językowych zabaw i absurdalnego humoru."
     },
@@ -293,7 +293,7 @@
       "tytuł": "Zmącenie uczuć",
       "autor": "Stefan Zweig",
       "rok": "1927",
-      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "gatunek": "Literatura obyczajowa",
       "kategoria_wiekowa": "16+",
       "opis": "Młody student zafascynowany swoim profesorem odkrywa jego skrywane tajemnice i cierpienia. Zweig subtelnie opisuje relację mistrza z uczniem i niebezpieczną namiętność."
     },
@@ -317,7 +317,7 @@
       "tytuł": "Czarodziejska góra",
       "autor": "Thomas Mann",
       "rok": "1924",
-      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "gatunek": "Literatura obyczajowa",
       "kategoria_wiekowa": "16+",
       "opis": "Młody inżynier Hans Castorp przyjeżdża do sanatorium w Davos na trzy tygodnie, a zostaje siedem lat. Wśród pacjentów toczą się dyskusje o chorobie, czasie i losie Europy."
     },
@@ -333,7 +333,7 @@
       "tytuł": "Milczenie morza",
       "autor": "Vercors",
       "rok": "1942",
-      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "gatunek": "Literatura obyczajowa",
       "kategoria_wiekowa": "16+",
       "opis": "Podczas okupacji niemiecki oficer zamieszkuje u starszego Francuza i jego siostrzenicy, którzy odpowiadają mu milczeniem. Opowieść stała się symbolem cichego oporu."
     },
@@ -341,7 +341,7 @@
       "tytuł": "Życie instrukcja obsługi",
       "autor": "Georges Perec",
       "rok": "1978",
-      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "gatunek": "Literatura obyczajowa",
       "kategoria_wiekowa": "16+",
       "opis": "Powieść opisuje mieszkańców paryskiej kamienicy, pokój po pokoju, według skomplikowanego wzoru matematycznego. Splata dziesiątki historii w mozaikę przedmiotów i losów."
     },
@@ -349,7 +349,7 @@
       "tytuł": "Pies Baskerville'ów",
       "autor": "Arthur Conan Doyle",
       "rok": "1901–1902",
-      "gatunek": "Kryminał, sensacja, thriller",
+      "gatunek": "Kryminał",
       "kategoria_wiekowa": "12+",
       "opis": "Sherlock Holmes i doktor Watson badają legendę o upiornym psie, który prześladuje ród Baskerville'ów na mglistych wrzosowiskach. Klasyczna zagadka łączy grozę z logiczną dedukcją."
     },
@@ -357,7 +357,7 @@
       "tytuł": "Pod słońcem szatana",
       "autor": "Georges Bernanos",
       "rok": "1926",
-      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "gatunek": "Literatura obyczajowa",
       "kategoria_wiekowa": "16+",
       "opis": "Młody ksiądz Donissan zmaga się z pokusą szatana i własnymi słabościami, a obok niego rozgrywa się dramat zbuntowanej dziewczyny Mouchette. Powieść ukazuje walkę dobra ze złem."
     },
@@ -373,7 +373,7 @@
       "tytuł": "Żart",
       "autor": "Milan Kundera",
       "rok": "1967",
-      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "gatunek": "Literatura obyczajowa",
       "kategoria_wiekowa": "16+",
       "opis": "Student Ludvik wysyła żartobliwą kartkę, za którą zostaje napiętnowany przez komunistyczną władzę w Czechosłowacji. Po latach próbuje się zemścić, lecz zemsta okazuje się pusta."
     },
@@ -381,7 +381,7 @@
       "tytuł": "Pogarda",
       "autor": "Alberto Moravia",
       "rok": "1954",
-      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "gatunek": "Literatura obyczajowa",
       "kategoria_wiekowa": "18+",
       "opis": "Scenarzysta Riccardo próbuje zrozumieć, dlaczego jego żona nagle zaczęła go pogardzać. W tle powstaje filmowa adaptacja „Odysei”."
     },
@@ -389,7 +389,7 @@
       "tytuł": "Zabójstwo Rogera Ackroyda",
       "autor": "Agatha Christie",
       "rok": "1926",
-      "gatunek": "Kryminał, sensacja, thriller",
+      "gatunek": "Kryminał",
       "kategoria_wiekowa": "12+",
       "opis": "Hercule Poirot bada zagadkę śmierci zamożnego Rogera Ackroyda w angielskiej wsi. Zaskakujące rozwiązanie uchodzi za jedno z najsłynniejszych w historii kryminału."
     },
@@ -397,7 +397,7 @@
       "tytuł": "Nadja",
       "autor": "André Breton",
       "rok": "1928",
-      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "gatunek": "Literatura obyczajowa",
       "kategoria_wiekowa": "16+",
       "opis": "Narrator opisuje spotkania z tajemniczą, nieco szaloną kobietą w Paryżu. Książka łączy autobiografię z fotografiami i manifestem surrealistów."
     },
@@ -413,7 +413,7 @@
       "tytuł": "Atłasowy trzewiczek",
       "autor": "Paul Claudel",
       "rok": "1929",
-      "gatunek": "Poezja i dramat",
+      "gatunek": "Poezja",
       "kategoria_wiekowa": "16+",
       "opis": "Monumentalna sztuka o niespełnionej miłości Hiszpanów Rodriga i Prouèze rozgrywa się na tle odkryć geograficznych XVI wieku. Claudel łączy wątek miłosny z rozważaniami religijnymi."
     },
@@ -421,7 +421,7 @@
       "tytuł": "Sześć postaci scenicznych w poszukiwaniu autora",
       "autor": "Luigi Pirandello",
       "rok": "1921",
-      "gatunek": "Poezja i dramat",
+      "gatunek": "Poezja",
       "kategoria_wiekowa": "16+",
       "opis": "Na próbę teatralną wpadają postaci, które domagają się, by ktoś opowiedział ich tragiczną historię. Sztuka zaciera granicę między prawdą a iluzją teatru."
     },
@@ -429,7 +429,7 @@
       "tytuł": "Kariera Artura Ui",
       "autor": "Bertolt Brecht",
       "rok": "1941",
-      "gatunek": "Poezja i dramat",
+      "gatunek": "Poezja",
       "kategoria_wiekowa": "16+",
       "opis": "Gangster Arturo Ui przejmuje władzę nad chicagowskim handlem kalafiorami, co jest alegorią dojścia Hitlera do władzy. Brecht ośmiesza mechanizmy dyktatury."
     },
@@ -437,7 +437,7 @@
       "tytuł": "Piątek, czyli Otchłań Pacyfiku",
       "autor": "Michel Tournier",
       "rok": "1967",
-      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "gatunek": "Literatura obyczajowa",
       "kategoria_wiekowa": "16+",
       "opis": "Wolna reinterpretacja historii Robinsona Crusoe, w której to Piątek uczy rozbitka nowego sposobu życia. Powieść porusza temat cywilizacji, natury i samotności."
     },
@@ -445,7 +445,7 @@
       "tytuł": "Wojna światów",
       "autor": "H. G. Wells",
       "rok": "1898",
-      "gatunek": "Fantastyka (fantasy i science fiction)",
+      "gatunek": "Science fiction",
       "kategoria_wiekowa": "12+",
       "opis": "Marsjanie lądują w Anglii i niszczą wszystko tripodami z promieniami cieplnymi. Ludzkość ratuje się dzięki ziemskim bakteriom."
     },
@@ -453,7 +453,7 @@
       "tytuł": "Czy to jest człowiek",
       "autor": "Primo Levi",
       "rok": "1947",
-      "gatunek": "Biografie, autobiografie i wspomnienia",
+      "gatunek": "Biografia i autobiografia",
       "kategoria_wiekowa": "16+",
       "opis": "Włoski chemik opisuje rok spędzony w Auschwitz-Monowitz. Spokojnym językiem ukazuje mechanizmy odczłowieczenia i walkę o przetrwanie."
     },
@@ -461,7 +461,7 @@
       "tytuł": "Władca Pierścieni",
       "autor": "J.R.R. Tolkien",
       "rok": "1954–1955",
-      "gatunek": "Fantastyka (fantasy i science fiction)",
+      "gatunek": "Fantasy",
       "kategoria_wiekowa": "12+",
       "opis": "Hobbit Frodo wyrusza z drużyną, aby zniszczyć Jedyny Pierścień w ogniu Góry Przeznaczenia. Epicka wyprawa to walka dobra ze złem w świecie Śródziemia."
     },
@@ -469,7 +469,7 @@
       "tytuł": "Pnącza winorośli",
       "autor": "Colette",
       "rok": "1908",
-      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "gatunek": "Literatura obyczajowa",
       "kategoria_wiekowa": "16+",
       "opis": "Zbiór impresji i miniatur o naturze, zwierzętach, miłości i samotności kobiety. Colette przedstawia zmysłowy, delikatny świat codziennych obserwacji."
     },
@@ -477,7 +477,7 @@
       "tytuł": "Stolica bólu",
       "autor": "Paul Éluard",
       "rok": "1926",
-      "gatunek": "Poezja i dramat",
+      "gatunek": "Poezja",
       "kategoria_wiekowa": "16+",
       "opis": "Tomik surrealistycznych wierszy o miłości, tęsknocie i cierpieniu. Poezja Éluarda jest pełna zaskakujących obrazów i muzykalności."
     },
@@ -493,7 +493,7 @@
       "tytuł": "Ballada o słonym morzu",
       "autor": "Hugo Pratt",
       "rok": "1967",
-      "gatunek": "Literatura dziecięca i młodzieżowa",
+      "gatunek": "Komiks",
       "kategoria_wiekowa": "12+",
       "opis": "Na początku XX wieku marynarz Corto Maltese wplątuje się w wojnę i intrygi na Pacyfiku. To pierwszy album o słynnym awanturniku, utrzymany w klimacie romantycznej przygody."
     },
@@ -501,7 +501,7 @@
       "tytuł": "Zero stopień pisania",
       "autor": "Roland Barthes",
       "rok": "1953",
-      "gatunek": "Nauki społeczne",
+      "gatunek": "Popularnonaukowa (nauki społeczne)",
       "kategoria_wiekowa": "16+",
       "opis": "Barthes analizuje, jak język i styl wyrażają stosunek pisarza do społeczeństwa i historii. Książka stała się podstawą nowoczesnej krytyki literackiej."
     },
@@ -517,7 +517,7 @@
       "tytuł": "Wybrzeże Syrt",
       "autor": "Julien Gracq",
       "rok": "1951",
-      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "gatunek": "Literatura obyczajowa",
       "kategoria_wiekowa": "16+",
       "opis": "Młody arystokrata Aldo trafia do twierdzy nad morzem, od lat pozostającej w stanie wojny z tajemniczym Farghestanem. Atmosfera narasta w oczekiwaniu na nieuchronną katastrofę."
     },
@@ -525,7 +525,7 @@
       "tytuł": "Słowa i rzeczy",
       "autor": "Michel Foucault",
       "rok": "1966",
-      "gatunek": "Nauki społeczne",
+      "gatunek": "Popularnonaukowa (nauki społeczne)",
       "kategoria_wiekowa": "18+",
       "opis": "Foucault bada, jak zmieniały się sposoby myślenia o wiedzy i człowieku od renesansu po współczesność. Zapowiada też „śmierć człowieka” jako konstruktu nauk humanistycznych."
     },
@@ -533,7 +533,7 @@
       "tytuł": "W drodze",
       "autor": "Jack Kerouac",
       "rok": "1957",
-      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "gatunek": "Literatura obyczajowa",
       "kategoria_wiekowa": "16+",
       "opis": "Narrator Sal Paradise razem z Deanem Moriarty'm przemierza Stany Zjednoczone w poszukiwaniu wolności i przygody. Książka stała się manifestem pokolenia beatników."
     },
@@ -541,7 +541,7 @@
       "tytuł": "Cudowna podróż",
       "autor": "Selma Lagerlöf",
       "rok": "1906–1907",
-      "gatunek": "Literatura dziecięca i młodzieżowa",
+      "gatunek": "Literatura dziecięca",
       "kategoria_wiekowa": "6+",
       "opis": "Chłopiec Nils zostaje zamieniony w skrzata i leci na grzbiecie gęsi razem z dzikimi gęsiami przez całą Szwecję. W trakcie podróży uczy się odpowiedzialności i dobroci."
     },
@@ -549,7 +549,7 @@
       "tytuł": "Własny pokój",
       "autor": "Virginia Woolf",
       "rok": "1929",
-      "gatunek": "Nauki społeczne",
+      "gatunek": "Popularnonaukowa (nauki społeczne)",
       "kategoria_wiekowa": "16+",
       "opis": "Woolf przekonuje, że kobieta potrzebuje pieniędzy i własnego pokoju, by pisać. Esej analizuje pozycję kobiet w literaturze i społeczeństwie."
     },
@@ -557,7 +557,7 @@
       "tytuł": "Kroniki marsjańskie",
       "autor": "Ray Bradbury",
       "rok": "1950",
-      "gatunek": "Fantastyka (fantasy i science fiction)",
+      "gatunek": "Science fiction",
       "kategoria_wiekowa": "12+",
       "opis": "Cykl opowiadań opisuje kolejne wyprawy ludzi na Marsa i kolonizację planety. Bradbury, z melancholią i poetyckością, pyta o skutki ekspansji i samotność."
     },
@@ -565,7 +565,7 @@
       "tytuł": "Zachwycenie Lol V. Stein",
       "autor": "Marguerite Duras",
       "rok": "1964",
-      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "gatunek": "Literatura obyczajowa",
       "kategoria_wiekowa": "18+",
       "opis": "Lol V. Stein po porzuceniu przez narzeczonego na balu pogrąża się w dziwnym stanie. Po latach wciąga w swój świat kolejne osoby, powtarzając dramat z przeszłości."
     },
@@ -573,7 +573,7 @@
       "tytuł": "Przesłuchanie",
       "autor": "J. M. G. Le Clézio",
       "rok": "1963",
-      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "gatunek": "Literatura obyczajowa",
       "kategoria_wiekowa": "18+",
       "opis": "Adam Pollo, młody człowiek wycofany ze świata, żyje w opuszczonej willi nad morzem i stopniowo traci kontakt z rzeczywistością. Powieść oddaje obsesyjną percepcję bohatera."
     },
@@ -581,7 +581,7 @@
       "tytuł": "Tropizmy",
       "autor": "Nathalie Sarraute",
       "rok": "1939",
-      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "gatunek": "Literatura obyczajowa",
       "kategoria_wiekowa": "16+",
       "opis": "Krótkie teksty ukazują ukryte, ledwie uchwytne reakcje psychiczne ludzi w codziennych rozmowach. Sarraute zapoczątkowała nową prozę skupioną na podświadomych poruszeniach."
     },
@@ -589,7 +589,7 @@
       "tytuł": "Dziennik 1887–1910",
       "autor": "Jules Renard",
       "rok": "1925",
-      "gatunek": "Biografie, autobiografie i wspomnienia",
+      "gatunek": "Biografia i autobiografia",
       "kategoria_wiekowa": "16+",
       "opis": "Renard zapisuje ironiczne, błyskotliwe obserwacje o życiu literackim, wsi i sobie samym. Dziennik słynie z aforystycznego stylu i szczerości."
     },
@@ -597,7 +597,7 @@
       "tytuł": "Lord Jim",
       "autor": "Joseph Conrad",
       "rok": "1900",
-      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "gatunek": "Literatura obyczajowa",
       "kategoria_wiekowa": "16+",
       "opis": "Młody oficer marynarki Jim w chwili próby okazuje tchórzostwo i resztę życia próbuje odzyskać honor. Conrad bada poczucie winy i odkupienie."
     },
@@ -605,7 +605,7 @@
       "tytuł": "Pisma (Écrits)",
       "autor": "Jacques Lacan",
       "rok": "1966",
-      "gatunek": "Nauki społeczne",
+      "gatunek": "Psychologia i rozwój osobisty (nauki społeczne)",
       "kategoria_wiekowa": "18+",
       "opis": "Zbiór trudnych tekstów, w których Lacan reinterpretuje Freuda przez pryzmat języka i struktury. Dzieło wywarło ogromny wpływ na psychoanalizę i filozofię."
     },
@@ -613,7 +613,7 @@
       "tytuł": "Teatr i jego sobowtór",
       "autor": "Antonin Artaud",
       "rok": "1938",
-      "gatunek": "Nauki społeczne",
+      "gatunek": "Popularnonaukowa (nauki społeczne)",
       "kategoria_wiekowa": "16+",
       "opis": "Artaud postuluje „teatr okrucieństwa”, który działałby na zmysły i emocje widza, odchodząc od tradycji literackiej. Książka stała się manifestem awangardowego teatru."
     },
@@ -621,7 +621,7 @@
       "tytuł": "Manhattan Transfer",
       "autor": "John Dos Passos",
       "rok": "1925",
-      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "gatunek": "Literatura obyczajowa",
       "kategoria_wiekowa": "16+",
       "opis": "Powieść przedstawia dziesiątki losów mieszkańców Nowego Jorku od końca XIX wieku do lat dwudziestych. Fragmentaryczna, filmowa narracja oddaje rytm wielkiego miasta."
     },
@@ -629,7 +629,7 @@
       "tytuł": "Fikcje",
       "autor": "Jorge Luis Borges",
       "rok": "1944",
-      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "gatunek": "Literatura obyczajowa",
       "kategoria_wiekowa": "16+",
       "opis": "Zbiór opowiadań o bibliotekach, labiryntach i nieskończoności łączy fantastykę z metafizyką. Borges bawi się wiedzą, tożsamością i naturą rzeczywistości."
     },
@@ -637,7 +637,7 @@
       "tytuł": "Moravagine",
       "autor": "Blaise Cendrars",
       "rok": "1926",
-      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "gatunek": "Literatura obyczajowa",
       "kategoria_wiekowa": "18+",
       "opis": "Narrator, lekarz, uwalnia z zakładu psychiatrycznego szalonego księcia Moravagine'a i towarzyszy mu w podróży po świecie. Powieść jest wizją szaleństwa i przemocy XX wieku."
     },
@@ -653,7 +653,7 @@
       "tytuł": "Wybór Zofii",
       "autor": "William Styron",
       "rok": "1979",
-      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "gatunek": "Literatura obyczajowa",
       "kategoria_wiekowa": "18+",
       "opis": "Młody pisarz poznaje w Nowym Jorku Polkę Zofię, ocalałą z Auschwitz, i jej gwałtownego kochanka. Stopniowo odkrywa jej tragiczną tajemnicę z czasów obozu."
     },
@@ -661,7 +661,7 @@
       "tytuł": "Romancero cygańskie",
       "autor": "Federico García Lorca",
       "rok": "1928",
-      "gatunek": "Poezja i dramat",
+      "gatunek": "Poezja",
       "kategoria_wiekowa": "16+",
       "opis": "Zbiór poetyckich ballad o Cyganach, Andaluzji, miłości i śmierci. Wiersze łączą ludowy folklor z awangardowymi metaforami."
     },
@@ -669,7 +669,7 @@
       "tytuł": "Pietr Łotysz",
       "autor": "Georges Simenon",
       "rok": "1931",
-      "gatunek": "Kryminał, sensacja, thriller",
+      "gatunek": "Kryminał",
       "kategoria_wiekowa": "16+",
       "opis": "Komisarz Maigret tropi międzynarodowego oszusta, który ma sobowtóra. To pierwsza powieść z serii o słynnym paryskim policjancie."
     },
@@ -677,7 +677,7 @@
       "tytuł": "Nasza Pani od Kwiatów",
       "autor": "Jean Genet",
       "rok": "1944",
-      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "gatunek": "Literatura obyczajowa",
       "kategoria_wiekowa": "18+",
       "opis": "Autor, siedząc w celi, opisuje fantazje o paryskim półświatku, w którym króluje transwestyta Divine. Genet przewrotnie przedstawia świętość w nędzy i występku."
     },
@@ -685,7 +685,7 @@
       "tytuł": "Człowiek bez właściwości",
       "autor": "Robert Musil",
       "rok": "1930–1942",
-      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "gatunek": "Literatura obyczajowa",
       "kategoria_wiekowa": "16+",
       "opis": "W schyłkowej Austrii przed I wojną światową Ulrich poszukuje własnej drogi, nie chcąc ulec żadnej konwencji. Rozbudowana powieść ironicznie opisuje kryzys epoki."
     },
@@ -693,7 +693,7 @@
       "tytuł": "Furor i tajemnica",
       "autor": "René Char",
       "rok": "1948",
-      "gatunek": "Poezja i dramat",
+      "gatunek": "Poezja",
       "kategoria_wiekowa": "16+",
       "opis": "Zbiór poezji i aforyzmów pisanych w czasach ruchu oporu, pełen intensywnych obrazów i refleksji. Char łączy lirykę z moralnym zaangażowaniem."
     },
@@ -701,7 +701,7 @@
       "tytuł": "Buszujący w zbożu",
       "autor": "J. D. Salinger",
       "rok": "1951",
-      "gatunek": "Literatura dziecięca i młodzieżowa",
+      "gatunek": "Literatura młodzieżowa",
       "kategoria_wiekowa": "16+",
       "opis": "Szesnastoletni Holden Caulfield po wyrzuceniu ze szkoły błąka się po Nowym Jorku i buntuje przeciw światu dorosłych. Powieść oddaje poczucie wyobcowania dorastającego człowieka."
     },
@@ -709,7 +709,7 @@
       "tytuł": "Żadnych orchidei dla panny Blandish",
       "autor": "James Hadley Chase",
       "rok": "1939",
-      "gatunek": "Kryminał, sensacja, thriller",
+      "gatunek": "Thriller",
       "kategoria_wiekowa": "18+",
       "opis": "Gang Grissomów porywa bogatą dziedziczkę i przetrzymuje ją w brutalnych warunkach. Powieść słynie z ostrej przemocy i bezwzględnego klimatu."
     },
@@ -717,7 +717,7 @@
       "tytuł": "Blake i Mortimer: Sekret Espadonu",
       "autor": "Edgar P. Jacobs",
       "rok": "1950",
-      "gatunek": "Literatura dziecięca i młodzieżowa",
+      "gatunek": "Komiks",
       "kategoria_wiekowa": "12+",
       "opis": "Brytyjski naukowiec Mortimer i kapitan Blake stają do walki z azjatyckim imperium, które planuje inwazję na świat. Komiks łączy szpiegowską intrygę z futurystycznymi wynalazkami."
     },
@@ -725,7 +725,7 @@
       "tytuł": "Zapiski Malte Lauridsa Brigge'a",
       "autor": "Rainer Maria Rilke",
       "rok": "1910",
-      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "gatunek": "Literatura obyczajowa",
       "kategoria_wiekowa": "16+",
       "opis": "Młody duński poeta mieszka w Paryżu i spisuje wspomnienia, lęki i refleksje o śmierci oraz samotności. Rilke tworzy fragmentaryczny obraz wrażliwości artysty."
     },
@@ -733,7 +733,7 @@
       "tytuł": "Odmiana (La Modification)",
       "autor": "Michel Butor",
       "rok": "1957",
-      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "gatunek": "Literatura obyczajowa",
       "kategoria_wiekowa": "16+",
       "opis": "Podczas nocnej podróży pociągiem do Rzymu bohater rozważa decyzję o zerwaniu z żoną. Powieść napisana w drugiej osobie śledzi zmianę jego myślenia."
     },
@@ -749,7 +749,7 @@
       "tytuł": "Mistrz i Małgorzata",
       "autor": "Michaił Bułhakow",
       "rok": "1967",
-      "gatunek": "Fantastyka (fantasy i science fiction)",
+      "gatunek": "Fantasy",
       "kategoria_wiekowa": "16+",
       "opis": "Diabeł Woland odwiedza stalinowską Moskwę, wprowadzając chaos wśród jej mieszkańców, a równolegle toczy się historia Piłata i Jeszui. Powieść łączy satyrę, fantastykę i opowieść o miłości."
     },
@@ -757,7 +757,7 @@
       "tytuł": "Różowe ukrzyżowanie",
       "autor": "Henry Miller",
       "rok": "1949–1960",
-      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "gatunek": "Literatura obyczajowa",
       "kategoria_wiekowa": "18+",
       "opis": "Trylogia „Sexus”, „Plexus” i „Nexus” opisuje życie Millera w Nowym Jorku i jego drogę do pisarstwa. Książka słynie z szczerości i kontrowersyjnego opisu seksualności."
     },
@@ -765,7 +765,7 @@
       "tytuł": "Głęboki sen",
       "autor": "Raymond Chandler",
       "rok": "1939",
-      "gatunek": "Kryminał, sensacja, thriller",
+      "gatunek": "Kryminał",
       "kategoria_wiekowa": "16+",
       "opis": "Prywatny detektyw Philip Marlowe zostaje wynajęty przez generała, by rozwiązać szantaż dotyczący jego córek. Wciągnięty w mroczny świat Los Angeles, odkrywa kolejne tajemnice."
     },
@@ -773,7 +773,7 @@
       "tytuł": "Amers",
       "autor": "Saint-John Perse",
       "rok": "1957",
-      "gatunek": "Poezja i dramat",
+      "gatunek": "Poezja",
       "kategoria_wiekowa": "16+",
       "opis": "Rozbudowany poemat sławi morze jako symbol wolności, miłości i przemijania. Perse tworzy wielkie, rytmiczne wersety pełne obrazowości."
     },
@@ -781,7 +781,7 @@
       "tytuł": "Gaston Lagaffe",
       "autor": "André Franquin",
       "rok": "1957",
-      "gatunek": "Literatura dziecięca i młodzieżowa",
+      "gatunek": "Komiks",
       "kategoria_wiekowa": "6+",
       "opis": "Gaston, nieogarnięty pracownik redakcji, wywołuje chaos swoimi wynalazkami i lenistwem. Seria pełna jest gagów i sympatycznego absurdu."
     },
@@ -789,7 +789,7 @@
       "tytuł": "U stóp wulkanu",
       "autor": "Malcolm Lowry",
       "rok": "1947",
-      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "gatunek": "Literatura obyczajowa",
       "kategoria_wiekowa": "18+",
       "opis": "Brytyjski konsul w Meksyku w Dzień Zmarłych 1938 roku pogrąża się w alkoholizmie i rozpaczy po utracie żony. Powieść jest wstrząsającym studium upadku i samozniszczenia."
     },
@@ -797,7 +797,7 @@
       "tytuł": "Dzieci północy",
       "autor": "Salman Rushdie",
       "rok": "1981",
-      "gatunek": "Literatura piękna (klasyka i współczesna)",
+      "gatunek": "Literatura obyczajowa",
       "kategoria_wiekowa": "16+",
       "opis": "Saleem Sinai, urodzony o północy w dniu niepodległości Indii, ma telepatyczne zdolności i związek z losami kraju. Powieść łączy historię Indii z baśniową narracją."
     }
