@@ -41,15 +41,11 @@ function groupsFor(kind: Kind, ageLabel: string): Group[] {
   const ageCounts = tally(its.map((i) => String(i.ageNum)));
   const age = [...ageCounts].filter(([v]) => v !== '0').sort((a, b) => +a[0] - +b[0])
     .map(([v, c]) => ({ value: v, label: `od ${v} lat`, count: c }));
-  const ptsCounts = tally(its.map((i) => String(i.lists.length)));
-  const pts = [...ptsCounts].sort((a, b) => +a[0] - +b[0])
-    .map(([v, c]) => ({ value: v, label: v === '1' ? 'na 1 liście' : `na ${v} listach`, count: c }));
   return [
     { key: 'list', label: 'Źródło listy', options: listOpts },
     { key: 'genre', label: 'Gatunek', options: genre },
     { key: 'era', label: kind === 'books' ? 'Epoka' : 'Dekada', options: era },
     { key: 'age', label: ageLabel, options: age },
-    { key: 'pts', label: 'Polecane', options: pts },
   ].filter((g) => g.options.length > 1);
 }
 
@@ -201,7 +197,7 @@ const dataJson = payloadJson(items);
     border: solid var(--bg); border-width: 0 1.5px 1.5px 0; transform: rotate(45deg);
   }
   /* „Źródło listy”: rozwijany select wielokrotnego wyboru zamiast długiej listy checkboxów */
-  .msel { position: relative; }
+  .msel { position: relative; margin-bottom: 16px; }
   .msel-btn {
     width: 100%; display: flex; align-items: center; justify-content: space-between; gap: 8px; text-align: left;
     padding: 8px 10px; font-size: 13px; background: var(--bg); border: 1px solid var(--rule); border-radius: 0;
@@ -340,7 +336,7 @@ const dataJson = payloadJson(items);
 
   type Kind = 'books' | 'movies';
   const PAGE = 100; // tyle kart doładowuje się naraz (leniwe ładowanie)
-  const GROUPS = ['list', 'genre', 'era', 'age', 'pts'] as const;
+  const GROUPS = ['list', 'genre', 'era', 'age'] as const;
   const URL_KIND: Record<Kind, string> = { books: 'ksiazki', movies: 'filmy' };
   const KIND_TITLE: Record<Kind, string> = { books: 'Rekomendowane książki', movies: 'Rekomendowane filmy' };
 
@@ -467,7 +463,6 @@ const dataJson = payloadJson(items);
         (!sel.genre.length || sel.genre.includes(i.genre)) &&
         (!sel.era.length || sel.era.includes(i.era)) &&
         (!sel.age.length || sel.age.includes(String(i.ageNum))) &&
-        (!sel.pts.length || sel.pts.includes(String(i.lists.length))) &&
         (!sel.list.length || i.lists.some((s) => sel.list.includes(s))))
       .sort(cmp[sortEl.value] ?? cmp.pop);
     const shown = matched.length;
