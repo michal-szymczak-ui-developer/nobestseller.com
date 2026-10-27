@@ -1,0 +1,98 @@
+{
+ "nazwa": "Guillermo del Toro – Closet Picks",
+ "grupa": "Reżyserzy",
+ "opis": "Filmy wybrane przez Guillermo del Toro podczas wizyty w Criterion Closet (2010). Uzupełnienie jego listy Top 10 z Criterion.",
+ "źródło": "https://www.criterion.com/shop/collection/645-guillermo-del-toro-s-closet-pick",
+ "pozycje": [
+  {
+   "tytuł": "Czerwone trzewiczki",
+   "tytuł_oryginalny": "The Red Shoes",
+   "reżyser": "Michael Powell, Emeric Pressburger",
+   "rok": "1948",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Młoda tancerka baletowa zostaje rozdarta między miłością do kompozytora a oddaniem sztuce wymagającego impresaria. Barwny dramat o cenie artystycznej obsesji."
+  },
+  {
+   "tytuł": "Ścieżki chwały",
+   "tytuł_oryginalny": "Paths of Glory",
+   "reżyser": "Stanley Kubrick",
+   "rok": "1957",
+   "kraj": "USA",
+   "gatunek": "Wojenny",
+   "kategoria_wiekowa": "12+",
+   "opis": "W 1916 roku francuscy dowódcy wydają rozkaz ataku bez szans powodzenia, a potem stawiają żołnierzy przed sądem polowym za tchórzostwo. Film jest oskarżeniem militarnego fanatyzmu."
+  },
+  {
+   "tytuł": "Magik",
+   "tytuł_oryginalny": "Ansiktet",
+   "reżyser": "Ingmar Bergman",
+   "rok": "1958",
+   "kraj": "Szwecja",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Wędrowna trupa magika i hipnotyzera trafia do szwedzkiego miasteczka, gdzie lokalni notable chcą zdemaskować jej sztuczki. Rzecz o iluzji, wierze i rozczarowaniu."
+  },
+  {
+   "tytuł": "Czarny Orfeusz",
+   "tytuł_oryginalny": "Orfeu Negro",
+   "reżyser": "Marcel Camus",
+   "rok": "1959",
+   "kraj": "Francja",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Mit o Orfeuszu i Eurydyce przeniesiony na karnawał w Rio de Janeiro. Wagoniarz tramwajowy i dziewczyna uciekająca przed tajemniczym prześladowcą."
+  },
+  {
+   "tytuł": "400 batów",
+   "tytuł_oryginalny": "Les Quatre Cents Coups",
+   "reżyser": "François Truffaut",
+   "rok": "1959",
+   "kraj": "Francja",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Paryski chłopiec, niezrozumiany w domu i w szkole, wpada w kłopoty i trafia do poprawczaka. Półautobiograficzny debiut Truffauta i jeden z filmów otwierających Nową Falę."
+  },
+  {
+   "tytuł": "Charade",
+   "tytuł_oryginalny": "Charade",
+   "reżyser": "Stanley Donen",
+   "rok": "1963",
+   "kraj": "USA",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "12+",
+   "opis": "Wdowa po zamordowanym mężu jest ścigana przez jego dawnych wspólników, którzy chcą odzyskać zaginione pieniądze. Elegancki thriller z humorem, rozgrywający się w Paryżu."
+  },
+  {
+   "tytuł": "Wstręt",
+   "tytuł_oryginalny": "Repulsion",
+   "reżyser": "Roman Polański",
+   "rok": "1965",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "16+",
+   "opis": "Samotna, lękliwa manikiurzystka w londyńskim mieszkaniu stopniowo traci kontakt z rzeczywistością. Psychologiczny horror o paranoi i wstręcie do seksualności."
+  },
+  {
+   "tytuł": "Crumb",
+   "tytuł_oryginalny": "Crumb",
+   "reżyser": "Terry Zwigoff",
+   "rok": "1994",
+   "kraj": "USA",
+   "gatunek": "Dokumentalny",
+   "kategoria_wiekowa": "16+",
+   "opis": "Portret rysownika komiksów Roberta Crumba i jego rodziny. Dokument o twórcy kontrkultury, jego obsesjach i zniszczonych relacjach."
+  },
+  {
+   "tytuł": "Cienka czerwona linia",
+   "tytuł_oryginalny": "The Thin Red Line",
+   "reżyser": "Terrence Malick",
+   "rok": "1998",
+   "kraj": "USA",
+   "gatunek": "Wojenny",
+   "kategoria_wiekowa": "16+",
+   "opis": "Amerykańscy żołnierze walczą o wyspę Guadalcanal w czasie II wojny światowej. Kontemplacyjny film wojenny o naturze, przemocy i śmierci."
+  }
+ ]
+}

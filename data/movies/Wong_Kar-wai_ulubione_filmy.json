@@ -1,0 +1,78 @@
+{
+ "nazwa": "Wong Kar-wai",
+ "grupa": "Reżyserzy",
+ "opis": "Pięć ulubionych filmów (siedem tytułów, bo trylogia Apu to trzy filmy) podanych przez Wonga Kar-waia w wywiadzie dla Newsweeka w 2004 roku.",
+ "źródło": "https://faroutmagazine.co.uk/wong-kar-wai-names-his-five-favourite-movies-of-all-time-pic/",
+ "pozycje": [
+  {
+   "tytuł": "Pather Panchali",
+   "tytuł_oryginalny": "Pather Panchali",
+   "reżyser": "Satyajit Ray",
+   "rok": "1955",
+   "kraj": "Indie",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Dzieciństwo chłopca Apu w ubogiej bengalskiej wsi, pierwsza część trylogii Apu. Wonga Kar-waia urzekło w niej człowieczeństwo bohaterów."
+  },
+  {
+   "tytuł": "Aparajito",
+   "tytuł_oryginalny": "Aparajito",
+   "reżyser": "Satyajit Ray",
+   "rok": "1956",
+   "kraj": "Indie",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Apu opuszcza wieś, by uczyć się w Benares i Kalkucie, a relacja z matką słabnie. Druga część trylogii Apu."
+  },
+  {
+   "tytuł": "Świat Apu",
+   "tytuł_oryginalny": "Apur Sansar",
+   "reżyser": "Satyajit Ray",
+   "rok": "1959",
+   "kraj": "Indie",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Dorosły Apu, początkujący pisarz w Kalkucie, zawiera nietypowe małżeństwo i mierzy się ze stratą. Zamknięcie trylogii Apu."
+  },
+  {
+   "tytuł": "Wiosna w małym miasteczku",
+   "tytuł_oryginalny": "Xiao cheng zhi chun",
+   "reżyser": "Fei Mu",
+   "rok": "1948",
+   "kraj": "Chiny",
+   "gatunek": "Romans",
+   "kategoria_wiekowa": "12+",
+   "opis": "W zrujnowanym po wojnie miasteczku wraca dawny ukochany żony schorowanego właściciela posiadłości. Subtelny dramat o tłumionych uczuciach, uznawany za klasykę kina chińskiego."
+  },
+  {
+   "tytuł": "Do utraty tchu",
+   "tytuł_oryginalny": "À bout de souffle",
+   "reżyser": "Jean-Luc Godard",
+   "rok": "1960",
+   "kraj": "Francja",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "12+",
+   "opis": "Drobny przestępca po zabiciu policjanta ukrywa się w Paryżu u amerykańskiej studentki. Debiut Godarda i manifest Nowej Fali, który Wong Kar-wai cenił za poezję."
+  },
+  {
+   "tytuł": "Jesień rodziny Kohayagawa",
+   "tytuł_oryginalny": "Kohayagawa-ke no aki",
+   "reżyser": "Yasujirō Ozu",
+   "rok": "1961",
+   "kraj": "Japonia",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "6+",
+   "opis": "Rodzina właściciela rodzinnej browarni w Osace mierzy się z jego starością i sprawami spadkowymi. W angielskich opracowaniach znany też jako „Early Autumn” lub „The End of Summer”."
+  },
+  {
+   "tytuł": "Zawrót głowy",
+   "tytuł_oryginalny": "Vertigo",
+   "reżyser": "Alfred Hitchcock",
+   "rok": "1958",
+   "kraj": "USA",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "12+",
+   "opis": "Emerytowany detektyw z lękiem wysokości śledzi tajemniczą kobietę, a potem popada w obsesję na punkcie jej sobowtóra. Hitchcockowski thriller o obsesji i tożsamości."
+  }
+ ]
+}

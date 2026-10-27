@@ -1,0 +1,138 @@
+{
+ "nazwa": "Park Chan-wook",
+ "grupa": "Reżyserzy",
+ "opis": "Wybory Park Chan-wooka z Criterion Closet (2023). Wybrał też zestaw „Godzilla: The Showa-Era Films, 1954–1975”; tu ujęto z niego pierwszy film.",
+ "źródło": "https://www.criterion.com/shop/collection/575-park-chan-wook-s-closet-picks",
+ "pozycje": [
+  {
+   "tytuł": "Dyliżans",
+   "tytuł_oryginalny": "Stagecoach",
+   "reżyser": "John Ford",
+   "rok": "1939",
+   "kraj": "USA",
+   "gatunek": "Przygodowy",
+   "kategoria_wiekowa": "12+",
+   "opis": "Grupa pasażerów dyliżansu przemierza terytorium Apaczów, a po drodze wychodzą na jaw ich tajemnice. Klasyczny western, który uczynił gwiazdę z Johna Wayne'a."
+  },
+  {
+   "tytuł": "Spotkanie",
+   "tytuł_oryginalny": "Brief Encounter",
+   "reżyser": "David Lean",
+   "rok": "1945",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Romans",
+   "kategoria_wiekowa": "6+",
+   "opis": "Zamężna kobieta przypadkiem poznaje na peronie lekarza, a ich cotygodniowe spotkania przeradzają się w uczucie. Stonowany melodramat według sztuki Noëla Cowarda."
+  },
+  {
+   "tytuł": "Milczenie morza",
+   "tytuł_oryginalny": "Le Silence de la mer",
+   "reżyser": "Jean-Pierre Melville",
+   "rok": "1949",
+   "kraj": "Francja",
+   "gatunek": "Wojenny",
+   "kategoria_wiekowa": "12+",
+   "opis": "W okupowanej Francji stary człowiek i jego siostrzenica milczeniem odpowiadają na monologi kwaterującego u nich niemieckiego oficera. Debiut Melville'a według noweli Vercorsa."
+  },
+  {
+   "tytuł": "Godzilla",
+   "tytuł_oryginalny": "Gojira",
+   "reżyser": "Ishirō Honda",
+   "rok": "1954",
+   "kraj": "Japonia",
+   "gatunek": "Science fiction",
+   "kategoria_wiekowa": "12+",
+   "opis": "Prehistoryczny potwór, obudzony próbami jądrowymi, atakuje Tokio. Pierwszy film serii i metafora traumy po Hiroszimie i Nagasaki."
+  },
+  {
+   "tytuł": "Riot in Cell Block 11",
+   "tytuł_oryginalny": "Riot in Cell Block 11",
+   "reżyser": "Don Siegel",
+   "rok": "1954",
+   "kraj": "USA",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "12+",
+   "opis": "Więźniowie przejmują kontrolę nad blokiem i żądają poprawy warunków, a dyrektor próbuje negocjować. Surowy dramat więzienny w reżyserii Dona Siegela."
+  },
+  {
+   "tytuł": "Magik",
+   "tytuł_oryginalny": "Ansiktet",
+   "reżyser": "Ingmar Bergman",
+   "rok": "1958",
+   "kraj": "Szwecja",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Wędrowna trupa magika i hipnotyzera trafia do szwedzkiego miasteczka, gdzie lokalni notable chcą zdemaskować jej sztuczki. Rzecz o iluzji, wierze i rozczarowaniu."
+  },
+  {
+   "tytuł": "Kuzyni",
+   "tytuł_oryginalny": "Les Cousins",
+   "reżyser": "Claude Chabrol",
+   "rok": "1959",
+   "kraj": "Francja",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Prowincjonalny student przeprowadza się do Paryża, gdzie zamieszkuje z cynicznym, beztroskim kuzynem. Film Nowej Fali o rywalizacji dwóch odmiennych charakterów."
+  },
+  {
+   "tytuł": "Noc",
+   "tytuł_oryginalny": "La notte",
+   "reżyser": "Michelangelo Antonioni",
+   "rok": "1961",
+   "kraj": "Włochy",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Pisarz i jego żona spędzają w Mediolanie dzień i noc, podczas których wygasające małżeństwo wychodzi na jaw. Środkowa część trylogii o wyobcowaniu Antonioniego."
+  },
+  {
+   "tytuł": "Lampart",
+   "tytuł_oryginalny": "Il gattopardo",
+   "reżyser": "Luchino Visconti",
+   "rok": "1963",
+   "kraj": "Włochy",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Sycylijski książę obserwuje upadek arystokracji w czasie zjednoczenia Włoch. Epicka adaptacja powieści Giuseppe Tomasiego di Lampedusy."
+  },
+  {
+   "tytuł": "Czerwona pustynia",
+   "tytuł_oryginalny": "Il deserto rosso",
+   "reżyser": "Michelangelo Antonioni",
+   "rok": "1964",
+   "kraj": "Włochy",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Kobieta po załamaniu nerwowym błąka się po uprzemysłowionej okolicy Rawenny. Pierwszy kolorowy film Antonioniego o alienacji we współczesnym świecie."
+  },
+  {
+   "tytuł": "Siostry Makioka",
+   "tytuł_oryginalny": "Sasameyuki",
+   "reżyser": "Kon Ichikawa",
+   "rok": "1983",
+   "kraj": "Japonia",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Cztery siostry z upadającego osakijskiego rodu kupieckiego próbują wydać za mąż najmłodsze panny. Adaptacja powieści Jun'ichirō Tanizakiego."
+  },
+  {
+   "tytuł": "Blow Out",
+   "tytuł_oryginalny": "Blow Out",
+   "reżyser": "Brian De Palma",
+   "rok": "1981",
+   "kraj": "USA",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "16+",
+   "opis": "Dźwiękowiec nagrywający odgłosy do taniego horroru przypadkiem rejestruje dźwięk strzału, który zabił polityka. Thriller konspiracyjny inspirowany „Powiększeniem”."
+  },
+  {
+   "tytuł": "Życie jest słodkie",
+   "tytuł_oryginalny": "Life Is Sweet",
+   "reżyser": "Mike Leigh",
+   "rok": "1990",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "12+",
+   "opis": "Codzienność robotniczej rodziny z przedmieść Londynu, w której dwie dorosłe córki są skrajnie różne. Tragikomedia obyczajowa."
+  }
+ ]
+}

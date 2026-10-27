@@ -1,0 +1,418 @@
+{
+ "nazwa": "Pedro Almodóvar",
+ "grupa": "Reżyserzy",
+ "opis": "42 ulubione filmy Pedra Almodóvara, zebrane przez Mubi z sondaży i wyborów reżysera (Time Out 1995, Sight & Sound 1992, Nickelodeon 1994, El País 2010, AFI Fest 2012). Pominięto jeden tytuł („The Finger Man”, 1962), którego nie udało się jednoznacznie zidentyfikować.",
+ "źródło": "https://thefilmstage.com/pedro-almodovars-favorite-films-of-all-time",
+ "pozycje": [
+  {
+   "tytuł": "Easy Living",
+   "tytuł_oryginalny": "Easy Living",
+   "reżyser": "Mitchell Leisen",
+   "rok": "1937",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "6+",
+   "opis": "Futrzane palto, które spada z dachu na głowę zwykłej maszynistki, wywołuje lawinę nieporozumień. Komedia screwballowa o pieniądzach i pozorach."
+  },
+  {
+   "tytuł": "Midnight",
+   "tytuł_oryginalny": "Midnight",
+   "reżyser": "Mitchell Leisen",
+   "rok": "1939",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "6+",
+   "opis": "Amerykańska tancerka w Paryżu udaje arystokratkę, by pomóc taksówkarzowi i oszukać bogatych znajomych. Elegancka komedia według scenariusza Billy'ego Wildera i Charlesa Brackett."
+  },
+  {
+   "tytuł": "Reguła gry",
+   "tytuł_oryginalny": "La Règle du jeu",
+   "reżyser": "Jean Renoir",
+   "rok": "1939",
+   "kraj": "Francja",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "12+",
+   "opis": "Podczas weekendowego polowania w posiadłości arystokraty krzyżują się romanse panów i służby. Satyra na przedwojenną francuską elitę."
+  },
+  {
+   "tytuł": "Być albo nie być",
+   "tytuł_oryginalny": "To Be or Not to Be",
+   "reżyser": "Ernst Lubitsch",
+   "rok": "1942",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "12+",
+   "opis": "Trupa aktorów w okupowanej Warszawie wykorzystuje teatralne umiejętności, by wywieść w pole gestapo. Czarna komedia Ernsta Lubitscha."
+  },
+  {
+   "tytuł": "Leave Her to Heaven",
+   "tytuł_oryginalny": "Leave Her to Heaven",
+   "reżyser": "John M. Stahl",
+   "rok": "1945",
+   "kraj": "USA",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "12+",
+   "opis": "Piękna kobieta o chorobliwej zazdrości niszczy każdego, kto zagraża jej związkowi. Melodramat w technikolorze z elementami czarnego kryminału."
+  },
+  {
+   "tytuł": "Zabójcy",
+   "tytuł_oryginalny": "The Killers",
+   "reżyser": "Robert Siodmak",
+   "rok": "1946",
+   "kraj": "USA",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "12+",
+   "opis": "Śledczy bada śmierć byłego boksera, który nie próbował uciekać przed płatnymi zabójcami. Film noir według opowiadania Ernesta Hemingwaya."
+  },
+  {
+   "tytuł": "Out of the Past",
+   "tytuł_oryginalny": "Out of the Past",
+   "reżyser": "Jacques Tourneur",
+   "rok": "1947",
+   "kraj": "USA",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "12+",
+   "opis": "Były detektyw próbuje ukryć się w małym miasteczku, lecz przeszłość i femme fatale go dopadają. Klasyk filmu noir."
+  },
+  {
+   "tytuł": "Zaułek koszmarów",
+   "tytuł_oryginalny": "Nightmare Alley",
+   "reżyser": "Edmund Goulding",
+   "rok": "1947",
+   "kraj": "USA",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "16+",
+   "opis": "Ambitny pracownik wędrownego wesołego miasteczka uczy się sztuczek medium i wspina się po szczeblach oszustwa. Mroczny film noir."
+  },
+  {
+   "tytuł": "List od nieznajomej",
+   "tytuł_oryginalny": "Letter from an Unknown Woman",
+   "reżyser": "Max Ophüls",
+   "rok": "1948",
+   "kraj": "USA",
+   "gatunek": "Romans",
+   "kategoria_wiekowa": "12+",
+   "opis": "Pianista w wiedeńskiej noc czyta list od kobiety, która kochała go przez całe życie, a on jej nie pamiętał. Melodramat Ophülsa."
+  },
+  {
+   "tytuł": "Wszystko o Ewie",
+   "tytuł_oryginalny": "All About Eve",
+   "reżyser": "Joseph L. Mankiewicz",
+   "rok": "1950",
+   "kraj": "USA",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Młoda wielbicielka aktorki Margo Channing zdobywa jej zaufanie, by zająć jej miejsce na scenie. Cięty portret świata teatru."
+  },
+  {
+   "tytuł": "Rashomon",
+   "tytuł_oryginalny": "Rashōmon",
+   "reżyser": "Akira Kurosawa",
+   "rok": "1950",
+   "kraj": "Japonia",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "12+",
+   "opis": "Cztery osoby opowiadają sprzeczne wersje tego samego zabójstwa i gwałtu. Film pokazuje względność prawdy."
+  },
+  {
+   "tytuł": "Spokojny człowiek",
+   "tytuł_oryginalny": "The Quiet Man",
+   "reżyser": "John Ford",
+   "rok": "1952",
+   "kraj": "USA",
+   "gatunek": "Romans",
+   "kategoria_wiekowa": "6+",
+   "opis": "Amerykański bokser wraca do irlandzkiej wsi i zakochuje się w zadziornej rudowłosej dziewczynie. Pogodna komedia romantyczna Johna Forda."
+  },
+  {
+   "tytuł": "On",
+   "tytuł_oryginalny": "Él",
+   "reżyser": "Luis Buñuel",
+   "rok": "1953",
+   "kraj": "Meksyk",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "16+",
+   "opis": "Zamożny wdowiec ożeniony z młodą kobietą ulega paranoidalnej zazdrości. Psychologiczny dramat Luisa Buñuela."
+  },
+  {
+   "tytuł": "Podróż do Włoch",
+   "tytuł_oryginalny": "Viaggio in Italia",
+   "reżyser": "Roberto Rossellini",
+   "rok": "1954",
+   "kraj": "Włochy",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Angielskie małżeństwo jedzie do Neapolu, gdzie ich kryzys wychodzi na jaw. Przełomowy dramat małżeński Rosselliniego."
+  },
+  {
+   "tytuł": "Senso",
+   "tytuł_oryginalny": "Senso",
+   "reżyser": "Luchino Visconti",
+   "rok": "1954",
+   "kraj": "Włochy",
+   "gatunek": "Romans",
+   "kategoria_wiekowa": "12+",
+   "opis": "Weneckiej hrabinie, związanej z ruchem niepodległościowym, kusi austriacki oficer. Melodramat historyczny z czasów wojny o zjednoczenie Włoch."
+  },
+  {
+   "tytuł": "Johnny Guitar",
+   "tytuł_oryginalny": "Johnny Guitar",
+   "reżyser": "Nicholas Ray",
+   "rok": "1954",
+   "kraj": "USA",
+   "gatunek": "Przygodowy",
+   "kategoria_wiekowa": "12+",
+   "opis": "Właścicielka saloonu staje do konfrontacji z mieszkańcami miasteczka, którzy chcą ją wygnać. Nietypowy western o dwóch walczących kobietach."
+  },
+  {
+   "tytuł": "Noc myśliwego",
+   "tytuł_oryginalny": "The Night of the Hunter",
+   "reżyser": "Charles Laughton",
+   "rok": "1955",
+   "kraj": "USA",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "12+",
+   "opis": "Fałszywy kaznodzieja ściga dwójkę dzieci, które znają miejsce ukrycia skradzionych pieniędzy. Jedyny film reżyserski Charlesa Laughtona."
+  },
+  {
+   "tytuł": "Życie zbrodnicze Archibalda de la Cruz",
+   "tytuł_oryginalny": "Ensayo de un crimen",
+   "reżyser": "Luis Buñuel",
+   "rok": "1955",
+   "kraj": "Meksyk",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "16+",
+   "opis": "Mężczyzna, przekonany, że swoją wolą zabija ludzi, próbuje popełnić zbrodnię, ale za każdym razem ktoś go uprzedza. Czarna komedia Buñuela."
+  },
+  {
+   "tytuł": "Poszukiwacze",
+   "tytuł_oryginalny": "The Searchers",
+   "reżyser": "John Ford",
+   "rok": "1956",
+   "kraj": "USA",
+   "gatunek": "Przygodowy",
+   "kategoria_wiekowa": "12+",
+   "opis": "Weteran wojny secesyjnej przez lata szuka porwanej przez Komanczów bratanicy. Western Johna Forda."
+  },
+  {
+   "tytuł": "Zabawna buzia",
+   "tytuł_oryginalny": "Funny Face",
+   "reżyser": "Stanley Donen",
+   "rok": "1957",
+   "kraj": "USA",
+   "gatunek": "Romans",
+   "kategoria_wiekowa": "6+",
+   "opis": "Fotograf mody zamienia nieśmiałą księgarkę w modelkę i wyjeżdża z nią do Paryża. Musical z Audrey Hepburn i Fredem Astaire'em."
+  },
+  {
+   "tytuł": "Dotyk zła",
+   "tytuł_oryginalny": "Touch of Evil",
+   "reżyser": "Orson Welles",
+   "rok": "1958",
+   "kraj": "USA",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "12+",
+   "opis": "Meksykański policjant wpada w konflikt z skorumpowanym amerykańskim kapitanem po wybuchu samochodu na granicy. Film noir Orsona Wellesa."
+  },
+  {
+   "tytuł": "Zawrót głowy",
+   "tytuł_oryginalny": "Vertigo",
+   "reżyser": "Alfred Hitchcock",
+   "rok": "1958",
+   "kraj": "USA",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "12+",
+   "opis": "Emerytowany detektyw z lękiem wysokości śledzi tajemniczą kobietę, a potem popada w obsesję na punkcie jej sobowtóra. Hitchcockowski thriller o obsesji i tożsamości."
+  },
+  {
+   "tytuł": "Północ, północny zachód",
+   "tytuł_oryginalny": "North by Northwest",
+   "reżyser": "Alfred Hitchcock",
+   "rok": "1959",
+   "kraj": "USA",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "12+",
+   "opis": "Pomyłka sprawia, że reklamowiec zostaje ścigany przez szpiegów i policję w całych Stanach Zjednoczonych. Szpiegowski thriller Hitchcocka."
+  },
+  {
+   "tytuł": "Pół żartem, pół serio",
+   "tytuł_oryginalny": "Some Like It Hot",
+   "reżyser": "Billy Wilder",
+   "rok": "1959",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "12+",
+   "opis": "Dwaj muzycy, którzy byli świadkami gangsterskiej egzekucji, przebierają się za kobiety i dołączają do kobiecej orkiestry. Klasyczna komedia Wildera."
+  },
+  {
+   "tytuł": "Garsoniera",
+   "tytuł_oryginalny": "The Apartment",
+   "reżyser": "Billy Wilder",
+   "rok": "1960",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "12+",
+   "opis": "Urzędnik wypożycza swoje mieszkanie zwierzchnikom na schadzki, by awansować, i zakochuje się w windziarce. Gorzka komedia romantyczna Wildera."
+  },
+  {
+   "tytuł": "Oczy bez twarzy",
+   "tytuł_oryginalny": "Les yeux sans visage",
+   "reżyser": "Georges Franju",
+   "rok": "1960",
+   "kraj": "Francja",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "16+",
+   "opis": "Chirurg próbuje przeszczepić twarz córce, która została oszpecona w wypadku. Francuski horror poetycki."
+  },
+  {
+   "tytuł": "Viridiana",
+   "tytuł_oryginalny": "Viridiana",
+   "reżyser": "Luis Buñuel",
+   "rok": "1961",
+   "kraj": "Hiszpania",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "Nowicjuszka odwiedza wuja i próbuje dobrocią ratować nędzarzy, lecz napotyka ludzką naturę. Skandalizujący film Buñuela."
+  },
+  {
+   "tytuł": "Splendor in the Grass",
+   "tytuł_oryginalny": "Splendor in the Grass",
+   "reżyser": "Elia Kazan",
+   "rok": "1961",
+   "kraj": "USA",
+   "gatunek": "Romans",
+   "kategoria_wiekowa": "12+",
+   "opis": "Dwoje nastolatków w Kansas w latach 20. rozdziera presja moralna i rodzice. Melodramat Elii Kazana z Natalie Wood."
+  },
+  {
+   "tytuł": "Kat",
+   "tytuł_oryginalny": "El verdugo",
+   "reżyser": "Luis García Berlanga",
+   "rok": "1963",
+   "kraj": "Hiszpania",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "12+",
+   "opis": "Pracownik zakładu pogrzebowego, by dostać mieszkanie, zostaje katem w Hiszpanii Franco. Czarna komedia Berlangi."
+  },
+  {
+   "tytuł": "Osiem i pół",
+   "tytuł_oryginalny": "8½",
+   "reżyser": "Federico Fellini",
+   "rok": "1963",
+   "kraj": "Włochy",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Reżyser w kryzysie twórczym przeżywa wspomnienia, fantazje i obowiązki zawodowe. Autotematyczny film Felliniego."
+  },
+  {
+   "tytuł": "Czerwona pustynia",
+   "tytuł_oryginalny": "Il deserto rosso",
+   "reżyser": "Michelangelo Antonioni",
+   "rok": "1964",
+   "kraj": "Włochy",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Kobieta po załamaniu nerwowym błąka się po uprzemysłowionej okolicy Rawenny. Pierwszy kolorowy film Antonioniego o alienacji we współczesnym świecie."
+  },
+  {
+   "tytuł": "Czerwony krąg",
+   "tytuł_oryginalny": "Le Cercle rouge",
+   "reżyser": "Jean-Pierre Melville",
+   "rok": "1970",
+   "kraj": "Francja",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "12+",
+   "opis": "Świeżo zwolniony z więzienia przestępca, zbieg i były policjant planują skok na paryski jubilerski sklep. Chłodny film kryminalny Melville'a."
+  },
+  {
+   "tytuł": "Amarcord",
+   "tytuł_oryginalny": "Amarcord",
+   "reżyser": "Federico Fellini",
+   "rok": "1973",
+   "kraj": "Włochy",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "12+",
+   "opis": "Rok z życia mieszkańców prowincjonalnego miasteczka we faszystowskich Włoszech lat 30. Wspomnieniowa komedia Felliniego."
+  },
+  {
+   "tytuł": "Ojciec chrzestny II",
+   "tytuł_oryginalny": "The Godfather: Part II",
+   "reżyser": "Francis Ford Coppola",
+   "rok": "1974",
+   "kraj": "USA",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "16+",
+   "opis": "Michael Corleone umacnia władzę rodziny, a równolegle poznajemy młodość jego ojca Vita. Kontynuacja „Ojca chrzestnego”."
+  },
+  {
+   "tytuł": "Taksówkarz",
+   "tytuł_oryginalny": "Taxi Driver",
+   "reżyser": "Martin Scorsese",
+   "rok": "1976",
+   "kraj": "USA",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "18+",
+   "opis": "Samotny weteran wojny wietnamskiej pracuje jako nocny taksówkarz w Nowym Jorku i stopniowo popada w obsesję. Portret wyobcowania w wielkim mieście."
+  },
+  {
+   "tytuł": "Opening Night",
+   "tytuł_oryginalny": "Opening Night",
+   "reżyser": "John Cassavetes",
+   "rok": "1977",
+   "kraj": "USA",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Aktorka teatralna, po śmierci młodej wielbicielki, przeżywa kryzys podczas prób do sztuki. Dramat Johna Cassavetesa z Giną Rowlands."
+  },
+  {
+   "tytuł": "Wściekły Byk",
+   "tytuł_oryginalny": "Raging Bull",
+   "reżyser": "Martin Scorsese",
+   "rok": "1980",
+   "kraj": "USA",
+   "gatunek": "Biograficzny",
+   "kategoria_wiekowa": "18+",
+   "opis": "Historia boksera Jake'a LaMotty, jego sukcesów w ringu i autodestrukcyjnej zazdrości. Czarno-biały film Martina Scorsese."
+  },
+  {
+   "tytuł": "Blue Velvet",
+   "tytuł_oryginalny": "Blue Velvet",
+   "reżyser": "David Lynch",
+   "rok": "1986",
+   "kraj": "USA",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "18+",
+   "opis": "Student znajduje w polu odcięte ucho i wciąga się w mroczny świat prowincjonalnego miasteczka. Surrealistyczny thriller Davida Lyncha."
+  },
+  {
+   "tytuł": "Zmarli",
+   "tytuł_oryginalny": "The Dead",
+   "reżyser": "John Huston",
+   "rok": "1987",
+   "kraj": "USA",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "6+",
+   "opis": "Podczas świątecznego przyjęcia w Dublinie na początku XX wieku wspomnienia przywołują dawną miłość. Adaptacja opowiadania Jamesa Joyce'a, ostatni film Johna Hustona."
+  },
+  {
+   "tytuł": "Mężowie i żony",
+   "tytuł_oryginalny": "Husbands and Wives",
+   "reżyser": "Woody Allen",
+   "rok": "1992",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "16+",
+   "opis": "Rozpad małżeństwa przyjaciół wywołuje kryzys w związku nowojorskich intelektualistów. Film nakręcony w stylu fałszywego dokumentu."
+  },
+  {
+   "tytuł": "Lista Schindlera",
+   "tytuł_oryginalny": "Schindler's List",
+   "reżyser": "Steven Spielberg",
+   "rok": "1993",
+   "kraj": "USA",
+   "gatunek": "Wojenny",
+   "kategoria_wiekowa": "16+",
+   "opis": "Niemiecki przemysłowiec Oskar Schindler ratuje setki Żydów przed zagładą, zatrudniając ich w swojej fabryce. Dramat oparty na faktach."
+  }
+ ]
+}

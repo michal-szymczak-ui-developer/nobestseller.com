@@ -1,0 +1,4195 @@
+{
+ "nazwa": "Edgar Wright",
+ "grupa": "Reżyserzy",
+ "opis": "Filmy z 1980 roku i późniejsze z listy 1000 ulubionych filmów Edgara Wrighta (Mubi/Letterboxd, aktualizowana do 2024). Pominięto filmy sprzed 1980 oraz własne filmy reżysera, których nie ma na liście.",
+ "źródło": "https://nofilmschool.com/edgar-wrights-1000-favorite-movies",
+ "pozycje": [
+  {
+   "tytuł": "Czy leci z nami pilot?",
+   "tytuł_oryginalny": "Airplane!",
+   "reżyser": "Jim Abrahams, David Zucker, Jerry Zucker",
+   "rok": "1980",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "12+",
+   "opis": "Pasażerowie samolotu zatruwają się jedzeniem, a lotem musi pokierować były pilot z lękiem przed lataniem. Parodia filmów katastroficznych, pełna gagów."
+  },
+  {
+   "tytuł": "Dressed to Kill",
+   "tytuł_oryginalny": "Dressed to Kill",
+   "reżyser": "Brian De Palma",
+   "rok": "1980",
+   "kraj": "USA",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "18+",
+   "opis": "Po zabójstwie kobiety w windzie świadkowie, w tym prostytutka i syn ofiary, próbują wytropić mordercę. Thriller w stylu Hitchcocka."
+  },
+  {
+   "tytuł": "Flash Gordon",
+   "tytuł_oryginalny": "Flash Gordon",
+   "reżyser": "Mike Hodges",
+   "rok": "1980",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Science fiction",
+   "kategoria_wiekowa": "6+",
+   "opis": "Zawodnik futbolu amerykańskiego trafia na planetę Mongo i staje do walki z tyranem Mingiem. Barwna ekranizacja klasycznego komiksu, z muzyką zespołu Queen."
+  },
+  {
+   "tytuł": "Gregory's Girl",
+   "tytuł_oryginalny": "Gregory's Girl",
+   "reżyser": "Bill Forsyth",
+   "rok": "1980",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "12+",
+   "opis": "Szkolny piłkarz zakochuje się w dziewczynie, która zajęła jego miejsce w drużynie. Szkocka komedia o dorastaniu."
+  },
+  {
+   "tytuł": "Wściekły Byk",
+   "tytuł_oryginalny": "Raging Bull",
+   "reżyser": "Martin Scorsese",
+   "rok": "1980",
+   "kraj": "USA",
+   "gatunek": "Biograficzny",
+   "kategoria_wiekowa": "18+",
+   "opis": "Historia boksera Jake'a LaMotty, jego sukcesów w ringu i autodestrukcyjnej zazdrości. Czarno-biały film Martina Scorsese."
+  },
+  {
+   "tytuł": "Gwiezdne wojny: część V – Imperium kontratakuje",
+   "tytuł_oryginalny": "Star Wars: Episode V - The Empire Strikes Back",
+   "reżyser": "Irvin Kershner",
+   "rok": "1980",
+   "kraj": "USA",
+   "gatunek": "Science fiction",
+   "kategoria_wiekowa": "6+",
+   "opis": "Imperium rozbija bazę rebeliantów, a Luke Skywalker kontynuuje szkolenie u mistrza Yody. Druga część oryginalnej trylogii."
+  },
+  {
+   "tytuł": "Superman II",
+   "tytuł_oryginalny": "Superman II",
+   "reżyser": "Richard Lester",
+   "rok": "1980",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Science fiction",
+   "kategoria_wiekowa": "6+",
+   "opis": "Trzej zbiegli z Fantomowej Strefy zbrodniarze z Kryptona przejmują Ziemię, a Superman rezygnuje z mocy dla miłości. Kontynuacja filmu z 1978 roku."
+  },
+  {
+   "tytuł": "Blues Brothers",
+   "tytuł_oryginalny": "The Blues Brothers",
+   "reżyser": "John Landis",
+   "rok": "1980",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "12+",
+   "opis": "Dwaj bracia po wyjściu jednego z więzienia próbują reaktywować zespół, by uratować sierociniec. Musical i komedia z gwiazdami bluesa i soulu."
+  },
+  {
+   "tytuł": "The Changeling",
+   "tytuł_oryginalny": "The Changeling",
+   "reżyser": "Peter Medak",
+   "rok": "1980",
+   "kraj": "Kanada",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "16+",
+   "opis": "Kompozytor po śmierci rodziny wprowadza się do starego domu, w którym straszy duch zamordowanego dziecka. Klasyczna opowieść o nawiedzonym domu."
+  },
+  {
+   "tytuł": "Człowiek słoń",
+   "tytuł_oryginalny": "The Elephant Man",
+   "reżyser": "David Lynch",
+   "rok": "1980",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Londyński chirurg ratuje okaleczonego Josepha Merricka z cyrku osobliwości i pokazuje światu jego człowieczeństwo. Oparty na faktach, czarno-biały film Davida Lyncha."
+  },
+  {
+   "tytuł": "Mgła",
+   "tytuł_oryginalny": "The Fog",
+   "reżyser": "John Carpenter",
+   "rok": "1980",
+   "kraj": "USA",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "16+",
+   "opis": "Przybrzeżne miasteczko w setną rocznicę założenia nawiedza złowroga mgła, w której kryją się duchy zamordowanych marynarzy. Horror Johna Carpentera."
+  },
+  {
+   "tytuł": "The Long Good Friday",
+   "tytuł_oryginalny": "The Long Good Friday",
+   "reżyser": "John Mackenzie",
+   "rok": "1980",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "16+",
+   "opis": "Londyński gangster przygotowuje wielki interes, a tajemnicze zamachy bombowe zaczynają niszczyć jego imperium. Brytyjski film gangsterski."
+  },
+  {
+   "tytuł": "The Ninth Configuration",
+   "tytuł_oryginalny": "The Ninth Configuration",
+   "reżyser": "William Peter Blatty",
+   "rok": "1980",
+   "kraj": "USA",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "Wojskowy psychiatra obejmuje zamek, w którym leczeni są żołnierze z urojeniami, i zaczyna wątpić w swój zdrowy rozsądek. Filozoficzna czarna komedia."
+  },
+  {
+   "tytuł": "Lśnienie",
+   "tytuł_oryginalny": "The Shining",
+   "reżyser": "Stanley Kubrick",
+   "rok": "1980",
+   "kraj": "USA",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "18+",
+   "opis": "Pisarz z rodziną zostaje dozorcą odciętego od świata hotelu, który powoli doprowadza go do szaleństwa. Horror Stanleya Kubricka według powieści Stephena Kinga."
+  },
+  {
+   "tytuł": "The Stunt Man",
+   "tytuł_oryginalny": "The Stunt Man",
+   "reżyser": "Richard Rush",
+   "rok": "1980",
+   "kraj": "USA",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "16+",
+   "opis": "Uciekinier przed policją zostaje kaskaderem na planie filmu, kierowanym przez przebiegłego reżysera. Czarna komedia o iluzji i rzeczywistości."
+  },
+  {
+   "tytuł": "Amerykański wilkołak w Londynie",
+   "tytuł_oryginalny": "An American Werewolf in London",
+   "reżyser": "John Landis",
+   "rok": "1981",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "18+",
+   "opis": "Dwaj amerykańscy turyści zostają zaatakowani na angielskich wrzosowiskach, a jeden z nich zaczyna zmieniać się w wilkołaka. Film łączy makabrę z czarnym humorem."
+  },
+  {
+   "tytuł": "Blow Out",
+   "tytuł_oryginalny": "Blow Out",
+   "reżyser": "Brian De Palma",
+   "rok": "1981",
+   "kraj": "USA",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "16+",
+   "opis": "Dźwiękowiec nagrywający odgłosy do taniego horroru przypadkiem rejestruje dźwięk strzału, który zabił polityka. Thriller konspiracyjny inspirowany „Powiększeniem”."
+  },
+  {
+   "tytuł": "Żar ciała",
+   "tytuł_oryginalny": "Body Heat",
+   "reżyser": "Lawrence Kasdan",
+   "rok": "1981",
+   "kraj": "USA",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "16+",
+   "opis": "Prawnik z Florydy wdaje się w romans z zamężną kobietą i daje się wciągnąć w plan zabójstwa jej męża. Neo-noir z upalnego południa USA."
+  },
+  {
+   "tytuł": "Cutter's Way",
+   "tytuł_oryginalny": "Cutter's Way",
+   "reżyser": "Ivan Passer",
+   "rok": "1981",
+   "kraj": "USA",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "16+",
+   "opis": "Weteran wojny w Wietnamie i jego przyjaciel próbują ustalić sprawcę morderstwa, którego jeden z nich widział przypadkiem. Film łączy kryminał z portretem rozczarowanego pokolenia."
+  },
+  {
+   "tytuł": "Dance Craze",
+   "tytuł_oryginalny": "Dance Craze",
+   "reżyser": "Joe Massot",
+   "rok": "1981",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Dokumentalny",
+   "kategoria_wiekowa": "12+",
+   "opis": "Film koncertowy z występami brytyjskich zespołów ska drugiej fali, m.in. The Specials, Madness i The Selecter. Dokument z nagraniami z 1980 roku."
+  },
+  {
+   "tytuł": "Diva",
+   "tytuł_oryginalny": "Diva",
+   "reżyser": "Jean-Jacques Beineix",
+   "rok": "1981",
+   "kraj": "Francja",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "16+",
+   "opis": "Młody listonosz nagrywa potajemnie koncert śpiewaczki i przez przypadek wchodzi w posiadanie taśmy, o którą ścigają go gangsterzy i policja. Francuski thriller w stylu cinéma du look."
+  },
+  {
+   "tytuł": "Ucieczka z Nowego Jorku",
+   "tytuł_oryginalny": "Escape from New York",
+   "reżyser": "John Carpenter",
+   "rok": "1981",
+   "kraj": "USA",
+   "gatunek": "Science fiction",
+   "kategoria_wiekowa": "16+",
+   "opis": "W 1997 roku Manhattan jest więzieniem o zaostrzonym rygorze, a skazany Snake Plissken ma uratować prezydenta USA z rozbitego samolotu. Film akcji science fiction."
+  },
+  {
+   "tytuł": "Looker",
+   "tytuł_oryginalny": "Looker",
+   "reżyser": "Michael Crichton",
+   "rok": "1981",
+   "kraj": "USA",
+   "gatunek": "Science fiction",
+   "kategoria_wiekowa": "16+",
+   "opis": "Chirurg plastyczny odkrywa, że modelki, którym poprawiał urodę, giną w niewyjaśnionych okolicznościach. Ślad prowadzi do firmy reklamowej stosującej nowe technologie."
+  },
+  {
+   "tytuł": "Mad Max 2: Wojownik szos",
+   "tytuł_oryginalny": "Mad Max 2",
+   "reżyser": "George Miller",
+   "rok": "1981",
+   "kraj": "Australia",
+   "gatunek": "Akcja",
+   "kategoria_wiekowa": "16+",
+   "opis": "Po upadku cywilizacji Max pomaga grupie osadników bronić rafinerii przed bandą motocyklistów. Postapokaliptyczny film akcji."
+  },
+  {
+   "tytuł": "Modern Romance",
+   "tytuł_oryginalny": "Modern Romance",
+   "reżyser": "Albert Brooks",
+   "rok": "1981",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "16+",
+   "opis": "Montażysta filmowy Robert zrywa ze swoją dziewczyną i natychmiast tego żałuje, po czym próbuje ją odzyskać. Komedia z ironią obnaża niepewność i obsesje współczesnych związków."
+  },
+  {
+   "tytuł": "Ms. 45",
+   "tytuł_oryginalny": "Ms .45",
+   "reżyser": "Abel Ferrara",
+   "rok": "1981",
+   "kraj": "USA",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "18+",
+   "opis": "Niema krawcowa z Nowego Jorku po dwóch napaściach zaczyna mścić się na mężczyznach. Niskobudżetowy film z nurtu rape and revenge."
+  },
+  {
+   "tytuł": "Indiana Jones i poszukiwacze zaginionej Arki",
+   "tytuł_oryginalny": "Raiders of the Lost Ark",
+   "reżyser": "Steven Spielberg",
+   "rok": "1981",
+   "kraj": "USA",
+   "gatunek": "Przygodowy",
+   "kategoria_wiekowa": "12+",
+   "opis": "Archeolog Indiana Jones rywalizuje z nazistami o odnalezienie Arki Przymierza. Film rozpoczyna serię przygodową.",
+   "miejsce_w_rankingu": 5
+  },
+  {
+   "tytuł": "Roadgames",
+   "tytuł_oryginalny": "Roadgames",
+   "reżyser": "Richard Franklin",
+   "rok": "1981",
+   "kraj": "Australia",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "16+",
+   "opis": "Kierowca ciężarówki jadący przez australijską pustynię podejrzewa, że spotkany na trasie kierowca vana jest seryjnym mordercą. Thriller w stylu Hitchcocka."
+  },
+  {
+   "tytuł": "Southern Comfort",
+   "tytuł_oryginalny": "Southern Comfort",
+   "reżyser": "Walter Hill",
+   "rok": "1981",
+   "kraj": "USA",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "16+",
+   "opis": "Oddział Gwardii Narodowej na ćwiczeniach w bagnach Luizjany naraża się miejscowym traperom i staje się celem ich ataków. Film o przetrwaniu i eskalacji przemocy."
+  },
+  {
+   "tytuł": "Martwe zło",
+   "tytuł_oryginalny": "The Evil Dead",
+   "reżyser": "Sam Raimi",
+   "rok": "1981",
+   "kraj": "USA",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "18+",
+   "opis": "Pięcioro studentów znajduje w leśnej chacie księgę umarłych i budzi demony. Niskobudżetowy horror, który dał początek serii."
+  },
+  {
+   "tytuł": "Wycie",
+   "tytuł_oryginalny": "The Howling",
+   "reżyser": "Joe Dante",
+   "rok": "1981",
+   "kraj": "USA",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "16+",
+   "opis": "Dziennikarka telewizyjna po traumatycznych przeżyciach trafia do ośrodka na odludziu, którego mieszkańcami są wilkołaki."
+  },
+  {
+   "tytuł": "Złodziej",
+   "tytuł_oryginalny": "Thief",
+   "reżyser": "Michael Mann",
+   "rok": "1981",
+   "kraj": "USA",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "16+",
+   "opis": "Zawodowy włamywacz chce zarobić ostatni duży łup i wycofać się, ale wchodzi w układ z mafią chicagowską. Debiut kinowy Michaela Manna."
+  },
+  {
+   "tytuł": "Bandyci czasu",
+   "tytuł_oryginalny": "Time Bandits",
+   "reżyser": "Terry Gilliam",
+   "rok": "1981",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Fantasy",
+   "kategoria_wiekowa": "12+",
+   "opis": "Chłopiec dołącza do gromadki krasnali, która kradnie mapę czasu, i podróżuje przez epoki historii. Fantastyczna przygoda."
+  },
+  {
+   "tytuł": "48 godzin",
+   "tytuł_oryginalny": "48 Hrs.",
+   "reżyser": "Walter Hill",
+   "rok": "1982",
+   "kraj": "USA",
+   "gatunek": "Akcja",
+   "kategoria_wiekowa": "16+",
+   "opis": "Policjant zwalnia na 48 godzin skazańca, by wspólnie tropić zbiegłych morderców. Połączenie filmu akcji z komedią."
+  },
+  {
+   "tytuł": "Łowca androidów",
+   "tytuł_oryginalny": "Blade Runner",
+   "reżyser": "Ridley Scott",
+   "rok": "1982",
+   "kraj": "USA",
+   "gatunek": "Science fiction",
+   "kategoria_wiekowa": "16+",
+   "opis": "Były policjant Rick Deckard ściga w futurystycznym Los Angeles zbuntowane androidy. Nolan wskazywał go jako wpływ na wizualną stronę swoich filmów.",
+   "miejsce_w_rankingu": 53
+  },
+  {
+   "tytuł": "Creepshow",
+   "tytuł_oryginalny": "Creepshow",
+   "reżyser": "George A. Romero",
+   "rok": "1982",
+   "kraj": "USA",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "16+",
+   "opis": "Antologia pięciu opowieści grozy na podstawie scenariusza Stephena Kinga, stylizowana na komiksy z lat 50."
+  },
+  {
+   "tytuł": "E.T.",
+   "tytuł_oryginalny": "E.T. the Extra-Terrestrial",
+   "reżyser": "Steven Spielberg",
+   "rok": "1982",
+   "kraj": "USA",
+   "gatunek": "Familijny",
+   "kategoria_wiekowa": "6+",
+   "opis": "Chłopiec Elliott zaprzyjaźnia się z kosmitą pozostawionym na Ziemi i pomaga mu wrócić do domu. Film jest wzruszającą opowieścią o przyjaźni i samotności."
+  },
+  {
+   "tytuł": "Fanny i Aleksander",
+   "tytuł_oryginalny": "Fanny och Alexander",
+   "reżyser": "Ingmar Bergman",
+   "rok": "1982",
+   "kraj": "Szwecja",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Dwoje dzieci z bogatego rodu po śmierci ojca trafia do domu surowego biskupa-ojczyma. Epicki obraz dzieciństwa.",
+   "miejsce_w_rankingu": 83
+  },
+  {
+   "tytuł": "Fitzcarraldo",
+   "tytuł_oryginalny": "Fitzcarraldo",
+   "reżyser": "Werner Herzog",
+   "rok": "1982",
+   "kraj": "Niemcy",
+   "gatunek": "Przygodowy",
+   "kategoria_wiekowa": "12+",
+   "opis": "Pasjonat opery w Peru próbuje przeciągnąć parowiec przez górę, by sfinansować budowę opery w dżungli. Film z Klausem Kinskim."
+  },
+  {
+   "tytuł": "Koyaanisqatsi",
+   "tytuł_oryginalny": "Koyaanisqatsi",
+   "reżyser": "Godfrey Reggio",
+   "rok": "1982",
+   "kraj": "USA",
+   "gatunek": "Dokumentalny",
+   "kategoria_wiekowa": "6+",
+   "opis": "Film bez dialogów zestawia obrazy natury i miasta z muzyką Philipa Glassa, pokazując relację człowieka z technologią."
+  },
+  {
+   "tytuł": "Moonlighting",
+   "tytuł_oryginalny": "Moonlighting",
+   "reżyser": "Jerzy Skolimowski",
+   "rok": "1982",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Polscy robotnicy remontują dom w Londynie, a w Polsce wybucha stan wojenny, o czym brygadzista ukrywa przed ekipą informacje. Film Jerzego Skolimowskiego."
+  },
+  {
+   "tytuł": "Poltergeist",
+   "tytuł_oryginalny": "Poltergeist",
+   "reżyser": "Tobe Hooper",
+   "rok": "1982",
+   "kraj": "USA",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "16+",
+   "opis": "Podmiejski dom rodziny Freelingów staje się celem sił nadprzyrodzonych, które porywają najmłodszą córkę."
+  },
+  {
+   "tytuł": "Star Trek II: Gniew Khana",
+   "tytuł_oryginalny": "Star Trek II: The Wrath of Khan",
+   "reżyser": "Nicholas Meyer",
+   "rok": "1982",
+   "kraj": "USA",
+   "gatunek": "Science fiction",
+   "kategoria_wiekowa": "12+",
+   "opis": "Admirał Kirk staje do walki z genetycznie ulepszonym Khanem, który chce zemsty i kradnie urządzenie Genesis."
+  },
+  {
+   "tytuł": "Król komedii",
+   "tytuł_oryginalny": "The King of Comedy",
+   "reżyser": "Martin Scorsese",
+   "rok": "1982",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "16+",
+   "opis": "Natrętny fan komika porywa gwiazdę telewizji, by zdobyć szansę występu w programie. Czarna komedia o obsesji sławy.",
+   "miejsce_w_rankingu": 187
+  },
+  {
+   "tytuł": "Coś",
+   "tytuł_oryginalny": "The Thing",
+   "reżyser": "John Carpenter",
+   "rok": "1982",
+   "kraj": "USA",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "16+",
+   "opis": "Zespół badawczy na Antarktydzie walczy z obcą istotą, która przybiera postać ludzi. Klasyk horroru science fiction.",
+   "miejsce_w_rankingu": 82
+  },
+  {
+   "tytuł": "Werdykt",
+   "tytuł_oryginalny": "The Verdict",
+   "reżyser": "Sidney Lumet",
+   "rok": "1982",
+   "kraj": "USA",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Podupadły prawnik z Bostonu przyjmuje sprawę o błąd lekarski i staje przeciw wpływowym oponentom. Dramat sądowy."
+  },
+  {
+   "tytuł": "Świat według Garpa",
+   "tytuł_oryginalny": "The World According to Garp",
+   "reżyser": "George Roy Hill",
+   "rok": "1982",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "16+",
+   "opis": "Losy pisarza T.S. Garpa i jego matki, feministycznej działaczki, na tle ich niezwykłej rodziny. Adaptacja powieści Johna Irvinga."
+  },
+  {
+   "tytuł": "Tootsie",
+   "tytuł_oryginalny": "Tootsie",
+   "reżyser": "Sydney Pollack",
+   "rok": "1982",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "12+",
+   "opis": "Bezrobotny aktor przebiera się za kobietę, by dostać rolę w telenoweli, i zakochuje się w koleżance z planu. Komedia z Dustinem Hoffmanem."
+  },
+  {
+   "tytuł": "Vice Squad",
+   "tytuł_oryginalny": "Vice Squad",
+   "reżyser": "Gary Sherman",
+   "rok": "1982",
+   "kraj": "USA",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "18+",
+   "opis": "Prostytutka współpracuje z policją, by złapać psychopatycznego alfonsa, który zabija kobiety. Thriller akcji rozgrywający się w nocnym Los Angeles."
+  },
+  {
+   "tytuł": "Do utraty tchu",
+   "tytuł_oryginalny": "Breathless",
+   "reżyser": "Jim McBride",
+   "rok": "1983",
+   "kraj": "USA",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "16+",
+   "opis": "Amerykańska przeróbka filmu Godarda: złodziej samochodów zabija policjanta i ucieka z francuską studentką. Film z Richardem Gere'em."
+  },
+  {
+   "tytuł": "Christine",
+   "tytuł_oryginalny": "Christine",
+   "reżyser": "John Carpenter",
+   "rok": "1983",
+   "kraj": "USA",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "16+",
+   "opis": "Nastolatek kupuje stary Plymouth Fury, który zaczyna zabijać każdego, kto mu zagraża. Adaptacja powieści Stephena Kinga."
+  },
+  {
+   "tytuł": "Local Hero",
+   "tytuł_oryginalny": "Local Hero",
+   "reżyser": "Bill Forsyth",
+   "rok": "1983",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "6+",
+   "opis": "Młody przedstawiciel naftowego koncernu przyjeżdża do szkockiej wioski, by kupić ziemię pod rafinerię. Łagodna komedia o urokach prowincji.",
+   "miejsce_w_rankingu": 283
+  },
+  {
+   "tytuł": "Projekt A",
+   "tytuł_oryginalny": "Project A",
+   "reżyser": "Jackie Chan",
+   "rok": "1983",
+   "kraj": "Hongkong",
+   "gatunek": "Akcja",
+   "kategoria_wiekowa": "12+",
+   "opis": "Hongkoński strażnik wybrzeża rusza do walki z piratami w XIX wieku. Komedia kung-fu z popisami kaskaderskimi."
+  },
+  {
+   "tytuł": "Ryzykowny interes",
+   "tytuł_oryginalny": "Risky Business",
+   "reżyser": "Paul Brickman",
+   "rok": "1983",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "16+",
+   "opis": "Nastolatek, zostawiony na kilka dni sam w domu, zakłada tam przedsiębiorstwo towarzyskie. Komedia o dojrzewaniu z Tomem Cruise'em."
+  },
+  {
+   "tytuł": "Rumble Fish",
+   "tytuł_oryginalny": "Rumble Fish",
+   "reżyser": "Francis Ford Coppola",
+   "rok": "1983",
+   "kraj": "USA",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "Nastoletni chuligan z Tulsy stara się dorównać starszemu bratu, legendzie dzielnicy. Czarno-biały film według powieści S. E. Hinton."
+  },
+  {
+   "tytuł": "Człowiek z blizną",
+   "tytuł_oryginalny": "Scarface",
+   "reżyser": "Brian De Palma",
+   "rok": "1983",
+   "kraj": "USA",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "18+",
+   "opis": "Kubański uchodźca Tony Montana zdobywa pozycję w świecie narkotykowego biznesu Miami. Remake filmu z 1932 roku."
+  },
+  {
+   "tytuł": "Martwa strefa",
+   "tytuł_oryginalny": "The Dead Zone",
+   "reżyser": "David Cronenberg",
+   "rok": "1983",
+   "kraj": "Kanada",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "16+",
+   "opis": "Nauczyciel po wybudzeniu ze śpiączki zyskuje zdolność widzenia przyszłości i musi rozstrzygnąć, czy powstrzymać polityka. Adaptacja powieści Stephena Kinga."
+  },
+  {
+   "tytuł": "Człowiek z dwoma mózgami",
+   "tytuł_oryginalny": "The Man with Two Brains",
+   "reżyser": "Carl Reiner",
+   "rok": "1983",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "12+",
+   "opis": "Neurochirurg zakochuje się w mózgu zmarłej kobiety trzymanym w słoju. Parodia filmów science fiction z Steve'em Martinem."
+  },
+  {
+   "tytuł": "Trading Places",
+   "tytuł_oryginalny": "Trading Places",
+   "reżyser": "John Landis",
+   "rok": "1983",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "16+",
+   "opis": "Dwaj bogaci bracia zakładają się o to, czy zamiana losów bogatego maklera i ulicznego oszusta zmieni ich charaktery."
+  },
+  {
+   "tytuł": "Koszmar z ulicy Wiązów",
+   "tytuł_oryginalny": "A Nightmare on Elm Street",
+   "reżyser": "Wes Craven",
+   "rok": "1984",
+   "kraj": "USA",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "16+",
+   "opis": "Nastolatkowie są atakowani we śnie przez Freddy'ego Kruegera, zmarłego zabójcę dzieci. Początek serii horrorów."
+  },
+  {
+   "tytuł": "Amadeusz",
+   "tytuł_oryginalny": "Amadeus",
+   "reżyser": "Miloš Forman",
+   "rok": "1984",
+   "kraj": "USA",
+   "gatunek": "Biograficzny",
+   "kategoria_wiekowa": "16+",
+   "opis": "Kompozytor Salieri opowiada o rywalizacji z Mozartem, któremu zazdrości talentu."
+  },
+  {
+   "tytuł": "Birdy",
+   "tytuł_oryginalny": "Birdy",
+   "reżyser": "Alan Parker",
+   "rok": "1984",
+   "kraj": "USA",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "Weteran wojny w Wietnamie próbuje nawiązać kontakt z przyjacielem, który po powrocie zamknął się w szpitalu i wyobraża sobie, że jest ptakiem."
+  },
+  {
+   "tytuł": "Śmiertelnie proste",
+   "tytuł_oryginalny": "Blood Simple",
+   "reżyser": "Joel Coen",
+   "rok": "1984",
+   "kraj": "USA",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "16+",
+   "opis": "Teksański barman, jego szef i żona szefa wpadają w spiralę zdrad, nieporozumień i morderstw. Debiut braci Coen."
+  },
+  {
+   "tytuł": "Body Double",
+   "tytuł_oryginalny": "Body Double",
+   "reżyser": "Brian De Palma",
+   "rok": "1984",
+   "kraj": "USA",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "18+",
+   "opis": "Aktor-statysta obserwuje przez teleskop sąsiadkę i staje się świadkiem morderstwa. Thriller inspirowany Hitchcockiem."
+  },
+  {
+   "tytuł": "Pogromcy duchów",
+   "tytuł_oryginalny": "Ghostbusters",
+   "reżyser": "Ivan Reitman",
+   "rok": "1984",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "12+",
+   "opis": "Trzej naukowcy zakładają firmę zajmującą się łapaniem duchów w Nowym Jorku."
+  },
+  {
+   "tytuł": "Gremliny rozrabiają",
+   "tytuł_oryginalny": "Gremlins",
+   "reżyser": "Joe Dante",
+   "rok": "1984",
+   "kraj": "USA",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "12+",
+   "opis": "Chłopak dostaje w prezencie mogwaia, a złamanie trzech zasad opieki nad nim zmienia miasteczko w pole walki ze złośliwymi stworami."
+  },
+  {
+   "tytuł": "Indiana Jones i Świątynia Zagłady",
+   "tytuł_oryginalny": "Indiana Jones and the Temple of Doom",
+   "reżyser": "Steven Spielberg",
+   "rok": "1984",
+   "kraj": "USA",
+   "gatunek": "Przygodowy",
+   "kategoria_wiekowa": "12+",
+   "opis": "Archeolog Indiana Jones trafia do indyjskiej wioski i odkrywa kult przetrzymujący dzieci w niewoli. Prequel „Poszukiwaczy zaginionej Arki”."
+  },
+  {
+   "tytuł": "Meantime",
+   "tytuł_oryginalny": "Meantime",
+   "reżyser": "Mike Leigh",
+   "rok": "1984",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "Bezrobotna rodzina z robotniczej dzielnicy Londynu w czasach thatcheryzmu. Film z wczesnymi rolami Gary'ego Oldmana i Tima Rotha."
+  },
+  {
+   "tytuł": "Paryż, Teksas",
+   "tytuł_oryginalny": "Paris, Texas",
+   "reżyser": "Wim Wenders",
+   "rok": "1984",
+   "kraj": "Niemcy",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Milczący tułacz wyłania się z pustyni i próbuje odnaleźć zagubioną rodzinę. Film o stracie i odkupieniu.",
+   "miejsce_w_rankingu": 46
+  },
+  {
+   "tytuł": "Repo Man",
+   "tytuł_oryginalny": "Repo Man",
+   "reżyser": "Alex Cox",
+   "rok": "1984",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "16+",
+   "opis": "Młody punk zostaje windykatorem samochodów w Los Angeles i trafia na pojazd z tajemniczym ładunkiem. Film kultowy z elementami science fiction."
+  },
+  {
+   "tytuł": "Stop Making Sense",
+   "tytuł_oryginalny": "Stop Making Sense",
+   "reżyser": "Jonathan Demme",
+   "rok": "1984",
+   "kraj": "USA",
+   "gatunek": "Dokumentalny",
+   "kategoria_wiekowa": "6+",
+   "opis": "Film koncertowy zespołu Talking Heads, w którym scena stopniowo się zapełnia. Uchodzi za wzór filmu muzycznego.",
+   "miejsce_w_rankingu": 15
+  },
+  {
+   "tytuł": "Ulice w ogniu",
+   "tytuł_oryginalny": "Streets of Fire",
+   "reżyser": "Walter Hill",
+   "rok": "1984",
+   "kraj": "USA",
+   "gatunek": "Akcja",
+   "kategoria_wiekowa": "12+",
+   "opis": "Najemnik ratuje porwaną piosenkarkę rockową z rąk gangu motocyklowego. Rockowa baśń w neonowej scenerii."
+  },
+  {
+   "tytuł": "W towarzystwie wilków",
+   "tytuł_oryginalny": "The Company of Wolves",
+   "reżyser": "Neil Jordan",
+   "rok": "1984",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Fantasy",
+   "kategoria_wiekowa": "16+",
+   "opis": "Dziewczynka we śnie słucha opowieści o wilkołakach, które łączą się z motywami „Czerwonego Kapturka”. Adaptacja prozy Angeli Carter."
+  },
+  {
+   "tytuł": "The Hit",
+   "tytuł_oryginalny": "The Hit",
+   "reżyser": "Stephen Frears",
+   "rok": "1984",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "16+",
+   "opis": "Dwaj płatni zabójcy wiozą przez Hiszpanię informatora, który ma zginąć za zeznania przeciw mafii."
+  },
+  {
+   "tytuł": "Terminator",
+   "tytuł_oryginalny": "The Terminator",
+   "reżyser": "James Cameron",
+   "rok": "1984",
+   "kraj": "USA",
+   "gatunek": "Science fiction",
+   "kategoria_wiekowa": "16+",
+   "opis": "Cyborg z przyszłości przybywa do 1984 roku, by zabić kobietę, której syn ma dowodzić ludzkim oporem. Film uczynił gwiazdą Arnolda Schwarzeneggera.",
+   "miejsce_w_rankingu": 112
+  },
+  {
+   "tytuł": "To jest Spinal Tap",
+   "tytuł_oryginalny": "This Is Spinal Tap",
+   "reżyser": "Rob Reiner",
+   "rok": "1984",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "12+",
+   "opis": "Fikcyjny dokument śledzi nieudolną trasę koncertową podstarzałego zespołu heavymetalowego. Parodia rockumentów.",
+   "miejsce_w_rankingu": 78
+  },
+  {
+   "tytuł": "Threads",
+   "tytuł_oryginalny": "Threads",
+   "reżyser": "Mick Jackson",
+   "rok": "1984",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "18+",
+   "opis": "Dramatyzowany obraz skutków wojny jądrowej dla mieszkańców Sheffield. Film telewizyjny BBC."
+  },
+  {
+   "tytuł": "Top Secret!",
+   "tytuł_oryginalny": "Top Secret!",
+   "reżyser": "Jim Abrahams, David Zucker, Jerry Zucker",
+   "rok": "1984",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "12+",
+   "opis": "Amerykański piosenkarz rockowy jedzie na festiwal do NRD i wplątuje się w ruch oporu. Parodia filmów szpiegowskich i wojennych."
+  },
+  {
+   "tytuł": "Wheels on Meals",
+   "tytuł_oryginalny": "Wheels on Meals",
+   "reżyser": "Sammo Hung",
+   "rok": "1984",
+   "kraj": "Hongkong",
+   "gatunek": "Akcja",
+   "kategoria_wiekowa": "12+",
+   "opis": "Dwaj kuzyni prowadzący budę z jedzeniem w Barcelonie pomagają kobiecie ściganej przez gang. Komedia kung-fu."
+  },
+  {
+   "tytuł": "Po godzinach",
+   "tytuł_oryginalny": "After Hours",
+   "reżyser": "Martin Scorsese",
+   "rok": "1985",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "16+",
+   "opis": "Programista z Nowego Jorku zostaje w nocy wciągnięty w serię niezwykłych przygód w SoHo. Czarna komedia."
+  },
+  {
+   "tytuł": "Powrót do przyszłości",
+   "tytuł_oryginalny": "Back to the Future",
+   "reżyser": "Robert Zemeckis",
+   "rok": "1985",
+   "kraj": "USA",
+   "gatunek": "Science fiction",
+   "kategoria_wiekowa": "12+",
+   "opis": "Nastolatek Marty McFly cofa się w czasie do 1955 roku i musi doprowadzić do spotkania swoich rodziców. Komedia science fiction.",
+   "miejsce_w_rankingu": 220
+  },
+  {
+   "tytuł": "Brazil",
+   "tytuł_oryginalny": "Brazil",
+   "reżyser": "Terry Gilliam",
+   "rok": "1985",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Science fiction",
+   "kategoria_wiekowa": "16+",
+   "opis": "Urzędnik w totalitarnym państwie, pogrążony w marzeniach, wpada w pułapkę biurokracji. Czarna komedia science fiction.",
+   "miejsce_w_rankingu": 282
+  },
+  {
+   "tytuł": "Idź i patrz",
+   "tytuł_oryginalny": "Idi i smotri",
+   "reżyser": "Elem Klimow",
+   "rok": "1985",
+   "kraj": "ZSRR",
+   "gatunek": "Wojenny",
+   "kategoria_wiekowa": "18+",
+   "opis": "Białoruski chłopiec dołącza do partyzantów i przeżywa okrucieństwo niemieckiej okupacji. Wstrząsający film antywojenny.",
+   "miejsce_w_rankingu": 68
+  },
+  {
+   "tytuł": "Dzień żywych trupów",
+   "tytuł_oryginalny": "Day of the Dead",
+   "reżyser": "George A. Romero",
+   "rok": "1985",
+   "kraj": "USA",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "18+",
+   "opis": "Garstka naukowców i żołnierzy przetrwała w podziemnym bunkrze apokalipsę zombie, a konflikty między nimi narastają."
+  },
+  {
+   "tytuł": "Into the Night",
+   "tytuł_oryginalny": "Into the Night",
+   "reżyser": "John Landis",
+   "rok": "1985",
+   "kraj": "USA",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "16+",
+   "opis": "Cierpiący na bezsenność inżynier pomaga uciekającej przed bandytami kobiecie. Nocna przygoda w Los Angeles z licznymi epizodami reżyserów."
+  },
+  {
+   "tytuł": "Lost in America",
+   "tytuł_oryginalny": "Lost in America",
+   "reżyser": "Albert Brooks",
+   "rok": "1985",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "12+",
+   "opis": "Małżeństwo yuppies rzuca pracę i rusza w podróż po USA, ale po utracie oszczędności zderza się z rzeczywistością."
+  },
+  {
+   "tytuł": "Wielka przygoda Pee-wee",
+   "tytuł_oryginalny": "Pee-wee's Big Adventure",
+   "reżyser": "Tim Burton",
+   "rok": "1985",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "6+",
+   "opis": "Pee-wee Herman wyrusza przez USA, by odzyskać skradziony rower. Debiut fabularny Tima Burtona."
+  },
+  {
+   "tytuł": "Ran",
+   "tytuł_oryginalny": "Ran",
+   "reżyser": "Akira Kurosawa",
+   "rok": "1985",
+   "kraj": "Japonia",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "Stary feudał dzieli władzę między synów, co prowadzi do wojny. Film jest japońską adaptacją „Króla Leara”.",
+   "miejsce_w_rankingu": 200
+  },
+  {
+   "tytuł": "Re-Animator",
+   "tytuł_oryginalny": "Re-Animator",
+   "reżyser": "Stuart Gordon",
+   "rok": "1985",
+   "kraj": "USA",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "18+",
+   "opis": "Student medycyny opracowuje odżywkę przywracającą życie zmarłym, co prowadzi do makabrycznych skutków. Luźna adaptacja opowiadania H.P. Lovecrafta."
+  },
+  {
+   "tytuł": "Purpurowa róża z Kairu",
+   "tytuł_oryginalny": "The Purple Rose of Cairo",
+   "reżyser": "Woody Allen",
+   "rok": "1985",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "12+",
+   "opis": "Kelnerka w czasach Wielkiego Kryzysu ogląda ten sam film, aż jego bohater schodzi z ekranu, by się z nią spotkać."
+  },
+  {
+   "tytuł": "Żyć i umrzeć w Los Angeles",
+   "tytuł_oryginalny": "To Live and Die in L.A.",
+   "reżyser": "William Friedkin",
+   "rok": "1985",
+   "kraj": "USA",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "18+",
+   "opis": "Agent Secret Service tropi fałszerza pieniędzy, który zabił jego partnera, i łamie przy tym przepisy."
+  },
+  {
+   "tytuł": "Świadek",
+   "tytuł_oryginalny": "Witness",
+   "reżyser": "Peter Weir",
+   "rok": "1985",
+   "kraj": "USA",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "12+",
+   "opis": "Policjant ukrywa się w społeczności Amiszów razem z chłopcem, który widział morderstwo. Film z Harrisonem Fordem."
+  },
+  {
+   "tytuł": "Lepsze jutro",
+   "tytuł_oryginalny": "A Better Tomorrow",
+   "reżyser": "John Woo",
+   "rok": "1986",
+   "kraj": "Hongkong",
+   "gatunek": "Akcja",
+   "kategoria_wiekowa": "16+",
+   "opis": "Były gangster po wyjściu z więzienia próbuje wrócić do uczciwego życia, a jego brat jest policjantem. Film, który ukształtował hongkoński kryminał akcji."
+  },
+  {
+   "tytuł": "Obcy – decydujące starcie",
+   "tytuł_oryginalny": "Aliens",
+   "reżyser": "James Cameron",
+   "rok": "1986",
+   "kraj": "USA",
+   "gatunek": "Science fiction",
+   "kategoria_wiekowa": "16+",
+   "opis": "Ripley wraca na planetę, na której spotkała obcego, z oddziałem żołnierzy. Kontynuacja „Obcego” w konwencji filmu akcji.",
+   "miejsce_w_rankingu": 289
+  },
+  {
+   "tytuł": "Blue Velvet",
+   "tytuł_oryginalny": "Blue Velvet",
+   "reżyser": "David Lynch",
+   "rok": "1986",
+   "kraj": "USA",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "18+",
+   "opis": "Student znajduje odcięte ucho i wciąga się w mroczny świat piosenkarki Dorothy Vallens oraz psychopaty Franka. Film Lyncha o ciemnej stronie amerykańskiego miasteczka.",
+   "miejsce_w_rankingu": 85
+  },
+  {
+   "tytuł": "Poza prawem",
+   "tytuł_oryginalny": "Down by Law",
+   "reżyser": "Jim Jarmusch",
+   "rok": "1986",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "16+",
+   "opis": "Trzej mężczyźni uciekają razem z więzienia w Nowym Orleanie. Czarno-biały film Jarmuscha."
+  },
+  {
+   "tytuł": "Wolny dzień Ferrisa Buellera",
+   "tytuł_oryginalny": "Ferris Bueller's Day Off",
+   "reżyser": "John Hughes",
+   "rok": "1986",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "12+",
+   "opis": "Licealista udaje chorobę i spędza dzień w Chicago z przyjaciółmi, unikając dyrektora szkoły."
+  },
+  {
+   "tytuł": "Hannah i jej siostry",
+   "tytuł_oryginalny": "Hannah and Her Sisters",
+   "reżyser": "Woody Allen",
+   "rok": "1986",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "12+",
+   "opis": "Przez dwa lata śledzimy życie trzech sióstr i ich rodziny w Nowym Jorku, między miłością, zdradą a wiarą."
+  },
+  {
+   "tytuł": "Henry: Portret seryjnego mordercy",
+   "tytuł_oryginalny": "Henry: Portrait of a Serial Killer",
+   "reżyser": "John McNaughton",
+   "rok": "1986",
+   "kraj": "USA",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "18+",
+   "opis": "Obraz życia seryjnego mordercy Henry'ego i jego współlokatora, nakręcony z chłodnym dystansem."
+  },
+  {
+   "tytuł": "Łowca ludzi",
+   "tytuł_oryginalny": "Manhunter",
+   "reżyser": "Michael Mann",
+   "rok": "1986",
+   "kraj": "USA",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "16+",
+   "opis": "Agent FBI korzysta z pomocy uwięzionego Hannibala Lectera, by znaleźć seryjnego mordercę. Pierwsza ekranizacja powieści „Czerwony smok”."
+  },
+  {
+   "tytuł": "Mona Lisa",
+   "tytuł_oryginalny": "Mona Lisa",
+   "reżyser": "Neil Jordan",
+   "rok": "1986",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "16+",
+   "opis": "Świeżo uwolniony gangster zostaje szoferem luksusowej prostytutki i wciąga się w poszukiwanie jej zaginionej przyjaciółki."
+  },
+  {
+   "tytuł": "Something Wild",
+   "tytuł_oryginalny": "Something Wild",
+   "reżyser": "Jonathan Demme",
+   "rok": "1986",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "16+",
+   "opis": "Konserwatywny pracownik biurowy wyrusza w podróż z tajemniczą kobietą, a komedia zmienia się w thriller."
+  },
+  {
+   "tytuł": "Stań przy mnie",
+   "tytuł_oryginalny": "Stand by Me",
+   "reżyser": "Rob Reiner",
+   "rok": "1986",
+   "kraj": "USA",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Czterech chłopców w 1959 roku rusza przez las, by zobaczyć ciało zaginionego rówieśnika. Adaptacja opowiadania Stephena Kinga."
+  },
+  {
+   "tytuł": "Mucha",
+   "tytuł_oryginalny": "The Fly",
+   "reżyser": "David Cronenberg",
+   "rok": "1986",
+   "kraj": "USA",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "18+",
+   "opis": "Naukowiec testuje teleporter i nieświadomie łączy się genetycznie z muchą. Horror cielesny."
+  },
+  {
+   "tytuł": "Lepsze jutro II",
+   "tytuł_oryginalny": "A Better Tomorrow II",
+   "reżyser": "John Woo",
+   "rok": "1987",
+   "kraj": "Hongkong",
+   "gatunek": "Akcja",
+   "kategoria_wiekowa": "16+",
+   "opis": "Kontynuacja filmu z 1986 roku: bohaterowie wracają, by pomścić zabitych i rozprawić się z gangsterami."
+  },
+  {
+   "tytuł": "A Chinese Ghost Story",
+   "tytuł_oryginalny": "A Chinese Ghost Story",
+   "reżyser": "Ching Siu-tung",
+   "rok": "1987",
+   "kraj": "Hongkong",
+   "gatunek": "Fantasy",
+   "kategoria_wiekowa": "12+",
+   "opis": "Poborca podatkowy spędza noc w nawiedzonej świątyni i zakochuje się w duchu. Hongkońska opowieść grozy z elementami komedii."
+  },
+  {
+   "tytuł": "Martwe zło 2",
+   "tytuł_oryginalny": "Evil Dead II",
+   "reżyser": "Sam Raimi",
+   "rok": "1987",
+   "kraj": "USA",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "18+",
+   "opis": "Ash walczy z demonami, które opętały jego przyjaciół w leśnej chacie. Horror o komediowym tonie."
+  },
+  {
+   "tytuł": "Full Metal Jacket",
+   "tytuł_oryginalny": "Full Metal Jacket",
+   "reżyser": "Stanley Kubrick",
+   "rok": "1987",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Wojenny",
+   "kategoria_wiekowa": "18+",
+   "opis": "Rekruci przechodzą brutalne szkolenie, a potem trafiają do Wietnamu. Film ukazuje dehumanizację żołnierzy.",
+   "miejsce_w_rankingu": 236
+  },
+  {
+   "tytuł": "Hellraiser: Wysłannik piekieł",
+   "tytuł_oryginalny": "Hellraiser",
+   "reżyser": "Clive Barker",
+   "rok": "1987",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "18+",
+   "opis": "Kobieta przywołuje z zaświatów byłego kochanka, a rozwiązanie zagadki puzzla otwiera drogę cenobitom. Debiut reżyserski Clive'a Barkera."
+  },
+  {
+   "tytuł": "Dom gry",
+   "tytuł_oryginalny": "House of Games",
+   "reżyser": "David Mamet",
+   "rok": "1987",
+   "kraj": "USA",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "16+",
+   "opis": "Psycholożka Margaret Ford wchodzi w świat oszustów i staje się częścią skomplikowanej gry. Film mistrzowsko bawi się zaufaniem i manipulacją."
+  },
+  {
+   "tytuł": "Innerspace",
+   "tytuł_oryginalny": "Innerspace",
+   "reżyser": "Joe Dante",
+   "rok": "1987",
+   "kraj": "USA",
+   "gatunek": "Science fiction",
+   "kategoria_wiekowa": "12+",
+   "opis": "Zminiaturyzowany pilot zostaje wstrzyknięty w ciało pracownika supermarketu i musi pomóc mu uniknąć pościgu. Komedia przygodowa."
+  },
+  {
+   "tytuł": "Near Dark",
+   "tytuł_oryginalny": "Near Dark",
+   "reżyser": "Kathryn Bigelow",
+   "rok": "1987",
+   "kraj": "USA",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "16+",
+   "opis": "Młody farmer z Oklahomy zostaje wciągnięty w klan wampirów wędrujący po Środkowym Zachodzie. Mieszanka westernu i horroru."
+  },
+  {
+   "tytuł": "Samolotem, pociągiem i samochodem",
+   "tytuł_oryginalny": "Planes, Trains & Automobiles",
+   "reżyser": "John Hughes",
+   "rok": "1987",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "12+",
+   "opis": "Pracownik reklamy, spieszący się na Święto Dziękczynienia, utyka w podróży z gadatliwym komiwojażerem."
+  },
+  {
+   "tytuł": "Prick Up Your Ears",
+   "tytuł_oryginalny": "Prick Up Your Ears",
+   "reżyser": "Stephen Frears",
+   "rok": "1987",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Biograficzny",
+   "kategoria_wiekowa": "16+",
+   "opis": "Biografia dramaturga Joego Ortona i jego związku z Kennethem Halliwellem, zakończonego tragedią w 1967 roku."
+  },
+  {
+   "tytuł": "Arizona Junior",
+   "tytuł_oryginalny": "Raising Arizona",
+   "reżyser": "Joel Coen",
+   "rok": "1987",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "12+",
+   "opis": "Para bez dzieci kradnie jedno z pięcioraczków, co uruchamia pościg i serię absurdalnych zdarzeń. Komedia braci Coen."
+  },
+  {
+   "tytuł": "RoboCop",
+   "tytuł_oryginalny": "RoboCop",
+   "reżyser": "Paul Verhoeven",
+   "rok": "1987",
+   "kraj": "USA",
+   "gatunek": "Science fiction",
+   "kategoria_wiekowa": "18+",
+   "opis": "Zamordowany policjant z Detroit wraca do służby jako cyborg i odkrywa spisek korporacji. Satyra z elementami akcji."
+  },
+  {
+   "tytuł": "Nietykalni",
+   "tytuł_oryginalny": "The Untouchables",
+   "reżyser": "Brian De Palma",
+   "rok": "1987",
+   "kraj": "USA",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "16+",
+   "opis": "Agent federalny Eliot Ness tworzy zespół, który ma obalić imperium Ala Capone w Chicago lat 30."
+  },
+  {
+   "tytuł": "Gdzie jest dom mojego przyjaciela?",
+   "tytuł_oryginalny": "Khane-ye doust kojast?",
+   "reżyser": "Abbas Kiarostami",
+   "rok": "1987",
+   "kraj": "Iran",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "6+",
+   "opis": "Ośmiolatek wyrusza do sąsiedniej wsi, by oddać koledze zeszyt i uchronić go przed wydaleniem ze szkoły. Pierwszy film z tzw. trylogii Koker."
+  },
+  {
+   "tytuł": "Withnail i ja",
+   "tytuł_oryginalny": "Withnail & I",
+   "reżyser": "Bruce Robinson",
+   "rok": "1987",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "16+",
+   "opis": "Dwaj bezrobotni aktorzy z Camden pod koniec lat 60. wyjeżdżają na wieś do wuja jednego z nich. Czarna komedia o przyjaźni i kacu."
+  },
+  {
+   "tytuł": "Rybka zwana Wandą",
+   "tytuł_oryginalny": "A Fish Called Wanda",
+   "reżyser": "Charles Crichton",
+   "rok": "1988",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "16+",
+   "opis": "Gang złodziei diamentów zdradza się nawzajem, a prawnik jednego z nich zostaje wciągnięty w intrygę. Komedia z udziałem Johna Cleese'a i Jamie Lee Curtis."
+  },
+  {
+   "tytuł": "Akira",
+   "tytuł_oryginalny": "Akira",
+   "reżyser": "Katsuhiro Otomo",
+   "rok": "1988",
+   "kraj": "Japonia",
+   "gatunek": "Animacja",
+   "kategoria_wiekowa": "16+",
+   "opis": "W cyberpunkowym Neo-Tokio członek gangu motocyklowego zyskuje niszczycielskie moce psychiczne. Adaptacja mangi autorstwa reżysera."
+  },
+  {
+   "tytuł": "Sok z żuka",
+   "tytuł_oryginalny": "Beetlejuice",
+   "reżyser": "Tim Burton",
+   "rok": "1988",
+   "kraj": "USA",
+   "gatunek": "Fantasy",
+   "kategoria_wiekowa": "12+",
+   "opis": "Zmarłe małżeństwo próbuje wystraszyć nowych lokatorów swojego domu i wynajmuje do tego krewkiego bioegzorcystę. Komedia grozy."
+  },
+  {
+   "tytuł": "Nierozłączni",
+   "tytuł_oryginalny": "Dead Ringers",
+   "reżyser": "David Cronenberg",
+   "rok": "1988",
+   "kraj": "Kanada",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "18+",
+   "opis": "Bliźniacy ginekolodzy, którzy zamieniają się rolami, wpadają w spiralę uzależnień po związaniu się z jedną z pacjentek. Film luźno oparty na prawdziwej historii."
+  },
+  {
+   "tytuł": "Szklana pułapka",
+   "tytuł_oryginalny": "Die Hard",
+   "reżyser": "John McTiernan",
+   "rok": "1988",
+   "kraj": "USA",
+   "gatunek": "Akcja",
+   "kategoria_wiekowa": "16+",
+   "opis": "Nowojorski policjant przebywa w wieżowcu w Los Angeles, gdy budynek przejmują terroryści. Sam próbuje ich powstrzymać."
+  },
+  {
+   "tytuł": "Dragons Forever",
+   "tytuł_oryginalny": "Fei lung maang jeung",
+   "reżyser": "Sammo Hung, Corey Yuen",
+   "rok": "1988",
+   "kraj": "Hongkong",
+   "gatunek": "Akcja",
+   "kategoria_wiekowa": "12+",
+   "opis": "Adwokat zatrudniony przez przemysłowca w sprawie przeciwko fabryce chemicznej angażuje przyjaciół do niecodziennych metod działania. Film z Jackiem Chanem, Sammo Hungiem i Yuenem Biao."
+  },
+  {
+   "tytuł": "Hairspray",
+   "tytuł_oryginalny": "Hairspray",
+   "reżyser": "John Waters",
+   "rok": "1988",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "12+",
+   "opis": "Nastolatka z Baltimore w latach 60. walczy o miejsce w lokalnym programie tanecznym i o jego integrację rasową. Komedia muzyczna."
+  },
+  {
+   "tytuł": "Heathers",
+   "tytuł_oryginalny": "Heathers",
+   "reżyser": "Michael Lehmann",
+   "rok": "1988",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "16+",
+   "opis": "Uczennica liceum, należąca do elitarnej grupki dziewcząt, wraz z nowym chłopakiem zaczyna planować zabójstwa. Czarna komedia o szkolnej hierarchii."
+  },
+  {
+   "tytuł": "High Hopes",
+   "tytuł_oryginalny": "High Hopes",
+   "reżyser": "Mike Leigh",
+   "rok": "1988",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "Londyńska para z klasy robotniczej mierzy się z rodziną, sąsiadami i realiami epoki Thatcher. Film powstał na bazie improwizacji z aktorami."
+  },
+  {
+   "tytuł": "Zdążyć przed północą",
+   "tytuł_oryginalny": "Midnight Run",
+   "reżyser": "Martin Brest",
+   "rok": "1988",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "16+",
+   "opis": "Łowca nagród eskortuje księgowego, który okradł mafię, z Nowego Jorku do Los Angeles. W pościg ruszają FBI, mafia i konkurent łowcy."
+  },
+  {
+   "tytuł": "The Decline of Western Civilization Part II: The Metal Years",
+   "tytuł_oryginalny": "The Decline of Western Civilization Part II: The Metal Years",
+   "reżyser": "Penelope Spheeris",
+   "rok": "1988",
+   "kraj": "USA",
+   "gatunek": "Dokumentalny",
+   "kategoria_wiekowa": "18+",
+   "opis": "Dokument o scenie heavymetalowej Los Angeles pod koniec lat 80. Składa się z wywiadów z muzykami i fanami oraz fragmentów koncertów."
+  },
+  {
+   "tytuł": "Naga broń: Z akt Wydziału Specjalnego",
+   "tytuł_oryginalny": "The Naked Gun: From the Files of Police Squad!",
+   "reżyser": "David Zucker",
+   "rok": "1988",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "12+",
+   "opis": "Niezdarny porucznik Frank Drebin bada próbę zamachu na królową Elżbietę II. Parodia filmów policyjnych oparta na serialu Police Squad!."
+  },
+  {
+   "tytuł": "Zniknięcie",
+   "tytuł_oryginalny": "Spoorloos",
+   "reżyser": "George Sluizer",
+   "rok": "1988",
+   "kraj": "Holandia",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "16+",
+   "opis": "Mężczyzna szuka żony, która zniknęła na stacji benzynowej, a jej porywacz sam nawiązuje z nim kontakt. Adaptacja powieści Tima Krabbé."
+  },
+  {
+   "tytuł": "Męskie gry",
+   "tytuł_oryginalny": "Mužné hry",
+   "reżyser": "Jan Švankmajer",
+   "rok": "1988",
+   "kraj": "Czechosłowacja",
+   "gatunek": "Animacja",
+   "kategoria_wiekowa": "16+",
+   "opis": "Krótkometrażowa animacja poklatkowa o meczu piłki nożnej, w którym grają postacie z mięsa i warzyw. Satyra na brutalność i rywalizację."
+  },
+  {
+   "tytuł": "Zbrodnie i występki",
+   "tytuł_oryginalny": "Crimes and Misdemeanors",
+   "reżyser": "Woody Allen",
+   "rok": "1989",
+   "kraj": "USA",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "Szanowany okulista rozważa zabicie kochanki, a równolegle toczy się wątek nieudanego reżysera dokumentalnego. Film o moralności i poczuciu winy."
+  },
+  {
+   "tytuł": "Rób, co należy",
+   "tytuł_oryginalny": "Do the Right Thing",
+   "reżyser": "Spike Lee",
+   "rok": "1989",
+   "kraj": "USA",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "Upalny dzień na ulicy nowojorskiego Brooklynu kończy się eskalacją napięć rasowych wokół pizzerii."
+  },
+  {
+   "tytuł": "Drugstore Cowboy",
+   "tytuł_oryginalny": "Drugstore Cowboy",
+   "reżyser": "Gus Van Sant",
+   "rok": "1989",
+   "kraj": "USA",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "18+",
+   "opis": "Grupka narkomanów w latach 70. okrada apteki w Oregonie, a jej przywódca próbuje zerwać z nałogiem. Adaptacja powieści Jamesa Fogle'a."
+  },
+  {
+   "tytuł": "Santa Sangre",
+   "tytuł_oryginalny": "Santa Sangre",
+   "reżyser": "Alejandro Jodorowsky",
+   "rok": "1989",
+   "kraj": "Meksyk",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "18+",
+   "opis": "Były artysta cyrkowy, przebywający w szpitalu psychiatrycznym, staje się narzędziem swojej despotycznej matki. Surrealistyczny horror."
+  },
+  {
+   "tytuł": "Seks, kłamstwa i kasety wideo",
+   "tytuł_oryginalny": "Sex, Lies, and Videotape",
+   "reżyser": "Steven Soderbergh",
+   "rok": "1989",
+   "kraj": "USA",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "Przyjazd dawnego kolegi z college'u, który nagrywa rozmowy kobiet o seksie, zakłóca życie małżeństwa z Baton Rouge. Debiut fabularny Soderbergha."
+  },
+  {
+   "tytuł": "Kucharz, złodziej, jego żona i jej kochanek",
+   "tytuł_oryginalny": "The Cook, the Thief, His Wife & Her Lover",
+   "reżyser": "Peter Greenaway",
+   "rok": "1989",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "18+",
+   "opis": "Żona gangstera romansuje w restauracji z jednym z gości, a mąż mści się w brutalny sposób. Stylizowany dramat Petera Greenawaya."
+  },
+  {
+   "tytuł": "Zabójca",
+   "tytuł_oryginalny": "Dip huet seung hung",
+   "reżyser": "John Woo",
+   "rok": "1989",
+   "kraj": "Hongkong",
+   "gatunek": "Akcja",
+   "kategoria_wiekowa": "18+",
+   "opis": "Płatny zabójca, który przypadkowo oślepił śpiewaczkę, chce zdobyć pieniądze na jej operację. Ściga go zdeterminowany policjant."
+  },
+  {
+   "tytuł": "Arachnofobia",
+   "tytuł_oryginalny": "Arachnophobia",
+   "reżyser": "Frank Marshall",
+   "rok": "1990",
+   "kraj": "USA",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "12+",
+   "opis": "Jadowity pająk z Ameryki Południowej trafia do małego miasteczka w Kalifornii i się rozmnaża. Lekarz z arachnofobią staje do walki z nimi."
+  },
+  {
+   "tytuł": "Chłopcy z ferajny",
+   "tytuł_oryginalny": "GoodFellas",
+   "reżyser": "Martin Scorsese",
+   "rok": "1990",
+   "kraj": "USA",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "18+",
+   "opis": "Henry Hill opowiada o swoim życiu w nowojorskiej mafii od lat 50. do 80. Adaptacja książki Nicholasa Pileggiego."
+  },
+  {
+   "tytuł": "Gremliny 2: Nowa generacja",
+   "tytuł_oryginalny": "Gremlins 2: The New Batch",
+   "reżyser": "Joe Dante",
+   "rok": "1990",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "12+",
+   "opis": "Gizmo trafia do nowojorskiego wieżowca korporacji Clamp, gdzie ponownie mnożą się groźne gremliny. Kontynuacja filmu z 1984 roku."
+  },
+  {
+   "tytuł": "Życie jest słodkie",
+   "tytuł_oryginalny": "Life Is Sweet",
+   "reżyser": "Mike Leigh",
+   "rok": "1990",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "16+",
+   "opis": "Obserwacja życia robotniczej rodziny z przedmieść Londynu, w której jedna z córek zmaga się z zaburzeniami odżywiania."
+  },
+  {
+   "tytuł": "Miami Blues",
+   "tytuł_oryginalny": "Miami Blues",
+   "reżyser": "George Armitage",
+   "rok": "1990",
+   "kraj": "USA",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "16+",
+   "opis": "Zwolniony z więzienia złodziej przejmuje odznakę i broń policjanta z Miami. Czarna komedia kryminalna."
+  },
+  {
+   "tytuł": "Miller's Crossing",
+   "tytuł_oryginalny": "Miller's Crossing",
+   "reżyser": "Joel Coen, Ethan Coen",
+   "rok": "1990",
+   "kraj": "USA",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "16+",
+   "opis": "Doradca irlandzkiego bossa w czasach prohibicji wywołuje wojnę gangów po konflikcie z włoskim rywalem."
+  },
+  {
+   "tytuł": "Misery",
+   "tytuł_oryginalny": "Misery",
+   "reżyser": "Rob Reiner",
+   "rok": "1990",
+   "kraj": "USA",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "16+",
+   "opis": "Pisarz po wypadku samochodowym trafia pod opiekę swojej największej fanki, która go więzi. Adaptacja powieści Stephena Kinga."
+  },
+  {
+   "tytuł": "Tremors",
+   "tytuł_oryginalny": "Tremors",
+   "reżyser": "Ron Underwood",
+   "rok": "1990",
+   "kraj": "USA",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "12+",
+   "opis": "Mieszkańcy pustynnej osady walczą z gigantycznymi stworami żyjącymi pod ziemią. Horror z elementami komedii."
+  },
+  {
+   "tytuł": "Trust",
+   "tytuł_oryginalny": "Trust",
+   "reżyser": "Hal Hartley",
+   "rok": "1990",
+   "kraj": "USA",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "Nastolatka w ciąży i inżynier elektronik, który porzucił pracę, wiążą się ze sobą na przedmieściach Long Island. Niezależny film Hala Hartleya."
+  },
+  {
+   "tytuł": "Dziki z serca",
+   "tytuł_oryginalny": "Wild at Heart",
+   "reżyser": "David Lynch",
+   "rok": "1990",
+   "kraj": "USA",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "18+",
+   "opis": "Młoda para ucieka przed matką dziewczyny, a w pogoń ruszają także płatni zabójcy. Film nagrodzony Złotą Palmą w Cannes."
+  },
+  {
+   "tytuł": "Barton Fink",
+   "tytuł_oryginalny": "Barton Fink",
+   "reżyser": "Joel Coen, Ethan Coen",
+   "rok": "1991",
+   "kraj": "USA",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "Nowojorski dramaturg dostaje zlecenie na scenariusz w Hollywood i zamieszkuje w odludnym hotelu. W rolach głównych John Turturro i John Goodman."
+  },
+  {
+   "tytuł": "Przylądek strachu",
+   "tytuł_oryginalny": "Cape Fear",
+   "reżyser": "Martin Scorsese",
+   "rok": "1991",
+   "kraj": "USA",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "16+",
+   "opis": "Wypuszczony z więzienia przestępca terroryzuje rodzinę adwokata, który go kiedyś skazał. Remake filmu z 1962 roku."
+  },
+  {
+   "tytuł": "Delicatessen",
+   "tytuł_oryginalny": "Delicatessen",
+   "reżyser": "Jean-Pierre Jeunet, Marc Caro",
+   "rok": "1991",
+   "kraj": "Francja",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "16+",
+   "opis": "W postapokaliptycznym Paryżu rzeźnik z kamienicy zabija lokatorów, by karmić mieszkańców. Czarna komedia."
+  },
+  {
+   "tytuł": "JFK",
+   "tytuł_oryginalny": "JFK",
+   "reżyser": "Oliver Stone",
+   "rok": "1991",
+   "kraj": "USA",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "16+",
+   "opis": "Prokurator Jim Garrison prowadzi śledztwo w sprawie zamachu na prezydenta Johna F. Kennedy'ego i podważa oficjalną wersję. Film oparty na faktach i teoriach spiskowych."
+  },
+  {
+   "tytuł": "L.A. Story",
+   "tytuł_oryginalny": "L.A. Story",
+   "reżyser": "Mick Jackson",
+   "rok": "1991",
+   "kraj": "USA",
+   "gatunek": "Romans",
+   "kategoria_wiekowa": "12+",
+   "opis": "Prezenter pogody z Los Angeles szuka sensu życia i miłości, a wskazówki podsuwa mu tajemnicza tablica drogowa. Komedia romantyczna ze Steve'em Martinem."
+  },
+  {
+   "tytuł": "Na fali",
+   "tytuł_oryginalny": "Point Break",
+   "reżyser": "Kathryn Bigelow",
+   "rok": "1991",
+   "kraj": "USA",
+   "gatunek": "Akcja",
+   "kategoria_wiekowa": "16+",
+   "opis": "Młody agent FBI infiltruje grupę surferów podejrzewanych o napady na banki. Z czasem zaczyna ulegać ich stylowi życia."
+  },
+  {
+   "tytuł": "Riki-Oh: The Story of Ricky",
+   "tytuł_oryginalny": "Lik wong",
+   "reżyser": "Lam Nai-choi",
+   "rok": "1991",
+   "kraj": "Hongkong",
+   "gatunek": "Akcja",
+   "kategoria_wiekowa": "18+",
+   "opis": "W futurystycznym więzieniu skazany o nadludzkiej sile walczy ze strażnikami i dyrektorem. Brutalny film akcji z Hongkongu."
+  },
+  {
+   "tytuł": "Terminator 2: Dzień sądu",
+   "tytuł_oryginalny": "Terminator 2: Judgment Day",
+   "reżyser": "James Cameron",
+   "rok": "1991",
+   "kraj": "USA",
+   "gatunek": "Science fiction",
+   "kategoria_wiekowa": "16+",
+   "opis": "Przeprogramowany cyborg ma chronić chłopca przed nowocześniejszym zabójcą z przyszłości. Kontynuacja filmu z 1984 roku."
+  },
+  {
+   "tytuł": "Ostatni skaut",
+   "tytuł_oryginalny": "The Last Boy Scout",
+   "reżyser": "Tony Scott",
+   "rok": "1991",
+   "kraj": "USA",
+   "gatunek": "Akcja",
+   "kategoria_wiekowa": "16+",
+   "opis": "Były agent ochrony i dawny futbolista wspólnie badają zabójstwo związane z korupcją w lidze. Film akcji z Brucem Willisem."
+  },
+  {
+   "tytuł": "Ludzie spod schodów",
+   "tytuł_oryginalny": "The People Under the Stairs",
+   "reżyser": "Wes Craven",
+   "rok": "1991",
+   "kraj": "USA",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "16+",
+   "opis": "Chłopak z biednej rodziny włamuje się do domu właścicieli kamienicy i odkrywa ich makabryczne sekrety. Horror z elementami komedii."
+  },
+  {
+   "tytuł": "Milczenie owiec",
+   "tytuł_oryginalny": "The Silence of the Lambs",
+   "reżyser": "Jonathan Demme",
+   "rok": "1991",
+   "kraj": "USA",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "18+",
+   "opis": "Młoda agentka FBI prosi uwięzionego doktora Hannibala Lectera o pomoc w złapaniu seryjnego mordercy. Adaptacja powieści Thomasa Harrisa."
+  },
+  {
+   "tytuł": "Zły porucznik",
+   "tytuł_oryginalny": "Bad Lieutenant",
+   "reżyser": "Abel Ferrara",
+   "rok": "1992",
+   "kraj": "USA",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "18+",
+   "opis": "Skorumpowany policjant z Nowego Jorku, uzależniony od hazardu i narkotyków, bada gwałt na zakonnicy."
+  },
+  {
+   "tytuł": "Martwica mózgu",
+   "tytuł_oryginalny": "Braindead",
+   "reżyser": "Peter Jackson",
+   "rok": "1992",
+   "kraj": "Nowa Zelandia",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "18+",
+   "opis": "Ukąszenie przez małpę szczurzą zmienia matkę bohatera w zombie, a on próbuje to ukryć. Krwawa komedia grozy."
+  },
+  {
+   "tytuł": "Deep Cover",
+   "tytuł_oryginalny": "Deep Cover",
+   "reżyser": "Bill Duke",
+   "rok": "1992",
+   "kraj": "USA",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "18+",
+   "opis": "Policjant działający pod przykrywką wchodzi w świat handlarzy narkotyków z Los Angeles. W roli głównej Laurence Fishburne."
+  },
+  {
+   "tytuł": "El Mariachi",
+   "tytuł_oryginalny": "El Mariachi",
+   "reżyser": "Robert Rodriguez",
+   "rok": "1992",
+   "kraj": "Meksyk",
+   "gatunek": "Akcja",
+   "kategoria_wiekowa": "16+",
+   "opis": "Wędrowny muzyk zostaje pomylony z płatnym zabójcą w meksykańskim miasteczku. Debiut Rodrigueza zrealizowany za niewielki budżet."
+  },
+  {
+   "tytuł": "Glengarry Glen Ross",
+   "tytuł_oryginalny": "Glengarry Glen Ross",
+   "reżyser": "James Foley",
+   "rok": "1992",
+   "kraj": "USA",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "Handlowcy agencji nieruchomości walczą o utrzymanie pracy w trakcie konkursu sprzedaży. Adaptacja sztuki Davida Mameta."
+  },
+  {
+   "tytuł": "Hard Boiled",
+   "tytuł_oryginalny": "Lat sau san taam",
+   "reżyser": "John Woo",
+   "rok": "1992",
+   "kraj": "Hongkong",
+   "gatunek": "Akcja",
+   "kategoria_wiekowa": "18+",
+   "opis": "Policjant i agent działający pod przykrywką rozbijają szajkę handlarzy bronią. Ostatni hongkoński film Johna Woo przed wyjazdem do USA."
+  },
+  {
+   "tytuł": "Człowiek pogryzł psa",
+   "tytuł_oryginalny": "C'est arrivé près de chez vous",
+   "reżyser": "Rémy Belvaux, André Bonzel, Benoît Poelvoorde",
+   "rok": "1992",
+   "kraj": "Belgia",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "18+",
+   "opis": "Ekipa dokumentalna towarzyszy seryjnemu mordercy i stopniowo angażuje się w jego zbrodnie. Czarna komedia w konwencji fałszywego dokumentu."
+  },
+  {
+   "tytuł": "Raising Cain",
+   "tytuł_oryginalny": "Raising Cain",
+   "reżyser": "Brian De Palma",
+   "rok": "1992",
+   "kraj": "USA",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "16+",
+   "opis": "Psycholog dziecięcy z zaburzeniami osobowości zaczyna porywać dzieci. W roli głównej John Lithgow."
+  },
+  {
+   "tytuł": "Wściekłe psy",
+   "tytuł_oryginalny": "Reservoir Dogs",
+   "reżyser": "Quentin Tarantino",
+   "rok": "1992",
+   "kraj": "USA",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "18+",
+   "opis": "Po nieudanym napadzie na jubilera gangsterzy w magazynie próbują ustalić, kto jest informatorem. Debiut reżyserski Tarantino."
+  },
+  {
+   "tytuł": "Gracz",
+   "tytuł_oryginalny": "The Player",
+   "reżyser": "Robert Altman",
+   "rok": "1992",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "16+",
+   "opis": "Hollywoodzki producent dostaje anonimowe groźby i w efekcie zabija scenarzystę. Satyra na przemysł filmowy."
+  },
+  {
+   "tytuł": "Miasteczko Twin Peaks: Ogniu, krocz ze mną",
+   "tytuł_oryginalny": "Twin Peaks: Fire Walk with Me",
+   "reżyser": "David Lynch",
+   "rok": "1992",
+   "kraj": "USA",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "18+",
+   "opis": "Prequel serialu opowiada o ostatnich siedmiu dniach życia Laury Palmer."
+  },
+  {
+   "tytuł": "Bez przebaczenia",
+   "tytuł_oryginalny": "Unforgiven",
+   "reżyser": "Clint Eastwood",
+   "rok": "1992",
+   "kraj": "USA",
+   "gatunek": "Przygodowy",
+   "kategoria_wiekowa": "16+",
+   "opis": "Emerytowany rewolwerowiec przyjmuje ostatnie zlecenie: pościg za dwoma kowbojami. Western Clinta Eastwooda."
+  },
+  {
+   "tytuł": "A Man in Uniform",
+   "tytuł_oryginalny": "Un homme en uniforme",
+   "reżyser": "David Wellington",
+   "rok": "1993",
+   "kraj": "Kanada",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "16+",
+   "opis": "Aktor z Montrealu, który przebiera się w mundur policyjny, zaczyna tracić granicę między rolą a rzeczywistością."
+  },
+  {
+   "tytuł": "Bad Boy Bubby",
+   "tytuł_oryginalny": "Bad Boy Bubby",
+   "reżyser": "Rolf de Heer",
+   "rok": "1993",
+   "kraj": "Australia",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "18+",
+   "opis": "Trzydziestoletni mężczyzna, całe życie więziony w mieszkaniu przez matkę, wychodzi na świat."
+  },
+  {
+   "tytuł": "Droga Carlita",
+   "tytuł_oryginalny": "Carlito's Way",
+   "reżyser": "Brian De Palma",
+   "rok": "1993",
+   "kraj": "USA",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "18+",
+   "opis": "Wypuszczony z więzienia gangster z Portoryko próbuje zerwać z przestępczością i wyjechać na Bahamy. W roli głównej Al Pacino."
+  },
+  {
+   "tytuł": "Cronos",
+   "tytuł_oryginalny": "Cronos",
+   "reżyser": "Guillermo del Toro",
+   "rok": "1993",
+   "kraj": "Meksyk",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "16+",
+   "opis": "Antykwariusz znajduje urządzenie, które daje życie wieczne, lecz uzależnia i zmienia użytkownika. Debiut del Toro."
+  },
+  {
+   "tytuł": "Dazed and Confused",
+   "tytuł_oryginalny": "Dazed and Confused",
+   "reżyser": "Richard Linklater",
+   "rok": "1993",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "16+",
+   "opis": "Ostatni dzień szkoły i następująca po nim noc w teksańskim miasteczku w 1976 roku."
+  },
+  {
+   "tytuł": "Dzień świstaka",
+   "tytuł_oryginalny": "Groundhog Day",
+   "reżyser": "Harold Ramis",
+   "rok": "1993",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "12+",
+   "opis": "Prezenter pogody utyka w pętli czasu i przeżywa w kółko ten sam dzień w Punxsutawney. W roli głównej Bill Murray."
+  },
+  {
+   "tytuł": "Park Jurajski",
+   "tytuł_oryginalny": "Jurassic Park",
+   "reżyser": "Steven Spielberg",
+   "rok": "1993",
+   "kraj": "USA",
+   "gatunek": "Science fiction",
+   "kategoria_wiekowa": "12+",
+   "opis": "W parku rozrywki na wyspie sklonowane dinozaury wymykają się spod kontroli. Adaptacja powieści Michaela Crichtona."
+  },
+  {
+   "tytuł": "Naked",
+   "tytuł_oryginalny": "Naked",
+   "reżyser": "Mike Leigh",
+   "rok": "1993",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "18+",
+   "opis": "Bezrobotny mężczyzna z Manchesteru ucieka do Londynu i błąka się po mieście. W roli głównej David Thewlis."
+  },
+  {
+   "tytuł": "Fortepian",
+   "tytuł_oryginalny": "The Piano",
+   "reżyser": "Jane Campion",
+   "rok": "1993",
+   "kraj": "Nowa Zelandia",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "Niema Szkotka z córką i fortepianem przybywa do Nowej Zelandii do męża, którego poślubiła w małżeństwie aranżowanym. Złota Palma w Cannes."
+  },
+  {
+   "tytuł": "Wallace i Gromit: Wściekłe gacie",
+   "tytuł_oryginalny": "The Wrong Trousers",
+   "reżyser": "Nick Park",
+   "rok": "1993",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Animacja",
+   "kategoria_wiekowa": "6+",
+   "opis": "Wynalazca Wallace wynajmuje pokój pingwinowi, który okazuje się złodziejem diamentów. Krótkometrażowa animacja plastelinowa."
+  },
+  {
+   "tytuł": "Trzy kolory. Niebieski",
+   "tytuł_oryginalny": "Trois couleurs: Bleu",
+   "reżyser": "Krzysztof Kieślowski",
+   "rok": "1993",
+   "kraj": "Francja",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "Julie traci męża i córkę w wypadku i próbuje zacząć życie od nowa. Pierwsza część trylogii nawiązującej do haseł rewolucji francuskiej."
+  },
+  {
+   "tytuł": "Prawdziwy romans",
+   "tytuł_oryginalny": "True Romance",
+   "reżyser": "Tony Scott",
+   "rok": "1993",
+   "kraj": "USA",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "18+",
+   "opis": "Pracownik sklepu z komiksami po ślubie kradnie kokainę mafii i razem z żoną ucieka do Kalifornii. Scenariusz napisał Quentin Tarantino."
+  },
+  {
+   "tytuł": "Chungking Express",
+   "tytuł_oryginalny": "Chung Hing sam lam",
+   "reżyser": "Wong Kar-wai",
+   "rok": "1994",
+   "kraj": "Hongkong",
+   "gatunek": "Romans",
+   "kategoria_wiekowa": "12+",
+   "opis": "Dwie historie o samotnych policjantach, które łączy hongkoński pejzaż miejski."
+  },
+  {
+   "tytuł": "Clerks",
+   "tytuł_oryginalny": "Clerks",
+   "reżyser": "Kevin Smith",
+   "rok": "1994",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "16+",
+   "opis": "Jeden dzień z życia sprzedawcy sklepu spożywczego i jego kolegi z wypożyczalni wideo. Debiut Kevina Smitha."
+  },
+  {
+   "tytuł": "Ed Wood",
+   "tytuł_oryginalny": "Ed Wood",
+   "reżyser": "Tim Burton",
+   "rok": "1994",
+   "kraj": "USA",
+   "gatunek": "Biograficzny",
+   "kategoria_wiekowa": "12+",
+   "opis": "Historia Eda Wooda, uchodzącego za jednego z najgorszych reżyserów w historii kina, i jego przyjaźni z Belą Lugosim. Czarno-biały obraz Tima Burtona."
+  },
+  {
+   "tytuł": "Fist of Legend",
+   "tytuł_oryginalny": "Jing wu ying xiong",
+   "reżyser": "Gordon Chan",
+   "rok": "1994",
+   "kraj": "Hongkong",
+   "gatunek": "Akcja",
+   "kategoria_wiekowa": "16+",
+   "opis": "Chiński student w Japonii wraca do szkoły sztuk walki po śmierci mistrza i staje wobec japońskich okupantów. Remake Wściekłej pięści z Jetem Li."
+  },
+  {
+   "tytuł": "Niebiańskie stworzenia",
+   "tytuł_oryginalny": "Heavenly Creatures",
+   "reżyser": "Peter Jackson",
+   "rok": "1994",
+   "kraj": "Nowa Zelandia",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "16+",
+   "opis": "Dwie nastolatki z Christchurch łączy obsesyjna przyjaźń, która kończy się zabójstwem. Film oparty na prawdziwej sprawie z 1954 roku."
+  },
+  {
+   "tytuł": "Leon zawodowiec",
+   "tytuł_oryginalny": "Léon",
+   "reżyser": "Luc Besson",
+   "rok": "1994",
+   "kraj": "Francja",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "16+",
+   "opis": "Płatny zabójca zajmuje się dwunastoletnią sąsiadką po tym, jak skorumpowany agent zabija jej rodzinę. W rolach głównych Jean Reno i Natalie Portman."
+  },
+  {
+   "tytuł": "Once Were Warriors",
+   "tytuł_oryginalny": "Once Were Warriors",
+   "reżyser": "Lee Tamahori",
+   "rok": "1994",
+   "kraj": "Nowa Zelandia",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "18+",
+   "opis": "Rodzina Maorysów z biednej dzielnicy Auckland rozpada się przez przemoc ojca i alkohol. Adaptacja powieści Alana Duffa."
+  },
+  {
+   "tytuł": "Pulp Fiction",
+   "tytuł_oryginalny": "Pulp Fiction",
+   "reżyser": "Quentin Tarantino",
+   "rok": "1994",
+   "kraj": "USA",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "18+",
+   "opis": "Kilka splecionych historii z życia gangsterów, boksera i ich żon w Los Angeles. Złota Palma w Cannes."
+  },
+  {
+   "tytuł": "The Last Seduction",
+   "tytuł_oryginalny": "The Last Seduction",
+   "reżyser": "John Dahl",
+   "rok": "1994",
+   "kraj": "USA",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "18+",
+   "opis": "Manipulująca kobieta kradnie mężowi pieniądze z narkotyków i ukrywa się w małym miasteczku. Neo-noir z Lindą Fiorentino."
+  },
+  {
+   "tytuł": "The Legend of Drunken Master",
+   "tytuł_oryginalny": "Jui kuen II",
+   "reżyser": "Lau Kar-leung, Jackie Chan",
+   "rok": "1994",
+   "kraj": "Hongkong",
+   "gatunek": "Akcja",
+   "kategoria_wiekowa": "12+",
+   "opis": "Młody Wong Fei-hung stawia czoła przemytnikom chińskich zabytków, stosując styl pijanego boksu. W roli głównej Jackie Chan."
+  },
+  {
+   "tytuł": "Skazani na Shawshank",
+   "tytuł_oryginalny": "The Shawshank Redemption",
+   "reżyser": "Frank Darabont",
+   "rok": "1994",
+   "kraj": "USA",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "Niesłusznie skazany bankier przez dwie dekady przyjaźni się z więźniem w zakładzie Shawshank. Adaptacja opowiadania Stephena Kinga."
+  },
+  {
+   "tytuł": "Trzy kolory. Biały",
+   "tytuł_oryginalny": "Trois couleurs: Blanc",
+   "reżyser": "Krzysztof Kieślowski",
+   "rok": "1994",
+   "kraj": "Francja",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "Polski fryzjer, porzucony przez żonę Francuzkę, wraca do kraju i buduje majątek. Druga część trylogii nawiązującej do haseł rewolucji francuskiej."
+  },
+  {
+   "tytuł": "Trzy kolory: Czerwony",
+   "tytuł_oryginalny": "Trois couleurs: Rouge",
+   "reżyser": "Krzysztof Kieślowski",
+   "rok": "1994",
+   "kraj": "Francja",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Młoda modelka z Genewy poznaje emerytowanego sędziego, który podsłuchuje rozmowy sąsiadów. Trzecia część trylogii nawiązującej do haseł rewolucji francuskiej."
+  },
+  {
+   "tytuł": "Przed wschodem słońca",
+   "tytuł_oryginalny": "Before Sunrise",
+   "reżyser": "Richard Linklater",
+   "rok": "1995",
+   "kraj": "USA",
+   "gatunek": "Romans",
+   "kategoria_wiekowa": "12+",
+   "opis": "Amerykanin i Francuzka poznają się w pociągu i spędzają noc na spacerze po Wiedniu. Pierwsza część trylogii Linklatera."
+  },
+  {
+   "tytuł": "Gorączka",
+   "tytuł_oryginalny": "Heat",
+   "reżyser": "Michael Mann",
+   "rok": "1995",
+   "kraj": "USA",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "16+",
+   "opis": "Zawodowy złodziej i detektyw z Los Angeles prowadzą wzajemną grę. W rolach głównych Al Pacino i Robert De Niro."
+  },
+  {
+   "tytuł": "Nienawiść",
+   "tytuł_oryginalny": "La haine",
+   "reżyser": "Mathieu Kassovitz",
+   "rok": "1995",
+   "kraj": "Francja",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "Doba z życia trzech młodych mieszkańców podparyskiego blokowiska po zamieszkach. Czarno-biały film Mathieu Kassovitza."
+  },
+  {
+   "tytuł": "Siedem",
+   "tytuł_oryginalny": "Se7en",
+   "reżyser": "David Fincher",
+   "rok": "1995",
+   "kraj": "USA",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "18+",
+   "opis": "Dwóch policjantów tropi mordercę, który zabija ofiary zgodnie z siedmioma grzechami głównymi."
+  },
+  {
+   "tytuł": "Szybcy i martwi",
+   "tytuł_oryginalny": "The Quick and the Dead",
+   "reżyser": "Sam Raimi",
+   "rok": "1995",
+   "kraj": "USA",
+   "gatunek": "Akcja",
+   "kategoria_wiekowa": "16+",
+   "opis": "Tajemnicza kobieta zjawia się w miasteczku na Dzikim Zachodzie, by wziąć udział w turnieju pojedynków. Western Sama Raimiego."
+  },
+  {
+   "tytuł": "Podejrzani",
+   "tytuł_oryginalny": "The Usual Suspects",
+   "reżyser": "Bryan Singer",
+   "rok": "1995",
+   "kraj": "USA",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "16+",
+   "opis": "Jedyny świadek opowiada policji o tajemniczym Keyserze Sözem po wybuchu na statku w porcie."
+  },
+  {
+   "tytuł": "Big Night",
+   "tytuł_oryginalny": "Big Night",
+   "reżyser": "Campbell Scott, Stanley Tucci",
+   "rok": "1996",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "12+",
+   "opis": "Dwaj włoscy bracia próbują uratować swoją restaurację, organizując wystawną kolację. W obsadzie Tony Shalhoub i Stanley Tucci."
+  },
+  {
+   "tytuł": "Bottle Rocket",
+   "tytuł_oryginalny": "Bottle Rocket",
+   "reżyser": "Wes Anderson",
+   "rok": "1996",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "12+",
+   "opis": "Trzech przyjaciół z Teksasu planuje serię drobnych włamań według naiwnego planu. Pełnometrażowy debiut Wesa Andersona."
+  },
+  {
+   "tytuł": "Bound",
+   "tytuł_oryginalny": "Bound",
+   "reżyser": "Lilly Wachowski, Lana Wachowski",
+   "rok": "1996",
+   "kraj": "USA",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "18+",
+   "opis": "Była więźniarka i partnerka mafiosa planują kradzież mafijnych pieniędzy. Debiut reżyserski rodzeństwa Wachowskich."
+  },
+  {
+   "tytuł": "Przełamując fale",
+   "tytuł_oryginalny": "Breaking the Waves",
+   "reżyser": "Lars von Trier",
+   "rok": "1996",
+   "kraj": "Dania",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "Młoda mieszkanka szkockiej wioski wierzy, że może uratować sparaliżowanego męża, poświęcając się dla niego."
+  },
+  {
+   "tytuł": "Citizen Ruth",
+   "tytuł_oryginalny": "Citizen Ruth",
+   "reżyser": "Alexander Payne",
+   "rok": "1996",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "16+",
+   "opis": "Ciężarna narkomanka staje się obiektem sporu między przeciwnikami i zwolennikami aborcji. Debiut Alexandra Payne'a."
+  },
+  {
+   "tytuł": "Desperado",
+   "tytuł_oryginalny": "Desperado",
+   "reżyser": "Robert Rodriguez",
+   "rok": "1995",
+   "kraj": "USA",
+   "gatunek": "Akcja",
+   "kategoria_wiekowa": "16+",
+   "opis": "Muzyk z gitarą pełną broni szuka zemsty na baronie narkotykowym. Kontynuacja El Mariachi."
+  },
+  {
+   "tytuł": "Fargo",
+   "tytuł_oryginalny": "Fargo",
+   "reżyser": "Joel Coen, Ethan Coen",
+   "rok": "1996",
+   "kraj": "USA",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "16+",
+   "opis": "Sprzedawca samochodów zleca porwanie własnej żony, a sprawę bada ciężarna szeryf."
+  },
+  {
+   "tytuł": "Freeway",
+   "tytuł_oryginalny": "Freeway",
+   "reżyser": "Matthew Bright",
+   "rok": "1996",
+   "kraj": "USA",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "18+",
+   "opis": "Nastolatka ucieka z domu opiekuńczego i wsiada do samochodu seryjnego mordercy. Współczesna wariacja na temat Czerwonego Kapturka."
+  },
+  {
+   "tytuł": "Romeo i Julia",
+   "tytuł_oryginalny": "Romeo + Juliet",
+   "reżyser": "Baz Luhrmann",
+   "rok": "1996",
+   "kraj": "USA",
+   "gatunek": "Romans",
+   "kategoria_wiekowa": "12+",
+   "opis": "Tragedia Szekspira przeniesiona do współczesnego Verona Beach z zachowaniem oryginalnego języka. W rolach głównych Leonardo DiCaprio i Claire Danes."
+  },
+  {
+   "tytuł": "Krzyk",
+   "tytuł_oryginalny": "Scream",
+   "reżyser": "Wes Craven",
+   "rok": "1996",
+   "kraj": "USA",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "16+",
+   "opis": "Zamaskowany morderca terroryzuje licealistów z kalifornijskiego miasteczka i gra z nimi w konwencje horroru."
+  },
+  {
+   "tytuł": "Swingers",
+   "tytuł_oryginalny": "Swingers",
+   "reżyser": "Doug Liman",
+   "rok": "1996",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "16+",
+   "opis": "Młody komik po rozstaniu z dziewczyną wyrusza z przyjaciółmi na wypady po barach Los Angeles. W obsadzie Vince Vaughn i Jon Favreau."
+  },
+  {
+   "tytuł": "Trainspotting",
+   "tytuł_oryginalny": "Trainspotting",
+   "reżyser": "Danny Boyle",
+   "rok": "1996",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "18+",
+   "opis": "Grupa młodych uzależnionych od heroiny z Edynburga próbuje wyrwać się z nałogu. Adaptacja powieści Irvine'a Welsha."
+  },
+  {
+   "tytuł": "Waiting for Guffman",
+   "tytuł_oryginalny": "Waiting for Guffman",
+   "reżyser": "Christopher Guest",
+   "rok": "1996",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "12+",
+   "opis": "Amatorski teatr z małego miasta w Missouri przygotowuje musical na rocznicę założenia miasta. Fałszywy dokument Christophera Guesta."
+  },
+  {
+   "tytuł": "Boogie Nights",
+   "tytuł_oryginalny": "Boogie Nights",
+   "reżyser": "Paul Thomas Anderson",
+   "rok": "1997",
+   "kraj": "USA",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "18+",
+   "opis": "Kronika kariery młodego gwiazdora branży pornograficznej w Kalifornii lat 70. i 80. Film śledzi losy grupy ludzi skupionych wokół producenta filmowego."
+  },
+  {
+   "tytuł": "Cube",
+   "tytuł_oryginalny": "Cube",
+   "reżyser": "Vincenzo Natali",
+   "rok": "1997",
+   "kraj": "Kanada",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "16+",
+   "opis": "Grupa nieznajomych budzi się w systemie sześciennych pomieszczeń, z których część jest naszpikowana pułapkami. Próbują znaleźć wyjście, nie wiedząc, kto i po co ich tam umieścił."
+  },
+  {
+   "tytuł": "Funny Games",
+   "tytuł_oryginalny": "Funny Games",
+   "reżyser": "Michael Haneke",
+   "rok": "1997",
+   "kraj": "Austria",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "18+",
+   "opis": "Dwóch uprzejmych młodych mężczyzn wtargnęło do letniego domu rodziny i zmusza ją do okrutnej gry. Film łamie konwencje gatunku, zwracając się bezpośrednio do widza."
+  },
+  {
+   "tytuł": "Grosse Pointe Blank",
+   "tytuł_oryginalny": "Grosse Pointe Blank",
+   "reżyser": "George Armitage",
+   "rok": "1997",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "16+",
+   "opis": "Płatny zabójca wraca do rodzinnego miasteczka na zjazd absolwentów liceum i próbuje odnowić relację z dawną sympatią. Czarna komedia z elementami romansu."
+  },
+  {
+   "tytuł": "Jackie Brown",
+   "tytuł_oryginalny": "Jackie Brown",
+   "reżyser": "Quentin Tarantino",
+   "rok": "1997",
+   "kraj": "USA",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "16+",
+   "opis": "Stewardesa przyłapana na przemycie pieniędzy knuje plan oszukania handlarza bronią i agentów federalnych. Adaptacja powieści Elmore’a Leonarda."
+  },
+  {
+   "tytuł": "Tajemnice Los Angeles",
+   "tytuł_oryginalny": "L.A. Confidential",
+   "reżyser": "Curtis Hanson",
+   "rok": "1997",
+   "kraj": "USA",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "16+",
+   "opis": "Trzech policjantów o różnych charakterach prowadzi śledztwo w sprawie masakry w barze w Los Angeles lat 50. Wątek kryminalny splata się z korupcją w policji i światem plotkarskiej prasy."
+  },
+  {
+   "tytuł": "Zagubiona autostrada",
+   "tytuł_oryginalny": "Lost Highway",
+   "reżyser": "David Lynch",
+   "rok": "1997",
+   "kraj": "USA",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "18+",
+   "opis": "Saksofonista otrzymuje tajemnicze nagrania z własnego domu, a po oskarżeniu o zabójstwo żony jego tożsamość ulega niepokojącemu rozdwojeniu. Film utrzymany w konwencji koszmaru."
+  },
+  {
+   "tytuł": "Żołnierze kosmosu",
+   "tytuł_oryginalny": "Starship Troopers",
+   "reżyser": "Paul Verhoeven",
+   "rok": "1997",
+   "kraj": "USA",
+   "gatunek": "Science fiction",
+   "kategoria_wiekowa": "16+",
+   "opis": "Młodzi ludzie wstępują do wojska w militarystycznym państwie przyszłości i walczą z kosmicznymi insektami. Satyra na militaryzm, oparta na powieści Roberta Heinleina."
+  },
+  {
+   "tytuł": "Smak wiśni",
+   "tytuł_oryginalny": "Ta’m e guilas",
+   "reżyser": "Abbas Kiarostami",
+   "rok": "1997",
+   "kraj": "Iran",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Mężczyzna jeździ po obrzeżach Teheranu i szuka kogoś, kto po jego samobójstwie zasypie jego grób. Film oparty na rozmowach z napotkanymi ludźmi, nagrodzony Złotą Palmą w Cannes."
+  },
+  {
+   "tytuł": "Burza lodowa",
+   "tytuł_oryginalny": "The Ice Storm",
+   "reżyser": "Ang Lee",
+   "rok": "1997",
+   "kraj": "USA",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "Dwie rodziny z przedmieść Connecticut w 1973 roku zmagają się z nieudanymi małżeństwami i dorastaniem dzieci. Akcja kulminuje podczas zimowej burzy w święto Dziękczynienia."
+  },
+  {
+   "tytuł": "Prosty plan",
+   "tytuł_oryginalny": "A Simple Plan",
+   "reżyser": "Sam Raimi",
+   "rok": "1998",
+   "kraj": "USA",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "16+",
+   "opis": "Dwaj bracia i ich znajomy znajdują w zaśnieżonym lesie torbę z milionami dolarów i postanawiają je zatrzymać. Kolejne decyzje coraz bardziej ich pogrążają."
+  },
+  {
+   "tytuł": "Buffalo '66",
+   "tytuł_oryginalny": "Buffalo '66",
+   "reżyser": "Vincent Gallo",
+   "rok": "1998",
+   "kraj": "USA",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "Świeżo zwolniony z więzienia mężczyzna porywa młodą kobietę, by udawała jego żonę podczas wizyty u rodziców. Niskobudżetowy film autorski, w którym reżyser gra główną rolę."
+  },
+  {
+   "tytuł": "Festen",
+   "tytuł_oryginalny": "Festen",
+   "reżyser": "Thomas Vinterberg",
+   "rok": "1998",
+   "kraj": "Dania",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "Podczas urodzin patriarchy rodziny jeden z synów publicznie ujawnia rodzinną tajemnicę. Pierwszy film nakręcony według zasad manifestu Dogma 95."
+  },
+  {
+   "tytuł": "Happiness",
+   "tytuł_oryginalny": "Happiness",
+   "reżyser": "Todd Solondz",
+   "rok": "1998",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "18+",
+   "opis": "Film opowiada o losach trzech sióstr i ludzi wokół nich, których łączą samotność i skrywane obsesje. Czarna komedia o tematach tabu."
+  },
+  {
+   "tytuł": "Sam przeciw wszystkim",
+   "tytuł_oryginalny": "Seul contre tous",
+   "reżyser": "Gaspar Noé",
+   "rok": "1998",
+   "kraj": "Francja",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "18+",
+   "opis": "Bezrobotny rzeźnik, wypełniony goryczą i nienawiścią, wędruje przez francuskie miasto, a jego myśli słyszymy w monologu wewnętrznym. Kontynuacja krótkometrażowego filmu „Carne”."
+  },
+  {
+   "tytuł": "Last Night",
+   "tytuł_oryginalny": "Last Night",
+   "reżyser": "Don McKellar",
+   "rok": "1998",
+   "kraj": "Kanada",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "W Toronto ostatnie godziny przed końcem świata spędzają ludzie, którzy w różny sposób próbują się z nim pogodzić. Film skupia się na relacjach bohaterów, a nie na samej katastrofie."
+  },
+  {
+   "tytuł": "Out of Sight",
+   "tytuł_oryginalny": "Out of Sight",
+   "reżyser": "Steven Soderbergh",
+   "rok": "1998",
+   "kraj": "USA",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "16+",
+   "opis": "Uciekinier z więzienia i agentka federalna wpadają na siebie podczas ucieczki i rozwija się między nimi napięcie. Adaptacja powieści Elmore’a Leonarda."
+  },
+  {
+   "tytuł": "Pi",
+   "tytuł_oryginalny": "Pi",
+   "reżyser": "Darren Aronofsky",
+   "rok": "1998",
+   "kraj": "USA",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "16+",
+   "opis": "Genialny matematyk szuka wzorców w liczbach rządzących rynkiem akcji i naturą. Jego badania przyciągają uwagę giełdowych spekulantów i grupy religijnej. Czarno-biały debiut reżysera."
+  },
+  {
+   "tytuł": "Ring",
+   "tytuł_oryginalny": "Ringu",
+   "reżyser": "Hideo Nakata",
+   "rok": "1998",
+   "kraj": "Japonia",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "16+",
+   "opis": "Dziennikarka bada legendę o nagraniu wideo, które zabija oglądających je po siedmiu dniach. Film dał początek serii i zainspirował zachodnie remaki."
+  },
+  {
+   "tytuł": "Biegnij, Lola, biegnij",
+   "tytuł_oryginalny": "Lola rennt",
+   "reżyser": "Tom Tykwer",
+   "rok": "1998",
+   "kraj": "Niemcy",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "16+",
+   "opis": "Lola ma dwadzieścia minut, by zdobyć sto tysięcy marek i uratować życie swojego chłopaka. Film pokazuje trzy warianty tej samej historii."
+  },
+  {
+   "tytuł": "Rushmore",
+   "tytuł_oryginalny": "Rushmore",
+   "reżyser": "Wes Anderson",
+   "rok": "1998",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "12+",
+   "opis": "Nastoletni uczeń prestiżowej szkoły angażuje się w dziesiątki zajęć pozalekcyjnych i zakochuje w nauczycielce. Rywalem zostaje mu zaprzyjaźniony przemysłowiec."
+  },
+  {
+   "tytuł": "Fucking Åmål",
+   "tytuł_oryginalny": "Fucking Åmål",
+   "reżyser": "Lukas Moodysson",
+   "rok": "1998",
+   "kraj": "Szwecja",
+   "gatunek": "Romans",
+   "kategoria_wiekowa": "16+",
+   "opis": "Dwie nastolatki z prowincjonalnego szwedzkiego miasteczka zbliżają się do siebie, mierząc się z presją otoczenia. Film o dojrzewaniu i pierwszej miłości."
+  },
+  {
+   "tytuł": "There's Something About Mary",
+   "tytuł_oryginalny": "There's Something About Mary",
+   "reżyser": "Peter Farrelly, Bobby Farrelly",
+   "rok": "1998",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "16+",
+   "opis": "Mężczyzna po latach zatrudnia detektywa, by odnaleźć licealną miłość, i okazuje się, że ma wielu rywali. Komedia braci Farrelly."
+  },
+  {
+   "tytuł": "Wszystko o mojej matce",
+   "tytuł_oryginalny": "Todo sobre mi madre",
+   "reżyser": "Pedro Almodóvar",
+   "rok": "1999",
+   "kraj": "Hiszpania",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "Po śmierci syna kobieta wyrusza do Barcelony, by odszukać jego ojca, i wchodzi w krąg kobiet związanych ze sceną. Film nagrodzony Oscarem dla najlepszego filmu nieanglojęzycznego."
+  },
+  {
+   "tytuł": "American Movie",
+   "tytuł_oryginalny": "American Movie",
+   "reżyser": "Chris Smith",
+   "rok": "1999",
+   "kraj": "USA",
+   "gatunek": "Dokumentalny",
+   "kategoria_wiekowa": "16+",
+   "opis": "Dokument o amatorskim reżyserze z Wisconsin, który próbuje ukończyć niskobudżetowy horror, by sfinansować swój wymarzony film. Obraz marzeń i porażek twórczych."
+  },
+  {
+   "tytuł": "Audition",
+   "tytuł_oryginalny": "Odishon",
+   "reżyser": "Takashi Miike",
+   "rok": "1999",
+   "kraj": "Japonia",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "18+",
+   "opis": "Wdowiec organizuje fałszywe przesłuchanie do filmu, by znaleźć nową żonę, i zaczyna spotykać się z jedną z kandydatek. Jej przeszłość kryje niepokojące sekrety."
+  },
+  {
+   "tytuł": "Być jak John Malkovich",
+   "tytuł_oryginalny": "Being John Malkovich",
+   "reżyser": "Spike Jonze",
+   "rok": "1999",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "16+",
+   "opis": "Niespełniony lalkarz odkrywa w biurze tajemnicze przejście do umysłu aktora Johna Malkovicha. Surrealistyczna komedia o tożsamości."
+  },
+  {
+   "tytuł": "Election",
+   "tytuł_oryginalny": "Election",
+   "reżyser": "Alexander Payne",
+   "rok": "1999",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "16+",
+   "opis": "Nauczyciel liceum próbuje przeszkodzić ambitnej uczennicy w wygraniu wyborów na przewodniczącą samorządu. Satyra na politykę w miniaturze."
+  },
+  {
+   "tytuł": "Magnolia",
+   "tytuł_oryginalny": "Magnolia",
+   "reżyser": "Paul Thomas Anderson",
+   "rok": "1999",
+   "kraj": "USA",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "Losy kilkunastu mieszkańców Los Angeles splatają się w ciągu jednego dnia, a łączą je rodzinne zranienia i poczucie winy. Film ma epicką, wieloplanową narrację."
+  },
+  {
+   "tytuł": "Office Space",
+   "tytuł_oryginalny": "Office Space",
+   "reżyser": "Mike Judge",
+   "rok": "1999",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "16+",
+   "opis": "Programista znudzony pracą w firmie IT razem z kolegami układa plan sabotażu. Satyra na biurową rzeczywistość."
+  },
+  {
+   "tytuł": "South Park: Większy, dłuższy i nieocenzurowany",
+   "tytuł_oryginalny": "South Park: Bigger, Longer & Uncut",
+   "reżyser": "Trey Parker",
+   "rok": "1999",
+   "kraj": "USA",
+   "gatunek": "Animacja",
+   "kategoria_wiekowa": "18+",
+   "opis": "Chłopcy z miasteczka South Park wymykają się na film z wulgarnym humorem, co wywołuje ogólnokrajową histerię rodziców. Musical animowany oparty na serialu."
+  },
+  {
+   "tytuł": "Informator",
+   "tytuł_oryginalny": "The Insider",
+   "reżyser": "Michael Mann",
+   "rok": "1999",
+   "kraj": "USA",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Były pracownik koncernu tytoniowego decyduje się ujawnić tajemnice firmy w programie telewizyjnym. Oparty na prawdziwej historii film o presji korporacji i etyce dziennikarskiej."
+  },
+  {
+   "tytuł": "The Limey",
+   "tytuł_oryginalny": "The Limey",
+   "reżyser": "Steven Soderbergh",
+   "rok": "1999",
+   "kraj": "USA",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "16+",
+   "opis": "Brytyjski kryminalista przyjeżdża do Los Angeles, by wyjaśnić okoliczności śmierci córki. Film posługuje się niechronologiczną narracją."
+  },
+  {
+   "tytuł": "Matrix",
+   "tytuł_oryginalny": "The Matrix",
+   "reżyser": "Lana Wachowski, Lilly Wachowski",
+   "rok": "1999",
+   "kraj": "USA",
+   "gatunek": "Science fiction",
+   "kategoria_wiekowa": "16+",
+   "opis": "Haker Neo odkrywa, że świat, w którym żyje, jest symulacją stworzoną przez maszyny. Dołącza do grupy rebeliantów walczących o wyzwolenie ludzkości."
+  },
+  {
+   "tytuł": "Szósty zmysł",
+   "tytuł_oryginalny": "The Sixth Sense",
+   "reżyser": "M. Night Shyamalan",
+   "rok": "1999",
+   "kraj": "USA",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "12+",
+   "opis": "Psycholog dziecięcy opiekuje się chłopcem, który twierdzi, że widzi zmarłych. Film znany ze zwrotu fabularnego w finale."
+  },
+  {
+   "tytuł": "Prosta historia",
+   "tytuł_oryginalny": "The Straight Story",
+   "reżyser": "David Lynch",
+   "rok": "1999",
+   "kraj": "USA",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "6+",
+   "opis": "Starszy mężczyzna przemierza kosiarką z przyczepą ponad tysiąc kilometrów, by pogodzić się z chorym bratem. Film oparty na prawdziwych wydarzeniach."
+  },
+  {
+   "tytuł": "Przekleństwa niewinności",
+   "tytuł_oryginalny": "The Virgin Suicides",
+   "reżyser": "Sofia Coppola",
+   "rok": "1999",
+   "kraj": "USA",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "Grupa chłopców po latach wspomina pięć sióstr z amerykańskiego przedmieścia lat 70. i ich tragiczny los. Debiut reżyserski Sofii Coppoli oparty na powieści Jeffreya Eugenidesa."
+  },
+  {
+   "tytuł": "Trzej królowie",
+   "tytuł_oryginalny": "Three Kings",
+   "reżyser": "David O. Russell",
+   "rok": "1999",
+   "kraj": "USA",
+   "gatunek": "Wojenny",
+   "kategoria_wiekowa": "16+",
+   "opis": "Po zakończeniu wojny w Zatoce Perskiej czterech amerykańskich żołnierzy wyrusza na poszukiwanie ukrytego złota Saddama Husajna. Misja prowadzi ich do konfrontacji z rzeczywistością cierpienia cywilów."
+  },
+  {
+   "tytuł": "Wild Zero",
+   "tytuł_oryginalny": "Wild Zero",
+   "reżyser": "Tetsuro Takeuchi",
+   "rok": "1999",
+   "kraj": "Japonia",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "16+",
+   "opis": "Fan zespołu rockowego Guitar Wolf dostaje od jego członków pomoc w walce z inwazją zombie. Niskobudżetowy film łączący horror z komedią i punkową estetyką."
+  },
+  {
+   "tytuł": "Amores perros",
+   "tytuł_oryginalny": "Amores perros",
+   "reżyser": "Alejandro González Iñárritu",
+   "rok": "2000",
+   "kraj": "Meksyk",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "18+",
+   "opis": "Trzy historie z miasta Meksyk łączy wypadek samochodowy i psy odgrywające w życiu bohaterów ważną rolę. Debiut reżyserski Iñárritu."
+  },
+  {
+   "tytuł": "Battle Royale",
+   "tytuł_oryginalny": "Batoru rowaiaru",
+   "reżyser": "Kinji Fukasaku",
+   "rok": "2000",
+   "kraj": "Japonia",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "18+",
+   "opis": "Uczniowie klasy gimnazjalnej zostają wysłani na odizolowaną wyspę, gdzie według rządowego prawa muszą walczyć ze sobą na śmierć i życie. Adaptacja powieści Kōshuna Takamiego."
+  },
+  {
+   "tytuł": "Best in Show",
+   "tytuł_oryginalny": "Best in Show",
+   "reżyser": "Christopher Guest",
+   "rok": "2000",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "12+",
+   "opis": "Właściciele psów rywalizują na prestiżowej wystawie, a ich ekscentryczne osobowości wychodzą na jaw. Mockument w stylu dokumentalnym."
+  },
+  {
+   "tytuł": "Przyczajony tygrys, ukryty smok",
+   "tytuł_oryginalny": "Wo hu cang long",
+   "reżyser": "Ang Lee",
+   "rok": "2000",
+   "kraj": "Tajwan",
+   "gatunek": "Akcja",
+   "kategoria_wiekowa": "12+",
+   "opis": "Wojownik chce oddać legendarny miecz i zostaje wciągnięty w pościg za młodą złodziejką. Film wuxia łączy sztuki walki z wątkiem romantycznym."
+  },
+  {
+   "tytuł": "Spragnieni miłości",
+   "tytuł_oryginalny": "Fa yeung nin wa",
+   "reżyser": "Wong Kar-wai",
+   "rok": "2000",
+   "kraj": "Hongkong",
+   "gatunek": "Romans",
+   "kategoria_wiekowa": "12+",
+   "opis": "W Hongkongu lat 60. dwoje sąsiadów odkrywa, że ich małżonkowie mają romans, i zbliżają się do siebie. Subtelna opowieść o niespełnionym uczuciu."
+  },
+  {
+   "tytuł": "JSA: Wspólny Obszar Bezpieczeństwa",
+   "tytuł_oryginalny": "Gongdong gyeongbi guyeok JSA",
+   "reżyser": "Park Chan-wook",
+   "rok": "2000",
+   "kraj": "Korea Południowa",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "16+",
+   "opis": "Szwajcarsko-koreańska oficer prowadzi śledztwo w sprawie strzelaniny na granicy obu Korei. Okazuje się, że żołnierze z obu stron łączyła tajemnicza przyjaźń."
+  },
+  {
+   "tytuł": "Memento",
+   "tytuł_oryginalny": "Memento",
+   "reżyser": "Christopher Nolan",
+   "rok": "2000",
+   "kraj": "USA",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "16+",
+   "opis": "Mężczyzna z zaburzeniem pamięci krótkotrwałej szuka zabójcy swojej żony, posługując się notatkami i tatuażami. Film opowiedziany jest w odwróconej chronologii."
+  },
+  {
+   "tytuł": "Requiem dla snu",
+   "tytuł_oryginalny": "Requiem for a Dream",
+   "reżyser": "Darren Aronofsky",
+   "rok": "2000",
+   "kraj": "USA",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "18+",
+   "opis": "Czworo mieszkańców Nowego Jorku pogrąża się w uzależnieniach, które niszczą ich marzenia i relacje. Film na podstawie powieści Huberta Selby’ego Jr."
+  },
+  {
+   "tytuł": "Sexy Beast",
+   "tytuł_oryginalny": "Sexy Beast",
+   "reżyser": "Jonathan Glazer",
+   "rok": "2000",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "18+",
+   "opis": "Emerytowany gangster w hiszpańskiej willi zostaje zmuszony do powrotu do przestępczego świata przez agresywnego byłego kolegę. Debiut reżyserski Jonathana Glazera."
+  },
+  {
+   "tytuł": "Pieśni z drugiego piętra",
+   "tytuł_oryginalny": "Sånger från andra våningen",
+   "reżyser": "Roy Andersson",
+   "rok": "2000",
+   "kraj": "Szwecja",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Seria absurdalnych, statycznych scen pokazuje mieszkańców miasta w obliczu nieokreślonego kryzysu. Film stworzony z długich ujęć o rygorystycznej kompozycji."
+  },
+  {
+   "tytuł": "The Filth and the Fury",
+   "tytuł_oryginalny": "The Filth and the Fury",
+   "reżyser": "Julien Temple",
+   "rok": "2000",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Dokumentalny",
+   "kategoria_wiekowa": "16+",
+   "opis": "Dokument o brytyjskim zespole Sex Pistols opowiadany głosem jego członków i materiałami archiwalnymi. Film osadza zjawisko punk w realiach Wielkiej Brytanii lat 70."
+  },
+  {
+   "tytuł": "Razem",
+   "tytuł_oryginalny": "Tillsammans",
+   "reżyser": "Lukas Moodysson",
+   "rok": "2000",
+   "kraj": "Szwecja",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "12+",
+   "opis": "Szwedzka komuna hippisowska w 1975 roku przyjmuje kobietę z dwójką dzieci uciekającą przed mężem. Ciepła opowieść o idealizmie i codziennych sprzecznościach."
+  },
+  {
+   "tytuł": "Amelia",
+   "tytuł_oryginalny": "Le Fabuleux Destin d’Amélie Poulain",
+   "reżyser": "Jean-Pierre Jeunet",
+   "rok": "2001",
+   "kraj": "Francja",
+   "gatunek": "Romans",
+   "kategoria_wiekowa": "12+",
+   "opis": "Paryska kelnerka postanawia po cichu poprawiać życie innych, a sama szuka miłości. Baśniowa, kolorowa komedia romantyczna."
+  },
+  {
+   "tytuł": "Donnie Darko",
+   "tytuł_oryginalny": "Donnie Darko",
+   "reżyser": "Richard Kelly",
+   "rok": "2001",
+   "kraj": "USA",
+   "gatunek": "Science fiction",
+   "kategoria_wiekowa": "16+",
+   "opis": "Zaburzony nastolatek, ostrzeżony przez postać w kostiumie królika o końcu świata, zaczyna doświadczać dziwnych zdarzeń. Film łączy podróże w czasie z dramatem dorastania."
+  },
+  {
+   "tytuł": "Frailty",
+   "tytuł_oryginalny": "Frailty",
+   "reżyser": "Bill Paxton",
+   "rok": "2001",
+   "kraj": "USA",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "16+",
+   "opis": "Mężczyzna opowiada agentowi FBI o dzieciństwie, gdy jego ojciec uznał się za wykonawcę boskiej misji zabijania demonów. Reżyserski debiut Billa Paxtona."
+  },
+  {
+   "tytuł": "Mulholland Drive",
+   "tytuł_oryginalny": "Mulholland Drive",
+   "reżyser": "David Lynch",
+   "rok": "2001",
+   "kraj": "USA",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "18+",
+   "opis": "Młoda aktorka przyjeżdża do Hollywood i pomaga kobiecie cierpiącej na amnezję odkryć jej tożsamość. Film o strukturze snu i iluzji."
+  },
+  {
+   "tytuł": "Ocean's Eleven: Ryzykowna gra",
+   "tytuł_oryginalny": "Ocean's Eleven",
+   "reżyser": "Steven Soderbergh",
+   "rok": "2001",
+   "kraj": "USA",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "12+",
+   "opis": "Danny Ocean zbiera zespół specjalistów, by okraść jednocześnie trzy kasyna w Las Vegas. Remake filmu z 1960 roku."
+  },
+  {
+   "tytuł": "Shaolin Soccer",
+   "tytuł_oryginalny": "Shaolin Soccer",
+   "reżyser": "Stephen Chow",
+   "rok": "2001",
+   "kraj": "Hongkong",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "12+",
+   "opis": "Były mnich shaolin zakłada drużynę piłkarską, w której walczą dawni uczniowie, wykorzystując kung-fu na boisku. Komedia sportowa z efektami specjalnymi."
+  },
+  {
+   "tytuł": "Spirited Away: W krainie bogów",
+   "tytuł_oryginalny": "Sen to Chihiro no kamikakushi",
+   "reżyser": "Hayao Miyazaki",
+   "rok": "2001",
+   "kraj": "Japonia",
+   "gatunek": "Animacja",
+   "kategoria_wiekowa": "6+",
+   "opis": "Dziewczynka trafia do świata duchów i musi pracować w łaźni, by uwolnić rodziców zamienionych w świnie. Film studia Ghibli nagrodzony Oscarem."
+  },
+  {
+   "tytuł": "Kręgosłup diabła",
+   "tytuł_oryginalny": "El espinazo del diablo",
+   "reżyser": "Guillermo del Toro",
+   "rok": "2001",
+   "kraj": "Hiszpania",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "16+",
+   "opis": "W sierocińcu w czasie hiszpańskiej wojny domowej chłopiec spotyka ducha zmarłego dziecka. Film łączy opowieść grozy z tłem historycznym."
+  },
+  {
+   "tytuł": "Władca Pierścieni: Drużyna Pierścienia",
+   "tytuł_oryginalny": "The Lord of the Rings: The Fellowship of the Ring",
+   "reżyser": "Peter Jackson",
+   "rok": "2001",
+   "kraj": "Nowa Zelandia",
+   "gatunek": "Fantasy",
+   "kategoria_wiekowa": "12+",
+   "opis": "Hobbit Frodo wyrusza z drużyną, by zniszczyć Jedyny Pierścień w ogniu Góry Przeznaczenia. Pierwsza część trylogii na podstawie powieści J.R.R. Tolkiena."
+  },
+  {
+   "tytuł": "Pianistka",
+   "tytuł_oryginalny": "La Pianiste",
+   "reżyser": "Michael Haneke",
+   "rok": "2001",
+   "kraj": "Austria",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "18+",
+   "opis": "Surowa wiedeńska profesorka fortepianu wchodzi w niezwykle napiętą relację ze swoim młodym uczniem. Adaptacja powieści Elfriede Jelinek."
+  },
+  {
+   "tytuł": "Genialny klan",
+   "tytuł_oryginalny": "The Royal Tenenbaums",
+   "reżyser": "Wes Anderson",
+   "rok": "2001",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "12+",
+   "opis": "Dorosłe, niegdyś genialne dzieci Royala Tenenbauma wracają do rodzinnego domu, gdy ojciec próbuje odzyskać ich zaufanie. Komedia o dysfunkcyjnej rodzinie."
+  },
+  {
+   "tytuł": "I twoją matkę też",
+   "tytuł_oryginalny": "Y tu mamá también",
+   "reżyser": "Alfonso Cuarón",
+   "rok": "2001",
+   "kraj": "Meksyk",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "Dwóch nastolatków wyrusza w podróż samochodem przez Meksyk z dojrzałą kobietą. Podróż odsłania ich niepewności i społeczne podziały."
+  },
+  {
+   "tytuł": "Adaptacja",
+   "tytuł_oryginalny": "Adaptation.",
+   "reżyser": "Spike Jonze",
+   "rok": "2002",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "16+",
+   "opis": "Scenarzysta Charlie Kaufman zmaga się z adaptacją książki o kwiatach i własnymi wątpliwościami. Film miesza fakty z fikcją, a bohaterem jest też jego fikcyjny brat."
+  },
+  {
+   "tytuł": "Miasto Boga",
+   "tytuł_oryginalny": "Cidade de Deus",
+   "reżyser": "Fernando Meirelles, Kátia Lund",
+   "rok": "2002",
+   "kraj": "Brazylia",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "18+",
+   "opis": "Historia dwóch chłopców dorastających w faweli Rio de Janeiro, z których jeden zostaje fotografem, a drugi gangsterem. Film oparty na faktach i powieści Paula Linsa."
+  },
+  {
+   "tytuł": "Hero",
+   "tytuł_oryginalny": "Ying xiong",
+   "reżyser": "Zhang Yimou",
+   "rok": "2002",
+   "kraj": "Chiny",
+   "gatunek": "Akcja",
+   "kategoria_wiekowa": "12+",
+   "opis": "Bezimienny wojownik opowiada władcy trzy wersje pokonania zabójców, którzy zagrażali jego życiu. Film wuxia o mocno stylizowanej, kolorowej wizji."
+  },
+  {
+   "tytuł": "Infernal Affairs: Piekielna gra",
+   "tytuł_oryginalny": "Mou gaan dou",
+   "reżyser": "Andrew Lau, Alan Mak",
+   "rok": "2002",
+   "kraj": "Hongkong",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "16+",
+   "opis": "Policjant wtopiony w triadę i gangster wprowadzony do policji próbują nawzajem odkryć swoje tożsamości. Pierwowzór „Infiltracji” Martina Scorsese."
+  },
+  {
+   "tytuł": "Nieodwracalne",
+   "tytuł_oryginalny": "Irréversible",
+   "reżyser": "Gaspar Noé",
+   "rok": "2002",
+   "kraj": "Francja",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "18+",
+   "opis": "Film opowiada o zemście po brutalnym napadzie, a wydarzenia przedstawia w odwróconej kolejności. Dzieło kontrowersyjne ze względu na drastyczne sceny."
+  },
+  {
+   "tytuł": "Pająk",
+   "tytuł_oryginalny": "Spider",
+   "reżyser": "David Cronenberg",
+   "rok": "2002",
+   "kraj": "Kanada",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "Mężczyzna z zaburzeniami psychicznymi po latach w szpitalu wraca do londyńskiej dzielnicy i odtwarza traumatyczne wspomnienia z dzieciństwa. Adaptacja powieści Patricka McGratha."
+  },
+  {
+   "tytuł": "Pan Zemsta",
+   "tytuł_oryginalny": "Boksuneun naui geot",
+   "reżyser": "Park Chan-wook",
+   "rok": "2002",
+   "kraj": "Korea Południowa",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "18+",
+   "opis": "Głuchoniemy robotnik porywa córkę swojego byłego szefa, by zdobyć pieniądze na przeszczep nerki dla siostry. Plan rozpoczyna spiralę przemocy. Pierwsza część „Trylogii zemsty”."
+  },
+  {
+   "tytuł": "Dogville",
+   "tytuł_oryginalny": "Dogville",
+   "reżyser": "Lars von Trier",
+   "rok": "2003",
+   "kraj": "Dania",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "Uciekinierka przed gangsterami znajduje schronienie w niewielkiej amerykańskiej wiosce, a jej gościnność zostaje stopniowo wystawiona na próbę. Film nakręcony na minimalistycznej scenie bez dekoracji."
+  },
+  {
+   "tytuł": "Między słowami",
+   "tytuł_oryginalny": "Lost in Translation",
+   "reżyser": "Sofia Coppola",
+   "rok": "2003",
+   "kraj": "USA",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Podstarzały aktor i młoda żona fotografa spotykają się w tokijskim hotelu i nawiązują relację opartą na wspólnej samotności. Film Sofii Coppoli o poczuciu wyobcowania."
+  },
+  {
+   "tytuł": "Zbrodnia doskonała",
+   "tytuł_oryginalny": "Salinui chueok",
+   "reżyser": "Bong Joon-ho",
+   "rok": "2003",
+   "kraj": "Korea Południowa",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "16+",
+   "opis": "Dwóch policjantów prowadzi śledztwo w sprawie serii zabójstw kobiet na wsi w latach 80. Film inspirowany prawdziwą, nierozwiązaną sprawą."
+  },
+  {
+   "tytuł": "Oldboy",
+   "tytuł_oryginalny": "Oldeuboi",
+   "reżyser": "Park Chan-wook",
+   "rok": "2003",
+   "kraj": "Korea Południowa",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "18+",
+   "opis": "Mężczyzna po piętnastu latach tajemniczego uwięzienia zostaje uwolniony i szuka zemsty na swoim oprawcy. Druga część „Trylogii zemsty”."
+  },
+  {
+   "tytuł": "Szkoła rocka",
+   "tytuł_oryginalny": "School of Rock",
+   "reżyser": "Richard Linklater",
+   "rok": "2003",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "6+",
+   "opis": "Muzyk rockowy podszywa się pod nauczyciela zastępczego i uczy uczniów prywatnej szkoły grać w zespole. Komedia muzyczna z Jackiem Blackiem."
+  },
+  {
+   "tytuł": "Legenda telewizji",
+   "tytuł_oryginalny": "Anchorman: The Legend of Ron Burgundy",
+   "reżyser": "Adam McKay",
+   "rok": "2004",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "12+",
+   "opis": "Samozadowolony prezenter wiadomości z lat 70. musi zmierzyć się z pojawieniem się w redakcji ambitnej koleżanki. Absurdalna komedia z Willem Ferrellem."
+  },
+  {
+   "tytuł": "Przed zachodem słońca",
+   "tytuł_oryginalny": "Before Sunset",
+   "reżyser": "Richard Linklater",
+   "rok": "2004",
+   "kraj": "USA",
+   "gatunek": "Romans",
+   "kategoria_wiekowa": "12+",
+   "opis": "Dziewięć lat po spotkaniu w Wiedniu dwoje bohaterów spotyka się znów w Paryżu i rozmawia podczas spaceru po mieście. Druga część trylogii Linklatera."
+  },
+  {
+   "tytuł": "Dead Man’s Shoes",
+   "tytuł_oryginalny": "Dead Man’s Shoes",
+   "reżyser": "Shane Meadows",
+   "rok": "2004",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "18+",
+   "opis": "Żołnierz wraca do rodzinnej wsi i planuje zemstę na grupie lokalnych dealerów, którzy skrzywdzili jego brata. Film w klimacie thrillera zemsty."
+  },
+  {
+   "tytuł": "Zakochany bez pamięci",
+   "tytuł_oryginalny": "Eternal Sunshine of the Spotless Mind",
+   "reżyser": "Michel Gondry",
+   "rok": "2004",
+   "kraj": "USA",
+   "gatunek": "Romans",
+   "kategoria_wiekowa": "16+",
+   "opis": "Po rozstaniu para decyduje się usunąć wzajemne wspomnienia. Mężczyzna w trakcie zabiegu odkrywa, że chce ocalić dobre chwile. Scenariusz napisał Charlie Kaufman."
+  },
+  {
+   "tytuł": "Człowiek w ogniu",
+   "tytuł_oryginalny": "Man on Fire",
+   "reżyser": "Tony Scott",
+   "rok": "2004",
+   "kraj": "USA",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "16+",
+   "opis": "Były agent zostaje ochroniarzem dziewczynki w Meksyku i po jej porwaniu rusza na poszukiwania sprawców. Film o zemście z ostrym stylem montażu."
+  },
+  {
+   "tytuł": "Napoleon Dynamite",
+   "tytuł_oryginalny": "Napoleon Dynamite",
+   "reżyser": "Jared Hess",
+   "rok": "2004",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "12+",
+   "opis": "Nieporadny nastolatek z prowincji Idaho wspiera kolegę w kampanii na szkolnego przewodniczącego. Komedia o wykluczeniu i dziwacznych bohaterach."
+  },
+  {
+   "tytuł": "Bezdroża",
+   "tytuł_oryginalny": "Sideways",
+   "reżyser": "Alexander Payne",
+   "rok": "2004",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "16+",
+   "opis": "Dwaj przyjaciele wyruszają w tygodniową podróż po kalifornijskich winnicach przed ślubem jednego z nich. Komediodramat o kryzysie wieku średniego."
+  },
+  {
+   "tytuł": "Spider-Man 2",
+   "tytuł_oryginalny": "Spider-Man 2",
+   "reżyser": "Sam Raimi",
+   "rok": "2004",
+   "kraj": "USA",
+   "gatunek": "Akcja",
+   "kategoria_wiekowa": "12+",
+   "opis": "Peter Parker zmaga się z podwójnym życiem, a nowym przeciwnikiem staje się naukowiec o mechanicznych ramionach. Druga część filmowej serii o Spider-Manie."
+  },
+  {
+   "tytuł": "Team America: Światowa policja",
+   "tytuł_oryginalny": "Team America: World Police",
+   "reżyser": "Trey Parker",
+   "rok": "2004",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "16+",
+   "opis": "Marionetki tworzą specjalny oddział walczący z terrorystami na całym świecie. Satyra na amerykańskie kino akcji i politykę zagraniczną."
+  },
+  {
+   "tytuł": "Vera Drake",
+   "tytuł_oryginalny": "Vera Drake",
+   "reżyser": "Mike Leigh",
+   "rok": "2004",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "W Londynie lat 50. życzliwa gosposia potajemnie pomaga kobietom w przerwaniu ciąży i w końcu zostaje aresztowana. Dramat o społecznych skutkach zakazu aborcji."
+  },
+  {
+   "tytuł": "Niebezpieczna metoda",
+   "tytuł_oryginalny": "A History of Violence",
+   "reżyser": "David Cronenberg",
+   "rok": "2005",
+   "kraj": "USA",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "18+",
+   "opis": "Właściciel małej knajpy zostaje bohaterem po odparciu napadu, co ściąga na niego uwagę gangsterów z przeszłości. Adaptacja komiksu Johna Wagnera i Vince’a Locke’a."
+  },
+  {
+   "tytuł": "Brick",
+   "tytuł_oryginalny": "Brick",
+   "reżyser": "Rian Johnson",
+   "rok": "2005",
+   "kraj": "USA",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "16+",
+   "opis": "Licealista prowadzi własne śledztwo po śmierci dawnej dziewczyny, wkraczając do świata szkolnych gangów. Film łączy konwencje noir z realiami amerykańskiego liceum."
+  },
+  {
+   "tytuł": "Tajemnica Brokeback Mountain",
+   "tytuł_oryginalny": "Brokeback Mountain",
+   "reżyser": "Ang Lee",
+   "rok": "2005",
+   "kraj": "USA",
+   "gatunek": "Romans",
+   "kategoria_wiekowa": "16+",
+   "opis": "Dwaj kowboje nawiązują uczuciową więź podczas wspólnej pracy i przez wiele lat utrzymują ją w tajemnicy. Adaptacja opowiadania Annie Proulx."
+  },
+  {
+   "tytuł": "Ukryte",
+   "tytuł_oryginalny": "Caché",
+   "reżyser": "Michael Haneke",
+   "rok": "2005",
+   "kraj": "Francja",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "16+",
+   "opis": "Paryska rodzina otrzymuje anonimowe nagrania z ich domu, co zmusza męża do konfrontacji z przeszłością. Film o winie i pamięci."
+  },
+  {
+   "tytuł": "Apocalypto",
+   "tytuł_oryginalny": "Apocalypto",
+   "reżyser": "Mel Gibson",
+   "rok": "2006",
+   "kraj": "USA",
+   "gatunek": "Przygodowy",
+   "kategoria_wiekowa": "18+",
+   "opis": "Młody Majanin ucieka z niewoli i próbuje wrócić do rodziny przed upadkiem cywilizacji. Film z dialogami w języku jukateckim."
+  },
+  {
+   "tytuł": "Casino Royale",
+   "tytuł_oryginalny": "Casino Royale",
+   "reżyser": "Martin Campbell",
+   "rok": "2006",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Akcja",
+   "kategoria_wiekowa": "16+",
+   "opis": "Początkujący agent 007 James Bond bierze udział w partii pokera, by pokonać finansistę terrorystów. Restart serii z Danielem Craigiem."
+  },
+  {
+   "tytuł": "Ludzkie dzieci",
+   "tytuł_oryginalny": "Children of Men",
+   "reżyser": "Alfonso Cuarón",
+   "rok": "2006",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Science fiction",
+   "kategoria_wiekowa": "16+",
+   "opis": "W świecie, w którym od osiemnastu lat nie rodzą się dzieci, urzędnik ma eskortować ciężarną kobietę w bezpieczne miejsce. Adaptacja powieści P.D. James."
+  },
+  {
+   "tytuł": "Labirynt fauna",
+   "tytuł_oryginalny": "El laberinto del fauno",
+   "reżyser": "Guillermo del Toro",
+   "rok": "2006",
+   "kraj": "Hiszpania",
+   "gatunek": "Fantasy",
+   "kategoria_wiekowa": "16+",
+   "opis": "W Hiszpanii 1944 roku dziewczynka odkrywa tajemniczy labirynt i spotyka fauna, który daje jej trzy zadania. Film łączy bajkę z brutalną rzeczywistością wojny domowej."
+  },
+  {
+   "tytuł": "Gospodarz",
+   "tytuł_oryginalny": "Gwoemul",
+   "reżyser": "Bong Joon-ho",
+   "rok": "2006",
+   "kraj": "Korea Południowa",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "16+",
+   "opis": "Z rzeki Han wyłania się potwór, który porywa córkę właściciela sklepiku. Rodzina rusza jej na ratunek, a film łączy horror z satyrą."
+  },
+  {
+   "tytuł": "Życie na podsłuchu",
+   "tytuł_oryginalny": "Das Leben der Anderen",
+   "reżyser": "Florian Henckel von Donnersmarck",
+   "rok": "2006",
+   "kraj": "Niemcy",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "W NRD lat 80. oficer Stasi inwigiluje dramaturga i zaczyna zmieniać swój stosunek do obserwowanych. Film nagrodzony Oscarem dla najlepszego filmu nieanglojęzycznego."
+  },
+  {
+   "tytuł": "[Rec]",
+   "tytuł_oryginalny": "[Rec]",
+   "reżyser": "Jaume Balagueró, Paco Plaza",
+   "rok": "2007",
+   "kraj": "Hiszpania",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "18+",
+   "opis": "Reporterka telewizyjna i operator kamery zostają uwięzieni w barcelońskiej kamienicy, w której szerzy się tajemnicza choroba. Film nakręcony w konwencji found footage."
+  },
+  {
+   "tytuł": "4 miesiące, 3 tygodnie i 2 dni",
+   "tytuł_oryginalny": "4 luni, 3 saptamâni și 2 zile",
+   "reżyser": "Cristian Mungiu",
+   "rok": "2007",
+   "kraj": "Rumunia",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "W Rumunii lat 80. studentka pomaga koleżance w nielegalnej aborcji. Film nagrodzony Złotą Palmą w Cannes."
+  },
+  {
+   "tytuł": "Control",
+   "tytuł_oryginalny": "Control",
+   "reżyser": "Anton Corbijn",
+   "rok": "2007",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Biograficzny",
+   "kategoria_wiekowa": "16+",
+   "opis": "Biografia Iana Curtisa, wokalisty Joy Division, od lat nastoletnich do jego samobójczej śmierci w 1980 roku. Film nakręcony w czerni i bieli."
+  },
+  {
+   "tytuł": "To nie jest kraj dla starych ludzi",
+   "tytuł_oryginalny": "No Country for Old Men",
+   "reżyser": "Joel Coen, Ethan Coen",
+   "rok": "2007",
+   "kraj": "USA",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "16+",
+   "opis": "Mężczyzna znajduje na pustyni walizkę z pieniędzmi i staje się celem bezwzględnego płatnego zabójcy. Adaptacja powieści Cormaca McCarthy’ego."
+  },
+  {
+   "tytuł": "Persepolis",
+   "tytuł_oryginalny": "Persepolis",
+   "reżyser": "Marjane Satrapi, Vincent Paronnaud",
+   "rok": "2007",
+   "kraj": "Francja",
+   "gatunek": "Animacja",
+   "kategoria_wiekowa": "12+",
+   "opis": "Animowana autobiografia Marjane Satrapi, dorastającej w Iranie w czasie rewolucji islamskiej i wojny, a potem żyjącej na emigracji. Film oparty na jej komiksie."
+  },
+  {
+   "tytuł": "Supersamiec",
+   "tytuł_oryginalny": "Superbad",
+   "reżyser": "Greg Mottola",
+   "rok": "2007",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "16+",
+   "opis": "Dwóch licealistów próbuje zdobyć alkohol na imprezę przed rozstaniem po ukończeniu szkoły. Komedia dla młodzieży."
+  },
+  {
+   "tytuł": "The King of Kong",
+   "tytuł_oryginalny": "The King of Kong: A Fistful of Quarters",
+   "reżyser": "Seth Gordon",
+   "rok": "2007",
+   "kraj": "USA",
+   "gatunek": "Dokumentalny",
+   "kategoria_wiekowa": "6+",
+   "opis": "Dokument o rywalizacji dwóch graczy o rekord w grze Donkey Kong. Film o pasji i sportowej obsesji."
+  },
+  {
+   "tytuł": "Aż poleje się krew",
+   "tytuł_oryginalny": "There Will Be Blood",
+   "reżyser": "Paul Thomas Anderson",
+   "rok": "2007",
+   "kraj": "USA",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "Poszukiwacz ropy Daniel Plainview buduje na początku XX wieku majątek, kosztem relacji z synem i rywalem, kaznodzieją. Nolan wymienił film w rozmowie dla Konbini."
+  },
+  {
+   "tytuł": "Timecrimes",
+   "tytuł_oryginalny": "Los cronocrímenes",
+   "reżyser": "Nacho Vigalondo",
+   "rok": "2007",
+   "kraj": "Hiszpania",
+   "gatunek": "Science fiction",
+   "kategoria_wiekowa": "16+",
+   "opis": "Mężczyzna ukrywający się przed zamaskowanym napastnikiem trafia do pobliskiego laboratorium i cofa się w czasie o godzinę. Próby naprawienia sytuacji tylko pogłębiają chaos."
+  },
+  {
+   "tytuł": "Wy, żywi",
+   "tytuł_oryginalny": "Du levande",
+   "reżyser": "Roy Andersson",
+   "rok": "2007",
+   "kraj": "Szwecja",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "12+",
+   "opis": "Seria krótkich scen z życia ludzi w nijakim mieście, pełnych absurdu i melancholii. Czarna komedia."
+  },
+  {
+   "tytuł": "Zodiak",
+   "tytuł_oryginalny": "Zodiac",
+   "reżyser": "David Fincher",
+   "rok": "2007",
+   "kraj": "USA",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "16+",
+   "opis": "Dziennikarze i policjanci przez lata tropią nieuchwytnego seryjnego mordercę z San Francisco. Film oparty na faktach."
+  },
+  {
+   "tytuł": "Happy-Go-Lucky",
+   "tytuł_oryginalny": "Happy-Go-Lucky",
+   "reżyser": "Mike Leigh",
+   "rok": "2008",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "12+",
+   "opis": "Poppy, optymistyczna nauczycielka z Londynu, zachowuje pogodę ducha mimo codziennych kłopotów. Film obserwuje jej relacje z siostrami, przyjaciółmi i gburowatym instruktorem jazdy."
+  },
+  {
+   "tytuł": "Pozwól mi wejść",
+   "tytuł_oryginalny": "Låt den rätte komma in",
+   "reżyser": "Tomas Alfredson",
+   "rok": "2008",
+   "kraj": "Szwecja",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "16+",
+   "opis": "Zastraszany chłopiec zaprzyjaźnia się z tajemniczą dziewczynką, która okazuje się wampirem. Film według powieści Johna Ajvide Lindqvista."
+  },
+  {
+   "tytuł": "Man on Wire",
+   "tytuł_oryginalny": "Man on Wire",
+   "reżyser": "James Marsh",
+   "rok": "2008",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Dokumentalny",
+   "kategoria_wiekowa": "12+",
+   "opis": "Dokument opowiada o spacerze Philippe'a Petita po linie między wieżami World Trade Center w 1974 roku. Film o marzeniu i planowaniu."
+  },
+  {
+   "tytuł": "Synekdocha, Nowy Jork",
+   "tytuł_oryginalny": "Synecdoche, New York",
+   "reżyser": "Charlie Kaufman",
+   "rok": "2008",
+   "kraj": "USA",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "Reżyser teatralny buduje w hali replikę Nowego Jorku, by uchwycić własne życie. Film o śmierci i sztuce."
+  },
+  {
+   "tytuł": "Mroczny Rycerz",
+   "tytuł_oryginalny": "The Dark Knight",
+   "reżyser": "Christopher Nolan",
+   "rok": "2008",
+   "kraj": "USA",
+   "gatunek": "Akcja",
+   "kategoria_wiekowa": "12+",
+   "opis": "Batman, Gordon i Harvey Dent walczą z Jokerem, który wprowadza chaos w Gotham. Film uznany za jeden z najlepszych filmów o superbohaterach."
+  },
+  {
+   "tytuł": "The Ruins",
+   "tytuł_oryginalny": "The Ruins",
+   "reżyser": "Carter Smith",
+   "rok": "2008",
+   "kraj": "USA",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "16+",
+   "opis": "Grupa turystów trafia na meksykańskie ruiny świątyni porośnięte tajemniczą roślinnością. Uwięzieni na szczycie, muszą walczyć z zagrożeniem i własnym strachem."
+  },
+  {
+   "tytuł": "Zapaśnik",
+   "tytuł_oryginalny": "The Wrestler",
+   "reżyser": "Darren Aronofsky",
+   "rok": "2008",
+   "kraj": "USA",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "Podstarzały zapaśnik próbuje wrócić na ring, mimo problemów zdrowotnych i samotności. Film z Mickeyem Rourke."
+  },
+  {
+   "tytuł": "Prorok",
+   "tytuł_oryginalny": "Un prophète",
+   "reżyser": "Jacques Audiard",
+   "rok": "2009",
+   "kraj": "Francja",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "18+",
+   "opis": "Młody Arab w więzieniu zostaje wciągnięty w korsykańską mafię i buduje własną pozycję. Film o awansie w przestępczym świecie."
+  },
+  {
+   "tytuł": "Poważny człowiek",
+   "tytuł_oryginalny": "A Serious Man",
+   "reżyser": "Joel Coen, Ethan Coen",
+   "rok": "2009",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "16+",
+   "opis": "Nauczyciel fizyki z Minnesoty szuka wyjaśnienia lawiny nieszczęść, które go spotykają. Czarna komedia o wierze."
+  },
+  {
+   "tytuł": "Koralina",
+   "tytuł_oryginalny": "Coraline",
+   "reżyser": "Henry Selick",
+   "rok": "2009",
+   "kraj": "USA",
+   "gatunek": "Animacja",
+   "kategoria_wiekowa": "6+",
+   "opis": "Dziewczynka odkrywa w nowym domu tajemnicze drzwi do równoległego świata, w którym wszystko wydaje się lepsze. Z czasem okazuje się, że ma on swoją cenę. Film poklatkowy na podstawie powieści Neila Gaimana."
+  },
+  {
+   "tytuł": "Dystrykt 9",
+   "tytuł_oryginalny": "District 9",
+   "reżyser": "Neill Blomkamp",
+   "rok": "2009",
+   "kraj": "RPA",
+   "gatunek": "Science fiction",
+   "kategoria_wiekowa": "16+",
+   "opis": "Nad Johannesburgiem zawisa statek kosmiczny, a przybysze zostają zamknięci w slumsach. Film stanowi alegorię apartheidu i uprzedzeń."
+  },
+  {
+   "tytuł": "Wejście w pustkę",
+   "tytuł_oryginalny": "Enter the Void",
+   "reżyser": "Gaspar Noé",
+   "rok": "2009",
+   "kraj": "Francja",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "18+",
+   "opis": "Młody dealer narkotyków ginie w Tokio, a jego dusza wędruje nad miastem, obserwując siostrę i przyjaciół. Film w całości nakręcono z perspektywy bohatera."
+  },
+  {
+   "tytuł": "L'Enfer d'Henri-Georges Clouzot",
+   "tytuł_oryginalny": "L'Enfer d'Henri-Georges Clouzot",
+   "reżyser": "Serge Bromberg, Ruxandra Medrea",
+   "rok": "2009",
+   "kraj": "Francja",
+   "gatunek": "Dokumentalny",
+   "kategoria_wiekowa": "12+",
+   "opis": "Dokument o niedokończonym filmie „Piekło” Henriego-Georges'a Clouzota z 1964 roku. Wykorzystuje zachowane próbne zdjęcia i wypowiedzi uczestników produkcji."
+  },
+  {
+   "tytuł": "Bękarty wojny",
+   "tytuł_oryginalny": "Inglourious Basterds",
+   "reżyser": "Quentin Tarantino",
+   "rok": "2009",
+   "kraj": "USA",
+   "gatunek": "Wojenny",
+   "kategoria_wiekowa": "18+",
+   "opis": "W okupowanej Francji grupa żydowskich żołnierzy planuje zamach na nazistowskich przywódców. Alternatywna historia II wojny."
+  },
+  {
+   "tytuł": "Moon",
+   "tytuł_oryginalny": "Moon",
+   "reżyser": "Duncan Jones",
+   "rok": "2009",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Science fiction",
+   "kategoria_wiekowa": "16+",
+   "opis": "Astronauta samotnie wydobywa hel-3 na Księżycu i pod koniec trzyletniego kontraktu odkrywa na stacji coś niespodziewanego. Jedynym towarzyszem jest mu komputer pokładowy GERTY."
+  },
+  {
+   "tytuł": "World's Greatest Dad",
+   "tytuł_oryginalny": "World's Greatest Dad",
+   "reżyser": "Bobcat Goldthwait",
+   "rok": "2009",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "16+",
+   "opis": "Nauczyciel i niespełniony pisarz zyskuje popularność po tragedii w swojej rodzinie. Czarna komedia o żałobie i fałszu."
+  },
+  {
+   "tytuł": "Czarny łabędź",
+   "tytuł_oryginalny": "Black Swan",
+   "reżyser": "Darren Aronofsky",
+   "rok": "2010",
+   "kraj": "USA",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "16+",
+   "opis": "Baletnica przygotowująca się do podwójnej roli w „Jeziorze łabędzim” popada w obłęd. Psychologiczny thriller."
+  },
+  {
+   "tytuł": "Four Lions",
+   "tytuł_oryginalny": "Four Lions",
+   "reżyser": "Christopher Morris",
+   "rok": "2010",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "16+",
+   "opis": "Czterech brytyjskich muzułmanów z Sheffield planuje zamach terrorystyczny, ale ich nieporadność utrudnia każdy krok. Satyra na radykalizm."
+  },
+  {
+   "tytuł": "Incepcja",
+   "tytuł_oryginalny": "Inception",
+   "reżyser": "Christopher Nolan",
+   "rok": "2010",
+   "kraj": "USA",
+   "gatunek": "Science fiction",
+   "kategoria_wiekowa": "12+",
+   "opis": "Złodziej, kradnący sekrety z ludzkich snów, dostaje zadanie zaszczepienia idei w umyśle szefa korporacji. Film o warstwach snu."
+  },
+  {
+   "tytuł": "Senna",
+   "tytuł_oryginalny": "Senna",
+   "reżyser": "Asif Kapadia",
+   "rok": "2010",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Dokumentalny",
+   "kategoria_wiekowa": "12+",
+   "opis": "Dokument o brazylijskim kierowcy Formuły 1 Ayrtonie Sennie, zmontowany z archiwalnych nagrań. Obejmuje jego karierę od debiutu do śmierci w 1994 roku."
+  },
+  {
+   "tytuł": "The Arbor",
+   "tytuł_oryginalny": "The Arbor",
+   "reżyser": "Clio Barnard",
+   "rok": "2010",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Dokumentalny",
+   "kategoria_wiekowa": "16+",
+   "opis": "Film o dramatopisarce Andrei Dunbar i jej rodzinie, w którym aktorzy synchronizują ruchy ust z nagranymi wywiadami. Opowiada o jej życiu i skutkach przedwczesnej śmierci."
+  },
+  {
+   "tytuł": "The Social Network",
+   "tytuł_oryginalny": "The Social Network",
+   "reżyser": "David Fincher",
+   "rok": "2010",
+   "kraj": "USA",
+   "gatunek": "Biograficzny",
+   "kategoria_wiekowa": "12+",
+   "opis": "Student Harvardu Mark Zuckerberg tworzy Facebooka, a znajomi pozywają go o kradzież pomysłu. Film według scenariusza Aarona Sorkina."
+  },
+  {
+   "tytuł": "Beyond the Black Rainbow",
+   "tytuł_oryginalny": "Beyond the Black Rainbow",
+   "reżyser": "Panos Cosmatos",
+   "rok": "2010",
+   "kraj": "Kanada",
+   "gatunek": "Science fiction",
+   "kategoria_wiekowa": "16+",
+   "opis": "Akcja toczy się w 1983 roku w tajemniczym ośrodku badawczym Arboria, gdzie więziona jest młoda kobieta o nadnaturalnych zdolnościach. Film utrzymany w estetyce retro science fiction."
+  },
+  {
+   "tytuł": "Dreams of a Life",
+   "tytuł_oryginalny": "Dreams of a Life",
+   "reżyser": "Carol Morley",
+   "rok": "2011",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Dokumentalny",
+   "kategoria_wiekowa": "12+",
+   "opis": "Dokument o Joyce Vincent, której zwłoki znaleziono w londyńskim mieszkaniu dopiero po trzech latach od śmierci. Reżyserka rekonstruuje jej życie na podstawie wywiadów i inscenizowanych scen."
+  },
+  {
+   "tytuł": "Kill Bill: Whole Bloody Affair",
+   "tytuł_oryginalny": "Kill Bill: The Whole Bloody Affair",
+   "reżyser": "Quentin Tarantino",
+   "rok": "2011",
+   "kraj": "USA",
+   "gatunek": "Akcja",
+   "kategoria_wiekowa": "18+",
+   "opis": "Połączona wersja obu części „Kill Bill”: zdradzona Panna Młoda mści się na dawnych towarzyszach, którzy próbowali ją zabić."
+  },
+  {
+   "tytuł": "Michael",
+   "tytuł_oryginalny": "Michael",
+   "reżyser": "Markus Schleinzer",
+   "rok": "2011",
+   "kraj": "Austria",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "18+",
+   "opis": "Dramat o pracowniku firmy ubezpieczeniowej, który przetrzymuje w piwnicy dziesięcioletniego chłopca. Film pokazuje codzienność ich relacji w oszczędnej formie."
+  },
+  {
+   "tytuł": "O północy w Paryżu",
+   "tytuł_oryginalny": "Midnight in Paris",
+   "reżyser": "Woody Allen",
+   "rok": "2011",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "12+",
+   "opis": "Amerykański scenarzysta podczas wizyty w Paryżu zostaje co noc przenoszony do lat dwudziestych XX wieku, gdzie spotyka m.in. Hemingwaya i Fitzgeralda."
+  },
+  {
+   "tytuł": "Miss Bala",
+   "tytuł_oryginalny": "Miss Bala",
+   "reżyser": "Gerardo Naranjo",
+   "rok": "2011",
+   "kraj": "Meksyk",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "16+",
+   "opis": "Młoda uczestniczka konkursu piękności w Tijuanie zostaje wciągnięta w działalność gangu narkotykowego. Film pokazuje jej bezradność wobec przemocy kartelu."
+  },
+  {
+   "tytuł": "Dom w głębi lasu",
+   "tytuł_oryginalny": "The Cabin in the Woods",
+   "reżyser": "Drew Goddard",
+   "rok": "2011",
+   "kraj": "USA",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "16+",
+   "opis": "Pięcioro studentów jedzie na weekend do leśnej chaty, gdzie przeżywają serię makabrycznych wydarzeń. Film miesza konwencje horroru z elementami komedii."
+  },
+  {
+   "tytuł": "The Raid",
+   "tytuł_oryginalny": "Serbuan maut",
+   "reżyser": "Gareth Evans",
+   "rok": "2011",
+   "kraj": "Indonezja",
+   "gatunek": "Akcja",
+   "kategoria_wiekowa": "18+",
+   "opis": "Oddział policji wkracza do wieżowca kontrolowanego przez bossa przestępczego i zostaje uwięziony. Film składa się głównie ze scen walk w sztukach walki silat."
+  },
+  {
+   "tytuł": "Skóra, w której żyję",
+   "tytuł_oryginalny": "La piel que habito",
+   "reżyser": "Pedro Almodóvar",
+   "rok": "2011",
+   "kraj": "Hiszpania",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "16+",
+   "opis": "Wybitny chirurg plastyczny przetrzymuje w domu tajemniczą kobietę, na której przeprowadza eksperymentalne zabiegi. Motywem jego działań jest osobista tragedia."
+  },
+  {
+   "tytuł": "Tyrannosaur",
+   "tytuł_oryginalny": "Tyrannosaur",
+   "reżyser": "Paddy Considine",
+   "rok": "2011",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "18+",
+   "opis": "Agresywny wdowiec z północnej Anglii poznaje kobietę pracującą w charytatywnym sklepie. Ich znajomość odsłania przemoc, jakiej każde z nich doświadcza."
+  },
+  {
+   "tytuł": "Django",
+   "tytuł_oryginalny": "Django Unchained",
+   "reżyser": "Quentin Tarantino",
+   "rok": "2012",
+   "kraj": "USA",
+   "gatunek": "Przygodowy",
+   "kategoria_wiekowa": "18+",
+   "opis": "Uwolniony niewolnik wraz z łowcą nagród próbuje uratować żonę z plantacji. Western Tarantino."
+  },
+  {
+   "tytuł": "Frances Ha",
+   "tytuł_oryginalny": "Frances Ha",
+   "reżyser": "Noah Baumbach",
+   "rok": "2012",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "12+",
+   "opis": "Nowojorska tancerka bez stałej pracy próbuje odnaleźć się po rozstaniu z najlepszą przyjaciółką. Czarno-biała komedia."
+  },
+  {
+   "tytuł": "Holy Motors",
+   "tytuł_oryginalny": "Holy Motors",
+   "reżyser": "Leos Carax",
+   "rok": "2012",
+   "kraj": "Francja",
+   "gatunek": "Fantasy",
+   "kategoria_wiekowa": "18+",
+   "opis": "Przez jeden dzień człowiek jeździ limuzyną po Paryżu i wciela się w kolejne role. Surrealistyczny film o aktorstwie."
+  },
+  {
+   "tytuł": "Looper – Pętla czasu",
+   "tytuł_oryginalny": "Looper",
+   "reżyser": "Rian Johnson",
+   "rok": "2012",
+   "kraj": "USA",
+   "gatunek": "Science fiction",
+   "kategoria_wiekowa": "16+",
+   "opis": "W niedalekiej przyszłości płatni zabójcy likwidują ofiary przysyłane z jeszcze dalszej przyszłości. Jeden z nich musi zabić własne starsze wcielenie."
+  },
+  {
+   "tytuł": "Kochankowie z Księżyca",
+   "tytuł_oryginalny": "Moonrise Kingdom",
+   "reżyser": "Wes Anderson",
+   "rok": "2012",
+   "kraj": "USA",
+   "gatunek": "Romans",
+   "kategoria_wiekowa": "12+",
+   "opis": "Dwoje dwunastolatków ucieka razem z obozu, a cała wyspa rusza na poszukiwania. Komedia romantyczna Wesa Andersona."
+  },
+  {
+   "tytuł": "Skyfall",
+   "tytuł_oryginalny": "Skyfall",
+   "reżyser": "Sam Mendes",
+   "rok": "2012",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Akcja",
+   "kategoria_wiekowa": "12+",
+   "opis": "Po nieudanej misji James Bond wraca do służby, gdy ktoś atakuje MI6 i zagraża życiu M. Ślady prowadzą do przeszłości agencji."
+  },
+  {
+   "tytuł": "Polowanie",
+   "tytuł_oryginalny": "Jagten",
+   "reżyser": "Thomas Vinterberg",
+   "rok": "2012",
+   "kraj": "Dania",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "Nauczyciel przedszkolny zostaje fałszywie oskarżony o molestowanie, a miasteczko się od niego odwraca. Dramat o histerii."
+  },
+  {
+   "tytuł": "Ona",
+   "tytuł_oryginalny": "Her",
+   "reżyser": "Spike Jonze",
+   "rok": "2013",
+   "kraj": "USA",
+   "gatunek": "Romans",
+   "kategoria_wiekowa": "16+",
+   "opis": "Samotny pisarz zakochuje się w inteligentnym systemie operacyjnym. Film o relacjach w erze technologii."
+  },
+  {
+   "tytuł": "Ida",
+   "tytuł_oryginalny": "Ida",
+   "reżyser": "Paweł Pawlikowski",
+   "rok": "2013",
+   "kraj": "Polska",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Młoda nowicjuszka w PRL-u odkrywa tajemnicę swojej żydowskiej rodziny. Film zdobył Oscara."
+  },
+  {
+   "tytuł": "Grawitacja",
+   "tytuł_oryginalny": "Gravity",
+   "reżyser": "Alfonso Cuarón",
+   "rok": "2013",
+   "kraj": "USA",
+   "gatunek": "Science fiction",
+   "kategoria_wiekowa": "12+",
+   "opis": "Po zniszczeniu promu kosmicznego astronautka dr Ryan Stone walczy o powrót na Ziemię. Film jest studium samotności i woli przetrwania."
+  },
+  {
+   "tytuł": "Tylko kochankowie przeżyją",
+   "tytuł_oryginalny": "Only Lovers Left Alive",
+   "reżyser": "Jim Jarmusch",
+   "rok": "2013",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "16+",
+   "opis": "Dwoje wampirów-kochanków, zmęczonych współczesnym światem, spotyka się w Detroit. Melancholijny film Jarmuscha."
+  },
+  {
+   "tytuł": "Snowpiercer: Arka przyszłości",
+   "tytuł_oryginalny": "Snowpiercer",
+   "reżyser": "Bong Joon-ho",
+   "rok": "2013",
+   "kraj": "Korea Południowa",
+   "gatunek": "Science fiction",
+   "kategoria_wiekowa": "16+",
+   "opis": "Po katastrofie klimatycznej ostatni ludzie podróżują pociągiem, w którym o miejscu decyduje klasa. Mieszkańcy ostatnich wagonów wszczynają bunt."
+  },
+  {
+   "tytuł": "Wilk z Wall Street",
+   "tytuł_oryginalny": "The Wolf of Wall Street",
+   "reżyser": "Martin Scorsese",
+   "rok": "2013",
+   "kraj": "USA",
+   "gatunek": "Biograficzny",
+   "kategoria_wiekowa": "18+",
+   "opis": "Makler giełdowy Jordan Belfort buduje fortunę na oszustwach i przeżywa upadek. Film oparty na wspomnieniach."
+  },
+  {
+   "tytuł": "Pod skórą",
+   "tytuł_oryginalny": "Under the Skin",
+   "reżyser": "Jonathan Glazer",
+   "rok": "2013",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Science fiction",
+   "kategoria_wiekowa": "18+",
+   "opis": "Kosmitka w kobiecej skórze uwodzi mężczyzn w Szkocji i zaczyna odkrywać swoją tożsamość. Film science fiction."
+  },
+  {
+   "tytuł": "Gołąb przysiadł na gałęzi i rozmyśla o istnieniu",
+   "tytuł_oryginalny": "En duva satt på en gren och funderade på tillvaron",
+   "reżyser": "Roy Andersson",
+   "rok": "2014",
+   "kraj": "Szwecja",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "12+",
+   "opis": "Seria ujęć ze stałego kadru, w których dwóch komiwojażerów sprzedających gadżety spotyka różnych ludzi. Film tragikomicznie ukazuje ludzką kondycję."
+  },
+  {
+   "tytuł": "Birdman",
+   "tytuł_oryginalny": "Birdman or (The Unexpected Virtue of Ignorance)",
+   "reżyser": "Alejandro González Iñárritu",
+   "rok": "2014",
+   "kraj": "USA",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "Aktor znany z roli superbohatera próbuje odbudować karierę, wystawiając sztukę na Broadwayu. Film sprawia wrażenie nakręconego w jednym ujęciu."
+  },
+  {
+   "tytuł": "Boyhood",
+   "tytuł_oryginalny": "Boyhood",
+   "reżyser": "Richard Linklater",
+   "rok": "2014",
+   "kraj": "USA",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Film, kręcony przez dwanaście lat z tymi samymi aktorami, śledzi dorastanie Masona od dzieciństwa do początku studiów. Nolan wybrał go w Criterion Closet."
+  },
+  {
+   "tytuł": "Ex Machina",
+   "tytuł_oryginalny": "Ex Machina",
+   "reżyser": "Alex Garland",
+   "rok": "2014",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Science fiction",
+   "kategoria_wiekowa": "16+",
+   "opis": "Młody programista zostaje zaproszony do odosobnionej posiadłości prezesa firmy, by sprawdzić, czy stworzona tam robotka ma świadomość."
+  },
+  {
+   "tytuł": "Interstellar",
+   "tytuł_oryginalny": "Interstellar",
+   "reżyser": "Christopher Nolan",
+   "rok": "2014",
+   "kraj": "USA",
+   "gatunek": "Science fiction",
+   "kategoria_wiekowa": "12+",
+   "opis": "Gdy Ziemia umiera, grupa astronautów wyrusza przez tunel czasoprzestrzenny w poszukiwaniu nowego domu dla ludzkości. Film Nolana."
+  },
+  {
+   "tytuł": "It Follows",
+   "tytuł_oryginalny": "It Follows",
+   "reżyser": "David Robert Mitchell",
+   "rok": "2014",
+   "kraj": "USA",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "16+",
+   "opis": "Młoda kobieta po stosunku zostaje obciążona klątwą: ścigać ją będzie istota przybierająca ludzką postać. Można ją tylko przekazać dalej."
+  },
+  {
+   "tytuł": "Nightcrawler",
+   "tytuł_oryginalny": "Nightcrawler",
+   "reżyser": "Dan Gilroy",
+   "rok": "2014",
+   "kraj": "USA",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "16+",
+   "opis": "Bezrobotny Louis Bloom zaczyna filmować wypadki i zbrodnie, a nagrania sprzedaje telewizji. Z każdym zleceniem przekracza kolejne granice."
+  },
+  {
+   "tytuł": "The Duke of Burgundy",
+   "tytuł_oryginalny": "The Duke of Burgundy",
+   "reżyser": "Peter Strickland",
+   "rok": "2014",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "18+",
+   "opis": "Dwie kobiety, entomolożki, pozostają w związku opartym na rytuałach dominacji i uległości. Z czasem rośnie w nich napięcie."
+  },
+  {
+   "tytuł": "Grand Budapest Hotel",
+   "tytuł_oryginalny": "The Grand Budapest Hotel",
+   "reżyser": "Wes Anderson",
+   "rok": "2014",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "12+",
+   "opis": "Concierge luksusowego hotelu w fikcyjnym kraju i jego lobby boy wplątują się w kradzież obrazu i międzywojenne intrygi. Komedia Wesa Andersona."
+  },
+  {
+   "tytuł": "Co robimy w ukryciu",
+   "tytuł_oryginalny": "What We Do in the Shadows",
+   "reżyser": "Taika Waititi, Jemaine Clement",
+   "rok": "2014",
+   "kraj": "Nowa Zelandia",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "16+",
+   "opis": "Dokumentalna konwencja ukazuje życie czterech wampirów mieszkających razem w Wellington. Komedia o ich codziennych kłopotach."
+  },
+  {
+   "tytuł": "Whiplash",
+   "tytuł_oryginalny": "Whiplash",
+   "reżyser": "Damien Chazelle",
+   "rok": "2014",
+   "kraj": "USA",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "Młody perkusista jazzowy trafia pod skrzydła bezlitosnego nauczyciela, który niszczy granice jego wytrzymałości. Film z J. K. Simmonsem."
+  },
+  {
+   "tytuł": "Dzikie historie",
+   "tytuł_oryginalny": "Relatos salvajes",
+   "reżyser": "Damián Szifrón",
+   "rok": "2014",
+   "kraj": "Argentyna",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "16+",
+   "opis": "Sześć niezależnych nowel o zwykłych ludziach, których frustracja prowadzi do wybuchu agresji i zemsty. Czarna komedia."
+  },
+  {
+   "tytuł": "45 lat",
+   "tytuł_oryginalny": "45 Years",
+   "reżyser": "Andrew Haigh",
+   "rok": "2015",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Na tydzień przed czterdziestą piątą rocznicą ślubu mężczyzna dostaje wiadomość o odnalezieniu ciała dawnej ukochanej. Film o tajemnicach w małżeństwie."
+  },
+  {
+   "tytuł": "Anomalisa",
+   "tytuł_oryginalny": "Anomalisa",
+   "reżyser": "Charlie Kaufman, Duke Johnson",
+   "rok": "2015",
+   "kraj": "USA",
+   "gatunek": "Animacja",
+   "kategoria_wiekowa": "16+",
+   "opis": "Autor poradników obsługi klienta w hotelu w Cincinnati odkrywa kobietę o wyjątkowym głosie. Animacja poklatkowa dla dorosłych."
+  },
+  {
+   "tytuł": "Mad Max: Na drodze gniewu",
+   "tytuł_oryginalny": "Mad Max: Fury Road",
+   "reżyser": "George Miller",
+   "rok": "2015",
+   "kraj": "Australia",
+   "gatunek": "Akcja",
+   "kategoria_wiekowa": "16+",
+   "opis": "W postapokaliptycznej pustyni Furiosa ucieka z żonami tyrana, a Max pomaga jej w pościgu. Film akcji z niemal ciągłym pościgiem."
+  },
+  {
+   "tytuł": "Lobster",
+   "tytuł_oryginalny": "The Lobster",
+   "reżyser": "Yorgos Lanthimos",
+   "rok": "2015",
+   "kraj": "Irlandia",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "W dystopijnym świecie samotni ludzie muszą w ciągu 45 dni znaleźć partnera, inaczej zostaną zamienieni w zwierzęta. Główny bohater ucieka do lasu."
+  },
+  {
+   "tytuł": "The Witch",
+   "tytuł_oryginalny": "The Witch",
+   "reżyser": "Robert Eggers",
+   "rok": "2015",
+   "kraj": "USA",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "16+",
+   "opis": "W XVII-wiecznej Nowej Anglii rodzina purytan zostaje wygnana ze wspólnoty i osiedla się na skraju lasu. Wkrótce zaczynają ją dotykać niepokojące zdarzenia."
+  },
+  {
+   "tytuł": "Victoria",
+   "tytuł_oryginalny": "Victoria",
+   "reżyser": "Sebastian Schipper",
+   "rok": "2015",
+   "kraj": "Niemcy",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "16+",
+   "opis": "Młoda Hiszpanka poznaje w berlińskim klubie czterech mężczyzn i dołącza do nich na nocną eskapadę. Film nakręcono w jednym ujęciu."
+  },
+  {
+   "tytuł": "Nowy początek",
+   "tytuł_oryginalny": "Arrival",
+   "reżyser": "Denis Villeneuve",
+   "rok": "2016",
+   "kraj": "USA",
+   "gatunek": "Science fiction",
+   "kategoria_wiekowa": "12+",
+   "opis": "Lingwistka dostaje zadanie nawiązania kontaktu z kosmitami, którzy lądują w kilku miejscach na świecie. Film mówi o komunikacji, czasie i stracie."
+  },
+  {
+   "tytuł": "Aż do piekła",
+   "tytuł_oryginalny": "Hell or High Water",
+   "reżyser": "David Mackenzie",
+   "rok": "2016",
+   "kraj": "USA",
+   "gatunek": "Kryminał",
+   "kategoria_wiekowa": "16+",
+   "opis": "Dwaj bracia napadają na banki w Teksasie, a ścigają ich dwaj stróże prawa. Współczesny western."
+  },
+  {
+   "tytuł": "Paterson",
+   "tytuł_oryginalny": "Paterson",
+   "reżyser": "Jim Jarmusch",
+   "rok": "2016",
+   "kraj": "USA",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Kierowca autobusu o imieniu Paterson pisze wiersze i przez tydzień spokojnie realizuje swoje codzienne rytuały."
+  },
+  {
+   "tytuł": "Popstar: Never Stop Never Stopping",
+   "tytuł_oryginalny": "Popstar: Never Stop Never Stopping",
+   "reżyser": "Akiva Schaffer, Jorma Taccone",
+   "rok": "2016",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "16+",
+   "opis": "Pseudodokument o gwieździe pop Conneyu4Real, który po solowym albumie szybko traci popularność. Parodia branży muzycznej."
+  },
+  {
+   "tytuł": "Grave",
+   "tytuł_oryginalny": "Grave",
+   "reżyser": "Julia Ducournau",
+   "rok": "2016",
+   "kraj": "Francja",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "18+",
+   "opis": "Młoda wegetarianka rozpoczyna studia weterynaryjne i po inicjacyjnym rytuale odkrywa w sobie głód mięsa. Film łączy horror z opowieścią o dorastaniu."
+  },
+  {
+   "tytuł": "The Autopsy of Jane Doe",
+   "tytuł_oryginalny": "The Autopsy of Jane Doe",
+   "reżyser": "André Øvredal",
+   "rok": "2016",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "16+",
+   "opis": "Ojciec i syn, patolodzy, badają ciało nieznanej kobiety znalezione na miejscu zbrodni. W trakcie nocnej sekcji dzieją się niewyjaśnione rzeczy."
+  },
+  {
+   "tytuł": "Służąca",
+   "tytuł_oryginalny": "Agassi",
+   "reżyser": "Park Chan-wook",
+   "rok": "2016",
+   "kraj": "Korea Południowa",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "18+",
+   "opis": "Koreańska złodziejka zatrudnia się jako służąca u japońskiej dziedziczki, by pomóc oszustowi w przejęciu jej majątku. Relacje między postaciami szybko się komplikują."
+  },
+  {
+   "tytuł": "Pociąg do Busan",
+   "tytuł_oryginalny": "Busanhaeng",
+   "reżyser": "Yeon Sang-ho",
+   "rok": "2016",
+   "kraj": "Korea Południowa",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "16+",
+   "opis": "Podczas epidemii zombie pasażerowie pociągu z Seulu do Busan próbują przetrwać. Wśród nich jest ojciec z córką."
+  },
+  {
+   "tytuł": "Beast",
+   "tytuł_oryginalny": "Beast",
+   "reżyser": "Michael Pearce",
+   "rok": "2017",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "16+",
+   "opis": "Młoda mieszkanka wyspy Jersey zakochuje się w tajemniczym mężczyźnie, którego policja podejrzewa o serię morderstw."
+  },
+  {
+   "tytuł": "Dunkierka",
+   "tytuł_oryginalny": "Dunkirk",
+   "reżyser": "Christopher Nolan",
+   "rok": "2017",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Wojenny",
+   "kategoria_wiekowa": "12+",
+   "opis": "Film opowiada o ewakuacji wojsk alianckich z plaż Dunkierki w 1940 roku z trzech perspektyw: lądu, morza i powietrza. Nolan buduje napięcie przez zderzenie trzech linii czasowych."
+  },
+  {
+   "tytuł": "Twarze, plaże",
+   "tytuł_oryginalny": "Visages Villages",
+   "reżyser": "Agnès Varda, JR",
+   "rok": "2017",
+   "kraj": "Francja",
+   "gatunek": "Dokumentalny",
+   "kategoria_wiekowa": "6+",
+   "opis": "Varda i fotograf JR podróżują po Francji i tworzą gigantyczne portrety mieszkańców. Dokument o sztuce i przyjaźni."
+  },
+  {
+   "tytuł": "Uciekaj!",
+   "tytuł_oryginalny": "Get Out",
+   "reżyser": "Jordan Peele",
+   "rok": "2017",
+   "kraj": "USA",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "16+",
+   "opis": "Czarnoskóry fotograf odwiedza rodziców białej dziewczyny i odkrywa mroczną tajemnicę ich rodziny. Horror społeczny nagrodzony Oscarem za scenariusz."
+  },
+  {
+   "tytuł": "Kształt wody",
+   "tytuł_oryginalny": "The Shape of Water",
+   "reżyser": "Guillermo del Toro",
+   "rok": "2017",
+   "kraj": "USA",
+   "gatunek": "Fantasy",
+   "kategoria_wiekowa": "16+",
+   "opis": "Niema sprzątaczka w tajnym laboratorium z czasów zimnej wojny zaprzyjaźnia się z uwięzionym płazopodobnym stworzeniem i próbuje je uwolnić."
+  },
+  {
+   "tytuł": "Spalone",
+   "tytuł_oryginalny": "Beoning",
+   "reżyser": "Lee Chang-dong",
+   "rok": "2018",
+   "kraj": "Korea Południowa",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "16+",
+   "opis": "Młody mężczyzna podejrzewa, że bogaty znajomy dziewczyny, którą kocha, ma związek z jej zniknięciem. Film według opowiadania Murakamiego."
+  },
+  {
+   "tytuł": "Zimna wojna",
+   "tytuł_oryginalny": "Zimna wojna",
+   "reżyser": "Paweł Pawlikowski",
+   "rok": "2018",
+   "kraj": "Polska",
+   "gatunek": "Romans",
+   "kategoria_wiekowa": "12+",
+   "opis": "Burzliwa miłość pianisty i śpiewaczki rozgrywa się w latach 1949–1964 w Polsce, Berlinie, Jugosławii i Paryżu. Film czarno-biały."
+  },
+  {
+   "tytuł": "Ósma klasa",
+   "tytuł_oryginalny": "Eighth Grade",
+   "reżyser": "Bo Burnham",
+   "rok": "2018",
+   "kraj": "USA",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "12+",
+   "opis": "Trzynastoletnia Kayla w ostatnim tygodniu szkoły próbuje zaprzyjaźnić się z rówieśnikami i radzić sobie z mediami społecznościowymi. Komedia o dorastaniu."
+  },
+  {
+   "tytuł": "Dziedzictwo. Hereditary",
+   "tytuł_oryginalny": "Hereditary",
+   "reżyser": "Ari Aster",
+   "rok": "2018",
+   "kraj": "USA",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "18+",
+   "opis": "Po śmierci matki rodzina Grahamów zaczyna doświadczać coraz bardziej niepokojących zdarzeń. Film odsłania mroczne tajemnice rodzinne."
+  },
+  {
+   "tytuł": "Mandy",
+   "tytuł_oryginalny": "Mandy",
+   "reżyser": "Panos Cosmatos",
+   "rok": "2018",
+   "kraj": "USA",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "18+",
+   "opis": "W latach 80. leśnik Red Miller mści się na członkach sekty, która porwała i zabiła jego ukochaną Mandy."
+  },
+  {
+   "tytuł": "Mission: Impossible – Fallout",
+   "tytuł_oryginalny": "Mission: Impossible – Fallout",
+   "reżyser": "Christopher McQuarrie",
+   "rok": "2018",
+   "kraj": "USA",
+   "gatunek": "Akcja",
+   "kategoria_wiekowa": "12+",
+   "opis": "Ethan Hunt musi zapobiec atakowi nuklearnemu, a jego zespół staje wobec zdrady. Szósta część serii."
+  },
+  {
+   "tytuł": "They Shall Not Grow Old",
+   "tytuł_oryginalny": "They Shall Not Grow Old",
+   "reżyser": "Peter Jackson",
+   "rok": "2018",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Dokumentalny",
+   "kategoria_wiekowa": "12+",
+   "opis": "Archiwalne nagrania z I wojny światowej zostają odnowione i pokolorowane, a głosy weteranów opowiadają o frontowym życiu. Dokument."
+  },
+  {
+   "tytuł": "1917",
+   "tytuł_oryginalny": "1917",
+   "reżyser": "Sam Mendes",
+   "rok": "2019",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Wojenny",
+   "kategoria_wiekowa": "12+",
+   "opis": "Dwaj brytyjscy kaprale niosą w 1917 roku rozkaz wstrzymania ataku. Film zrealizowano w konwencji jednego ciągłego ujęcia."
+  },
+  {
+   "tytuł": "Pewnego razu... w Hollywood",
+   "tytuł_oryginalny": "Once Upon a Time... in Hollywood",
+   "reżyser": "Quentin Tarantino",
+   "rok": "2019",
+   "kraj": "USA",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "W 1969 roku podstarzały aktor westernowy i jego dubler próbują odnaleźć się w zmieniającym się Hollywood. Film z Leonardem DiCaprio i Bradem Pittem."
+  },
+  {
+   "tytuł": "Parasite",
+   "tytuł_oryginalny": "Gisaengchung",
+   "reżyser": "Bong Joon-ho",
+   "rok": "2019",
+   "kraj": "Korea Południowa",
+   "gatunek": "Thriller",
+   "kategoria_wiekowa": "16+",
+   "opis": "Biedna rodzina Kimów podstępnie zatrudnia się w domu bogatych Parków, co prowadzi do dramatycznych zdarzeń. Film zdobył Oscara dla najlepszego filmu."
+  },
+  {
+   "tytuł": "Saint Maud",
+   "tytuł_oryginalny": "Saint Maud",
+   "reżyser": "Rose Glass",
+   "rok": "2019",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Horror",
+   "kategoria_wiekowa": "16+",
+   "opis": "Młoda pielęgniarka paliatywna, religijna konwertytka, opiekuje się umierającą tancerką i zaczyna wierzyć, że ma duchową misję."
+  },
+  {
+   "tytuł": "Jeźdźcy sprawiedliwości",
+   "tytuł_oryginalny": "Retfærdighedens ryttere",
+   "reżyser": "Anders Thomas Jensen",
+   "rok": "2020",
+   "kraj": "Dania",
+   "gatunek": "Komedia",
+   "kategoria_wiekowa": "16+",
+   "opis": "Wojskowy wraca do domu po śmierci żony w katastrofie kolejowej. Wraz z grupą dziwaków próbuje ustalić, czy był to wypadek."
+  },
+  {
+   "tytuł": "Najgorszy człowiek na świecie",
+   "tytuł_oryginalny": "Verdens verste menneske",
+   "reżyser": "Joachim Trier",
+   "rok": "2021",
+   "kraj": "Norwegia",
+   "gatunek": "Romans",
+   "kategoria_wiekowa": "16+",
+   "opis": "Młoda kobieta w Oslo zmienia kierunek studiów i partnerów, próbując odnaleźć siebie. Komediodramat o dorosłości."
+  },
+  {
+   "tytuł": "Wszystko wszędzie naraz",
+   "tytuł_oryginalny": "Everything Everywhere All at Once",
+   "reżyser": "Daniel Kwan, Daniel Scheinert",
+   "rok": "2022",
+   "kraj": "USA",
+   "gatunek": "Science fiction",
+   "kategoria_wiekowa": "16+",
+   "opis": "Właścicielka pralni samoobsługowej odkrywa, że musi ratować multiwersum, przenosząc się między swoimi alternatywnymi życiami. Film zdobył Oscara."
+  },
+  {
+   "tytuł": "All of Us Strangers",
+   "tytuł_oryginalny": "All of Us Strangers",
+   "reżyser": "Andrew Haigh",
+   "rok": "2023",
+   "kraj": "Wielka Brytania",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "16+",
+   "opis": "Samotny scenarzysta z Londynu wraca do domu rodzinnego i spotyka tam rodziców, którzy zmarli w jego dzieciństwie."
+  },
+  {
+   "tytuł": "Opadłe liście",
+   "tytuł_oryginalny": "Kuolleet lehdet",
+   "reżyser": "Aki Kaurismäki",
+   "rok": "2023",
+   "kraj": "Finlandia",
+   "gatunek": "Romans",
+   "kategoria_wiekowa": "12+",
+   "opis": "Dwoje samotnych ludzi z Helsinek spotyka się przypadkiem, ale ich zbliżeniu stają na drodze drobne przeszkody."
+  },
+  {
+   "tytuł": "Perfect Days",
+   "tytuł_oryginalny": "Perfect Days",
+   "reżyser": "Wim Wenders",
+   "rok": "2023",
+   "kraj": "Japonia",
+   "gatunek": "Dramat",
+   "kategoria_wiekowa": "12+",
+   "opis": "Hirayama, pracownik toalet publicznych w Tokio, wiedzie uporządkowane życie wypełnione muzyką, książkami i fotografią."
+  }
+ ]
+}
