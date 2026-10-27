@@ -1,4 +1,4 @@
-# nobestseller.com
+# nobestseller.com v1.0
 
 Katalog książek i filmów z list polecanych i kanonicznych (np. Le Monde, Rzeczpospolita, Scorsese, Kubrick, Nolan, lista watykańska). Treść i interfejs są po polsku.
 
