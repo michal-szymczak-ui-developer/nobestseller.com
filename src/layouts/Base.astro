@@ -16,16 +16,6 @@ const full = title ? `${title} · nobestseller.com` : 'nobestseller.com – reko
     <title>{full}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site)} />
-    <script is:inline>
-      // Motyw ustawiany przed renderem, żeby uniknąć błysku: zapisany wybór albo ustawienie systemu
-      (function () {
-        try {
-          var t = localStorage.getItem('theme');
-          if (t !== 'dark' && t !== 'light') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
-          document.documentElement.dataset.theme = t;
-        } catch (e) { document.documentElement.dataset.theme = 'light'; }
-      })();
-    </script>
   </head>
   <body>
     <slot />
@@ -51,14 +41,16 @@ const full = title ? `${title} · nobestseller.com` : 'nobestseller.com – reko
 </script>
 <style is:global>
   :root {
-    color-scheme: light;
+    color-scheme: light dark;
     --bg: #fff; --ink: #111; --ink-mid: #555; --ink-faint: #777;
     --rule: #e2e2e2; --rule-strong: #c8c8c8; --hover: #fafafa;
   }
-  :root[data-theme='dark'] {
-    color-scheme: dark;
-    --bg: #111; --ink: #f2f2f2; --ink-mid: #b0b0b0; --ink-faint: #8a8a8a;
-    --rule: #2a2a2a; --rule-strong: #444; --hover: #181818;
+  /* motyw zgodny z ustawieniem systemu */
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #111; --ink: #f2f2f2; --ink-mid: #b0b0b0; --ink-faint: #8a8a8a;
+      --rule: #2a2a2a; --rule-strong: #444; --hover: #181818;
+    }
   }
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
   body {
