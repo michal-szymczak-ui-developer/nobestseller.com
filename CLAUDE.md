@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project
 
-nobestseller.com — statyczna strona (Astro 5, `output: 'static'`, TypeScript strict) z katalogiem książek i filmów z list polecanych/kanonicznych. Treść i UI są po polsku. Wdrażana na GitHub Pages (`public/CNAME`).
+nobestseller.com — statyczna strona (Astro 5, `output: 'static'`, TypeScript strict) z katalogiem książek i filmów z list polecanych/kanonicznych. Treść i UI są po polsku. Wdrażana przez FTP na hosting (`.github/workflows/deploy-ftp.yml`).
 
 ## Commands
 
@@ -13,7 +13,7 @@ nobestseller.com — statyczna strona (Astro 5, `output: 'static'`, TypeScript s
 - `npm run preview` — podgląd buildu
 - `npm run check` — walidacja plików `data/**/*.json` (`scripts/validate.mjs`); zwraca exit 1 przy błędach
 
-Brak testów i lintera. CI (`.github/workflows/deploy.yml`, push na `main`) uruchamia `npm ci` → `npm run check` → `npm run build` → deploy na Pages (Node 20), więc błąd walidacji danych blokuje wdrożenie.
+Brak testów i lintera. CI (`.github/workflows/deploy-ftp.yml`, push na `main`) uruchamia `npm ci` → `npm run check` → `npm run build` → wysyłka `dist/` przez FTP (Node 20; sekrety `FTP_SERVER`, `FTP_USERNAME`, `FTP_PASSWORD`, zmienne `FTP_PROTOCOL`, `FTP_SERVER_DIR`), więc błąd walidacji danych blokuje wdrożenie.
 
 ## Architecture
 
