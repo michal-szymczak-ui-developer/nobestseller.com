@@ -335,7 +335,7 @@ const dataJson = payloadJson(items);
   import { rowHtml, searchText, type DataPayload, type RowItem } from '../lib/row';
 
   type Kind = 'books' | 'movies';
-  const PAGE = 100; // tyle kart doładowuje się naraz (leniwe ładowanie)
+  const PAGE = 50; // tyle kart doładowuje się naraz (leniwe ładowanie)
   const GROUPS = ['list', 'genre', 'era', 'age'] as const;
   const URL_KIND: Record<Kind, string> = { books: 'ksiazki', movies: 'filmy' };
   const KIND_TITLE: Record<Kind, string> = { books: 'Rekomendowane książki', movies: 'Rekomendowane filmy' };
